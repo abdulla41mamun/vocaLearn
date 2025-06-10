@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.screen {
+    display: none;
+    text-align: center;
+    padding: 20px;
+}
+
+#group-selection-screen {
+    display: block;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#options button {
+    margin: 10px;
+}
+
+#feedback {
+    margin-top: 20px;
+}
+
+#progress {
+    margin-top: 20px;
+}

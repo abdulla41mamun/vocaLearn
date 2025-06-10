@@ -1,0 +1,545 @@
+{
+    "id": "group1",
+    "words": [
+        {
+            "id": "g1w1",
+            "word": "abashed",
+            "meaning": "Feeling or caused to feel embarrassed, disconcerted, or ashamed.",
+            "examples": [
+                "He was clearly abashed by the praise.",
+                "She felt abashed at her own cowardice."
+            ]
+        },
+        {
+            "id": "g1w2",
+            "word": "abate",
+            "meaning": "To become less intense or widespread.",
+            "examples": [
+                "The storm suddenly abated.",
+                "We waited for the wind to abate before we set sail."
+            ]
+        },
+        {
+            "id": "g1w3",
+            "word": "abdicate",
+            "meaning": "To renounce one's throne, right, power, claim, responsibility, or the like, especially in a formal manner.",
+            "examples": [
+                "The king was forced to abdicate.",
+                "She abdicated all responsibility for the project."
+            ]
+        },
+        {
+            "id": "g1w4",
+            "word": "aberrant",
+            "meaning": "Departing from an accepted standard.",
+            "examples": [
+                "This aberrant behavior is not typical for him.",
+                "The aberrant cells can lead to cancer."
+            ]
+        },
+        {
+            "id": "g1w5",
+            "word": "aberration",
+            "meaning": "A departure from what is normal, usual, or expected, typically one that is unwelcome.",
+            "examples": [
+                "They described the outbreak of violence as an aberration.",
+                "She is normally calm and level-headed, so this outburst is an aberration."
+            ]
+        },
+        {
+            "id": "g1w6",
+            "word": "abet",
+            "meaning": "To encourage or assist someone to do something wrong, in particular, to commit a crime.",
+            "examples": [
+                "He was abetted in the deception by his wife.",
+                "To abet a crime is a crime itself."
+            ]
+        },
+        {
+            "id": "g1w7",
+            "word": "abeyance",
+            "meaning": "A state of temporary disuse or suspension.",
+            "examples": [
+                "The project is being held in abeyance until agreement is reached on funding.",
+                "Matters were held in abeyance pending the outcome of the lawsuit."
+            ]
+        },
+        {
+            "id": "g1w8",
+            "word": "abhor",
+            "meaning": "To regard with disgust and hatred.",
+            "examples": [
+                "I abhor all forms of racism.",
+                "She abhors violence."
+            ]
+        },
+        {
+            "id": "g1w9",
+            "word": "abhors",
+            "meaning": "Third-person singular simple present indicative form of abhor.",
+            "examples": [
+                "He abhors any type of cruelty.",
+                "Nature abhors a vacuum."
+            ]
+        },
+        {
+            "id": "g1w10",
+            "word": "abide",
+            "meaning": "To accept or act in accordance with (a rule, decision, or recommendation).",
+            "examples": [
+                "I will abide by their decision.",
+                "You must abide by the rules of the game."
+            ]
+        },
+        {
+            "id": "g1w11",
+            "word": "abject",
+            "meaning": "(of something bad) experienced or present to the maximum degree; or (of a person or their behavior) completely without pride or dignity; self-abasing.",
+            "examples": [
+                "They live in abject poverty.",
+                "He offered an abject apology."
+            ]
+        },
+        {
+            "id": "g1w12",
+            "word": "abjure",
+            "meaning": "To solemnly renounce (a belief, cause, or claim).",
+            "examples": [
+                "He abjured his religion.",
+                "The defendant abjured his former life of crime."
+            ]
+        },
+        {
+            "id": "g1w13",
+            "word": "abomination",
+            "meaning": "A thing that causes disgust or hatred.",
+            "examples": [
+                "This new building is an abomination.",
+                "Cruelty to animals is an abomination."
+            ]
+        },
+        {
+            "id": "g1w14",
+            "word": "aboriginal",
+            "meaning": "Inhabiting or existing in a land from the earliest times or from before the arrival of colonists; indigenous.",
+            "examples": [
+                "The aboriginal peoples of Australia have a rich culture.",
+                "They studied the aboriginal art of the region."
+            ]
+        },
+        {
+            "id": "g1w15",
+            "word": "abort",
+            "meaning": "To carry out or undergo the abortion of (a fetus). or To bring to a premature end because of a problem or fault.",
+            "examples": [
+                "The mission had to be aborted.",
+                "They decided to abort the launch."
+            ]
+        },
+        {
+            "id": "g1w16",
+            "word": "abortive",
+            "meaning": "Failing to produce the intended result.",
+            "examples": [
+                "The rebels made an abortive attempt to seize power.",
+                "It was an abortive attempt to reform the system."
+            ]
+        },
+        {
+            "id": "g1w17",
+            "word": "abound",
+            "meaning": "To exist in large numbers or amounts.",
+            "examples": [
+                "The rivers abound with fish.",
+                "Opportunities abound in this new field."
+            ]
+        },
+        {
+            "id": "g1w18",
+            "word": "aboveboard",
+            "meaning": "Legitimate, honest, and open.",
+            "examples": [
+                "All our dealings have been completely aboveboard.",
+                "We need to ensure that the process is fair and aboveboard."
+            ]
+        },
+        {
+            "id": "g1w19",
+            "word": "abrasive",
+            "meaning": "(of a substance or material) capable of polishing or cleaning a hard surface by rubbing or grinding. or (of a person or manner) showing little concern for the feelings of others; harsh.",
+            "examples": [
+                "She has a rather abrasive manner.",
+                "He can be very abrasive in meetings."
+            ]
+        },
+        {
+            "id": "g1w20",
+            "word": "abreast",
+            "meaning": "Side by side and facing the same way. or Up to date with the latest news, ideas, or information.",
+            "examples": [
+                "The two men walked abreast down the street.",
+                "It is important to keep abreast of the latest developments."
+            ]
+        },
+        {
+            "id": "g1w21",
+            "word": "abridge",
+            "meaning": "To shorten (a piece of writing) without losing the sense.",
+            "examples": [
+                "The book was abridged for children.",
+                "I have abridged the report."
+            ]
+        },
+        {
+            "id": "g1w22",
+            "word": "abrogate",
+            "meaning": "To repeal or do away with (a law, right, or formal agreement).",
+            "examples": [
+                "The treaty was abrogated in 1929.",
+                "A new law to abrogate the old one was passed."
+            ]
+        },
+        {
+            "id": "g1w23",
+            "word": "abscission",
+            "meaning": "The natural detachment of parts of a plant, typically dead leaves and ripe fruit.",
+            "examples": [
+                "The abscission of leaves in the fall is a natural process.",
+                "Hormones can trigger abscission."
+            ]
+        },
+        {
+            "id": "g1w24",
+            "word": "abscond",
+            "meaning": "To leave hurriedly and secretly, typically to avoid detection of or arrest for an unlawful action such as theft.",
+            "examples": [
+                "She absconded with the company's funds.",
+                "The suspect absconded before the police arrived."
+            ]
+        },
+        {
+            "id": "g1w25",
+            "word": "absolute",
+            "meaning": "Not qualified or diminished in any way; total.",
+            "examples": [
+                "He is an absolute monarch.",
+                "I have absolute confidence in her."
+            ]
+        },
+        {
+            "id": "g1w26",
+            "word": "absolve",
+            "meaning": "To set or declare (someone) free from blame, guilt, or responsibility.",
+            "examples": [
+                "The pardon absolved them of any crime.",
+                "She was absolved of all wrongdoing."
+            ]
+        },
+        {
+            "id": "g1w27",
+            "word": "abstain",
+            "meaning": "To restrain oneself from doing or enjoying something.",
+            "examples": [
+                "I am trying to abstain from sweets.",
+                "He abstained from voting."
+            ]
+        },
+        {
+            "id": "g1w28",
+            "word": "abstemious",
+            "meaning": "Not self-indulgent, especially when eating and drinking.",
+            "examples": [
+                "He is an abstemious man.",
+                "She is abstemious in her habits."
+            ]
+        },
+        {
+            "id": "g1w29",
+            "word": "abstinence",
+            "meaning": "The fact or practice of restraining oneself from indulging in something, typically alcohol.",
+            "examples": [
+                "He is a firm believer in abstinence.",
+                "Total abstinence from alcohol is the only way for him."
+            ]
+        },
+        {
+            "id": "g1w30",
+            "word": "abstract",
+            "meaning": "Existing in thought or as an idea but not having a physical or concrete existence.",
+            "examples": [
+                "Abstract concepts such as love and hatred are difficult to define.",
+                "She is an expert in abstract art."
+            ]
+        },
+        {
+            "id": "g1w31",
+            "word": "abstruse",
+            "meaning": "Difficult to understand; obscure.",
+            "examples": [
+                "The professor's lectures were abstruse and hard to follow.",
+                "He had a taste for abstruse literature."
+            ]
+        },
+        {
+            "id": "g1w32",
+            "word": "absurd",
+            "meaning": "Wildly unreasonable, illogical, or inappropriate.",
+            "examples": [
+                "The idea that the earth is flat is absurd.",
+                "It was an absurd suggestion."
+            ]
+        },
+        {
+            "id": "g1w33",
+            "word": "abysmal",
+            "meaning": "Extremely bad; appalling.",
+            "examples": [
+                "The quality of the food was abysmal.",
+                "His first attempt was an abysmal failure."
+            ]
+        },
+        {
+            "id": "g1w34",
+            "word": "abyss",
+            "meaning": "A deep or seemingly bottomless chasm.",
+            "examples": [
+                "He stood at the edge of the abyss.",
+                "The country is on the edge of an economic abyss."
+            ]
+        },
+        {
+            "id": "g1w35",
+            "word": "accede",
+            "meaning": "To assent or agree to a demand, request, or treaty.",
+            "examples": [
+                "The government acceded to the protesters' demands.",
+                "He acceded to the throne in 1837."
+            ]
+        },
+        {
+            "id": "g1w36",
+            "word": "accentuate",
+            "meaning": "To make more noticeable or prominent.",
+            "examples": [
+                "Her dress was tightly belted, accentuating the slimness of her waist.",
+                "The new policy only serves to accentuate the existing social inequalities."
+            ]
+        },
+        {
+            "id": "g1w37",
+            "word": "access",
+            "meaning": "The means or opportunity to approach or enter a place. or To obtain, examine, or retrieve (data or a file).",
+            "examples": [
+                "The only access to the village is by boat.",
+                "I can't access my email."
+            ]
+        },
+        {
+            "id": "g1w38",
+            "word": "accessible",
+            "meaning": "(of a place) able to be reached or entered. or (of a person, typically one in a position of authority) friendly and easy to talk to; approachable.",
+            "examples": [
+                "The island is accessible only by boat.",
+                "The professor is very accessible to students."
+            ]
+        },
+        {
+            "id": "g1w39",
+            "word": "accession",
+            "meaning": "The attainment or acquisition of a position of rank or power, typically that of monarch or president.",
+            "examples": [
+                "The accession of Queen Victoria to the throne.",
+                "The accession of new member states to the European Union."
+            ]
+        },
+        {
+            "id": "g1w40",
+            "word": "acclaim",
+            "meaning": "To praise enthusiastically and publicly.",
+            "examples": [
+                "The book was widely acclaimed by critics.",
+                "She has won critical acclaim for her performance."
+            ]
+        },
+        {
+            "id": "g1w41",
+            "word": "accolade",
+            "meaning": "An award or privilege granted as a special honor or as an acknowledgment of merit.",
+            "examples": [
+                "He received the highest accolade of his profession.",
+                "She has received numerous accolades for her work."
+            ]
+        },
+        {
+            "id": "g1w42",
+            "word": "accommodate",
+            "meaning": "(of physical space, especially a building) provide lodging or sufficient space for. or To fit in with the wishes or needs of.",
+            "examples": [
+                "The hotel can accommodate up to 500 guests.",
+                "We will do our best to accommodate your needs."
+            ]
+        },
+        {
+            "id": "g1w43",
+            "word": "accomplice",
+            "meaning": "A person who helps another commit a crime.",
+            "examples": [
+                "He was convicted as an accomplice to the murder.",
+                "She was an accomplice in the robbery."
+            ]
+        },
+        {
+            "id": "g1w44",
+            "word": "accost",
+            "meaning": "To approach and address (someone) boldly or aggressively.",
+            "examples": [
+                "He was accosted by a stranger in the street.",
+                "She was accosted by a beggar."
+            ]
+        },
+        {
+            "id": "g1w45",
+            "word": "accretion",
+            "meaning": "The process of growth or increase, typically by the gradual accumulation of additional layers or matter.",
+            "examples": [
+                "The accretion of cosmic dust.",
+                "The accretion of wealth."
+            ]
+        },
+        {
+            "id": "g1w46",
+            "word": "accrue",
+            "meaning": "(of sums of money or benefits) be received by someone in regular or increasing amounts over time.",
+            "examples": [
+                "Interest will accrue on the account.",
+                "The benefits of the new policy will accrue over time."
+            ]
+        },
+        {
+            "id": "g1w47",
+            "word": "accumulate",
+            "meaning": "To gather together or acquire an increasing number or quantity of.",
+            "examples": [
+                "I seem to have accumulated a lot of books.",
+                "Dust had accumulated on the furniture."
+            ]
+        },
+        {
+            "id": "g1w48",
+            "word": "acerbic",
+            "meaning": "(especially of a comment or style of speaking) sharp and forthright.",
+            "examples": [
+                "He is known for his acerbic wit.",
+                "She made an acerbic comment about his clothes."
+            ]
+        },
+        {
+            "id": "g1w49",
+            "word": "Achilles heel",
+            "meaning": "A weakness or vulnerable point.",
+            "examples": [
+                "His arrogance is his Achilles heel.",
+                "The team's Achilles heel is their defense."
+            ]
+        },
+        {
+            "id": "g1w50",
+            "word": "acknowledge",
+            "meaning": "To accept or admit the existence or truth of.",
+            "examples": [
+                "She acknowledged that she had been at fault.",
+                "He is widely acknowledged to be the best player in the world."
+            ]
+        },
+        {
+            "id": "g1w51",
+            "word": "acme",
+            "meaning": "The point at which someone or something is best, perfect, or most successful.",
+            "examples": [
+                "He reached the acme of his career in the 1990s.",
+                "The acme of perfection."
+            ]
+        },
+        {
+            "id": "g1w52",
+            "word": "acolyte",
+            "meaning": "A person assisting the celebrant in a religious service or procession. or An assistant or follower.",
+            "examples": [
+                "He was a devoted acolyte of the charismatic leader.",
+                "The priest was assisted by an acolyte."
+            ]
+        },
+        {
+            "id": "g1w53",
+            "word": "acquiesce",
+            "meaning": "To accept something reluctantly but without protest.",
+            "examples": [
+                "She seemed to acquiesce in the decision.",
+                "He will acquiesce to her demands."
+            ]
+        },
+        {
+            "id": "g1w54",
+            "word": "acquisitive",
+            "meaning": "Excessively interested in acquiring money or material things.",
+            "examples": [
+                "We live in an acquisitive society.",
+                "He is a very acquisitive person."
+            ]
+        },
+        {
+            "id": "g1w55",
+            "word": "acrid",
+            "meaning": "Having an irritatingly strong and unpleasant taste or smell.",
+            "examples": [
+                "Acrid smoke from the burning tires filled the air.",
+                "The acrid smell of burning rubber."
+            ]
+        },
+        {
+            "id": "g1w56",
+            "word": "acrimonious",
+            "meaning": "(typically of an argument or debate) angry and bitter.",
+            "examples": [
+                "They had an acrimonious divorce.",
+                "The debate was acrimonious."
+            ]
+        },
+        {
+            "id": "g1w57",
+            "word": "acrimony",
+            "meaning": "Bitterness or ill feeling.",
+            "examples": [
+                "The dispute was settled without acrimony.",
+                "The acrimony of the campaign was evident."
+            ]
+        },
+        {
+            "id": "g1w58",
+            "word": "activism",
+            "meaning": "The policy or action of using vigorous campaigning to bring about political or social change.",
+            "examples": [
+                "Her activism has made a real difference.",
+                "He has a long history of political activism."
+            ]
+        },
+        {
+            "id": "g1w59",
+            "word": "acumen",
+            "meaning": "The ability to make good judgments and quick decisions, typically in a particular domain.",
+            "examples": [
+                "She has a great deal of business acumen.",
+                "He has a sharp political acumen."
+            ]
+        },
+        {
+            "id": "g1w60",
+            "word": "acute",
+            "meaning": "(of a bad, difficult, or unwelcome situation or phenomenon) present or experienced to a severe or intense degree. or Having or showing a perceptive understanding or insight; shrewd.",
+            "examples": [
+                "There is an acute shortage of water.",
+                "He has an acute mind."
+            ]
+        }
+    ]
+}

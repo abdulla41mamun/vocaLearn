@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Learning App</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="group-selection-screen" class="screen">
+        <h1>Choose a Vocabulary Group</h1>
+        <div id="group-list"></div>
+    </div>
+
+    <div id="learning-screen" class="screen" style="display: none;">
+        <h2>Learn Vocabulary</h2>
+        <div id="word-display"></div>
+        <div id="options"></div>
+        <div id="feedback"></div>
+        <div id="progress"></div>
+        <button id="previous-word-btn">Previous Word</button>
+        <button id="next-word-btn">Next Word</button>
+    </div>
+
+    <script src="js/app.js"></script>
+    <script src="js/indexedDB.js"></script>
+    <script src="js/dataLoader.js"></script>
+    <script src="js/learningLogic.js"></script>
+    <script src="js/ui.js"></script>
+</body>
+</html>
