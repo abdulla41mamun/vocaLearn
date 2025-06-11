@@ -1,0 +1,545 @@
+{
+    "id": "group26",
+    "words": [
+      {
+        "id": "g26w1",
+        "word": "fusion",
+        "meaning": "The process or result of joining two or more things together to form a single entity.",
+        "examples": [
+          "The restaurant's menu is a fusion of Asian and European cuisine.",
+          "Nuclear fusion is the process that powers the sun."
+        ]
+      },
+      {
+        "id": "g26w2",
+        "word": "futile",
+        "meaning": "Incapable of producing any useful result; pointless.",
+        "examples": [
+          "It was futile to argue with him; he had already made up his mind.",
+          "All their efforts to save the drowning man were futile."
+        ]
+      },
+      {
+        "id": "g26w3",
+        "word": "futility",
+        "meaning": "Pointlessness or uselessness.",
+        "examples": [
+          "She was struck by the futility of her situation.",
+          "The war was a lesson in the futility of violence."
+        ]
+      },
+      {
+        "id": "g26w4",
+        "word": "gadfly",
+        "meaning": "An annoying person, especially one who provokes others into action by criticism.",
+        "examples": [
+          "The journalist was a gadfly who was always questioning the government's policies.",
+          "He was a social gadfly, always stirring up trouble."
+        ]
+      },
+      {
+        "id": "g26w5",
+        "word": "gaffe",
+        "meaning": "An unintentional act or remark causing embarrassment to its originator; a blunder.",
+        "examples": [
+          "The politician made a gaffe during the debate, and it cost him the election.",
+          "He tried to cover up his gaffe with a nervous laugh."
+        ]
+      },
+      {
+        "id": "g26w6",
+        "word": "gainsay",
+        "meaning": "To deny or contradict (a fact or statement).",
+        "examples": [
+          "There is no gainsaying the fact that she is a talented artist.",
+          "No one dared to gainsay the king's command."
+        ]
+      },
+      {
+        "id": "g26w7",
+        "word": "gall",
+        "meaning": "Bold, impudent behavior.",
+        "examples": [
+          "He had the gall to ask for a raise after only being there for a week.",
+          "She was shocked by his gall."
+        ]
+      },
+      {
+        "id": "g26w8",
+        "word": "gallant",
+        "meaning": "(Of a person or their behavior) brave; heroic.",
+        "examples": [
+          "The gallant knight saved the princess from the dragon.",
+          "He made a gallant effort to rescue the drowning child."
+        ]
+      },
+      {
+        "id": "g26w9",
+        "word": "galvanize",
+        "meaning": "To shock or excite (someone) into taking action.",
+        "examples": [
+          "The leader's speech galvanized the crowd into action.",
+          "The recent events have galvanized public opinion."
+        ]
+      },
+      {
+        "id": "g26w10",
+        "word": "gambit",
+        "meaning": "A device, action, or opening remark, typically one entailing a degree of risk, that is calculated to gain an advantage.",
+        "examples": [
+          "His opening gambit in the chess game was to sacrifice a pawn.",
+          "The company's latest marketing gambit is to offer a free gift with every purchase."
+        ]
+      },
+      {
+        "id": "g26w11",
+        "word": "gambol",
+        "meaning": "To run or jump about playfully.",
+        "examples": [
+          "The lambs were gamboling in the fields.",
+          "The children gamboled on the beach."
+        ]
+      },
+      {
+        "id": "g26w12",
+        "word": "gamut",
+        "meaning": "The complete range or scope of something.",
+        "examples": [
+          "The actress was able to express a whole gamut of emotions.",
+          "The course covers the full gamut of topics in modern physics."
+        ]
+      },
+      {
+        "id": "g26w13",
+        "word": "garble",
+        "meaning": "To reproduce (a message, sound, or transmission) in a confused and distorted way.",
+        "examples": [
+          "The bad phone connection garbled his voice.",
+          "The news report garbled the facts of the story."
+        ]
+      },
+      {
+        "id": "g26w14",
+        "word": "garbled",
+        "meaning": "(Of a message, sound, or transmission) confused and distorted; unclear.",
+        "examples": [
+          "The message on the answering machine was garbled.",
+          "He gave a garbled and incoherent account of what had happened."
+        ]
+      },
+      {
+        "id": "g26w15",
+        "word": "gargantuan",
+        "meaning": "Enormous.",
+        "examples": [
+          "The giant had a gargantuan appetite.",
+          "It was a gargantuan task to clean up the city after the hurricane."
+        ]
+      },
+      {
+        "id": "g26w16",
+        "word": "garner",
+        "meaning": "To gather or collect (something, especially information or approval).",
+        "examples": [
+          "The movie has garnered several awards.",
+          "The politician is trying to garner support for his new policy."
+        ]
+      },
+      {
+        "id": "g26w17",
+        "word": "garrulous",
+        "meaning": "Excessively talkative, especially on trivial matters.",
+        "examples": [
+          "The garrulous old man would talk for hours about his past.",
+          "She was a garrulous and outgoing person."
+        ]
+      },
+      {
+        "id": "g26w18",
+        "word": "gauche",
+        "meaning": "Lacking ease or grace; unsophisticated and socially awkward.",
+        "examples": [
+          "He was a gauche and clumsy young man.",
+          "Her gauche behavior embarrassed her friends."
+        ]
+      },
+      {
+        "id": "g26w19",
+        "word": "gaudy",
+        "meaning": "Extravagantly bright or showy, typically so as to be tasteless.",
+        "examples": [
+          "She wore a gaudy dress with too much jewelry.",
+          "The hotel was decorated in a gaudy and tasteless style."
+        ]
+      },
+      {
+        "id": "g26w20",
+        "word": "gaunt",
+        "meaning": "(Of a person) lean and haggard, especially because of suffering, hunger, or age.",
+        "examples": [
+          "The long illness left him looking gaunt and frail.",
+          "The gaunt faces of the refugees told a story of hardship."
+        ]
+      },
+      {
+        "id": "g26w21",
+        "word": "gauntlet",
+        "meaning": "A stout glove with a long loose wrist.",
+        "examples": [
+          "The knight wore a metal gauntlet to protect his hand.",
+          "He had to run a gauntlet of reporters to get to his car."
+        ]
+      },
+      {
+        "id": "g26w22",
+        "word": "gavel",
+        "meaning": "A small mallet with which an auctioneer, a judge, or the chair of a meeting hits a surface to call for attention or order.",
+        "examples": [
+          "The judge banged her gavel on the table to call the court to order.",
+          "The auctioneer brought the gavel down, and the painting was sold."
+        ]
+      },
+      {
+        "id": "g26w23",
+        "word": "gawky",
+        "meaning": "Nervously awkward and ungainly.",
+        "examples": [
+          "He was a gawky teenager with long limbs.",
+          "She had a gawky and self-conscious manner."
+        ]
+      },
+      {
+        "id": "g26w24",
+        "word": "genial",
+        "meaning": "Friendly and cheerful.",
+        "examples": [
+          "He was a genial host who made everyone feel welcome.",
+          "She has a genial and outgoing personality."
+        ]
+       },
+      {
+        "id": "g26w25",
+        "word": "geniality",
+        "meaning": "The quality of having a friendly and cheerful manner; affability.",
+        "examples": [
+          "She was known for her warmth and geniality.",
+          "The geniality of the host made the party a success."
+        ]
+      },
+      {
+        "id": "g26w26",
+        "word": "genocide",
+        "meaning": "The deliberate killing of a large number of people from a particular nation or ethnic group with the aim of destroying that nation or group.",
+        "examples": [
+          "The world was shocked by the genocide in Rwanda.",
+          "The perpetrators of the genocide were brought to justice."
+        ]
+      },
+      {
+        "id": "g26w27",
+        "word": "genre",
+        "meaning": "A style or category of art, music, or literature.",
+        "examples": [
+          "Science fiction is his favorite genre of literature.",
+          "The movie does not fit neatly into any one genre."
+        ]
+      },
+      {
+        "id": "g26w28",
+        "word": "genteel",
+        "meaning": "Polite, refined, or respectable, often in an affected or ostentatious way.",
+        "examples": [
+          "She was a genteel lady from a wealthy family.",
+          "The genteel atmosphere of the old hotel was charming."
+        ]
+      },
+      {
+        "id": "g26w29",
+        "word": "germane",
+        "meaning": "Relevant to a subject under consideration.",
+        "examples": [
+          "Please keep your comments germane to the topic of the discussion.",
+          "His personal life is not germane to his qualifications for the job."
+        ]
+      },
+      {
+        "id": "g26w30",
+        "word": "germinate",
+        "meaning": "(Of a seed or spore) to begin to grow and put out shoots after a period of dormancy.",
+        "examples": [
+          "The seeds will germinate in a few days.",
+          "The idea for the new product began to germinate in his mind."
+        ]
+      },
+      {
+        "id": "g26w31",
+        "word": "gerrymander",
+        "meaning": "To manipulate the boundaries of (an electoral constituency) so as to favor one party or class.",
+        "examples": [
+          "The ruling party was accused of trying to gerrymander the election.",
+          "The new electoral map was a clear case of gerrymandering."
+        ]
+      },
+      {
+        "id": "g26w32",
+        "word": "gestation",
+        "meaning": "The process of carrying or being carried in the womb between conception and birth.",
+        "examples": [
+          "The period of gestation for an elephant is about 22 months.",
+          "The project had a long gestation period."
+        ]
+      },
+      {
+        "id": "g26w33",
+        "word": "gesticulate",
+        "meaning": "To use gestures, especially dramatic ones, instead of speaking or to emphasize one's words.",
+        "examples": [
+          "He would often gesticulate wildly as he talked.",
+          "She gesticulated to the waiter to bring her the bill."
+        ]
+      },
+      {
+        "id": "g26w34",
+        "word": "ghastly",
+        "meaning": "Causing great horror or fear; frightful or macabre.",
+        "examples": [
+          "The accident was a ghastly sight.",
+          "He had a ghastly wound on his arm."
+        ]
+       },
+      {
+        "id": "g26w35",
+        "word": "gild",
+        "meaning": "To cover thinly with gold.",
+        "examples": [
+          "The dome of the cathedral was gilded with gold leaf.",
+          "He gilded the truth to make his story more interesting."
+        ]
+      },
+      {
+        "id": "g26w36",
+        "word": "gild the lily",
+        "meaning": "To try to improve what is already beautiful or excellent.",
+        "examples": [
+          "Adding more decoration to the beautiful cake would be just gilding the lily.",
+          "The movie was already perfect, and the sequel just gilded the lily."
+        ]
+      },
+      {
+        "id": "g26w37",
+        "word": "gird",
+        "meaning": "To encircle (a person or part of the body) with a belt or band.",
+        "examples": [
+          "He girded his loins and prepared for the difficult task ahead.",
+          "The city was girded by a high wall."
+        ]
+       },
+      {
+        "id": "g26w38",
+        "word": "gist",
+        "meaning": "The substance or essence of a speech or text.",
+        "examples": [
+          "I didn't catch every word, but I got the gist of what he was saying.",
+          "Can you give me the gist of the article?"
+        ]
+      },
+      {
+        "id": "g26w39",
+        "word": "glacial",
+        "meaning": "Relating to, resulting from, or denoting the presence or agency of ice, especially in the form of glaciers.",
+        "examples": [
+          "The landscape was shaped by glacial erosion.",
+          "He moved at a glacial pace, taking forever to get ready."
+        ]
+      },
+      {
+        "id": "g26w40",
+        "word": "glancing",
+        "meaning": "Striking someone or something at an angle rather than directly.",
+        "examples": [
+          "The car suffered a glancing blow in the accident.",
+          "He gave her a glancing look as he walked by."
+        ]
+      },
+      {
+        "id": "g26w41",
+        "word": "glaring",
+        "meaning": "Giving out or reflecting a strong or dazzling light.",
+        "examples": [
+          "The glaring sun made it difficult to see.",
+          "It was a glaring error that should have been caught."
+        ]
+      },
+      {
+        "id": "g26w42",
+        "word": "glean",
+        "meaning": "To extract (information) from various sources.",
+        "examples": [
+          "She gleaned information from a variety of websites.",
+          "The reporter was able to glean some interesting facts from the interview."
+        ]
+      },
+      {
+        "id": "g26w43",
+        "word": "glib",
+        "meaning": "(Of words or the person speaking them) fluent and voluble but insincere and shallow.",
+        "examples": [
+          "He was a glib salesman who could talk anyone into buying anything.",
+          "Her glib excuses did not fool anyone."
+        ]
+      },
+      {
+        "id": "g26w44",
+        "word": "gloat",
+        "meaning": "To contemplate or dwell on one's own success or another's misfortune with smugness or malignant pleasure.",
+        "examples": [
+          "He couldn't resist gloating over his victory.",
+          "It is not nice to gloat about your good fortune."
+        ]
+      },
+      {
+        "id": "g26w45",
+        "word": "glower",
+        "meaning": "To have an angry or sullen look on one's face; scowl.",
+        "examples": [
+          "He glowered at me when I told him the bad news.",
+          "She was glowering at her computer screen."
+        ]
+      },
+      {
+        "id": "g26w46",
+        "word": "glowered",
+        "meaning": "Past tense of glower; had an angry or sullen look on one's face.",
+        "examples": [
+          "The angry cat glowered at the dog.",
+          "The manager glowered at the lazy employee."
+        ]
+      },
+      {
+        "id": "g26w47",
+        "word": "glum",
+        "meaning": "Looking or feeling dejected; morose.",
+        "examples": [
+          "He looked glum after hearing the bad news.",
+          "The team was in a glum mood after their defeat."
+        ]
+      },
+      {
+        "id": "g26w48",
+        "word": "glut",
+        "meaning": "An excessively abundant supply of something.",
+        "examples": [
+          "There is a glut of cheap apartments on the market.",
+          "The glut of oil has caused prices to fall."
+        ]
+      },
+      {
+        "id": "g26w49",
+        "word": "gnostic",
+        "meaning": "Relating to knowledge, especially esoteric mystical knowledge.",
+        "examples": [
+          "The Gnostic gospels offer a different perspective on early Christianity.",
+          "He was interested in Gnostic philosophy and mysticism."
+        ]
+      },
+      {
+        "id": "g26w50",
+        "word": "go against the grain",
+        "meaning": "To go against the natural direction or inclination of something.",
+        "examples": [
+          "It goes against the grain for me to lie.",
+          "Her unconventional ideas often went against the grain."
+        ]
+       },
+      {
+        "id": "g26w51",
+        "word": "goad",
+        "meaning": "To provoke or annoy (someone) so as to stimulate some action or reaction.",
+        "examples": [
+          "He was trying to goad her into an argument.",
+          "The criticism goaded him into working harder."
+        ]
+      },
+      {
+        "id": "g26w52",
+        "word": "goosebumps",
+        "meaning": "A state of the skin caused by cold, fear, or excitement, in which small bumps appear on the surface as the hairs become erect.",
+        "examples": [
+          "The scary movie gave me goosebumps.",
+          "I got goosebumps when I heard the beautiful music."
+        ]
+      },
+      {
+        "id": "g26w53",
+        "word": "gorge",
+        "meaning": "A narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it.",
+        "examples": [
+          "The river flows through a deep gorge.",
+          "He gorged himself on a huge meal."
+        ]
+      },
+      {
+        "id": "g26w54",
+        "word": "gossamer",
+        "meaning": "Used to refer to something very light, thin, and insubstantial or delicate.",
+        "examples": [
+          "The butterfly's wings were as delicate as gossamer.",
+          "The spider's web was a gossamer thread in the morning light."
+        ]
+      },
+      {
+        "id": "g26w55",
+        "word": "gouge",
+        "meaning": "To make (a groove, hole, or indentation) with or as if with a sharp tool or blade.",
+        "examples": [
+          "He gouged a hole in the wall with a screwdriver.",
+          "The company was accused of gouging its customers with high prices."
+        ]
+      },
+      {
+        "id": "g26w56",
+        "word": "gradation",
+        "meaning": "A scale or a series of successive changes, stages, or degrees.",
+        "examples": [
+          "The painting showed a subtle gradation of colors.",
+          "There is a gradation of difficulty in the exercises."
+        ]
+      },
+      {
+        "id": "g26w57",
+        "word": "graft",
+        "meaning": "Practices, especially bribery, used to secure illicit gains in politics or business; corruption.",
+        "examples": [
+          "The politician was accused of graft and corruption.",
+          "The company was involved in a massive graft scandal."
+        ]
+      },
+      {
+        "id": "g26w58",
+        "word": "grandeur",
+        "meaning": "Splendor and impressiveness, especially of appearance or style.",
+        "examples": [
+          "The palace was a building of great grandeur.",
+          "The grandeur of the mountains was breathtaking."
+        ]
+      },
+      {
+        "id": "g26w59",
+        "word": "grandiloquent",
+        "meaning": "Pompous or extravagant in language, style, or manner, especially in a way that is intended to impress.",
+        "examples": [
+          "The politician's speech was full of grandiloquent promises.",
+          "He had a grandiloquent and theatrical manner."
+        ]
+      },
+      {
+        "id": "g26w60",
+        "word": "grandiose",
+        "meaning": "Impressive and imposing in appearance or style, especially pretentiously so.",
+        "examples": [
+          "He had a grandiose plan to build a new city.",
+          "The grandiose mansion was a symbol of his wealth."
+        ]
+      }
+    ]
+  }

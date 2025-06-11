@@ -1,0 +1,547 @@
+{
+    "id": "group13",
+    "words": [
+      {
+        "id": "g13w1",
+        "word": "convention",
+        "meaning": "A way in which something is usually done; a large meeting or conference.",
+        "examples": [
+          "It is a social convention to say 'please' and 'thank you'.",
+          "The annual teachers' convention will be held in July."
+        ]
+      },
+      {
+        "id": "g13w2",
+        "word": "conventional",
+        "meaning": "Based on or in accordance with what is generally done or believed.",
+        "examples": [
+          "She opted for a conventional wedding dress.",
+          "His views on politics are very conventional."
+        ]
+      },
+      {
+        "id": "g13w3",
+        "word": "converge",
+        "meaning": "(Of lines) to tend to meet at a point; to come from different directions and meet.",
+        "examples": [
+          "The two roads converge at the main square.",
+          "Fans from all over the country will converge on the stadium."
+        ]
+      },
+      {
+        "id": "g13w4",
+        "word": "conversant",
+        "meaning": "Familiar with or knowledgeable about something.",
+        "examples": [
+          "She is conversant with the works of Shakespeare.",
+          "You need to be conversant with the latest software to get this job."
+        ]
+      },
+      {
+        "id": "g13w5",
+        "word": "conversely",
+        "meaning": "Introducing a statement or idea which reverses one that has just been made or referred to.",
+        "examples": [
+          "He is very good at sports; conversely, his academic performance is poor.",
+          "You can add the spices now, or, conversely, you can wait until the end."
+        ]
+      },
+      {
+        "id": "g13w6",
+        "word": "conversion",
+        "meaning": "The process of changing or causing something to change from one form to another.",
+        "examples": [
+          "The conversion of the old warehouse into luxury apartments was a success.",
+          "His conversion to a new religion was a surprise to his family."
+        ]
+      },
+      {
+        "id": "g13w7",
+        "word": "convex",
+        "meaning": "Having an outline or surface curved like the exterior of a circle or sphere.",
+        "examples": [
+          "The back of a spoon is convex.",
+          "A convex lens makes objects appear larger."
+        ]
+      },
+      {
+        "id": "g13w8",
+        "word": "conviction",
+        "meaning": "A firmly held belief or opinion; a formal declaration that someone is guilty of a criminal offense.",
+        "examples": [
+          "She spoke with great conviction about her political beliefs.",
+          "He has a long record of previous convictions for theft."
+        ]
+      },
+      {
+        "id": "g13w9",
+        "word": "convivial",
+        "meaning": "(Of an atmosphere or event) friendly, lively, and enjoyable.",
+        "examples": [
+          "The dinner party had a convivial atmosphere.",
+          "He was a convivial host who made everyone feel welcome."
+        ]
+      },
+      {
+        "id": "g13w10",
+        "word": "convoke",
+        "meaning": "To call together or summon (an assembly or meeting).",
+        "examples": [
+          "The president decided to convoke a meeting of the advisory board.",
+          "Parliament was convoked to address the national crisis."
+        ]
+      },
+      {
+        "id": "g13w11",
+        "word": "convoluted",
+        "meaning": "(Especially of an argument, story, or sentence) extremely complex and difficult to follow.",
+        "examples": [
+          "The movie had a convoluted plot that was hard to understand.",
+          "He gave a convoluted explanation that only confused us further."
+        ]
+      },
+      {
+        "id": "g13w12",
+        "word": "cope",
+        "meaning": "To deal effectively with something difficult.",
+        "examples": [
+          "She is struggling to cope with the demands of her new job.",
+          "He found it hard to cope with his grief after his wife's death."
+        ]
+      },
+      {
+        "id": "g13w13",
+        "word": "copious",
+        "meaning": "Abundant in supply or quantity.",
+        "examples": [
+          "She took copious notes during the lecture.",
+          "The garden produced a copious harvest of vegetables."
+        ]
+      },
+      {
+        "id": "g13w14",
+        "word": "coquette",
+        "meaning": "A woman who flirts.",
+        "examples": [
+          "She was known as a coquette in her youth, charming all the young men.",
+          "With a playful smile, the coquette teased her admirer."
+        ]
+      },
+      {
+        "id": "g13w15",
+        "word": "cordial",
+        "meaning": "Warm and friendly.",
+        "examples": [
+          "We received a cordial welcome from our hosts.",
+          "Despite their disagreements, they maintained a cordial relationship."
+        ]
+      },
+      {
+        "id": "g13w16",
+        "word": "cordon",
+        "meaning": "To prevent access to or from an area or building by surrounding it with police or soldiers.",
+        "examples": [
+          "The police cordoned off the street after the accident.",
+          "A security cordon was placed around the embassy."
+        ]
+      },
+      {
+        "id": "g13w17",
+        "word": "cornucopia",
+        "meaning": "An abundant supply of good things of a specified kind.",
+        "examples": [
+          "The festival was a cornucopia of music, food, and art.",
+          "The book is a cornucopia of useful information."
+        ]
+      },
+      {
+        "id": "g13w18",
+        "word": "corollary",
+        "meaning": "A proposition that follows from (and is often appended to) one already proved; a direct or natural consequence or result.",
+        "examples": [
+          "A necessary corollary of his argument is that we must change our strategy.",
+          "Increased unemployment is a corollary of the economic recession."
+        ]
+      },
+      {
+        "id": "g13w19",
+        "word": "corporal",
+        "meaning": "Relating to the human body.",
+        "examples": [
+          "Corporal punishment is no longer allowed in schools.",
+          "The prisoner was subjected to corporal punishment."
+        ]
+      },
+      {
+        "id": "g13w20",
+        "word": "corporeal",
+        "meaning": "Relating to a person's body, especially as opposed to their spirit; having a body.",
+        "examples": [
+          "He was more interested in spiritual matters than corporeal pleasures.",
+          "Ghosts are not corporeal beings."
+        ]
+      },
+      {
+        "id": "g13w21",
+        "word": "corpulent",
+        "meaning": "(Of a person) fat.",
+        "examples": [
+          "The corpulent man had difficulty climbing the stairs.",
+          "He grew more corpulent as he aged."
+        ]
+      },
+      {
+        "id": "g13w22",
+        "word": "correlate",
+        "meaning": "To have a mutual relationship or connection, in which one thing affects or depends on another.",
+        "examples": [
+          "Researchers are trying to correlate the two sets of data.",
+          "It is well known that smoking correlates with a higher risk of lung cancer."
+        ]
+      },
+      {
+        "id": "g13w23",
+        "word": "corroborate",
+        "meaning": "To confirm or give support to (a statement, theory, or finding).",
+        "examples": [
+          "The witness was able to corroborate the victim's story.",
+          "Further research is needed to corroborate the results of the study."
+        ]
+      },
+      {
+        "id": "g13w24",
+        "word": "corrosion",
+        "meaning": "The process of corroding or being corroded.",
+        "examples": [
+          "The corrosion of the old pipes caused a water leak.",
+          "Salt and water can accelerate the corrosion of metal."
+        ]
+  
+      },
+      {
+        "id": "g13w25",
+        "word": "cosmology",
+        "meaning": "The science of the origin and development of the universe.",
+        "examples": [
+          "Cosmology seeks to answer fundamental questions about the universe.",
+          "The Big Bang theory is a central concept in modern cosmology."
+        ]
+      },
+      {
+        "id": "g13w26",
+        "word": "cosmopolitan",
+        "meaning": "Familiar with and at ease in many different countries and cultures.",
+        "examples": [
+          "New York is a vibrant, cosmopolitan city.",
+          "He is a cosmopolitan traveler who has visited over 50 countries."
+        ]
+      },
+      {
+        "id": "g13w27",
+        "word": "cosset",
+        "meaning": "To care for and protect in an overindulgent way.",
+        "examples": [
+          "She tended to cosset her youngest child.",
+          "The hotel cossets its guests with luxurious amenities."
+        ]
+      },
+      {
+        "id": "g13w28",
+        "word": "cosseted",
+        "meaning": "Cared for and protected in an overindulgent way.",
+        "examples": [
+          "He lived a cosseted life, never having to worry about money.",
+          "The cosseted celebrity was shielded from the realities of everyday life."
+        ]
+      },
+      {
+        "id": "g13w29",
+        "word": "coterie",
+        "meaning": "A small group of people with shared interests or tastes, especially one that is exclusive of other people.",
+        "examples": [
+          "A coterie of artists and writers would meet at the cafe.",
+          "She was part of a close-knit coterie of friends."
+        ]
+      },
+      {
+        "id": "g13w30",
+        "word": "coterminous",
+        "meaning": "Having the same boundaries or extent in space, time, or meaning.",
+        "examples": [
+          "The city's limits are coterminous with the county's boundaries.",
+          "For him, happiness was coterminous with wealth."
+        ]
+      },
+      {
+        "id": "g13w31",
+        "word": "countenance",
+        "meaning": "To admit as acceptable or possible; to tolerate or approve.",
+        "examples": [
+          "The school will not countenance any form of cheating.",
+          "He would not countenance any criticism of his beloved daughter."
+        ]
+      },
+      {
+        "id": "g13w32",
+        "word": "counterintuitive",
+        "meaning": "Contrary to intuition or to common-sense expectation.",
+        "examples": [
+          "It may seem counterintuitive, but sometimes you have to spend money to make money.",
+          "The results of the experiment were completely counterintuitive."
+        ]
+      },
+      {
+        "id": "g13w33",
+        "word": "countermand",
+        "meaning": "To revoke (an order).",
+        "examples": [
+          "The general decided to countermand his previous order to attack.",
+          "The decision to close the factory was countermanded at the last minute."
+        ]
+      },
+      {
+        "id": "g13w34",
+        "word": "counterpoint",
+        "meaning": "An argument, idea, or theme used to create a contrast with the main element.",
+        "examples": [
+          "The author uses the character's optimism as a counterpoint to the novel's bleak setting.",
+          "The sharp, modern furniture served as a counterpoint to the old building's historic architecture."
+        ]
+      },
+      {
+        "id": "g13w35",
+        "word": "counterproductive",
+        "meaning": "Having the opposite of the desired effect.",
+        "examples": [
+          "Micromanaging your employees can be counterproductive.",
+          "His aggressive tactics proved counterproductive, as they alienated his supporters."
+        ]
+      },
+      {
+        "id": "g13w36",
+        "word": "coup",
+        "meaning": "A sudden, violent, and illegal seizure of power from a government.",
+        "examples": [
+          "The military staged a coup and took control of the country.",
+          "Getting the contract was a major coup for the small company."
+        ]
+      },
+      {
+        "id": "g13w37",
+        "word": "coup de grace",
+        "meaning": "A final blow or shot given to kill a wounded person or animal.",
+        "examples": [
+          "The final arrow was the coup de grace for the wounded stag.",
+          "The company's bankruptcy was the coup de grace to the local economy."
+        ]
+      },
+      {
+        "id": "g13w38",
+        "word": "covert",
+        "meaning": "Not openly acknowledged or displayed; secret.",
+        "examples": [
+          "The spy was involved in a covert operation.",
+          "They made a covert plan to escape."
+        ]
+      },
+      {
+        "id": "g13w39",
+        "word": "covet",
+        "meaning": "To yearn to possess or have (something).",
+        "examples": [
+          "He began to covet his neighbor's luxurious car.",
+          "She coveted the lead role in the play."
+        ]
+      },
+      {
+        "id": "g13w40",
+        "word": "covetous",
+        "meaning": "Having or showing a great desire to possess something belonging to someone else.",
+        "examples": [
+          "He cast a covetous glance at her diamond necklace.",
+          "The covetous king wanted to seize all the land for himself."
+        ]
+      },
+      {
+        "id": "g13w41",
+        "word": "cow",
+        "meaning": "To intimidate (someone) with threats.",
+        "examples": [
+          "The bully tried to cow the smaller children into giving him their lunch money.",
+          "She refused to be cowed by his angry words."
+        ]
+      },
+      {
+        "id": "g13w42",
+        "word": "cowed",
+        "meaning": "Past tense of cow; caused (someone) to submit to one's wishes by intimidation.",
+        "examples": [
+          "The dog was cowed by its owner's harsh commands.",
+          "The employees were cowed into silence by the fear of losing their jobs."
+        ]
+      },
+      {
+        "id": "g13w43",
+        "word": "cower",
+        "meaning": "To crouch down in fear.",
+        "examples": [
+          "The small dog would cower in the corner during thunderstorms.",
+          "He cowered under the table, hoping the intruder wouldn't see him."
+        ]
+      },
+      {
+        "id": "g13w44",
+        "word": "coy",
+        "meaning": "(Especially of a woman) making a pretense of shyness or modesty which is intended to be alluring.",
+        "examples": [
+          "She gave him a coy smile from across the room.",
+          "He was being coy about his new girlfriend, refusing to share any details."
+        ]
+      },
+      {
+        "id": "g13w45",
+        "word": "craft",
+        "meaning": "Skill in carrying out one's work; an activity involving skill in making things by hand.",
+        "examples": [
+          "The carpenter was a master of his craft.",
+          "The local market sells traditional arts and crafts."
+        ]
+      },
+      {
+        "id": "g13w46",
+        "word": "crafty",
+        "meaning": "Clever at achieving one's aims by indirect or deceitful methods.",
+        "examples": [
+          "The crafty fox managed to steal the chickens.",
+          "She had a crafty plan to get what she wanted."
+        ]
+      },
+      {
+        "id": "g13w47",
+        "word": "crave",
+        "meaning": "To feel a powerful desire for (something).",
+        "examples": [
+          "After a long day, she began to crave a hot bath.",
+          "He craved recognition for his hard work."
+        ]
+      },
+      {
+        "id": "g13w48",
+        "word": "craven",
+        "meaning": "Contemptibly lacking in courage; cowardly.",
+        "examples": [
+          "The craven soldier deserted his post in the face of danger.",
+          "It was a craven act to run away from the problem."
+        ]
+      },
+      {
+        "id": "g13w49",
+        "word": "crease",
+        "meaning": "A line or ridge produced on paper or cloth by folding, pressing, or crushing it.",
+        "examples": [
+          "He carefully folded the letter, making a sharp crease.",
+          "She ironed the shirt to remove the creases."
+        ]
+      },
+      {
+        "id": "g13w50",
+        "word": "credence",
+        "meaning": "Belief in or acceptance of something as true.",
+        "examples": [
+          "The strange story was given credence by the discovery of new evidence.",
+          "I don't give any credence to such wild rumors."
+        ]
+      },
+      {
+        "id": "g13w51",
+        "word": "credibility",
+        "meaning": "The quality of being trusted and believed in.",
+        "examples": [
+          "The witness's credibility was damaged by his inconsistent testimony.",
+          "The newspaper has a reputation for credibility and accuracy."
+        ]
+      },
+      {
+        "id": "g13w52",
+        "word": "credible",
+        "meaning": "Able to be believed; convincing.",
+        "examples": [
+          "The police received a credible threat against the embassy.",
+          "He was a credible witness who provided a detailed account of the event."
+        ]
+  
+      },
+      {
+        "id": "g13w53",
+        "word": "creditable",
+        "meaning": "Deserving public acknowledgment and praise but not necessarily outstanding or successful.",
+        "examples": [
+          "She made a creditable effort to finish the race despite her injury.",
+          "The team's performance was creditable, even though they lost."
+        ]
+      },
+      {
+        "id": "g13w54",
+        "word": "credo",
+        "meaning": "A statement of the beliefs or aims which guide someone's actions.",
+        "examples": [
+          "His credo was to live and let live.",
+          "The company's credo is 'the customer is always right'."
+        ]
+      },
+      {
+        "id": "g13w55",
+        "word": "credulity",
+        "meaning": "A tendency to be too ready to believe that something is real or true.",
+        "examples": [
+          "The con artist took advantage of the old man's credulity.",
+          "His credulity was his downfall, as he believed every lie he was told."
+        ]
+      },
+      {
+        "id": "g13w56",
+        "word": "credulous",
+        "meaning": "Having or showing too great a readiness to believe things.",
+        "examples": [
+          "The credulous child believed the story about the monster under the bed.",
+          "Credulous people are often the victims of scams."
+        ]
+      },
+      {
+        "id": "g13w57",
+        "word": "crepuscular",
+        "meaning": "Of, resembling, or relating to twilight.",
+        "examples": [
+          "Bats are crepuscular animals, active at dawn and dusk.",
+          "The crepuscular light of evening cast long shadows."
+        ]
+      },
+      {
+        "id": "g13w58",
+        "word": "crescendo",
+        "meaning": "The loudest point reached in a gradually increasing sound; a gradual increase in loudness.",
+        "examples": [
+          "The music built to a deafening crescendo.",
+          "The public anger reached a crescendo and led to protests."
+        ]
+      },
+      {
+        "id": "g13w59",
+        "word": "crestfallen",
+        "meaning": "Sad and disappointed.",
+        "examples": [
+          "He was crestfallen when he learned he didn't get the job.",
+          "The team was crestfallen after their defeat in the championship game."
+        ]
+      },
+      {
+        "id": "g13w60",
+        "word": "criterion",
+        "meaning": "A principle or standard by which something may be judged or decided.",
+        "examples": [
+          "The main criterion for the job is a degree in engineering.",
+          "What is the criterion for success in this field?"
+        ]
+      }
+    ]
+  }

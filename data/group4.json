@@ -1,0 +1,549 @@
+{
+    "id": "group4",
+    "words": [
+        {
+            "id": "g4w1",
+            "word": "antipathy",
+            "meaning": "A deep-seated feeling of dislike; aversion.",
+            "examples": [
+                "He had a strong antipathy towards cats.",
+                "There has always been a great deal of antipathy between the two leaders."
+            ]
+        },
+        {
+            "id": "g4w2",
+            "word": "antipode",
+            "meaning": "The direct opposite of someone or something.",
+            "examples": [
+                "His theory is the antipode of the traditional view.",
+                "In personality, she is the antipode of her exuberant sister."
+            ]
+        },
+        {
+            "id": "g4w3",
+            "word": "antiquated",
+            "meaning": "Old-fashioned or outdated.",
+            "examples": [
+                "He has some antiquated ideas about the roles of men and women.",
+                "The factory uses antiquated machinery."
+            ]
+        },
+        {
+            "id": "g4w4",
+            "word": "antiseptic",
+            "meaning": "Scrupulously clean or pure, especially so as to be bland or characterless.",
+            "examples": [
+                "The hotel room was bland and antiseptic.",
+                "His writing style is so antiseptic that it lacks any emotion."
+            ]
+        },
+        {
+            "id": "g4w5",
+            "word": "antithesis",
+            "meaning": "A person or thing that is the direct opposite of someone or something else.",
+            "examples": [
+                "Love is the antithesis of selfishness.",
+                "His liberal views are the antithesis of my conservative beliefs."
+            ]
+        },
+        {
+            "id": "g4w6",
+            "word": "antithetical",
+            "meaning": "Directly opposed or contrasted; mutually incompatible.",
+            "examples": [
+                "The two policies are antithetical to each other.",
+                "Her actions were antithetical to her stated beliefs."
+            ]
+        },
+        {
+            "id": "g4w7",
+            "word": "apace",
+            "meaning": "Swiftly; quickly.",
+            "examples": [
+                "The project is coming along apace.",
+                "Technological change continues apace."
+            ]
+        },
+        {
+            "id": "g4w8",
+            "word": "apartheid",
+            "meaning": "A policy or system of segregation or discrimination on grounds of race, notably in South Africa.",
+            "examples": [
+                "Nelson Mandela fought against the injustices of apartheid.",
+                "The system of apartheid created deep divisions in society."
+            ]
+        },
+        {
+            "id": "g4w9",
+            "word": "apathetic",
+            "meaning": "Showing or feeling no interest, enthusiasm, or concern.",
+            "examples": [
+                "The voters were apathetic and turnout was low.",
+                "He felt too apathetic to even get out of bed."
+            ]
+        },
+        {
+            "id": "g4w10",
+            "word": "apathy",
+            "meaning": "Lack of interest, enthusiasm, or concern.",
+            "examples": [
+                "Widespread apathy among students is a major problem.",
+                "Voter apathy can undermine a democracy."
+            ]
+        },
+        {
+            "id": "g4w11",
+            "word": "apex",
+            "meaning": "The top or highest part of something, especially one forming a point.",
+            "examples": [
+                "He reached the apex of his career at the age of 40.",
+                "The apex of the mountain was covered in snow."
+            ]
+        },
+        {
+            "id": "g4w12",
+            "word": "aphorism",
+            "meaning": "A pithy observation that contains a general truth.",
+            "examples": [
+                "One of his favorite aphorisms is 'actions speak louder than words.'",
+                "The book is a collection of his most famous aphorisms."
+            ]
+        },
+        {
+            "id": "g4w13",
+            "word": "aphoristic",
+            "meaning": "Something that is concise and instructive of a general truth or principle.",
+            "examples": [
+                "He had an aphoristic style of writing that was easy to quote.",
+                "Her speech was full of aphoristic wisdom."
+            ]
+        },
+        {
+            "id": "g4w14",
+            "word": "aplomb",
+            "meaning": "Self-confidence or assurance, especially when in a demanding situation.",
+            "examples": [
+                "She handled the difficult questions with great aplomb.",
+                "The diplomat negotiated the treaty with his usual aplomb."
+            ]
+        },
+        {
+            "id": "g4w15",
+            "word": "apocryphal",
+            "meaning": "(of a story or statement) of doubtful authenticity, although widely circulated as being true.",
+            "examples": [
+                "Most of the stories about him are apocryphal.",
+                "It's an apocryphal tale, but it makes for a good story."
+            ]
+        },
+        {
+            "id": "g4w16",
+            "word": "apogee",
+            "meaning": "The highest point in the development of something; a climax or culmination.",
+            "examples": [
+                "The Roman Empire reached its apogee in the 2nd century AD.",
+                "His career reached its apogee with the award of the Nobel Prize."
+            ]
+        },
+        {
+            "id": "g4w17",
+            "word": "apologist",
+            "meaning": "A person who offers an argument in defense of something controversial.",
+            "examples": [
+                "He is a well-known apologist for the company's environmental record.",
+                "She became an apologist for the new government policy."
+            ]
+        },
+        {
+            "id": "g4w18",
+            "word": "apoplectic",
+            "meaning": "Overcome with anger; extremely indignant.",
+            "examples": [
+                "He was apoplectic with rage at the decision.",
+                "The news left her apoplectic."
+            ]
+        },
+        {
+            "id": "g4w19",
+            "word": "apostate",
+            "meaning": "A person who renounces a religious or political belief or principle.",
+            "examples": [
+                "He was declared an apostate for his heretical views.",
+                "The former party leader was denounced as an apostate."
+            ]
+        },
+        {
+            "id": "g4w20",
+            "word": "apostle",
+            "meaning": "A vigorous and pioneering advocate or supporter of a particular policy, idea, or cause.",
+            "examples": [
+                "He was an apostle of free-market economics.",
+                "She is a modern-day apostle for environmentalism."
+            ]
+        },
+        {
+            "id": "g4w21",
+            "word": "apotheosis",
+            "meaning": "The highest point in the development of something; culmination or climax.",
+            "examples": [
+                "His appearance at the concert was the apotheosis of his career.",
+                "The film is the apotheosis of the classic Western."
+            ]
+        },
+        {
+            "id": "g4w22",
+            "word": "appalled",
+            "meaning": "Greatly dismayed or horrified.",
+            "examples": [
+                "I was appalled by the lack of cleanliness in the hotel.",
+                "She was appalled at the injustices she saw."
+            ]
+        },
+        {
+            "id": "g4w23",
+            "word": "apparition",
+            "meaning": "A ghost or ghostlike image of a person.",
+            "examples": [
+                "The old castle is said to be haunted by an apparition.",
+                "He stared as if he had seen an apparition."
+            ]
+        },
+        {
+            "id": "g4w24",
+            "word": "appease",
+            "meaning": "To pacify or placate (someone) by acceding to their demands.",
+            "examples": [
+                "They tried to appease the angry protesters.",
+                "The government appeased the rebels by granting them amnesty."
+            ]
+        },
+        {
+            "id": "g4w25",
+            "word": "appellation",
+            "meaning": "A name or title.",
+            "examples": [
+                "The city earned the appellation 'The Big Apple'.",
+                "He was a writer who deserved the appellation of 'genius'."
+            ]
+        },
+        {
+            "id": "g4w26",
+            "word": "apple polishing",
+            "meaning": "The act of trying to gain favor with someone by flattery.",
+            "examples": [
+                "His constant apple polishing did not impress the boss.",
+                "She was accused of apple polishing to get the promotion."
+            ]
+        },
+        {
+            "id": "g4w27",
+            "word": "apportion",
+            "meaning": "To divide and allocate.",
+            "examples": [
+                "The court will apportion the blame between the two parties.",
+                "The grant was apportioned among several research teams."
+            ]
+        },
+        {
+            "id": "g4w28",
+            "word": "apposite",
+            "meaning": "Apt in the circumstances or in relation to something.",
+            "examples": [
+                "His remarks were apposite to the topic being discussed.",
+                "She always manages to find the most apposite quotation."
+            ]
+        },
+        {
+            "id": "g4w29",
+            "word": "appraise",
+            "meaning": "To assess the value or quality of.",
+            "examples": [
+                "The jeweler will appraise the diamond ring.",
+                "It is important to appraise the situation before making a decision."
+            ]
+        },
+        {
+            "id": "g4w30",
+            "word": "appreciable",
+            "meaning": "Large or important enough to be noticed.",
+            "examples": [
+                "There was an appreciable difference in their ages.",
+                "The new policy had an appreciable effect on the economy."
+            ]
+        },
+        {
+            "id": "g4w31",
+            "word": "apprehension",
+            "meaning": "Anxiety or fear that something bad or unpleasant will happen.",
+            "examples": [
+                "He felt a great deal of apprehension before his exam.",
+                "There is growing apprehension about the future of the company."
+            ]
+        },
+        {
+            "id": "g4w32",
+            "word": "apprise",
+            "meaning": "To inform or tell (someone).",
+            "examples": [
+                "Please apprise me of any new developments.",
+                "He was apprised of the situation by his lawyer."
+            ]
+        },
+        {
+            "id": "g4w33",
+            "word": "approbation",
+            "meaning": "Approval or praise.",
+            "examples": [
+                "The new play received widespread approbation from the critics.",
+                "He sought the approbation of his peers."
+            ]
+        },
+        {
+            "id": "g4w34",
+            "word": "appropriate",
+            "meaning": "To take (something) for one's own use, typically without the owner's permission.",
+            "examples": [
+                "The government appropriated the land for a new highway.",
+                "He was accused of appropriating the company's funds."
+            ]
+        },
+        {
+            "id": "g4w35",
+            "word": "appurtenant",
+            "meaning": "Belonging; pertinent.",
+            "examples": [
+                "The garden is appurtenant to the house.",
+                "There are various rights appurtenant to the ownership of the land."
+            ]
+
+        },
+        {
+            "id": "g4w36",
+            "word": "apropos",
+            "meaning": "Very appropriate to a particular situation.",
+            "examples": [
+                "Her comments were apropos to the discussion.",
+                "The film's release, apropos of the current political climate, was timely."
+            ]
+        },
+        {
+            "id": "g4w37",
+            "word": "apt",
+            "meaning": "Appropriate or suitable in the circumstances.",
+            "examples": [
+                "That was a very apt description of the situation.",
+                "His name is very apt for his profession as a baker."
+            ]
+        },
+        {
+            "id": "g4w38",
+            "word": "aptitude",
+            "meaning": "A natural ability to do something.",
+            "examples": [
+                "She has a great aptitude for learning languages.",
+                "The test is designed to measure your aptitude for the job."
+            ]
+        },
+        {
+            "id": "g4w39",
+            "word": "aqueous",
+            "meaning": "Of or containing water, typically as a solvent or medium.",
+            "examples": [
+                "The chemist prepared an aqueous solution of salt.",
+                "The human eye contains aqueous humor."
+            ]
+        },
+        {
+            "id": "g4w40",
+            "word": "arabesque",
+            "meaning": "An ornamental design consisting of intertwined flowing lines, originally found in Arabic or Moorish decoration.",
+            "examples": [
+                "The mosque was decorated with intricate arabesques.",
+                "The ballet dancer held a perfect arabesque pose."
+            ]
+        },
+        {
+            "id": "g4w41",
+            "word": "arable",
+            "meaning": "(of land) used or suitable for growing crops.",
+            "examples": [
+                "The country has a lot of arable land.",
+                "Farmers are looking for new arable crops to grow."
+            ]
+        },
+        {
+            "id": "g4w42",
+            "word": "arbiter",
+            "meaning": "A person who settles a dispute or has ultimate authority in a matter.",
+            "examples": [
+                "The court will act as the final arbiter in the dispute.",
+                "She is the arbiter of fashion in the office."
+            ]
+        },
+        {
+            "id": "g4w43",
+            "word": "arbitrary",
+            "meaning": "Based on random choice or personal whim, rather than any reason or system.",
+            "examples": [
+                "The decision to fire him was completely arbitrary.",
+                "The rules seemed arbitrary and unfair."
+            ]
+        },
+        {
+            "id": "g4w44",
+            "word": "arbitrate",
+            "meaning": "To (of an independent person or body) reach an authoritative judgment or settlement.",
+            "examples": [
+                "He was called in to arbitrate the dispute between the two companies.",
+                "The union and management agreed to arbitrate their differences."
+            ]
+        },
+        {
+            "id": "g4w45",
+            "word": "arcane",
+            "meaning": "Understood by few; mysterious or secret.",
+            "examples": [
+                "The arcane rules of the game were difficult to understand.",
+                "He was an expert in arcane subjects."
+            ]
+        },
+        {
+            "id": "g4w46",
+            "word": "arch",
+            "meaning": "Deliberately or affectedly playful and teasing.",
+            "examples": [
+                "She gave him an arch smile.",
+                "He made an arch comment about her new hairstyle."
+            ]
+        },
+        {
+            "id": "g4w47",
+            "word": "archaic",
+            "meaning": "Very old or old-fashioned.",
+            "examples": [
+                "The museum contained archaic artifacts from ancient civilizations.",
+                "The company's archaic computer system needs to be updated."
+            ]
+        },
+        {
+            "id": "g4w48",
+            "word": "archeology",
+            "meaning": "The study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains (also spelled archaeology).",
+            "examples": [
+                "He studied archeology at university.",
+                "The discovery was of great interest to archeology."
+            ]
+        },
+        {
+            "id": "g4w49",
+            "word": "archetype",
+            "meaning": "A very typical example of a certain person or thing.",
+            "examples": [
+                "He is the archetype of a successful businessman.",
+                "The hero of the story is a classic archetype."
+            ]
+
+        },
+        {
+            "id": "g4w50",
+            "word": "ardent",
+            "meaning": "Enthusiastic or passionate.",
+            "examples": [
+                "She is an ardent supporter of the local football team.",
+                "He has an ardent desire to travel the world."
+            ]
+        },
+        {
+            "id": "g4w51",
+            "word": "ardor",
+            "meaning": "Enthusiasm or passion.",
+            "examples": [
+                "He spoke with great ardor about his love for his country.",
+                "The revolutionary's ardor never cooled."
+            ]
+        },
+        {
+            "id": "g4w52",
+            "word": "arduous",
+            "meaning": "Involving or requiring strenuous effort; difficult and tiring.",
+            "examples": [
+                "It was an arduous journey across the mountains.",
+                "The work was arduous, but the rewards were great."
+            ]
+        },
+        {
+            "id": "g4w53",
+            "word": "argot",
+            "meaning": "The jargon or slang of a particular group or class.",
+            "examples": [
+                "Criminals have their own argot that is difficult for outsiders to understand.",
+                "The book is full of the argot of the theater world."
+            ]
+
+        },
+        {
+            "id": "g4w54",
+            "word": "arid",
+            "meaning": "(of land or a climate) having little or no rain; too dry or barren to support vegetation.",
+            "examples": [
+                "The desert is an arid region with very little rainfall.",
+                "The discussion became arid and unproductive."
+            ]
+        },
+        {
+            "id": "g4w55",
+            "word": "arrant",
+            "meaning": "Complete, utter.",
+            "examples": [
+                "That is arrant nonsense!",
+                "He dismissed the rumor as arrant speculation."
+            ]
+        },
+        {
+            "id": "g4w56",
+            "word": "array",
+            "meaning": "An impressive display or range of a particular type of thing.",
+            "examples": [
+                "There was a vast array of food on the table.",
+                "The store offers a wide array of products."
+            ]
+        },
+        {
+            "id": "g4w57",
+            "word": "arrest",
+            "meaning": "To stop or check (a process or development).",
+            "examples": [
+                "The new drug can arrest the spread of the disease.",
+                "The government's policies have arrested economic growth."
+            ]
+        },
+        {
+            "id": "g4w58",
+            "word": "arresting",
+            "meaning": "Striking; eye-catching.",
+            "examples": [
+                "She was a woman of arresting beauty.",
+                "The painting was an arresting work of art."
+            ]
+        },
+        {
+            "id": "g4w59",
+            "word": "arrogate",
+            "meaning": "To take or claim (something) for oneself without justification.",
+            "examples": [
+                "The dictator arrogated to himself the power to make all decisions.",
+                "She arrogated the leadership role to herself."
+            ]
+
+        },
+        {
+            "id": "g4w60",
+            "word": "artful",
+            "meaning": "Clever or skillful, especially in a crafty or cunning way.",
+            "examples": [
+                "He was an artful negotiator who always got what he wanted.",
+                "She gave an artful performance that won over the audience."
+            ]
+        }
+    ]
+}

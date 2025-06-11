@@ -1,0 +1,545 @@
+{
+    "id": "group27",
+    "words": [
+      {
+        "id": "g27w1",
+        "word": "grandstand",
+        "meaning": "To behave in a flamboyant or showy manner in an attempt to attract favorable attention from spectators or the media.",
+        "examples": [
+          "The politician was accused of grandstanding to get more votes.",
+          "He's not a team player; he's always grandstanding for the cameras."
+        ]
+      },
+      {
+        "id": "g27w2",
+        "word": "grasping",
+        "meaning": "Greedy; avaricious.",
+        "examples": [
+          "He was a grasping businessman who only cared about profit.",
+          "Her grasping nature made her unpopular with her colleagues."
+        ]
+      },
+      {
+        "id": "g27w3",
+        "word": "gratify",
+        "meaning": "To give (someone) pleasure or satisfaction.",
+        "examples": [
+          "She was gratified by the positive response to her work.",
+          "It gratified him to see his students succeed."
+        ]
+      },
+      {
+        "id": "g27w4",
+        "word": "grating",
+        "meaning": "Sounding harsh and unpleasant.",
+        "examples": [
+          "The grating sound of his voice gave me a headache.",
+          "The rusty hinge made a grating noise."
+        ]
+      },
+      {
+        "id": "g27w5",
+        "word": "gratis",
+        "meaning": "Without charge; free.",
+        "examples": [
+          "The drinks at the party were served gratis.",
+          "He offered his legal services gratis to the poor."
+        ]
+      },
+      {
+        "id": "g27w6",
+        "word": "gratitude",
+        "meaning": "The quality of being thankful; readiness to show appreciation for and to return kindness.",
+        "examples": [
+          "She expressed her gratitude for their help.",
+          "He felt a deep sense of gratitude towards his parents."
+        ]
+      },
+      {
+        "id": "g27w7",
+        "word": "gratuitous",
+        "meaning": "Done without good reason; uncalled for.",
+        "examples": [
+          "The movie was criticized for its gratuitous violence.",
+          "His gratuitous comments were hurtful and unnecessary."
+        ]
+       },
+      {
+        "id": "g27w8",
+        "word": "gratuity",
+        "meaning": "A tip given to a waiter, taxicab driver, etc.",
+        "examples": [
+          "The bill includes a 15% gratuity.",
+          "He left a generous gratuity for the excellent service."
+        ]
+      },
+      {
+        "id": "g27w9",
+        "word": "gravel",
+        "meaning": "A loose aggregation of small water-worn or pounded stones.",
+        "examples": [
+          "The driveway was covered with gravel.",
+          "His voice was a low gravel, full of authority."
+        ]
+      },
+      {
+        "id": "g27w10",
+        "word": "gravitas",
+        "meaning": "Dignity, seriousness, or solemnity of manner.",
+        "examples": [
+          "The judge had an air of gravitas that commanded respect.",
+          "He spoke with great gravitas about the importance of the issue."
+        ]
+      },
+      {
+        "id": "g27w11",
+        "word": "gravity",
+        "meaning": "Extreme or alarming importance; seriousness.",
+        "examples": [
+          "The gravity of the situation was not lost on anyone.",
+          "The government did not seem to understand the gravity of the crisis."
+        ]
+      },
+      {
+        "id": "g27w12",
+        "word": "grazing",
+        "meaning": "The act of eating small amounts of food throughout the day instead of having regular meals.",
+        "examples": [
+          "The cows were grazing peacefully in the field.",
+          "He had a habit of grazing on snacks all day long."
+        ]
+      },
+      {
+        "id": "g27w13",
+        "word": "gregarious",
+        "meaning": "(Of a person) fond of company; sociable.",
+        "examples": [
+          "He was a gregarious and outgoing person who loved parties.",
+          "She is a gregarious and popular student."
+        ]
+      },
+      {
+        "id": "g27w14",
+        "word": "grievance",
+        "meaning": "A real or imagined wrong or other cause for complaint or protest, especially unfair treatment.",
+        "examples": [
+          "The employees filed a grievance against the company for unfair labor practices.",
+          "He had a long list of grievances against his former boss."
+        ]
+      },
+      {
+        "id": "g27w15",
+        "word": "grievous",
+        "meaning": "(Of something bad) very severe or serious.",
+        "examples": [
+          "The soldier suffered a grievous wound in battle.",
+          "He made a grievous error of judgment."
+        ]
+      },
+      {
+        "id": "g27w16",
+        "word": "grill",
+        "meaning": "To subject (someone) to intense questioning or interrogation.",
+        "examples": [
+          "The police grilled the suspect for hours.",
+          "His parents grilled him about where he had been all night."
+        ]
+       },
+      {
+        "id": "g27w17",
+        "word": "grimace",
+        "meaning": "An ugly, twisted expression on a person's face, typically expressing disgust, pain, or wry amusement.",
+        "examples": [
+          "He made a grimace of pain when the doctor touched his injured arm.",
+          "She gave a grimace of disgust at the sight of the spoiled food."
+        ]
+      },
+      {
+        "id": "g27w18",
+        "word": "grisly",
+        "meaning": "Causing horror or disgust.",
+        "examples": [
+          "The movie was too grisly for me to watch.",
+          "The police discovered a grisly scene at the crime scene."
+        ]
+      },
+      {
+        "id": "g27w19",
+        "word": "grotesque",
+        "meaning": "Comically or repulsively ugly or distorted.",
+        "examples": [
+          "The gargoyles on the cathedral were grotesque and frightening.",
+          "He had a grotesque sense of humor."
+        ]
+      },
+      {
+        "id": "g27w20",
+        "word": "grouse",
+        "meaning": "To complain pettily; grumble.",
+        "examples": [
+          "He was always grousing about the weather.",
+          "The employees would often grouse about their low pay."
+        ]
+      },
+      {
+        "id": "g27w21",
+        "word": "grovel",
+        "meaning": "To lie or move abjectly on the ground with one's face downward; to act in an obsequious way in order to obtain someone's forgiveness or favor.",
+        "examples": [
+          "He had to grovel for his job back after being fired.",
+          "She refused to grovel to anyone."
+        ]
+      },
+      {
+        "id": "g27w22",
+        "word": "grudging",
+        "meaning": "Given, granted, or allowed only reluctantly or resentfully.",
+        "examples": [
+          "He gave a grudging apology.",
+          "She had a grudging respect for her rival."
+        ]
+      },
+      {
+        "id": "g27w23",
+        "word": "grumble",
+        "meaning": "To complain about something in a bad-tempered way.",
+        "examples": [
+          "He was always grumbling about the food.",
+          "The students grumbled about the difficult exam."
+        ]
+      },
+      {
+        "id": "g27w24",
+        "word": "guarded",
+        "meaning": "Cautious and having possible reservations.",
+        "examples": [
+          "She gave a guarded response to the reporter's question.",
+          "He was very guarded about his personal life."
+        ]
+      },
+      {
+        "id": "g27w25",
+        "word": "guffaw",
+        "meaning": "A loud and boisterous laugh.",
+        "examples": [
+          "He let out a loud guffaw at the joke.",
+          "The audience erupted in guffaws."
+        ]
+      },
+      {
+        "id": "g27w26",
+        "word": "guile",
+        "meaning": "Sly or cunning intelligence.",
+        "examples": [
+          "He used his guile to trick his opponents.",
+          "The fox is a symbol of guile and cunning."
+        ]
+      },
+      {
+        "id": "g27w27",
+        "word": "guileless",
+        "meaning": "Devoid of guile; innocent and without deception.",
+        "examples": [
+          "She had a guileless and trusting nature.",
+          "The guileless child believed everything he was told."
+        ]
+      },
+      {
+        "id": "g27w28",
+        "word": "guise",
+        "meaning": "An external form, appearance, or manner of presentation, typically concealing the true nature of something.",
+        "examples": [
+          "He came to the party in the guise of a waiter.",
+          "Under the guise of friendship, he betrayed her."
+        ]
+      },
+      {
+        "id": "g27w29",
+        "word": "gullible",
+        "meaning": "Easily persuaded to believe something; credulous.",
+        "examples": [
+          "The gullible tourist was an easy target for the con artist.",
+          "She was so gullible that she believed his wild story."
+        ]
+      },
+      {
+        "id": "g27w30",
+        "word": "gumption",
+        "meaning": "Shrewd or spirited initiative and resourcefulness.",
+        "examples": [
+          "She had the gumption to start her own business.",
+          "It takes a lot of gumption to stand up for what you believe in."
+        ]
+      },
+      {
+        "id": "g27w31",
+        "word": "gustatory",
+        "meaning": "Concerned with tasting or the sense of taste.",
+        "examples": [
+          "The chef is a master of the gustatory arts.",
+          "The meal was a gustatory delight."
+        ]
+      },
+      {
+        "id": "g27w32",
+        "word": "gusto",
+        "meaning": "Enjoyment and enthusiasm in doing something.",
+        "examples": [
+          "He ate his dinner with great gusto.",
+          "She sang with gusto and passion."
+        ]
+      },
+      {
+        "id": "g27w33",
+        "word": "guttural",
+        "meaning": "(Of a speech sound) produced in the throat; harsh-sounding.",
+        "examples": [
+          "He spoke in a low, guttural voice.",
+          "The guttural sounds of the language were difficult to pronounce."
+        ]
+      },
+      {
+        "id": "g27w34",
+        "word": "guy",
+        "meaning": "A rope or line fixed to the ground to secure a tent or other structure.",
+        "examples": [
+          "The main guy of the tent snapped in the strong wind.",
+          "He tripped over a guy rope in the dark."
+        ]
+      },
+      {
+        "id": "g27w35",
+        "word": "habitat",
+        "meaning": "The natural home or environment of an animal, plant, or other organism.",
+        "examples": [
+          "The rainforest is the natural habitat of many exotic animals.",
+          "The destruction of their habitat is a major threat to the survival of the species."
+        ]
+      },
+      {
+        "id": "g27w36",
+        "word": "hackneyed",
+        "meaning": "(Of a phrase or idea) lacking significance through having been overused; unoriginal and trite.",
+        "examples": [
+          "The movie was full of hackneyed clichés.",
+          "His speech was full of hackneyed phrases and platitudes."
+        ]
+      },
+      {
+        "id": "g27w37",
+        "word": "haggard",
+        "meaning": "Looking exhausted and unwell, especially from fatigue, worry, or suffering.",
+        "examples": [
+          "He looked haggard after a sleepless night.",
+          "The haggard faces of the refugees told a story of hardship."
+        ]
+       },
+      {
+        "id": "g27w38",
+        "word": "hagiographic",
+        "meaning": "Excessively flattering or idealizing.",
+        "examples": [
+          "The biography was a hagiographic account of the leader's life.",
+          "The book was criticized for its hagiographic portrayal of the subject."
+        ]
+      },
+      {
+        "id": "g27w39",
+        "word": "hail",
+        "meaning": "To acclaim or praise enthusiastically.",
+        "examples": [
+          "The new discovery was hailed as a major breakthrough.",
+          "The critics hailed the new play as a masterpiece."
+        ]
+      },
+      {
+        "id": "g27w40",
+        "word": "halcyon",
+        "meaning": "Denoting a period of time in the past that was idyllically happy and peaceful.",
+        "examples": [
+          "She looked back on the halcyon days of her youth.",
+          "The country enjoyed a period of halcyon peace and prosperity."
+        ]
+      },
+      {
+        "id": "g27w41",
+        "word": "hallmark",
+        "meaning": "A distinctive feature, especially one of excellence.",
+        "examples": [
+          "The hallmark of a good leader is the ability to inspire others.",
+          "Simplicity is the hallmark of his design style."
+        ]
+      },
+      {
+        "id": "g27w42",
+        "word": "hallow",
+        "meaning": "To honor as holy.",
+        "examples": [
+          "The ground was hallowed by the blood of the soldiers who died there.",
+          "The ancient church is a hallowed place of worship."
+        ]
+      },
+      {
+        "id": "g27w43",
+        "word": "hallowed",
+        "meaning": "Greatly revered and honored.",
+        "examples": [
+          "The university is known for its hallowed halls of learning.",
+          "He walked on the hallowed ground where the battle had been fought."
+        ]
+      },
+      {
+        "id": "g27w44",
+        "word": "hallucinate",
+        "meaning": "To experience a seemingly real perception of something not actually present, as in a dream or from a disorder.",
+        "examples": [
+          "The high fever caused him to hallucinate.",
+          "He was hallucinating that he could fly."
+        ]
+      },
+      {
+        "id": "g27w45",
+        "word": "hamper",
+        "meaning": "To hinder or impede the movement or progress of.",
+        "examples": [
+          "The bad weather will hamper our efforts to rescue the stranded hikers.",
+          "Lack of funding is hampering the research project."
+        ]
+      },
+      {
+        "id": "g27w46",
+        "word": "hamstrung",
+        "meaning": "Severely restricted in effectiveness or efficiency.",
+        "examples": [
+          "The company was hamstrung by a lack of capital.",
+          "The new regulations have hamstrung the industry."
+        ]
+      },
+      {
+        "id": "g27w47",
+        "word": "hand-wringing",
+        "meaning": "An excessive display of concern or distress.",
+        "examples": [
+          "There was a lot of hand-wringing over the company's poor performance.",
+          "The hand-wringing of the politicians did not solve the problem."
+        ]
+      },
+      {
+        "id": "g27w48",
+        "word": "handwringing",
+        "meaning": "An excessive display of concern or distress.",
+        "examples": [
+          "Despite all the handwringing, the situation did not improve.",
+          "Her handwringing over the smallest details was exhausting."
+        ]
+      },
+      {
+        "id": "g27w49",
+        "word": "hankering",
+        "meaning": "A strong desire to have or do something.",
+        "examples": [
+          "He had a hankering for a new adventure.",
+          "She had a hankering to travel the world."
+        ]
+      },
+      {
+        "id": "g27w50",
+        "word": "haphazard",
+        "meaning": "Lacking any obvious principle of organization.",
+        "examples": [
+          "The books were arranged in a haphazard manner on the shelves.",
+          "His haphazard approach to his studies resulted in poor grades."
+        ]
+      },
+      {
+        "id": "g27w51",
+        "word": "hapless",
+        "meaning": "(Especially of a person) unfortunate.",
+        "examples": [
+          "The hapless victim was in the wrong place at the wrong time.",
+          "She was a hapless and clumsy person."
+        ]
+      },
+      {
+        "id": "g27w52",
+        "word": "haptic",
+        "meaning": "Relating to the sense of touch, in particular relating to the perception and manipulation of objects using the senses of touch and proprioception.",
+        "examples": [
+          "The new smartphone has haptic feedback that makes it feel like you are pressing real buttons.",
+          "The virtual reality system uses haptic technology to create a more immersive experience."
+        ]
+      },
+      {
+        "id": "g27w53",
+        "word": "harangue",
+        "meaning": "A lengthy and aggressive speech.",
+        "examples": [
+          "He delivered a long harangue against the government.",
+          "The coach gave the team a harangue after their poor performance."
+        ]
+      },
+      {
+        "id": "g27w54",
+        "word": "harass",
+        "meaning": "To subject to aggressive pressure or intimidation.",
+        "examples": [
+          "The protesters were harassing the police.",
+          "He was accused of harassing his female colleagues."
+        ]
+      },
+      {
+        "id": "g27w55",
+        "word": "harbinger",
+        "meaning": "A person or thing that announces or signals the approach of another.",
+        "examples": [
+          "The robin is a harbinger of spring.",
+          "The dark clouds were a harbinger of the coming storm."
+        ]
+      },
+      {
+        "id": "g27w56",
+        "word": "harbor",
+        "meaning": "To keep (a thought or feeling, typically a negative one) in one's mind, especially secretly.",
+        "examples": [
+          "He harbored a deep resentment towards his rival.",
+          "The city's port can harbor large ships."
+        ]
+      },
+      {
+        "id": "g27w57",
+        "word": "hardscrabble",
+        "meaning": "Involving hard work and struggle.",
+        "examples": [
+          "He came from a hardscrabble background and had to work for everything he had.",
+          "The farmers had a hardscrabble life, struggling to make a living from the land."
+        ]
+      },
+      {
+        "id": "g27w58",
+        "word": "hardy",
+        "meaning": "Robust; capable of enduring difficult conditions.",
+        "examples": [
+          "The hardy plant can survive in cold climates.",
+          "He was a hardy and resilient person."
+        ]
+      },
+      {
+        "id": "g27w59",
+        "word": "harmonious",
+        "meaning": "Tuneful; not discordant.",
+        "examples": [
+          "The choir sang in harmonious voices.",
+          "The different elements of the design created a harmonious whole."
+        ]
+       },
+      {
+        "id": "g27w60",
+        "word": "harried",
+        "meaning": "Feeling strained as a result of having demands persistently made on one; harassed.",
+        "examples": [
+          "The harried mother tried to calm her crying baby.",
+          "He looked harried and stressed after a long day at work."
+        ]
+      }
+    ]
+  }

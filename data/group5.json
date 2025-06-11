@@ -1,0 +1,545 @@
+{
+    "id": "group5",
+    "words": [
+        {
+            "id": "g5w1",
+            "word": "articulate",
+            "meaning": "Having or showing the ability to speak fluently and coherently.",
+            "examples": [
+                "She gave a witty, entertaining, and articulate speech.",
+                "He is an articulate and persuasive speaker."
+            ]
+        },
+        {
+            "id": "g5w2",
+            "word": "artifact",
+            "meaning": "An object made by a human being, typically an item of cultural or historical interest.",
+            "examples": [
+                "The museum is full of ancient Egyptian artifacts.",
+                "Archaeologists uncovered several stone artifacts at the site."
+            ]
+        },
+        {
+            "id": "g5w3",
+            "word": "artifice",
+            "meaning": "Clever or cunning devices or expedients, especially as used to trick or deceive others.",
+            "examples": [
+                "The whole story was a clever artifice to fool the police.",
+                "I was impressed by the artifice of the novel's plot."
+            ]
+        },
+        {
+            "id": "g5w4",
+            "word": "artless",
+            "meaning": "Without guile or deception; natural and simple.",
+            "examples": [
+                "Her artless charm won her many friends.",
+                "He had an artless and innocent manner."
+            ]
+        },
+        {
+            "id": "g5w5",
+            "word": "as broad as it is long",
+            "meaning": "Used to say that it is impossible to choose between two things or situations because they are equal.",
+            "examples": [
+                "Whether you take the highway or the back roads, it's as broad as it is long; both take 30 minutes.",
+                "You can pay now or later, but it's as broad as it is long since the total cost is the same."
+            ]
+        },
+        {
+            "id": "g5w6",
+            "word": "ascend",
+            "meaning": "To go up or climb.",
+            "examples": [
+                "The climbers began to ascend the mountain.",
+                "Smoke ascended from the chimney."
+            ]
+        },
+        {
+            "id": "g5w7",
+            "word": "ascendancy",
+            "meaning": "Occupation of a position of dominant power or influence.",
+            "examples": [
+                "The new political party is in the ascendancy.",
+                "His ideas gained ascendancy in the scientific community."
+            ]
+        },
+        {
+            "id": "g5w8",
+            "word": "ascertain",
+            "meaning": "To find (something) out for certain; make sure of.",
+            "examples": [
+                "The police are trying to ascertain the cause of the accident.",
+                "We need to ascertain whether the project is feasible."
+            ]
+        },
+        {
+            "id": "g5w9",
+            "word": "ascetic",
+            "meaning": "Characterized by or suggesting the practice of severe self-discipline and abstention from all forms of indulgence, typically for religious reasons.",
+            "examples": [
+                "The monk lived an ascetic life of prayer and solitude.",
+                "He followed an ascetic diet, eating only simple foods."
+            ]
+        },
+        {
+            "id": "g5w10",
+            "word": "ascribe",
+            "meaning": "To attribute something to (a cause, person, etc.).",
+            "examples": [
+                "He ascribed his success to hard work.",
+                "The painting was ascribed to an unknown artist."
+            ]
+        },
+        {
+            "id": "g5w11",
+            "word": "aseptic",
+            "meaning": "Free from contamination caused by harmful bacteria, viruses, or other microorganisms.",
+            "examples": [
+                "Surgical instruments must be kept in an aseptic environment.",
+                "The milk is packaged in aseptic cartons to keep it fresh."
+            ]
+        },
+        {
+            "id": "g5w12",
+            "word": "ashen",
+            "meaning": "Of the pale gray color of ash; (of a person's face) very pale with shock, fear, or illness.",
+            "examples": [
+                "Her face was ashen with fear when she saw the intruder.",
+                "The sky had an ashen, gloomy look before the storm."
+            ]
+        },
+        {
+            "id": "g5w13",
+            "word": "asinine",
+            "meaning": "Extremely stupid or foolish.",
+            "examples": [
+                "That was an asinine comment to make.",
+                "He kept asking asinine questions during the lecture."
+            ]
+        },
+        {
+            "id": "g5w14",
+            "word": "askance",
+            "meaning": "With an attitude or look of suspicion or disapproval.",
+            "examples": [
+                "The old man looked askance at the teenagers' loud music.",
+                "They looked askance at our unconventional proposal."
+            ]
+        },
+        {
+            "id": "g5w15",
+            "word": "askew",
+            "meaning": "Not in a straight or level position.",
+            "examples": [
+                "His tie was slightly askew.",
+                "The picture on the wall was askew."
+            ]
+        },
+        {
+            "id": "g5w16",
+            "word": "asperity",
+            "meaning": "Harshness of tone or manner.",
+            "examples": [
+                "She answered with asperity, clearly annoyed by the question.",
+                "He was known for the asperity of his critiques."
+            ]
+        },
+        {
+            "id": "g5w17",
+            "word": "aspersion",
+            "meaning": "An attack on the reputation or integrity of someone or something.",
+            "examples": [
+                "I don't think anyone is casting any aspersion on you.",
+                "He defended himself against the aspersion."
+            ]
+        },
+        {
+            "id": "g5w18",
+            "word": "aspersions",
+            "meaning": "Plural of aspersion; attacks on the reputation or integrity of someone or something.",
+            "examples": [
+                "He cast aspersions on his opponent's character.",
+                "She was upset by the aspersions cast on her work."
+            ]
+        },
+        {
+            "id": "g5w19",
+            "word": "aspirant",
+            "meaning": "Having ambitions to achieve something, typically to follow a particular career.",
+            "examples": [
+                "He is an aspirant to the throne.",
+                "The young aspirant hoped to become a famous actor."
+            ]
+        },
+        {
+            "id": "g5w20",
+            "word": "aspiration",
+            "meaning": "A hope or ambition of achieving something.",
+            "examples": [
+                "Her aspiration is to become a doctor.",
+                "He has high aspirations for his future."
+            ]
+        },
+        {
+            "id": "g5w21",
+            "word": "aspire",
+            "meaning": "To direct one's hopes or ambitions toward achieving something.",
+            "examples": [
+                "She aspires to a career in medicine.",
+                "Many people aspire to own their own home."
+            ]
+        },
+        {
+            "id": "g5w22",
+            "word": "assail",
+            "meaning": "To make a concerted or violent attack on.",
+            "examples": [
+                "The rebels assailed the fortress.",
+                "He was assailed with questions from the reporters."
+            ]
+        },
+        {
+            "id": "g5w23",
+            "word": "assay",
+            "meaning": "To determine the content or quality of (a metal or ore).",
+            "examples": [
+                "The jeweler will assay the gold to determine its purity.",
+                "They decided to assay the new drug for its effectiveness."
+            ]
+        },
+        {
+            "id": "g5w24",
+            "word": "assertive",
+            "meaning": "Having or showing a confident and forceful personality.",
+            "examples": [
+                "You need to be more assertive to get what you want.",
+                "She has an assertive and decisive manner."
+            ]
+        },
+        {
+            "id": "g5w25",
+            "word": "assess",
+            "meaning": "To evaluate or estimate the nature, ability, or quality of.",
+            "examples": [
+                "The committee will assess the applications.",
+                "It is important to assess the risks before starting a new business."
+            ]
+        },
+        {
+            "id": "g5w26",
+            "word": "asset",
+            "meaning": "A useful or valuable thing, person, or quality.",
+            "examples": [
+                "Her language skills are a great asset in her job.",
+                "The company's biggest asset is its loyal customer base."
+            ]
+        },
+        {
+            "id": "g5w27",
+            "word": "assiduous",
+            "meaning": "Showing great care and perseverance.",
+            "examples": [
+                "She was assiduous in her studies.",
+                "He is an assiduous worker who always does his best."
+            ]
+        },
+        {
+            "id": "g5w28",
+            "word": "assiduously",
+            "meaning": "With great care and perseverance.",
+            "examples": [
+                "She worked assiduously to complete the project on time.",
+                "He assiduously cultivated his connections in the industry."
+            ]
+        },
+        {
+            "id": "g5w29",
+            "word": "assimilate",
+            "meaning": "To take in (information, ideas, or culture) and understand fully.",
+            "examples": [
+                "It took her a long time to assimilate into the new culture.",
+                "Children can assimilate new information very quickly."
+            ]
+        },
+        {
+            "id": "g5w30",
+            "word": "assuage",
+            "meaning": "To make (an unpleasant feeling) less intense.",
+            "examples": [
+                "He tried to assuage her guilt.",
+                "The letter assuaged his fears."
+            ]
+        },
+        {
+            "id": "g5w31",
+            "word": "astonishment",
+            "meaning": "Great surprise.",
+            "examples": [
+                "She stared at him in astonishment.",
+                "To my astonishment, he remembered my name."
+            ]
+        },
+        {
+            "id": "g5w32",
+            "word": "astray",
+            "meaning": "Away from the correct path or direction.",
+            "examples": [
+                "The young man was led astray by bad company.",
+                "The letter must have gone astray in the post."
+            ]
+        },
+        {
+            "id": "g5w33",
+            "word": "astringent",
+            "meaning": "(of a comment or style of speaking) sharp or severe.",
+            "examples": [
+                "He made some astringent remarks about her performance.",
+                "Her astringent wit was not always appreciated."
+            ]
+        },
+        {
+            "id": "g5w34",
+            "word": "astute",
+            "meaning": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage.",
+            "examples": [
+                "He was an astute businessman who made a fortune.",
+                "She made an astute observation about the political situation."
+            ]
+        },
+        {
+            "id": "g5w35",
+            "word": "asylum",
+            "meaning": "The protection granted by a nation to someone who has left their native country as a political refugee.",
+            "examples": [
+                "He was granted asylum in the United States.",
+                "The family sought political asylum."
+            ]
+        },
+        {
+            "id": "g5w36",
+            "word": "atavism",
+            "meaning": "A tendency to revert to something ancient or ancestral.",
+            "examples": [
+                "The building's design was an atavism, resembling ancient Roman architecture.",
+                "His violent outburst was seen as a form of atavism."
+            ]
+        },
+        {
+            "id": "g5w37",
+            "word": "atone",
+            "meaning": "To make amends or reparation.",
+            "examples": [
+                "He wanted to atone for his sins.",
+                "She tried to atone for her past mistakes by helping others."
+            ]
+        },
+        {
+            "id": "g5w38",
+            "word": "atrophy",
+            "meaning": "(of body tissue or an organ) to waste away, typically due to the degeneration of cells.",
+            "examples": [
+                "Muscles will atrophy if they are not used.",
+                "The doctor was concerned about the atrophy of the patient's leg muscles."
+            ]
+        },
+        {
+            "id": "g5w39",
+            "word": "attentive",
+            "meaning": "Paying close attention to something.",
+            "examples": [
+                "The students were attentive during the lecture.",
+                "He is an attentive and caring host."
+            ]
+        },
+        {
+            "id": "g5w40",
+            "word": "attenuate",
+            "meaning": "To reduce the force, effect, or value of.",
+            "examples": [
+                "The new law is designed to attenuate the effects of the recession.",
+                "The sound was attenuated by the thick walls."
+            ]
+        },
+        {
+            "id": "g5w41",
+            "word": "attenuated",
+            "meaning": "Unnaturally thin; weakened in force or effect.",
+            "examples": [
+                "After the long illness, he was attenuated and frail.",
+                "The attenuated signal was difficult to detect."
+            ]
+        },
+        {
+            "id": "g5w42",
+            "word": "attest",
+            "meaning": "To provide or serve as clear evidence of.",
+            "examples": [
+                "The witness will attest to the defendant's alibi.",
+                "The high quality of the product attests to the skill of the workers."
+            ]
+        },
+        {
+            "id": "g5w43",
+            "word": "attrition",
+            "meaning": "The process of gradually reducing the strength or effectiveness of someone or something through sustained attack or pressure.",
+            "examples": [
+                "The company is trying to reduce its workforce through attrition.",
+                "The war of attrition lasted for years."
+            ]
+        },
+        {
+            "id": "g5w44",
+            "word": "attuned",
+            "meaning": "Receptive or aware.",
+            "examples": [
+                "She is attuned to the needs of her customers.",
+                "He is not very attuned to the feelings of others."
+            ]
+        },
+        {
+            "id": "g5w45",
+            "word": "atypical",
+            "meaning": "Not representative of a type, group, or class.",
+            "examples": [
+                "His reaction was atypical for someone in his position.",
+                "The patient's symptoms were atypical of the disease."
+            ]
+        },
+        {
+            "id": "g5w46",
+            "word": "au courant",
+            "meaning": "Aware of what is going on; well informed.",
+            "examples": [
+                "He is always au courant with the latest political news.",
+                "She likes to keep au courant with the latest fashion trends."
+            ]
+        },
+        {
+            "id": "g5w47",
+            "word": "audacious",
+            "meaning": "Showing a willingness to take surprisingly bold risks.",
+            "examples": [
+                "It was an audacious plan to rob the bank.",
+                "She made an audacious claim that she could solve the problem."
+            ]
+        },
+        {
+            "id": "g5w48",
+            "word": "audacity",
+            "meaning": "A willingness to take bold risks; rude or disrespectful behavior.",
+            "examples": [
+                "He had the audacity to ask for a raise after only a week on the job.",
+                "I can't believe she had the audacity to say that."
+            ]
+        },
+        {
+            "id": "g5w49",
+            "word": "augment",
+            "meaning": "To make (something) greater by adding to it; increase.",
+            "examples": [
+                "He took a second job to augment his income.",
+                "The company plans to augment its workforce."
+            ]
+        },
+        {
+            "id": "g5w50",
+            "word": "augury",
+            "meaning": "A sign of what will happen in the future; an omen.",
+            "examples": [
+                "The flock of birds was a good augury for their journey.",
+                "The ancient Romans practiced augury to predict the future."
+            ]
+        },
+        {
+            "id": "g5w51",
+            "word": "august",
+            "meaning": "Respected and impressive.",
+            "examples": [
+                "The august halls of the university were filled with students.",
+                "He was an august figure in the world of politics."
+            ]
+        },
+        {
+            "id": "g5w52",
+            "word": "auspice",
+            "meaning": "A divine or prophetic token.",
+            "examples": [
+                "The project was started under a favorable auspice.",
+                "The meeting began under the best auspices."
+            ]
+        },
+        {
+            "id": "g5w53",
+            "word": "auspicious",
+            "meaning": "Conducive to success; favorable.",
+            "examples": [
+                "It was an auspicious beginning to the new year.",
+                "The timing of the launch was auspicious."
+            ]
+        },
+        {
+            "id": "g5w54",
+            "word": "austere",
+            "meaning": "Severe or strict in manner, attitude, or appearance; (of living conditions or a way of life) having no comforts or luxuries.",
+            "examples": [
+                "The headmaster was an austere and forbidding figure.",
+                "The monks lived an austere life in the monastery."
+            ]
+        },
+        {
+            "id": "g5w55",
+            "word": "authoritarian",
+            "meaning": "Favoring or enforcing strict obedience to authority, especially that of the government, at the expense of personal freedom.",
+            "examples": [
+                "The country is ruled by an authoritarian regime.",
+                "He has an authoritarian style of management."
+            ]
+        },
+        {
+            "id": "g5w56",
+            "word": "authoritative",
+            "meaning": "Able to be trusted as being accurate or true; reliable.",
+            "examples": [
+                "This is the most authoritative book on the subject.",
+                "He is an authoritative source of information."
+            ]
+        },
+        {
+            "id": "g5w57",
+            "word": "autocratic",
+            "meaning": "Relating to a ruler who has absolute power.",
+            "examples": [
+                "The company was run by an autocratic manager.",
+                "The country suffered under the autocratic rule of the dictator."
+            ]
+        },
+        {
+            "id": "g5w58",
+            "word": "automaton",
+            "meaning": "A moving mechanical device made in imitation of a human being.",
+            "examples": [
+                "The factory workers were like automatons, repeating the same task all day.",
+                "She moved like an automaton, with no emotion on her face."
+            ]
+        },
+        {
+            "id": "g5w59",
+"word": "autonomous",
+            "meaning": "Having the freedom to govern itself or control its own affairs.",
+            "examples": [
+                "The region was granted autonomous status.",
+                "The company is an autonomous subsidiary of a larger corporation."
+            ]
+        },
+        {
+            "id": "g5w60",
+            "word": "autonomously",
+            "meaning": "Independently; with the freedom to control one's own affairs.",
+            "examples": [
+                "The university operates autonomously from the government.",
+                "Each department works autonomously."
+            ]
+        }
+    ]
+}

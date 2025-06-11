@@ -1,0 +1,545 @@
+{
+    "id": "group34",
+    "words": [
+      {
+        "id": "g34w1",
+        "word": "jest",
+        "meaning": "A thing said or done for amusement; a joke.",
+        "examples": [
+          "His comment was made in jest, but she took it seriously.",
+          "The lighthearted jest broke the tension in the room."
+        ]
+      },
+      {
+        "id": "g34w2",
+        "word": "jettison",
+        "meaning": "To abandon or discard (someone or something that is no longer wanted); to throw from an aircraft or ship.",
+        "examples": [
+          "The company had to jettison its unprofitable divisions to stay afloat.",
+          "The captain gave the order to jettison the cargo to lighten the sinking ship."
+        ]
+      },
+      {
+        "id": "g34w3",
+        "word": "jibe",
+        "meaning": "An insulting or mocking remark; a taunt.",
+        "examples": [
+          "He ignored the cruel jibes from the opposing fans.",
+          "She made a jibe about his new haircut."
+        ]
+      },
+      {
+        "id": "g34w4",
+        "word": "jingoism",
+        "meaning": "Extreme patriotism, especially in the form of aggressive or warlike foreign policy.",
+        "examples": [
+          "The politician's speech was full of jingoism, which worried the diplomats.",
+          "Jingoism can lead to a dangerous sense of national superiority."
+        ]
+      },
+      {
+        "id": "g34w5",
+        "word": "jocular",
+        "meaning": "Fond of or characterized by joking; humorous or playful.",
+        "examples": [
+          "He was in a jocular mood, making everyone in the office laugh.",
+          "Her jocular personality made her a favorite among her friends."
+        ]
+      },
+      {
+        "id": "g34w6",
+        "word": "jocund",
+        "meaning": "Cheerful and lighthearted.",
+        "examples": [
+          "The jocund music filled the air at the spring festival.",
+          "A jocund gathering of friends met to celebrate the good news."
+        ]
+      },
+      {
+        "id": "g34w7",
+        "word": "jostle",
+        "meaning": "To push, elbow, or bump against (someone) roughly, typically in a crowd.",
+        "examples": [
+          "Commuters had to jostle their way onto the crowded morning train.",
+          "He was jostled by the crowd as he tried to exit the stadium."
+        ]
+      },
+      {
+        "id": "g34w8",
+        "word": "jovial",
+        "meaning": "Cheerful and friendly.",
+        "examples": [
+          "The jovial host welcomed us warmly into his home.",
+          "He had a jovial laugh that was contagious."
+        ]
+      },
+      {
+        "id": "g34w9",
+        "word": "jubilant",
+        "meaning": "Feeling or expressing great happiness and triumph.",
+        "examples": [
+          "The jubilant fans rushed onto the field after their team won the championship.",
+          "She was jubilant when she heard she had been accepted into her dream university."
+        ]
+      },
+      {
+        "id": "g34w10",
+        "word": "judicious",
+        "meaning": "Having, showing, or done with good judgment or sense.",
+        "examples": [
+          "The judicious use of resources is essential for the project's success.",
+          "He made a judicious decision to invest in the promising new company."
+        ]
+      },
+      {
+        "id": "g34w11",
+        "word": "juggernaut",
+        "meaning": "A huge, powerful, and overwhelming force or institution.",
+        "examples": [
+          "The tech company has become a juggernaut in the industry, crushing all its competitors.",
+          "The political movement became a juggernaut that could not be stopped."
+        ]
+      },
+      {
+        "id": "g34w12",
+        "word": "juncture",
+        "meaning": "A particular point in events or time.",
+        "examples": [
+          "At this critical juncture, we must make a decision.",
+          "The company found itself at a juncture where it had to either expand or risk being overtaken."
+        ]
+      },
+      {
+        "id": "g34w13",
+        "word": "junta",
+        "meaning": "A military or political group that rules a country after taking power by force.",
+        "examples": [
+          "The military junta overthrew the democratically elected government.",
+          "The country was ruled by a junta for ten years."
+        ]
+      },
+      {
+        "id": "g34w14",
+        "word": "jurisdiction",
+        "meaning": "The official power to make legal decisions and judgments.",
+        "examples": [
+          "The case falls outside the court's jurisdiction.",
+          "The FBI has jurisdiction over federal crimes."
+        ]
+      },
+      {
+        "id": "g34w15",
+        "word": "juxtapose",
+        "meaning": "To place or deal with close together for contrasting effect.",
+        "examples": [
+          "The artist liked to juxtapose bright colors with dark shadows in her paintings.",
+          "The article juxtaposed the lifestyles of the rich and the poor."
+        ]
+      },
+      {
+        "id": "g34w16",
+        "word": "keen",
+        "meaning": "Having or showing eagerness or enthusiasm; (of a sense) highly developed.",
+        "examples": [
+          "She is a keen supporter of environmental causes.",
+          "The dog has a keen sense of smell."
+        ]
+      },
+      {
+        "id": "g34w17",
+        "word": "keep a stiff upper lip",
+        "meaning": "To remain resolute and unemotional in the face of adversity.",
+        "examples": [
+          "Even when he lost his job, he tried to keep a stiff upper lip for his family.",
+          "She was told to keep a stiff upper lip and not to cry in public."
+        ]
+      },
+      {
+        "id": "g34w18",
+        "word": "keep the pot boiling",
+        "meaning": "To maintain interest, excitement, or activity; to earn a living.",
+        "examples": [
+          "The author released short stories to keep the pot boiling while working on his next novel.",
+          "He took on a second job just to keep the pot boiling."
+        ]
+      },
+      {
+        "id": "g34w19",
+        "word": "kindle",
+        "meaning": "To light or set on fire; to arouse or inspire (an emotion or feeling).",
+        "examples": [
+          "The speech kindled a sense of patriotism in the audience.",
+          "He used dry leaves to kindle the campfire."
+        ]
+      },
+      {
+        "id": "g34w20",
+        "word": "kindred",
+        "meaning": "One's family and relations; similar in kind.",
+        "examples": [
+          "They felt they were kindred spirits, sharing the same love for art and music.",
+          "She invited all her kindred to the family reunion."
+        ]
+      },
+      {
+        "id": "g34w21",
+        "word": "kinetic",
+        "meaning": "Relating to or resulting from motion.",
+        "examples": [
+          "Kinetic energy is the energy an object possesses due to its motion.",
+          "The sculpture was a kinetic work of art, with moving parts."
+        ]
+      },
+      {
+        "id": "g34w22",
+        "word": "kismet",
+        "meaning": "Destiny; fate.",
+        "examples": [
+          "It was kismet that they met on that rainy day.",
+          "He believed it was his kismet to become a great musician."
+        ]
+      },
+      {
+        "id": "g34w23",
+        "word": "knell",
+        "meaning": "The sound of a bell, especially when rung solemnly for a death or funeral.",
+        "examples": [
+          "The church bell's knell signaled the start of the funeral service.",
+          "The company's bankruptcy sounded the death knell for the small town's economy."
+        ]
+      },
+      {
+        "id": "g34w24",
+        "word": "know the ropes",
+        "meaning": "To have experience and be familiar with the way something is done.",
+        "examples": [
+          "Ask the veteran sailor for help; he really knows the ropes.",
+          "After a few weeks on the job, the new employee began to know the ropes."
+        ]
+      },
+      {
+        "id": "g34w25",
+        "word": "kowtow",
+        "meaning": "To act in an excessively subservient manner.",
+        "examples": [
+          "The employees were expected to kowtow to the tyrannical boss.",
+          "She refused to kowtow to anyone's demands."
+        ]
+      },
+      {
+        "id": "g34w26",
+        "word": "kudos",
+        "meaning": "Praise and honor received for an achievement.",
+        "examples": [
+          "Kudos to the entire team for a job well done.",
+          "The scientist received kudos from her peers for the groundbreaking discovery."
+        ]
+      },
+      {
+        "id": "g34w27",
+        "word": "labile",
+        "meaning": "Liable to change; easily altered.",
+        "examples": [
+          "A teenager's emotions can be quite labile.",
+          "The chemical compound is labile and decomposes quickly when exposed to light."
+        ]
+      },
+      {
+        "id": "g34w28",
+        "word": "laborious",
+        "meaning": "(Especially of a task or process) requiring considerable effort and time.",
+        "examples": [
+          "Building the stone wall was a laborious task.",
+          "He made a laborious effort to climb the steep hill."
+        ]
+      },
+      {
+        "id": "g34w29",
+        "word": "labyrinth",
+        "meaning": "A complicated irregular network of passages or paths in which it is difficult to find one's way; a maze.",
+        "examples": [
+          "The ancient city was a labyrinth of narrow, winding streets.",
+          "He found himself lost in a labyrinth of legal paperwork."
+        ]
+      },
+      {
+        "id": "g34w30",
+        "word": "lacerate",
+        "meaning": "To tear or make deep cuts in (flesh or skin).",
+        "examples": [
+          "The broken glass could easily lacerate your hand.",
+          "His arm was badly lacerated in the accident."
+        ]
+      },
+      {
+        "id": "g34w31",
+        "word": "laceration",
+        "meaning": "A deep cut or tear in skin or flesh.",
+        "examples": [
+          "The doctor stitched up the deep laceration on his leg.",
+          "He suffered multiple cuts and lacerations in the fall."
+        ]
+      },
+      {
+        "id": "g34w32",
+        "word": "lachrymose",
+        "meaning": "Tearful or given to weeping.",
+        "examples": [
+          "The lachrymose movie made everyone in the audience cry.",
+          "She was in a lachrymose mood after hearing the sad news."
+        ]
+      },
+      {
+        "id": "g34w33",
+        "word": "lackadaisical",
+        "meaning": "Lacking enthusiasm and determination; carelessly lazy.",
+        "examples": [
+          "His lackadaisical attitude toward his studies resulted in poor grades.",
+          "The team gave a lackadaisical performance and lost the game."
+        ]
+      },
+      {
+        "id": "g34w34",
+        "word": "lackluster",
+        "meaning": "Lacking in vitality, force, or conviction; uninspired or uninspiring.",
+        "examples": [
+          "The actor gave a lackluster performance that disappointed the critics.",
+          "The economy's lackluster growth has been a cause for concern."
+        ]
+      },
+      {
+        "id": "g34w35",
+        "word": "laconic",
+        "meaning": "(Of a person, speech, or style of writing) using very few words.",
+        "examples": [
+          "He was a laconic man who was known for his short, pithy responses.",
+          "Her laconic reply of 'Fine' suggested that something was wrong."
+        ]
+      },
+      {
+        "id": "g34w36",
+        "word": "lambast",
+        "meaning": "To criticize (someone or something) harshly.",
+        "examples": [
+          "The coach will surely lambast the team for their terrible performance.",
+          "Critics lambasted the new film, calling it a complete failure."
+        ]
+      },
+      {
+        "id": "g34w37",
+        "word": "lambaste",
+        "meaning": "To criticize (someone or something) harshly.",
+        "examples": [
+          "The newspaper editorial did not hesitate to lambaste the mayor's new policy.",
+          "She was lambasted by her boss for making such a costly mistake."
+        ]
+      },
+      {
+        "id": "g34w38",
+        "word": "lament",
+        "meaning": "A passionate expression of grief or sorrow; to mourn.",
+        "examples": [
+          "He wrote a poem to lament the death of his friend.",
+          "The song was a lament for a lost love."
+        ]
+      },
+      {
+        "id": "g34w39",
+        "word": "lampoon",
+        "meaning": "To publicly criticize (someone or something) by using ridicule, irony, or sarcasm.",
+        "examples": [
+          "The satirical show is known for the way it will lampoon politicians.",
+          "He wrote a clever article to lampoon the company's absurd new rules."
+        ]
+      },
+      {
+        "id": "g34w40",
+        "word": "landmark",
+        "meaning": "An object or feature that is easily seen and recognized, marking a location; an event or discovery marking an important turning point.",
+        "examples": [
+          "The Eiffel Tower is a famous landmark in Paris.",
+          "The court's ruling was a landmark in the history of civil rights."
+        ]
+      },
+      {
+        "id": "g34w41",
+        "word": "landmark (adj)",
+        "meaning": "(Of a decision, event, etc.) of outstanding significance.",
+        "examples": [
+          "The Supreme Court reached a landmark decision that will affect millions.",
+          "The invention of the printing press was a landmark event in human history."
+        ]
+      },
+      {
+        "id": "g34w42",
+        "word": "languid",
+        "meaning": "Displaying or having a disinclination for physical exertion; slow and relaxed.",
+        "examples": [
+          "They spent a languid afternoon by the pool.",
+          "She gave a languid wave of her hand."
+        ]
+      },
+      {
+        "id": "g34w43",
+        "word": "languish",
+        "meaning": "To lose or lack vitality; grow weak or feeble.",
+        "examples": [
+          "The plant will languish if it does not get enough sunlight.",
+          "He continued to languish in prison for years."
+        ]
+      },
+      {
+        "id": "g34w44",
+        "word": "languorous",
+        "meaning": "Characterized by tiredness or inactivity, especially of a pleasurable kind.",
+        "examples": [
+          "The languorous heat of the summer afternoon made her feel sleepy.",
+          "They enjoyed a languorous vacation on the tropical island."
+        ]
+      },
+      {
+        "id": "g34w45",
+        "word": "lapidary",
+        "meaning": "Relating to stone and gems and the work involved in engraving, cutting, or polishing; (of language) elegant and concise.",
+        "examples": [
+          "The museum had an impressive collection of lapidary art.",
+          "His speech was known for its lapidary style, with every word carefully chosen."
+        ]
+      },
+      {
+        "id": "g34w46",
+        "word": "larceny",
+        "meaning": "Theft of personal property.",
+        "examples": [
+          "He was charged with grand larceny for stealing the valuable painting.",
+          "Petty larceny, such as shoplifting, is still a crime."
+        ]
+      },
+      {
+        "id": "g34w47",
+        "word": "largess",
+        "meaning": "Generosity in bestowing money or gifts upon others.",
+        "examples": [
+          "The billionaire was known for his largess, donating millions to charity.",
+          "He relied on the largess of his wealthy friends."
+        ]
+      },
+      {
+        "id": "g34w48",
+        "word": "largess or largesse",
+        "meaning": "Generosity in bestowing money or gifts upon others.",
+        "examples": [
+          "The university was built with the largess of a wealthy benefactor.",
+          "The arts festival is dependent on the largesse of its patrons."
+        ]
+      },
+      {
+        "id": "g34w49",
+        "word": "largesse",
+        "meaning": "Generosity in bestowing money or gifts upon others.",
+        "examples": [
+          "The king was known for his largesse towards his loyal subjects.",
+          "The foundation's largesse has funded numerous research projects."
+        ]
+      },
+      {
+        "id": "g34w50",
+        "word": "lascivious",
+        "meaning": "Feeling or revealing an overt and often offensive sexual desire.",
+        "examples": [
+          "He was fired for making lascivious comments to his coworkers.",
+          "The old man gave the young woman a lascivious stare."
+        ]
+      },
+      {
+        "id": "g34w51",
+        "word": "lassitude",
+        "meaning": "A state of physical or mental weariness; lack of energy.",
+        "examples": [
+          "A feeling of lassitude washed over her after the long, stressful week.",
+          "The hot weather filled him with a sense of lassitude."
+        ]
+      },
+      {
+        "id": "g34w52",
+        "word": "lasso",
+        "meaning": "A rope with a noose at one end, used for catching cattle.",
+        "examples": [
+          "The cowboy expertly threw the lasso over the calf's head.",
+          "She learned how to use a lasso at the dude ranch."
+        ]
+      },
+      {
+        "id": "g34w53",
+        "word": "latent",
+        "meaning": "(Of a quality or state) existing but not yet developed or manifest; hidden or concealed.",
+        "examples": [
+          "She has a latent talent for art that she has not yet discovered.",
+          "The virus can remain latent in the body for years."
+        ]
+      },
+      {
+        "id": "g34w54",
+        "word": "latitude",
+        "meaning": "Scope for freedom of action or thought.",
+        "examples": [
+          "The professor gives his students a great deal of latitude in choosing their research topics.",
+          "The new manager was given considerable latitude to reorganize the department."
+        ]
+      },
+      {
+        "id": "g34w55",
+        "word": "laud",
+        "meaning": "To praise (a person or their achievements) highly, especially in a public context.",
+        "examples": [
+          "The critics lauded the author's new novel.",
+          "The community gathered to laud the brave firefighters."
+        ]
+      },
+      {
+        "id": "g34w56",
+        "word": "laudable",
+        "meaning": "(Of an action, idea, or goal) deserving praise and commendation.",
+        "examples": [
+          "Her efforts to help the homeless are truly laudable.",
+          "He made a laudable attempt to resolve the conflict peacefully."
+        ]
+      },
+      {
+        "id": "g34w57",
+        "word": "lavish",
+        "meaning": "Sumptuously rich, elaborate, or luxurious.",
+        "examples": [
+          "They threw a lavish party to celebrate their anniversary.",
+          "He lavished her with expensive gifts."
+        ]
+      },
+      {
+        "id": "g34w58",
+        "word": "lax",
+        "meaning": "Not sufficiently strict, severe, or careful.",
+        "examples": [
+          "The company was criticized for its lax safety standards.",
+          "His lax attitude toward his responsibilities got him into trouble."
+        ]
+      },
+      {
+        "id": "g34w59",
+        "word": "layperson",
+        "meaning": "A person without professional or specialized knowledge in a particular subject.",
+        "examples": [
+          "The book is written for a layperson, not for a medical expert.",
+          "From the perspective of a layperson, the legal document was impossible to understand."
+        ]
+      },
+      {
+        "id": "g34w60",
+        "word": "leash",
+        "meaning": "A strap or cord for leading a dog or other animal; a means of control or restraint.",
+        "examples": [
+          "You must keep your dog on a leash in the park.",
+          "The government tried to keep a tight leash on the media."
+        ]
+      }
+    ]
+  }

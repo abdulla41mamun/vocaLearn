@@ -1,0 +1,545 @@
+{
+    "id": "group6",
+    "words": [
+        {
+            "id": "g6w1",
+            "word": "autonomy",
+            "meaning": "The right or condition of self-government; freedom from external control or influence.",
+            "examples": [
+                "The region was granted autonomy after a long struggle.",
+                "The university values its autonomy from government interference."
+            ]
+        },
+        {
+            "id": "g6w2",
+            "word": "auxiliary",
+            "meaning": "Providing supplementary or additional help and support.",
+            "examples": [
+                "The hospital has an auxiliary nursing staff to help during emergencies.",
+                "The ship has an auxiliary engine in case the main one fails."
+            ]
+        },
+        {
+            "id": "g6w3",
+            "word": "avarice",
+            "meaning": "Extreme greed for wealth or material gain.",
+            "examples": [
+                "His heart was consumed by avarice.",
+                "Avarice can lead people to do terrible things."
+            ]
+        },
+        {
+            "id": "g6w4",
+            "word": "avaricious",
+            "meaning": "Having or showing an extreme greed for wealth or material gain.",
+            "examples": [
+                "The avaricious businessman was never satisfied with his profits.",
+                "She had an avaricious hunger for power."
+            ]
+        },
+        {
+            "id": "g6w5",
+            "word": "aver",
+            "meaning": "To state or assert to be the case.",
+            "examples": [
+                "He averred that he was innocent of the charges.",
+                "She averred that she had seen the man leave the building."
+            ]
+        },
+        {
+            "id": "g6w6",
+            "word": "averse",
+            "meaning": "Having a strong dislike of or opposition to something.",
+            "examples": [
+                "He is averse to taking unnecessary risks.",
+                "She is not averse to a little flattery."
+            ]
+        },
+        {
+            "id": "g6w7",
+            "word": "aversion",
+            "meaning": "A strong dislike or disinclination.",
+            "examples": [
+                "He has a strong aversion to spiders.",
+                "She felt an immediate aversion to the new manager."
+            ]
+        },
+        {
+            "id": "g6w8",
+            "word": "avert",
+            "meaning": "To turn away (one's eyes or thoughts); or to prevent or ward off (an undesirable occurrence).",
+            "examples": [
+                "She had to avert her eyes from the gruesome scene.",
+                "The government took steps to avert a crisis."
+            ]
+        },
+        {
+            "id": "g6w9",
+            "word": "avid",
+            "meaning": "Having or showing a keen interest in or enthusiasm for something.",
+            "examples": [
+                "He is an avid reader of history books.",
+                "She is an avid supporter of the local team."
+            ]
+        },
+        {
+            "id": "g6w10",
+            "word": "avocation",
+            "meaning": "A hobby or minor occupation.",
+            "examples": [
+                "His main avocation is stamp collecting.",
+                "She pursued her avocation of painting in her spare time."
+            ]
+        },
+        {
+            "id": "g6w11",
+            "word": "avow",
+            "meaning": "To assert or confess openly.",
+            "examples": [
+                "He avowed that he would not rest until he had achieved his goal.",
+                "She avowed her love for him in front of everyone."
+            ]
+        },
+        {
+            "id": "g6w12",
+            "word": "avuncular",
+            "meaning": "Kind and friendly toward a younger or less experienced person; relating to an uncle.",
+            "examples": [
+                "He gave the young man some avuncular advice.",
+                "The professor had an avuncular relationship with his students."
+            ]
+        },
+        {
+            "id": "g6w13",
+            "word": "awesome",
+            "meaning": "Extremely impressive or daunting; inspiring great admiration, apprehension, or fear.",
+            "examples": [
+                "The view from the top of the mountain was awesome.",
+                "He has an awesome responsibility on his shoulders."
+            ]
+        },
+        {
+            "id": "g6w14",
+            "word": "axiom",
+            "meaning": "A statement or proposition that is regarded as being established, accepted, or self-evidently true.",
+            "examples": [
+                "It is a well-known axiom that 'actions speak louder than words'.",
+                "The book begins with the axiom that all men are created equal."
+            ]
+        },
+        {
+            "id": "g6w15",
+            "word": "axiomatic",
+            "meaning": "Self-evident or unquestionable.",
+            "examples": [
+                "It is axiomatic that practice makes perfect.",
+                "The axiomatic truth of the statement cannot be denied."
+            ]
+        },
+        {
+            "id": "g6w16",
+            "word": "Babble",
+            "meaning": "To talk rapidly and continuously in a foolish, excited, or incomprehensible way.",
+            "examples": [
+                "The baby started to babble happily.",
+                "He began to babble on about his latest conspiracy theory."
+            ]
+        },
+        {
+            "id": "g6w17",
+            "word": "bacchanalian",
+            "meaning": "Characterized by or given to drunken revelry; riotously drunken.",
+            "examples": [
+                "The party turned into a bacchanalian frenzy.",
+                "He was known for his bacchanalian lifestyle."
+            ]
+        },
+        {
+            "id": "g6w18",
+            "word": "badger",
+            "meaning": "To ask (someone) repeatedly and annoyingly for something; pester.",
+            "examples": [
+                "The children kept badgering him to buy them a new toy.",
+                "She finally agreed after he had badgered her for weeks."
+            ]
+        },
+        {
+            "id": "g6w19",
+            "word": "bagatelle",
+            "meaning": "A thing of little importance; a trifle.",
+            "examples": [
+                "The argument was over a mere bagatelle.",
+                "Compared to the big problems we face, this is a bagatelle."
+            ]
+        },
+        {
+            "id": "g6w20",
+            "word": "baleful",
+            "meaning": "Threatening harm; menacing.",
+            "examples": [
+                "He gave her a baleful look.",
+                "The baleful clouds gathered on the horizon."
+            ]
+        },
+        {
+            "id": "g6w21",
+            "word": "balk",
+            "meaning": "To hesitate or be unwilling to accept an idea or undertaking.",
+            "examples": [
+                "He balked at the idea of paying so much for a ticket.",
+                "The horse balked at the high fence."
+            ]
+        },
+        {
+            "id": "g6w22",
+            "word": "balloon",
+            "meaning": "To swell out in a spherical shape; to increase rapidly.",
+            "examples": [
+                "The company's debt has ballooned in recent years.",
+                "The dress ballooned out in the wind."
+            ]
+        },
+        {
+            "id": "g6w23",
+            "word": "banal",
+            "meaning": "So lacking in originality as to be obvious and boring.",
+            "examples": [
+                "The movie's plot was banal and predictable.",
+                "He made some banal remarks about the weather."
+            ]
+        },
+        {
+            "id": "g6w24",
+            "word": "banality",
+            "meaning": "The fact or condition of being banal; unoriginality.",
+            "examples": [
+                "The conversation was full of banalities and clichés.",
+                "She was struck by the banality of everyday life."
+            ]
+        },
+        {
+            "id": "g6w25",
+            "word": "bane",
+            "meaning": "A cause of great distress or annoyance.",
+            "examples": [
+                "The bane of my existence is the constant noise from the construction site.",
+                "That child is the bane of my life."
+            ]
+        },
+        {
+            "id": "g6w26",
+            "word": "baneful",
+            "meaning": "Harmful or destructive.",
+            "examples": [
+                "The baneful influence of the dictator was felt throughout the country.",
+                "The baneful effects of the drug were not immediately apparent."
+            ]
+        },
+        {
+            "id": "g6w27",
+            "word": "banish",
+            "meaning": "To send (someone) away from a country or place as an official punishment.",
+            "examples": [
+                "The king banished his enemies from the kingdom.",
+                "He was banished to a remote island."
+            ]
+        },
+        {
+            "id": "g6w28",
+            "word": "banter",
+            "meaning": "The playful and friendly exchange of teasing remarks.",
+            "examples": [
+                "The two friends engaged in some lighthearted banter.",
+                "There was a lot of banter and good humor at the party."
+            ]
+        },
+        {
+            "id": "g6w29",
+            "word": "bard",
+            "meaning": "A poet, traditionally one reciting epics and associated with a particular oral tradition.",
+            "examples": [
+                "William Shakespeare is often referred to as 'the Bard'.",
+                "The ancient bard sang tales of heroes and gods."
+            ]
+        },
+        {
+            "id": "g6w30",
+            "word": "barefaced",
+            "meaning": "Shameless; undisguised.",
+            "examples": [
+                "That was a barefaced lie!",
+                "He had the barefaced audacity to ask for more money."
+            ]
+        },
+        {
+            "id": "g6w31",
+            "word": "barometer",
+            "meaning": "Something that reflects changes in circumstances or opinions.",
+            "examples": [
+                "The stock market is a barometer of economic confidence.",
+                "Consumer spending is a good barometer of the country's economic health."
+            ]
+        },
+        {
+            "id": "g6w32",
+            "word": "baroque",
+            "meaning": "Relating to or denoting a style of European architecture, music, and art of the 17th and 18th centuries that followed mannerism and is characterized by ornate detail.",
+            "examples": [
+                "The church was built in a magnificent baroque style.",
+                "He preferred the simple elegance of classical music to the ornate complexity of baroque."
+            ]
+        },
+        {
+            "id": "g6w33",
+            "word": "barrage",
+            "meaning": "A concentrated artillery bombardment over a wide area.",
+            "examples": [
+                "The city came under a heavy barrage of shelling.",
+                "He faced a barrage of questions from the press."
+            ]
+        },
+        {
+            "id": "g6w34",
+            "word": "barren",
+            "meaning": "(of land) too poor to produce much or any vegetation.",
+            "examples": [
+                "The barren desert stretched for miles in every direction.",
+                "The land was barren and unsuitable for farming."
+            ]
+        },
+        {
+            "id": "g6w35",
+            "word": "base",
+            "meaning": "Without moral principles; ignoble.",
+            "examples": [
+                "It was a base and cowardly act.",
+                "He was motivated by base desires."
+            ]
+        },
+        {
+            "id": "g6w36",
+            "word": "bask",
+            "meaning": "To lie exposed to warmth and light, typically from the sun, for relaxation and pleasure.",
+            "examples": [
+                "The cat was basking in the sunshine.",
+                "He basked in the glory of his victory."
+            ]
+        },
+        {
+            "id": "g6w37",
+            "word": "bastardization",
+            "meaning": "The action of corrupting or debasing something.",
+            "examples": [
+                "Critics called the new movie a bastardization of the original book.",
+                "The bastardization of the language is a cause for concern."
+            ]
+        },
+        {
+            "id": "g6w38",
+            "word": "battery",
+            "meaning": "A series of similar items.",
+            "examples": [
+                "The lawyer faced a battery of questions from the reporters.",
+                "The doctor ordered a battery of tests."
+            ]
+        },
+        {
+            "id": "g6w39",
+            "word": "bauble",
+            "meaning": "A small, showy trinket or decoration.",
+            "examples": [
+                "The Christmas tree was decorated with colorful baubles.",
+                "She spent her money on cheap baubles and trinkets."
+            ]
+        },
+        {
+            "id": "g6w40",
+            "word": "bawdy",
+            "meaning": "Dealing with sexual matters in a comical way; humorously indecent.",
+            "examples": [
+                "The play was full of bawdy humor.",
+                "He told a bawdy joke that made everyone laugh."
+            ]
+        },
+        {
+            "id": "g6w41",
+            "word": "baying",
+            "meaning": "(of a dog, especially a large one) to bark or howl loudly.",
+            "examples": [
+                "The hounds were baying at the moon.",
+                "The crowd was baying for blood."
+            ]
+        },
+        {
+            "id": "g6w42",
+            "word": "beatific",
+            "meaning": "Feeling or expressing blissful happiness.",
+            "examples": [
+                "She had a beatific smile on her face.",
+                "The saint was depicted with a beatific expression."
+            ]
+        },
+        {
+            "id": "g6w43",
+            "word": "becoming",
+            "meaning": "(especially of clothing or a color) suitable or flattering.",
+            "examples": [
+                "That dress is very becoming on you.",
+                "The new hairstyle is very becoming."
+            ]
+        },
+        {
+            "id": "g6w44",
+            "word": "bedlam",
+            "meaning": "A scene of uproar and confusion.",
+            "examples": [
+                "There was bedlam in the streets after the team won the championship.",
+                "The classroom was in a state of bedlam."
+            ]
+        },
+        {
+            "id": "g6w45",
+            "word": "befuddled",
+            "meaning": "Unable to think clearly; confused.",
+            "examples": [
+                "He was befuddled by the complex instructions.",
+                "The old man was befuddled and didn't know where he was."
+            ]
+        },
+        {
+            "id": "g6w46",
+            "word": "beg",
+            "meaning": "To ask (someone) earnestly or humbly for something.",
+            "examples": [
+                "He begged her to forgive him.",
+                "The children begged to be allowed to stay up late."
+            ]
+        },
+        {
+            "id": "g6w47",
+            "word": "beget",
+            "meaning": "To bring (a child) into existence by the process of reproduction; to give rise to; bring about.",
+            "examples": [
+                "Violence can beget more violence.",
+                "In the Bible, Abraham begot Isaac."
+            ]
+        },
+        {
+            "id": "g6w48",
+            "word": "begrudge",
+            "meaning": "To envy (someone) the possession or enjoyment of (something).",
+            "examples": [
+                "I don't begrudge him his success; he's worked hard for it.",
+                "She begrudged her sister the attention she received from their parents."
+            ]
+        },
+        {
+            "id": "g6w49",
+            "word": "beguile",
+            "meaning": "To charm or enchant (someone), sometimes in a deceptive way.",
+            "examples": [
+                "He beguiled her with his smooth talk and charming smile.",
+                "She was beguiled into buying the expensive dress."
+            ]
+        },
+        {
+            "id": "g6w50",
+            "word": "behemoth",
+            "meaning": "A huge or monstrous creature or thing.",
+            "examples": [
+                "The new shopping mall is a behemoth of a building.",
+                "The company has become a behemoth in the tech industry."
+            ]
+        },
+        {
+            "id": "g6w51",
+            "word": "behind the eight ball",
+            "meaning": "In a difficult or losing position.",
+            "examples": [
+                "After losing the key witness, the prosecution was behind the eight ball.",
+                "He's behind the eight ball financially."
+            ]
+        },
+        {
+            "id": "g6w52",
+            "word": "behooves",
+            "meaning": "It is a duty or responsibility for someone to do something; it is incumbent on.",
+            "examples": [
+                "It behooves us to be prepared for any emergency.",
+                "It behooves the team to practice hard before the big game."
+            ]
+        },
+        {
+            "id": "g6w53",
+            "word": "belabor",
+            "meaning": "To argue or elaborate (a subject) in excessive detail.",
+            "examples": [
+                "There is no need to belabor the point; we all understand.",
+                "He kept belaboring his achievements."
+            ]
+        },
+        {
+            "id": "g6w54",
+            "word": "belated",
+            "meaning": "Coming or happening later than should have been the case.",
+            "examples": [
+                "He sent her a belated birthday card.",
+                "She made a belated apology."
+            ]
+        },
+        {
+            "id": "g6w55",
+            "word": "beleaguered",
+            "meaning": "In a very difficult situation.",
+            "examples": [
+                "The beleaguered company is facing bankruptcy.",
+                "The beleaguered president is facing calls for his resignation."
+            ]
+        },
+        {
+            "id": "g6w56",
+            "word": "belfry",
+            "meaning": "The part of a bell tower or steeple in which bells are housed.",
+            "examples": [
+                "The old church had a magnificent belfry.",
+                "The expression 'bats in the belfry' means someone is eccentric or crazy."
+            ]
+        },
+        {
+            "id": "g6w57",
+            "word": "belie",
+            "meaning": "To fail to give a true notion or impression of (something); disguise or contradict.",
+            "examples": [
+                "His calm demeanor belied his inner turmoil.",
+                "Her cheerful smile belied the sadness in her eyes."
+            ]
+        },
+        {
+            "id": "g6w58",
+            "word": "belied",
+            "meaning": "Past tense of belie; failed to give a true notion or impression of (something).",
+            "examples": [
+                "His confident words were belied by his nervous gestures.",
+                "The initial test results belied the severity of the disease."
+            ]
+        },
+        {
+            "id": "g6w59",
+            "word": "belittle",
+            "meaning": "To make (someone or something) seem unimportant.",
+            "examples": [
+                "He would always belittle her achievements.",
+                "It is not right to belittle the efforts of others."
+            ]
+        },
+        {
+            "id": "g6w60",
+            "word": "bellicose",
+            "meaning": "Demonstrating aggression and willingness to fight.",
+            "examples": [
+                "The bellicose politician was always eager for a confrontation.",
+                "The country adopted a bellicose stance towards its neighbors."
+            ]
+        }
+    ]
+}

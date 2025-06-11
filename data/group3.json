@@ -1,0 +1,545 @@
+{
+    "id": "group3",
+    "words": [
+        {
+            "id": "g3w1",
+            "word": "altruism",
+            "meaning": "The belief in or practice of disinterested and selfless concern for the well-being of others.",
+            "examples": [
+                "Firefighters and nurses are often motivated by altruism.",
+                "Some people argue that pure altruism is impossible."
+            ]
+        },
+        {
+            "id": "g3w2",
+            "word": "altruistic",
+            "meaning": "Showing a disinterested and selfless concern for the well-being of others; unselfish.",
+            "examples": [
+                "Her altruistic behavior was an inspiration to us all.",
+                "He made an altruistic donation to the charity."
+            ]
+        },
+        {
+            "id": "g3w3",
+            "word": "amalgam",
+            "meaning": "A mixture or blend of different elements.",
+            "examples": [
+                "The band's music is an amalgam of jazz, rock, and blues.",
+                "The new curriculum is an amalgam of traditional and modern teaching methods."
+            ]
+        },
+        {
+            "id": "g3w4",
+            "word": "amalgamate",
+            "meaning": "To combine or unite to form one organization or structure.",
+            "examples": [
+                "The two companies will amalgamate next year.",
+                "He decided to amalgamate his various businesses into one."
+            ]
+        },
+        {
+            "id": "g3w5",
+            "word": "amalgamation",
+            "meaning": "The action, process, or result of combining or uniting.",
+            "examples": [
+                "The amalgamation of the two school districts was controversial.",
+                "This cultural festival is an amalgamation of different traditions."
+            ]
+        },
+        {
+            "id": "g3w6",
+            "word": "ambience",
+            "meaning": "The character and atmosphere of a place.",
+            "examples": [
+                "The restaurant had a relaxed and friendly ambience.",
+                "I love the historic ambience of this old town."
+            ]
+        },
+        {
+            "id": "g3w7",
+            "word": "ambiguity",
+            "meaning": "The quality of being open to more than one interpretation; inexactness.",
+            "examples": [
+                "The ambiguity of the poem's ending makes it more intriguing.",
+                "There is some ambiguity in the law on this point."
+            ]
+        },
+        {
+            "id": "g3w8",
+            "word": "ambiguous",
+            "meaning": "Open to more than one interpretation; having a double meaning.",
+            "examples": [
+                "The politician gave an ambiguous answer to the reporter's question.",
+                "His instructions were very ambiguous."
+            ]
+        },
+        {
+            "id": "g3w9",
+            "word": "ambivalence",
+            "meaning": "The state of having mixed feelings or contradictory ideas about something or someone.",
+            "examples": [
+                "She felt a sense of ambivalence towards her new job.",
+                "His ambivalence about the move was clear."
+            ]
+        },
+        {
+            "id": "g3w10",
+            "word": "ambivalent",
+            "meaning": "Having mixed feelings or contradictory ideas about something or someone.",
+            "examples": [
+                "He was ambivalent about the proposal.",
+                "I feel ambivalent about leaving home."
+            ]
+        },
+        {
+            "id": "g3w11",
+            "word": "ambrosia",
+            "meaning": "The food of the gods in Greek and Roman mythology; something very pleasing to taste or smell.",
+            "examples": [
+                "The dessert tasted like ambrosia.",
+                "The scent of the flowers was pure ambrosia."
+            ]
+        },
+        {
+            "id": "g3w12",
+            "word": "ambrosial",
+            "meaning": "Pertaining to or worthy of the gods; exceptionally pleasing to taste or smell; divine.",
+            "examples": [
+                "She served an ambrosial fruit salad.",
+                "The ambrosial aroma filled the kitchen."
+            ]
+        },
+        {
+            "id": "g3w13",
+            "word": "ameliorate",
+            "meaning": "To make (something bad or unsatisfactory) better.",
+            "examples": [
+                "The new policy is intended to ameliorate the effects of the recession.",
+                "Steps have been taken to ameliorate the situation."
+            ]
+        },
+        {
+            "id": "g3w14",
+            "word": "ameliorated",
+            "meaning": "Past tense of ameliorate; made better.",
+            "examples": [
+                "The reforms have ameliorated the living conditions of the poor.",
+                "The patient's condition has ameliorated."
+            ]
+        },
+        {
+            "id": "g3w15",
+            "word": "amenable",
+            "meaning": "Open and responsive to suggestion; easily persuaded or controlled.",
+            "examples": [
+                "She was amenable to the idea of a compromise.",
+                "He is an amenable child who is easy to teach."
+            ]
+        },
+        {
+            "id": "g3w16",
+            "word": "amend",
+            "meaning": "To make minor changes to (a text, piece of legislation, etc.) in order to make it fairer, more accurate, or more up-to-date.",
+            "examples": [
+                "The constitution was amended to grant women the right to vote.",
+                "He asked to amend his statement."
+            ]
+        },
+        {
+            "id": "g3w17",
+            "word": "amenity",
+            "meaning": "A desirable or useful feature or facility of a building or place.",
+            "examples": [
+                "The hotel has a wide range of amenities for its guests.",
+                "Access to good schools is an important amenity for families."
+            ]
+        },
+        {
+            "id": "g3w18",
+            "word": "amiable",
+            "meaning": "Having or displaying a friendly and pleasant manner.",
+            "examples": [
+                "He was an amiable and good-natured man.",
+                "She has an amiable personality that makes her popular."
+            ]
+        },
+        {
+            "id": "g3w19",
+            "word": "amicable",
+            "meaning": "Characterized by friendliness and absence of discord.",
+            "examples": [
+                "They reached an amicable settlement of the dispute.",
+                "Their divorce was surprisingly amicable."
+            ]
+        },
+        {
+            "id": "g3w20",
+            "word": "amity",
+            "meaning": "A friendly relationship.",
+            "examples": [
+                "The two nations have lived in amity for many years.",
+                "A spirit of amity existed between the two groups."
+            ]
+        },
+        {
+            "id": "g3w21",
+            "word": "amnesty",
+            "meaning": "An official pardon for people who have been convicted of political offenses.",
+            "examples": [
+                "The government granted an amnesty to all political prisoners.",
+                "He was granted amnesty and allowed to return to his country."
+            ]
+        },
+        {
+            "id": "g3w22",
+            "word": "amorous",
+            "meaning": "Showing, feeling, or relating to sexual desire.",
+            "examples": [
+                "He sent her an amorous letter.",
+                "She was not in the mood for his amorous advances."
+            ]
+        },
+        {
+            "id": "g3w23",
+            "word": "amorphous",
+            "meaning": "Without a clearly defined shape or form.",
+            "examples": [
+                "An amorphous cloud of dust floated in the air.",
+                "The organization has an amorphous structure."
+            ]
+        },
+        {
+            "id": "g3w24",
+            "word": "amortize",
+            "meaning": "To gradually write off the initial cost of (an asset) over a period.",
+            "examples": [
+                "The company will amortize the cost of the new equipment over five years.",
+                "He decided to amortize his mortgage over 30 years."
+            ]
+        },
+        {
+            "id": "g3w25",
+            "word": "ample",
+            "meaning": "Enough or more than enough; plentiful.",
+            "examples": [
+                "There is ample evidence to support his claim.",
+                "We have ample time to get to the airport."
+            ]
+        },
+        {
+            "id": "g3w26",
+            "word": "amply",
+            "meaning": "Enough or more than enough; plentifully.",
+            "examples": [
+                "Her talents were amply demonstrated in her latest film.",
+                "The hotel was amply supplied with towels."
+            ]
+        },
+        {
+            "id": "g3w27",
+            "word": "amuck",
+            "meaning": "Behave uncontrollably and disruptively (also spelled amok).",
+            "examples": [
+                "The protesters ran amuck through the streets.",
+                "After the announcement, the crowd went amuck."
+            ]
+        },
+        {
+            "id": "g3w28",
+            "word": "amulet",
+            "meaning": "An ornament or small piece of jewelry thought to give protection against evil, danger, or disease.",
+            "examples": [
+                "He wore an amulet around his neck to ward off evil spirits.",
+                "The ancient tomb contained a golden amulet."
+            ]
+        },
+        {
+            "id": "g3w29",
+            "word": "an ax to grind",
+            "meaning": "To have a private reason for doing or being involved in something.",
+            "examples": [
+                "He has no ax to grind; he's just stating the facts.",
+                "I think she has an ax to grind with the company."
+            ]
+        },
+        {
+            "id": "g3w30",
+            "word": "anachronism",
+            "meaning": "A thing belonging or appropriate to a period other than that in which it exists, especially a thing that is conspicuously old-fashioned.",
+            "examples": [
+                "The monarchy is seen by some as an anachronism in modern society.",
+                "The movie was full of anachronisms, like a knight wearing a digital watch."
+            ]
+        },
+        {
+            "id": "g3w31",
+            "word": "anachronistic",
+            "meaning": "Belonging to a period other than that being portrayed.",
+            "examples": [
+                "His anachronistic views on women's rights were shocking.",
+                "The anachronistic setting of the play confused the audience."
+            ]
+        },
+        {
+            "id": "g3w32",
+            "word": "analgesia",
+            "meaning": "The inability to feel pain.",
+            "examples": [
+                "The doctor administered a local anesthetic to induce analgesia.",
+                "Congenital analgesia is a rare condition."
+            ]
+        },
+        {
+            "id": "g3w33",
+            "word": "analgesic",
+            "meaning": "(of a drug) acting to relieve pain.",
+            "examples": [
+                "Aspirin is a common analgesic.",
+                "He took an analgesic to relieve his headache."
+            ]
+        },
+        {
+            "id": "g3w34",
+            "word": "analogous",
+            "meaning": "Comparable in certain respects, typically in a way that makes clearer the nature of the things compared.",
+            "examples": [
+                "The human brain is analogous to a computer.",
+                "The two situations are analogous in many ways."
+            ]
+        },
+        {
+            "id": "g3w35",
+            "word": "analogue",
+            "meaning": "A person or thing seen as comparable to another. (also spelled analog).",
+            "examples": [
+                "The film is an analogue of the classic novel.",
+                "Vinyl records are an analogue form of music storage."
+            ]
+        },
+        {
+            "id": "g3w36",
+            "word": "anarchy",
+            "meaning": "A state of disorder due to absence or nonrecognition of authority.",
+            "examples": [
+                "The country descended into anarchy after the government collapsed.",
+                "The classroom was in a state of anarchy."
+            ]
+        },
+        {
+            "id": "g3w37",
+            "word": "anathema",
+            "meaning": "Something or someone that one vehemently dislikes.",
+            "examples": [
+                "Racial prejudice is anathema to me.",
+                "The idea of a tax increase is anathema to most voters."
+            ]
+        },
+        {
+            "id": "g3w38",
+            "word": "ancillary",
+            "meaning": "Providing necessary support to the primary activities or operation of an organization, institution, industry, or system.",
+            "examples": [
+                "Ancillary staff, such as cleaners and porters, are essential to the hospital.",
+                "The company provides ancillary services to the oil industry."
+            ]
+        },
+        {
+            "id": "g3w39",
+            "word": "androgynous",
+            "meaning": "Partly male and partly female in appearance; of indeterminate sex.",
+            "examples": [
+                "The pop star was known for their androgynous style.",
+                "She has an androgynous beauty."
+            ]
+        },
+        {
+            "id": "g3w40",
+            "word": "anemic",
+            "meaning": "Lacking in color, spirit, or vitality.",
+            "examples": [
+                "The company's anemic performance was a cause for concern.",
+                "He gave an anemic excuse for his absence."
+            ]
+        },
+        {
+            "id": "g3w41",
+            "word": "anesthetic",
+            "meaning": "A substance that induces insensitivity to pain.",
+            "examples": [
+                "The dentist administered a local anesthetic before drilling the tooth.",
+                "He was given a general anesthetic before the operation."
+            ]
+        },
+        {
+            "id": "g3w42",
+            "word": "animosity",
+            "meaning": "Strong hostility.",
+            "examples": [
+                "There was a great deal of animosity between the two rivals.",
+                "He felt no animosity towards his critics."
+            ]
+        },
+        {
+            "id": "g3w43",
+            "word": "animus",
+            "meaning": "Hostility or ill feeling.",
+            "examples": [
+                "The author's animus towards the government is clear in his writing.",
+                "There was a palpable animus in the room."
+            ]
+        },
+        {
+            "id": "g3w44",
+            "word": "annals",
+            "meaning": "A record of events year by year.",
+            "examples": [
+                "His name will go down in the annals of history.",
+                "The annals of the society are kept in the library."
+            ]
+        },
+        {
+            "id": "g3w45",
+            "word": "annex",
+            "meaning": "To append or add as an extra or subordinate part, especially to a document; to take for oneself.",
+            "examples": [
+                "The government decided to annex the neighboring territory.",
+                "Please annex the report to your email."
+            ]
+        },
+        {
+            "id": "g3w46",
+            "word": "annotate",
+            "meaning": "To add notes to (a text or diagram) giving explanation or comment.",
+            "examples": [
+                "The students were asked to annotate the poem.",
+                "He annotated the manuscript with his own comments."
+            ]
+        },
+        {
+            "id": "g3w47",
+            "word": "annotation",
+            "meaning": "A note by way of explanation or comment added to a text or diagram.",
+            "examples": [
+                "The book includes helpful annotations for students.",
+                "His annotations in the margins were insightful."
+            ]
+        },
+        {
+            "id": "g3w48",
+            "word": "annul",
+            "meaning": "To declare invalid (an official agreement, decision, or result).",
+            "examples": [
+                "The court had the power to annul the marriage.",
+                "The election results were annulled due to fraud."
+            ]
+        },
+        {
+            "id": "g3w49",
+            "word": "anodyne",
+            "meaning": "Not likely to provoke dissent or offense; inoffensive, often deliberately so.",
+            "examples": [
+                "The politician's speech was anodyne and forgettable.",
+                "He made a few anodyne remarks about the weather."
+            ]
+        },
+        {
+            "id": "g3w50",
+            "word": "anoint",
+            "meaning": "To ceremonially confer divine or holy office upon (a priest or monarch) by smearing or rubbing with oil.",
+            "examples": [
+                "The priest will anoint the new king.",
+                "He was anointed as the successor to the company's founder."
+            ]
+        },
+        {
+            "id": "g3w51",
+            "word": "anomalous",
+            "meaning": "Deviating from what is standard, normal, or expected.",
+            "examples": [
+                "The anomalous test results required further investigation.",
+                "His behavior was anomalous for someone in his position."
+            ]
+        },
+        {
+            "id": "g3w52",
+            "word": "anomaly",
+            "meaning": "Something that deviates from what is standard, normal, or expected.",
+            "examples": [
+                "There was a statistical anomaly in the data.",
+                "The genetic anomaly caused a rare disease."
+            ]
+        },
+        {
+            "id": "g3w53",
+            "word": "antagonize",
+            "meaning": "To cause (someone) to become hostile.",
+            "examples": [
+                "His comments were sure to antagonize the crowd.",
+                "She didn't want to antagonize her boss."
+            ]
+        },
+        {
+            "id": "g3w54",
+            "word": "antecedent",
+            "meaning": "A thing or event that existed before or logically precedes another.",
+            "examples": [
+                "The antecedent of the pronoun 'it' is the noun 'book'.",
+                "The events were an antecedent to the war."
+            ]
+        },
+        {
+            "id": "g3w55",
+            "word": "antedated",
+            "meaning": "Preceded in time; came before (something) in date.",
+            "examples": [
+                "The invention of the printing press antedated the digital revolution.",
+                "His ideas antedated the official start of the movement."
+            ]
+        },
+        {
+            "id": "g3w56",
+            "word": "antediluvian",
+            "meaning": "Of or belonging to the time before the biblical Flood; ridiculously old-fashioned.",
+            "examples": [
+                "He has some rather antediluvian ideas about the role of women.",
+                "My grandmother's kitchen has an antediluvian charm."
+            ]
+        },
+        {
+            "id": "g3w57",
+            "word": "anthology",
+            "meaning": "A published collection of poems or other pieces of writing.",
+            "examples": [
+                "He edited an anthology of modern American poetry.",
+                "The short story was included in a new anthology."
+            ]
+        },
+        {
+            "id": "g3w58",
+            "word": "anthropocentrism",
+            "meaning": "The belief that human beings are the central or most important entity in the universe.",
+            "examples": [
+                "Environmentalists often criticize anthropocentrism.",
+                "Anthropocentrism can lead to a disregard for other species."
+            ]
+        },
+        {
+            "id": "g3w59",
+            "word": "anthropologist",
+            "meaning": "An expert in or student of anthropology.",
+            "examples": [
+                "The anthropologist studied the customs of the remote tribe.",
+                "Margaret Mead was a famous anthropologist."
+            ]
+        },
+        {
+            "id": "g3w60",
+            "word": "antic",
+            "meaning": "Grotesque or bizarre.",
+            "examples": [
+                "The clown's antic behavior made the children laugh.",
+                "His antic gestures were distracting."
+            ]
+        }
+    ]
+}

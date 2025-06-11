@@ -1,0 +1,549 @@
+{
+    "id": "group20",
+    "words": [
+      {
+        "id": "g20w1",
+        "word": "eloquent",
+        "meaning": "Fluent or persuasive in speaking or writing.",
+        "examples": [
+          "The president gave an eloquent speech about unity.",
+          "She was an eloquent advocate for animal rights."
+        ]
+      },
+      {
+        "id": "g20w2",
+        "word": "elucidate",
+        "meaning": "To make (something) clear; explain.",
+        "examples": [
+          "The professor used a diagram to elucidate the complex theory.",
+          "Could you please elucidate your point for me?"
+        ]
+      },
+      {
+        "id": "g20w3",
+        "word": "elude",
+        "meaning": "To escape from or avoid (a danger, enemy, or pursuer), typically in a skillful or cunning way.",
+        "examples": [
+          "The suspect managed to elude the police for several weeks.",
+          "The meaning of the poem continues to elude me."
+        ]
+      },
+      {
+        "id": "g20w4",
+        "word": "elusive",
+        "meaning": "Difficult to find, catch, or achieve.",
+        "examples": [
+          "The elusive snow leopard is rarely seen in the wild.",
+          "Success can be an elusive goal."
+        ]
+      },
+      {
+        "id": "g20w5",
+        "word": "Elysian",
+        "meaning": "Relating to or characteristic of heaven or paradise.",
+        "examples": [
+          "The island was an Elysian paradise with white sandy beaches.",
+          "They lived in Elysian bliss for a few short years."
+        ]
+      },
+      {
+        "id": "g20w6",
+        "word": "emaciated",
+        "meaning": "Abnormally thin or weak, especially because of illness or a lack of food.",
+        "examples": [
+          "The emaciated stray dog was clearly starving.",
+          "After weeks of being lost in the desert, he was emaciated."
+        ]
+      },
+      {
+        "id": "g20w7",
+        "word": "emanating",
+        "meaning": "(Of a feeling, quality, or sensation) issuing or spreading out from (a source).",
+        "examples": [
+          "A strange light was emanating from the old house.",
+          "He had an aura of confidence emanating from him."
+        ]
+      },
+      {
+        "id": "g20w8",
+        "word": "emancipate",
+        "meaning": "To set free, especially from legal, social, or political restrictions.",
+        "examples": [
+          "The new law was intended to emancipate the slaves.",
+          "She felt emancipated from the constraints of her old life."
+        ]
+      },
+      {
+        "id": "g20w9",
+        "word": "embellish",
+        "meaning": "To make (something) more attractive by the addition of decorative details or features.",
+        "examples": [
+          "She embellished the dress with colorful beads.",
+          "He tends to embellish his stories to make them more exciting."
+        ]
+  
+      },
+      {
+        "id": "g20w10",
+        "word": "embrace",
+        "meaning": "To hold (someone) closely in one's arms, especially as a sign of affection; to accept or support (a belief, theory, or change) willingly and enthusiastically.",
+        "examples": [
+          "She embraced her long-lost brother.",
+          "The company was slow to embrace new technology."
+        ]
+      },
+      {
+        "id": "g20w11",
+        "word": "embroil",
+        "meaning": "To involve (someone) deeply in an argument, conflict, or difficult situation.",
+        "examples": [
+          "He became embroiled in a legal battle with his former business partner.",
+          "The country was embroiled in a civil war."
+        ]
+      },
+      {
+        "id": "g20w12",
+        "word": "embroiled",
+        "meaning": "Past tense of embroil; involved deeply in an argument, conflict, or difficult situation.",
+        "examples": [
+          "The senator was embroiled in a scandal.",
+          "She had no desire to get embroiled in their personal arguments."
+        ]
+      },
+      {
+        "id": "g20w13",
+        "word": "embryonic",
+        "meaning": "(Of a system, idea, or organization) in a rudimentary stage with potential for development.",
+        "examples": [
+          "The project is still in its embryonic stage.",
+          "The company had an embryonic idea for a new product."
+        ]
+      },
+      {
+        "id": "g20w14",
+        "word": "eminent",
+        "meaning": "(Of a person) famous and respected within a particular sphere or profession.",
+        "examples": [
+          "He is an eminent scientist who has won many awards.",
+          "The lecture was given by an eminent historian."
+        ]
+      },
+      {
+        "id": "g20w15",
+        "word": "emissary",
+        "meaning": "A person sent on a special mission, usually as a diplomatic representative.",
+        "examples": [
+          "The king sent an emissary to negotiate a peace treaty.",
+          "She acted as an emissary for the company in the trade talks."
+        ]
+      },
+      {
+        "id": "g20w16",
+        "word": "emit",
+        "meaning": "To produce and discharge (something, especially gas or radiation).",
+        "examples": [
+          "The factory was emitting toxic fumes into the air.",
+          "The flowers emit a sweet fragrance."
+        ]
+      },
+      {
+        "id": "g20w17",
+        "word": "emollient",
+        "meaning": "Having the quality of softening or soothing the skin; attempting to avoid confrontation or anger; soothing or calming.",
+        "examples": [
+          "The lotion has an emollient effect on dry skin.",
+          "He spoke in a calm and emollient tone."
+        ]
+      },
+      {
+        "id": "g20w18",
+        "word": "empathetic",
+        "meaning": "Showing an ability to understand and share the feelings of another.",
+        "examples": [
+          "She is an empathetic person who is always there for her friends.",
+          "A good therapist must be empathetic to their clients' needs."
+        ]
+  
+      },
+      {
+        "id": "g20w19",
+        "word": "emphatic",
+        "meaning": "Showing or giving emphasis; expressing something forcibly and clearly.",
+        "examples": [
+          "She gave an emphatic denial of the accusations.",
+          "He was emphatic that he would not change his mind."
+        ]
+      },
+      {
+        "id": "g20w20",
+        "word": "empirical",
+        "meaning": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
+        "examples": [
+          "The scientist gathered empirical evidence to support his theory.",
+          "The study was based on empirical research."
+        ]
+      },
+      {
+        "id": "g20w21",
+        "word": "empiricism",
+        "meaning": "The theory that all knowledge is derived from sense-experience.",
+        "examples": [
+          "The scientific method is based on the principles of empiricism.",
+          "He was a firm believer in empiricism and rejected all forms of superstition."
+        ]
+      },
+      {
+        "id": "g20w22",
+        "word": "emulate",
+        "meaning": "To match or surpass (a person or achievement), typically by imitation.",
+        "examples": [
+          "He tried to emulate his favorite basketball player.",
+          "She hopes to emulate the success of her older sister."
+        ]
+      },
+      {
+        "id": "g20w23",
+        "word": "enchant",
+        "meaning": "To fill (someone) with great delight; charm.",
+        "examples": [
+          "The beautiful music enchanted the audience.",
+          "She was enchanted by his wit and good looks."
+        ]
+      },
+      {
+        "id": "g20w24",
+        "word": "encomium",
+        "meaning": "A speech or piece of writing that praises someone or something highly.",
+        "examples": [
+          "The retiring professor received a heartfelt encomium from his colleagues.",
+          "The book is an encomium to the bravery of the soldiers."
+        ]
+  
+      },
+      {
+        "id": "g20w25",
+        "word": "encompass",
+        "meaning": "To surround and have or hold within; to include comprehensively.",
+        "examples": [
+          "The national park encompasses a vast wilderness area.",
+          "The course will encompass all aspects of modern history."
+        ]
+      },
+      {
+        "id": "g20w26",
+        "word": "encroach",
+        "meaning": "To intrude on (a person's territory or a thing considered to be a right).",
+        "examples": [
+          "The new development will encroach on the protected wetland.",
+          "I don't want to encroach on your personal time."
+        ]
+      },
+      {
+        "id": "g20w27",
+        "word": "encroaching",
+        "meaning": "Intruding on (a person's territory or a thing considered to be a right).",
+        "examples": [
+          "The encroaching desert is a threat to the local ecosystem.",
+          "She felt that his questions were encroaching on her privacy."
+        ]
+      },
+      {
+        "id": "g20w28",
+        "word": "encumber",
+        "meaning": "To restrict or burden (someone or something) in such a way that free action or movement is difficult.",
+        "examples": [
+          "He was encumbered by a heavy backpack.",
+          "The company was encumbered with debt."
+        ]
+      },
+      {
+        "id": "g20w29",
+        "word": "encumbrance",
+        "meaning": "A burden or impediment.",
+        "examples": [
+          "He saw his large family as an encumbrance to his career.",
+          "The lack of funding was a major encumbrance to the project."
+        ]
+      },
+      {
+        "id": "g20w30",
+        "word": "encyclopedic",
+        "meaning": "Having or showing comprehensive knowledge.",
+        "examples": [
+          "He has an encyclopedic knowledge of history.",
+          "The book is an encyclopedic guide to the world's birds."
+        ]
+      },
+      {
+        "id": "g20w31",
+        "word": "endeavor",
+        "meaning": "To try hard to do or achieve something.",
+        "examples": [
+          "We must endeavor to find a peaceful solution to the conflict.",
+          "She endeavored to learn the new language."
+        ]
+      },
+      {
+        "id": "g20w32",
+        "word": "endemic",
+        "meaning": "(Of a disease or condition) regularly found among particular people or in a certain area.",
+        "examples": [
+          "Malaria is endemic in many tropical countries.",
+          "Corruption is endemic in the country's political system."
+        ]
+      },
+      {
+        "id": "g20w33",
+        "word": "endorse",
+        "meaning": "To declare one's public approval or support of.",
+        "examples": [
+          "The newspaper endorsed the candidate for president.",
+          "Many celebrities endorse products for a fee."
+        ]
+      },
+      {
+        "id": "g20w34",
+        "word": "endow",
+        "meaning": "To provide with a quality, ability, or asset.",
+        "examples": [
+          "She was endowed with a beautiful singing voice.",
+          "The wealthy philanthropist endowed a new hospital wing."
+        ]
+      },
+      {
+        "id": "g20w35",
+        "word": "enervated",
+        "meaning": "Feeling drained of energy or vitality; weakened.",
+        "examples": [
+          "After the long hike, he felt completely enervated.",
+          "The enervated patient could barely sit up in bed."
+        ]
+      },
+      {
+        "id": "g20w36",
+        "word": "enervating",
+        "meaning": "Causing one to feel drained of energy or vitality.",
+        "examples": [
+          "The hot, humid weather was enervating.",
+          "He found the repetitive work to be enervating."
+        ]
+      },
+      {
+        "id": "g20w37",
+        "word": "engender",
+        "meaning": "To cause or give rise to (a feeling, situation, or condition).",
+        "examples": [
+          "The politician's speech engendered a great deal of controversy.",
+          "The new policy is intended to engender a sense of community."
+        ]
+      },
+      {
+        "id": "g20w38",
+        "word": "engrossed",
+        "meaning": "Having all one's attention or interest absorbed by someone or something.",
+        "examples": [
+          "She was so engrossed in her book that she didn't hear the phone ring.",
+          "The children were engrossed in the cartoon."
+        ]
+      },
+      {
+        "id": "g20w39",
+        "word": "enhance",
+        "meaning": "To intensify, increase, or further improve the quality, value, or extent of.",
+        "examples": [
+          "The new software will enhance the security of the system.",
+          "She used makeup to enhance her natural beauty."
+        ]
+      },
+      {
+        "id": "g20w40",
+        "word": "enigma",
+        "meaning": "A person or thing that is mysterious, puzzling, or difficult to understand.",
+        "examples": [
+          "The cause of the disease remains an enigma to scientists.",
+          "He was a complex and enigmatic character."
+        ]
+      },
+      {
+        "id": "g20w41",
+        "word": "enigmatic",
+        "meaning": "Difficult to interpret or understand; mysterious.",
+        "examples": [
+          "She gave an enigmatic smile.",
+          "The novel has an enigmatic ending that is open to interpretation."
+        ]
+      },
+      {
+        "id": "g20w42",
+        "word": "enjoin",
+        "meaning": "To instruct or urge (someone) to do something.",
+        "examples": [
+          "The doctor enjoined her patient to get more rest.",
+          "The judge enjoined the company from selling the faulty product."
+        ]
+      },
+      {
+        "id": "g20w43",
+        "word": "enlist",
+        "meaning": "To enroll or be enrolled in the armed services.",
+        "examples": [
+          "He decided to enlist in the army after graduating from high school.",
+          "The organization is trying to enlist volunteers to help with the project."
+        ]
+      },
+      {
+        "id": "g20w44",
+        "word": "enmity",
+        "meaning": "The state or feeling of being actively opposed or hostile to someone or something.",
+        "examples": [
+          "There was a long history of enmity between the two families.",
+          "He felt a deep enmity towards his rival."
+        ]
+      },
+      {
+        "id": "g20w45",
+        "word": "ennui",
+        "meaning": "A feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.",
+        "examples": [
+          "The long, rainy afternoon was filled with ennui.",
+          "He suffered from a sense of ennui and purposelessness."
+        ]
+      },
+      {
+        "id": "g20w46",
+        "word": "enormity",
+        "meaning": "The great or extreme scale, seriousness, or extent of something perceived as bad or morally wrong.",
+        "examples": [
+          "The world was shocked by the enormity of the crime.",
+          "The full enormity of the disaster was not yet known."
+        ]
+      },
+      {
+        "id": "g20w47",
+        "word": "ensign",
+        "meaning": "A flag or standard, especially a military or naval one indicating nationality.",
+        "examples": [
+          "The ship flew the ensign of its country.",
+          "The soldier proudly carried the regimental ensign."
+        ]
+      },
+      {
+        "id": "g20w48",
+        "word": "enthral",
+        "meaning": "To capture the fascinated attention of.",
+        "examples": [
+          "The storyteller's magical tales would enthral the children for hours.",
+          "She was enthralled by the beauty of the landscape."
+        ]
+      },
+      {
+        "id": "g20w49",
+        "word": "enthrall",
+        "meaning": "To capture the fascinated attention of.",
+        "examples": [
+          "The audience was enthralled by the performance.",
+          "I was enthralled by her charismatic personality."
+        ]
+      },
+      {
+        "id": "g20w50",
+        "word": "entice",
+        "meaning": "To attract or tempt by offering pleasure or advantage.",
+        "examples": [
+          "The store tried to entice customers with a big sale.",
+          "He was enticed by the promise of a large reward."
+        ]
+      },
+      {
+        "id": "g20w51",
+        "word": "entitled",
+        "meaning": "Believing oneself to be inherently deserving of privileges or special treatment.",
+        "examples": [
+          "He felt entitled to a promotion, even though he had not earned it.",
+          "The entitled celebrity demanded special treatment."
+        ]
+      },
+      {
+        "id": "g20w52",
+        "word": "entitlement",
+        "meaning": "The fact of having a right to something; the belief that one is inherently deserving of privileges or special treatment.",
+        "examples": [
+          "She had a strong sense of entitlement and expected to get whatever she wanted.",
+          "Access to healthcare should be a right, not an entitlement."
+        ]
+      },
+      {
+        "id": "g20w53",
+        "word": "entomology",
+        "meaning": "The branch of zoology concerned with the study of insects.",
+        "examples": [
+          "He is a professor of entomology at the university.",
+          "Her interest in entomology began when she was a child."
+        ]
+      },
+      {
+        "id": "g20w54",
+        "word": "entourage",
+        "meaning": "A group of people attending or surrounding an important person.",
+        "examples": [
+          "The rock star arrived with a large entourage of assistants and bodyguards.",
+          "The president's entourage included several advisors and aides."
+        ]
+      },
+      {
+        "id": "g20w55",
+        "word": "entreat",
+        "meaning": "To ask someone earnestly or anxiously to do something.",
+        "examples": [
+          "He entreated her to forgive him.",
+          "She entreated him not to go."
+        ]
+  
+      },
+      {
+        "id": "g20w56",
+        "word": "entreaty",
+        "meaning": "An earnest or humble request.",
+        "examples": [
+          "He made a passionate entreaty for peace.",
+          "She ignored his entreaties to stay."
+        ]
+      },
+      {
+        "id": "g20w57",
+        "word": "entrenched",
+        "meaning": "(Of an attitude, habit, or belief) firmly established and difficult or unlikely to change; ingrained.",
+        "examples": [
+          "It is difficult to change such entrenched attitudes.",
+          "The company has an entrenched position in the market."
+        ]
+      },
+      {
+        "id": "g20w58",
+        "word": "enumerate",
+        "meaning": "To mention (a number of things) one by one.",
+        "examples": [
+          "She enumerated the reasons why she was against the proposal.",
+          "The report enumerates the various problems with the current system."
+        ]
+      },
+      {
+        "id": "g20w59",
+        "word": "enunciate",
+        "meaning": "To say or pronounce clearly.",
+        "examples": [
+          "It is important to enunciate your words when speaking in public.",
+          "The teacher asked the student to enunciate more clearly."
+        ]
+      },
+      {
+        "id": "g20w60",
+        "word": "ephemeral",
+        "meaning": "Lasting for a very short time.",
+        "examples": [
+          "The beauty of the cherry blossoms is ephemeral.",
+          "Fame can be ephemeral."
+        ]
+      }
+    ]
+  }

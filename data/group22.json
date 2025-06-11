@@ -1,0 +1,549 @@
+{
+    "id": "group22",
+    "words": [
+      {
+        "id": "g22w1",
+        "word": "evocative",
+        "meaning": "Bringing strong images, memories, or feelings to mind.",
+        "examples": [
+          "The scent of cinnamon is evocative of the holiday season.",
+          "The novel is an evocative portrait of life in a small town."
+        ]
+      },
+      {
+        "id": "g22w2",
+        "word": "evoke",
+        "meaning": "To bring or recall (a feeling, memory, or image) to the conscious mind.",
+        "examples": [
+          "The old photograph evoked memories of his childhood.",
+          "The music was intended to evoke a sense of calm and tranquility."
+        ]
+      },
+      {
+        "id": "g22w3",
+        "word": "exacerbate",
+        "meaning": "To make (a problem, bad situation, or negative feeling) worse.",
+        "examples": [
+          "The new policy will only exacerbate the existing social tensions.",
+          "His angry words exacerbated the argument."
+        ]
+      },
+      {
+        "id": "g22w4",
+        "word": "exacerbated",
+        "meaning": "Past tense of exacerbate; made a problem or bad situation worse.",
+        "examples": [
+          "The economic crisis was exacerbated by the political instability.",
+          "The lack of communication exacerbated the misunderstanding."
+        ]
+      },
+      {
+        "id": "g22w5",
+        "word": "exact",
+        "meaning": "To demand and obtain (something, especially a payment) from someone.",
+        "examples": [
+          "The kidnappers exacted a heavy ransom for the release of the hostage.",
+          "The conquerors exacted tribute from the defeated people."
+        ]
+      },
+      {
+        "id": "g22w6",
+        "word": "exacting",
+        "meaning": "Making great demands on one's skill, attention, or other resources.",
+        "examples": [
+          "The director was very exacting and demanded perfection from his actors.",
+          "The job requires an exacting attention to detail."
+        ]
+      },
+      {
+        "id": "g22w7",
+        "word": "exaggerate",
+        "meaning": "To represent (something) as being larger, greater, better, or worse than it really is.",
+        "examples": [
+          "He tends to exaggerate his accomplishments.",
+          "The media exaggerated the extent of the damage."
+        ]
+      },
+      {
+        "id": "g22w8",
+        "word": "exalt",
+        "meaning": "To hold (someone or something) in very high regard; think or speak very highly of.",
+        "examples": [
+          "The people exalted their hero with songs and praise.",
+          "The book exalts the virtues of a simple life."
+        ]
+      },
+      {
+        "id": "g22w9",
+        "word": "exasperate",
+        "meaning": "To irritate and frustrate (someone) intensely.",
+        "examples": [
+          "His constant interruptions began to exasperate her.",
+          "The slow progress of the project exasperated the manager."
+        ]
+      },
+      {
+        "id": "g22w10",
+        "word": "exasperated",
+        "meaning": "Intensely irritated and frustrated.",
+        "examples": [
+          "She gave an exasperated sigh and rolled her eyes.",
+          "The teacher was exasperated by the students' lack of attention."
+        ]
+      },
+      {
+        "id": "g22w11",
+        "word": "excise",
+        "meaning": "To remove by cutting.",
+        "examples": [
+          "The surgeon will excise the tumor.",
+          "The editor decided to excise the controversial chapter from the book."
+        ]
+      },
+      {
+        "id": "g22w12",
+        "word": "excoriate",
+        "meaning": "To criticize severely.",
+        "examples": [
+          "The critic excoriated the new play, calling it a complete disaster.",
+          "The politician was excoriated for his role in the scandal."
+        ]
+      },
+      {
+        "id": "g22w13",
+        "word": "excoriated",
+        "meaning": "Past tense of excoriate; criticized severely.",
+        "examples": [
+          "The company was excoriated for its poor environmental record.",
+          "The author's latest novel was excoriated by the reviewers."
+        ]
+      },
+      {
+        "id": "g22w14",
+        "word": "excruciating",
+        "meaning": "Intensely painful.",
+        "examples": [
+          "He suffered from excruciating pain after the surgery.",
+          "The wait for the results was excruciating."
+        ]
+      },
+      {
+        "id": "g22w15",
+        "word": "exculpate",
+        "meaning": "To show or declare that (someone) is not guilty of wrongdoing.",
+        "examples": [
+          "The new evidence helped to exculpate the defendant.",
+          "He tried to exculpate himself from any blame."
+        ]
+      },
+      {
+        "id": "g22w16",
+        "word": "execrable",
+        "meaning": "Extremely bad or unpleasant.",
+        "examples": [
+          "The food at the restaurant was execrable.",
+          "The play's acting was execrable."
+        ]
+      },
+      {
+        "id": "g22w17",
+        "word": "exegesis",
+        "meaning": "Critical explanation or interpretation of a text, especially of scripture.",
+        "examples": [
+          "The scholar wrote a detailed exegesis of the biblical passage.",
+          "Literary exegesis requires a deep understanding of the text."
+        ]
+  
+      },
+      {
+        "id": "g22w18",
+        "word": "exemplar",
+        "meaning": "A person or thing serving as a typical example or excellent model.",
+        "examples": [
+          "She is an exemplar of courage and resilience.",
+          "The company is an exemplar of good business practices."
+        ]
+      },
+      {
+        "id": "g22w19",
+        "word": "exemplary",
+        "meaning": "Serving as a desirable model; representing the best of its kind.",
+        "examples": [
+          "He has an exemplary record of public service.",
+          "The student's exemplary behavior was praised by the teacher."
+        ]
+      },
+      {
+        "id": "g22w20",
+        "word": "exemplify",
+        "meaning": "To be a typical example of.",
+        "examples": [
+          "The building exemplifies the architectural style of the period.",
+          "Her actions exemplify the spirit of generosity."
+        ]
+      },
+      {
+        "id": "g22w21",
+        "word": "exhaustive",
+        "meaning": "Examining, including, or considering all elements or aspects; fully comprehensive.",
+        "examples": [
+          "The police conducted an exhaustive investigation.",
+          "The book is an exhaustive study of the topic."
+        ]
+  
+      },
+      {
+        "id": "g22w22",
+        "word": "exhilarating",
+        "meaning": "Making one feel very happy, animated, or elated; thrilling.",
+        "examples": [
+          "The roller coaster ride was an exhilarating experience.",
+          "She found the challenge of the new job exhilarating."
+        ]
+      },
+      {
+        "id": "g22w23",
+        "word": "exhort",
+        "meaning": "To strongly encourage or urge (someone) to do something.",
+        "examples": [
+          "The coach exhorted his team to play their best.",
+          "He exhorted the crowd to remain calm."
+        ]
+      },
+      {
+        "id": "g22w24",
+        "word": "exigency",
+        "meaning": "An urgent need or demand.",
+        "examples": [
+          "The exigencies of the situation required immediate action.",
+          "He was prepared to deal with any exigency that might arise."
+        ]
+      },
+      {
+        "id": "g22w25",
+        "word": "exigent",
+        "meaning": "Pressing; demanding.",
+        "examples": [
+          "The exigent circumstances required a quick decision.",
+          "He had to work long hours to meet the exigent demands of his job."
+        ]
+      },
+      {
+        "id": "g22w26",
+        "word": "existential",
+        "meaning": "Relating to existence.",
+        "examples": [
+          "The novel explores the existential question of the meaning of life.",
+          "The country is facing an existential threat to its survival."
+        ]
+      },
+      {
+        "id": "g22w27",
+        "word": "exodus",
+        "meaning": "A mass departure of people.",
+        "examples": [
+          "The war caused a mass exodus of refugees from the country.",
+          "There was a summer exodus from the city to the countryside."
+        ]
+      },
+      {
+        "id": "g22w28",
+        "word": "exonerate",
+        "meaning": "(Especially of an official body) to absolve (someone) from blame for a fault or wrongdoing.",
+        "examples": [
+          "The new evidence exonerated the defendant.",
+          "The report exonerated him from any responsibility for the accident."
+        ]
+  
+      },
+      {
+        "id": "g22w29",
+        "word": "exorbitant",
+        "meaning": "(Of a price or amount charged) unreasonably high.",
+        "examples": [
+          "The hotel charged exorbitant prices for its rooms.",
+          "The cost of a ticket was exorbitant."
+        ]
+      },
+      {
+        "id": "g22w30",
+        "word": "exorcise",
+        "meaning": "To drive out or attempt to drive out (an evil spirit) from a person or place.",
+        "examples": [
+          "The priest was called to exorcise the demon from the possessed woman.",
+          "He tried to exorcise the painful memories of his past."
+        ]
+      },
+      {
+        "id": "g22w31",
+        "word": "exotic",
+        "meaning": "Originating in or characteristic of a distant foreign country.",
+        "examples": [
+          "She loves to travel to exotic locations.",
+          "The restaurant serves exotic dishes from around the world."
+        ]
+      },
+      {
+        "id": "g22w32",
+        "word": "expansive",
+        "meaning": "Covering a wide area in terms of space or scope; (of a person or their manner) open, demonstrative, and communicative.",
+        "examples": [
+          "The house has an expansive view of the ocean.",
+          "He was in an expansive mood and talked freely about his plans."
+        ]
+      },
+      {
+        "id": "g22w33",
+        "word": "expatiate",
+        "meaning": "To speak or write at length or in detail.",
+        "examples": [
+          "She would often expatiate on the virtues of her favorite author.",
+          "He expatiated on the topic for over an hour."
+        ]
+      },
+      {
+        "id": "g22w34",
+        "word": "expatriate",
+        "meaning": "A person who lives outside their native country.",
+        "examples": [
+          "He is an American expatriate living in Paris.",
+          "The city has a large expatriate community."
+        ]
+      },
+      {
+        "id": "g22w35",
+        "word": "expedient",
+        "meaning": "(Of an action) convenient and practical, although possibly improper or immoral.",
+        "examples": [
+          "It was expedient to lie to avoid getting into trouble.",
+          "The government took the most expedient course of action."
+        ]
+      },
+      {
+        "id": "g22w36",
+        "word": "expedite",
+        "meaning": "To make (an action or process) happen sooner or be accomplished more quickly.",
+        "examples": [
+          "We need to expedite the delivery of the emergency supplies.",
+          "He paid extra to expedite the shipping."
+        ]
+  
+      },
+      {
+        "id": "g22w37",
+        "word": "expel",
+        "meaning": "To officially make (someone) leave a school, organization, or country.",
+        "examples": [
+          "The student was expelled from school for cheating.",
+          "The diplomat was expelled from the country for spying."
+        ]
+      },
+      {
+        "id": "g22w38",
+        "word": "expend",
+        "meaning": "To spend or use up (a resource such as money, time, or energy).",
+        "examples": [
+          "The company expended a great deal of money on the new project.",
+          "She expended all her energy on caring for her sick child."
+        ]
+      },
+      {
+        "id": "g22w39",
+        "word": "expiate",
+        "meaning": "To atone for (guilt or sin).",
+        "examples": [
+          "He tried to expiate his guilt by doing good deeds.",
+          "She felt the need to expiate her sins."
+        ]
+      },
+      {
+        "id": "g22w40",
+        "word": "explicable",
+        "meaning": "Able to be accounted for or understood.",
+        "examples": [
+          "His strange behavior was not easily explicable.",
+          "There must be an explicable reason for the phenomenon."
+        ]
+      },
+      {
+        "id": "g22w41",
+        "word": "explicate",
+        "meaning": "To analyze and develop (an idea or principle) in detail.",
+        "examples": [
+          "The professor explicated the complex philosophical theory.",
+          "He tried to explicate his reasons for his decision."
+        ]
+      },
+      {
+        "id": "g22w42",
+        "word": "explicit",
+        "meaning": "Stated clearly and in detail, leaving no room for confusion or doubt.",
+        "examples": [
+          "She gave him explicit instructions on how to complete the task.",
+          "The movie contains explicit language and violence."
+        ]
+      },
+      {
+        "id": "g22w43",
+        "word": "exploit",
+        "meaning": "To make full use of and derive benefit from (a resource); to make use of (a situation) in a way considered unfair or underhanded.",
+        "examples": [
+          "The company was accused of exploiting its workers.",
+          "We need to exploit our natural resources in a sustainable way."
+        ]
+      },
+      {
+        "id": "g22w44",
+        "word": "exploitative",
+        "meaning": "Making use of a situation or treating others unfairly in order to gain an advantage or benefit.",
+        "examples": [
+          "The company was criticized for its exploitative labor practices.",
+          "The documentary exposed the exploitative nature of the industry."
+        ]
+      },
+      {
+        "id": "g22w45",
+        "word": "exponent",
+        "meaning": "A person who believes in and promotes the truth or benefits of an idea or theory.",
+        "examples": [
+          "He was a leading exponent of free market capitalism.",
+          "She is a vocal exponent of animal rights."
+        ]
+      },
+      {
+        "id": "g22w46",
+        "word": "exposition",
+        "meaning": "A comprehensive description and explanation of an idea or theory; a large public exhibition of works of art or items of interest.",
+        "examples": [
+          "The book is a clear and concise exposition of the author's philosophy.",
+          "The annual trade exposition attracts visitors from all over the world."
+        ]
+      },
+      {
+        "id": "g22w47",
+        "word": "expository",
+        "meaning": "Intended to explain or describe something.",
+        "examples": [
+          "He is known for his clear and engaging expository writing.",
+          "The documentary provided an expository account of the historical event."
+        ]
+      },
+      {
+        "id": "g22w48",
+        "word": "expound",
+        "meaning": "To present and explain (a theory or idea) systematically and in detail.",
+        "examples": [
+          "The professor expounded on the theory for over an hour.",
+          "He was invited to expound his views on the matter."
+        ]
+      },
+      {
+        "id": "g22w49",
+        "word": "expunge",
+        "meaning": "To erase or remove completely (something unwanted or unpleasant).",
+        "examples": [
+          "The judge ordered the false testimony to be expunged from the record.",
+          "He tried to expunge the painful memories of his past."
+        ]
+      },
+      {
+        "id": "g22w50",
+        "word": "extant",
+        "meaning": "(Especially of a document) still in existence; surviving.",
+        "examples": [
+          "There are few extant copies of the first edition of the book.",
+          "The oldest extant manuscript of the poem dates from the 10th century."
+        ]
+      },
+      {
+        "id": "g22w51",
+        "word": "extemporaneous",
+        "meaning": "Spoken or done without preparation.",
+        "examples": [
+          "He gave an extemporaneous speech at the wedding.",
+          "The comedian was known for his extemporaneous wit."
+        ]
+      },
+      {
+        "id": "g22w52",
+        "word": "extempore",
+        "meaning": "Spoken or done without preparation.",
+        "examples": [
+          "She delivered a brilliant extempore performance.",
+          "The debate was conducted extempore."
+        ]
+      },
+      {
+        "id": "g22w53",
+        "word": "extend",
+        "meaning": "To cause to cover a larger area; make longer or wider.",
+        "examples": [
+          "We plan to extend the house to create a new bedroom.",
+          "The deadline for the project has been extended."
+        ]
+      },
+      {
+        "id": "g22w54",
+        "word": "extensive",
+        "meaning": "Covering or affecting a large area.",
+        "examples": [
+          "The storm caused extensive damage to the crops.",
+          "He has extensive knowledge of the subject."
+        ]
+      },
+      {
+        "id": "g22w55",
+        "word": "extent",
+        "meaning": "The area covered by something; the degree to which something has spread.",
+        "examples": [
+          "The full extent of the damage is not yet known.",
+          "To a certain extent, I agree with you."
+        ]
+      },
+      {
+        "id": "g22w56",
+        "word": "extenuating",
+        "meaning": "(Of a factor) serving to lessen the seriousness of an offense.",
+        "examples": [
+          "The judge considered the extenuating circumstances before sentencing.",
+          "He had extenuating reasons for his absence."
+        ]
+      },
+      {
+        "id": "g22w57",
+        "word": "extinct",
+        "meaning": "(Of a species, family, or other larger group) having no living members.",
+        "examples": [
+          "The dinosaurs have been extinct for millions of years.",
+          "Many species are in danger of becoming extinct."
+        ]
+      },
+      {
+        "id": "g22w58",
+        "word": "extirpate",
+        "meaning": "To root out and destroy completely.",
+        "examples": [
+          "The government is trying to extirpate corruption.",
+          "The disease has been extirpated from the country."
+        ]
+      },
+      {
+        "id": "g22w59",
+        "word": "extol",
+        "meaning": "To praise enthusiastically.",
+        "examples": [
+          "The critic extolled the virtues of the new novel.",
+          "He was extolled as a hero for his bravery."
+        ]
+      },
+      {
+        "id": "g22w60",
+        "word": "extortion",
+        "meaning": "The practice of obtaining something, especially money, through force or threats.",
+        "examples": [
+          "The gangster was arrested for extortion.",
+          "He was a victim of blackmail and extortion."
+        ]
+      }
+    ]
+  }

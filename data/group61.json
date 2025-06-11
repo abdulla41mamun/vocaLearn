@@ -1,0 +1,545 @@
+{
+    "id": "group61",
+    "words": [
+      {
+        "id": "g61w1",
+        "word": "topple",
+        "meaning": "To overbalance or cause to overbalance and fall.",
+        "examples": [
+          "The strong winds caused the tall tree to topple.",
+          "The protest movement aimed to topple the oppressive regime."
+        ]
+      },
+      {
+        "id": "g61w2",
+        "word": "torment",
+        "meaning": "Severe physical or mental suffering. To inflict severe physical or mental suffering on.",
+        "examples": [
+          "He endured years of torment in captivity.",
+          "The bullies continued to torment their victim."
+        ]
+      },
+      {
+        "id": "g61w3",
+        "word": "torpid",
+        "meaning": "Mentally or physically inactive; lethargic.",
+        "examples": [
+          "The bear remained torpid throughout its hibernation.",
+          "After the large meal, he felt torpid and sleepy."
+        ]
+      },
+      {
+        "id": "g61w4",
+        "word": "torpor",
+        "meaning": "A state of physical or mental inactivity; lethargy.",
+        "examples": [
+          "The extreme heat induced a state of torpor in the animals.",
+          "He struggled to shake off the torpor of the long winter."
+        ]
+      },
+      {
+        "id": "g61w5",
+        "word": "torque",
+        "meaning": "A twisting force that tends to cause rotation.",
+        "examples": [
+          "The mechanic tightened the bolts with a specific torque setting.",
+          "The engine produced enough torque to pull the heavy load."
+        ]
+      },
+      {
+        "id": "g61w6",
+        "word": "torrid",
+        "meaning": "Very hot and dry. Full of passionate or highly charged emotions.",
+        "examples": [
+          "They endured the torrid heat of the desert summer.",
+          "The couple had a torrid affair that was short-lived."
+        ]
+      },
+      {
+        "id": "g61w7",
+        "word": "tortuous",
+        "meaning": "Full of twists and turns. Excessively lengthy and complex.",
+        "examples": [
+          "The winding road followed a tortuous path through the mountains.",
+          "The legal process was a tortuous journey, full of delays and complications."
+        ]
+      },
+      {
+        "id": "g61w8",
+        "word": "totalitarian",
+        "meaning": "Relating to a system of government that is centralized and dictatorial and requires complete subservience to the state.",
+        "examples": [
+          "The country was ruled by a totalitarian regime that suppressed all dissent.",
+          "Totalitarian states often exert strict control over their citizens' lives."
+        ]
+      },
+      {
+        "id": "g61w9",
+        "word": "tongue in one's cheek",
+        "meaning": "Said or done in an ironic or insincere way.",
+        "examples": [
+          "He said he loved her ugly sweater, but it was clear he spoke tongue in one's cheek.",
+          "Her compliments were often delivered with her tongue in one's cheek, making it hard to tell if she was serious."
+        ]
+      },
+      {
+        "id": "g61w10",
+        "word": "tout",
+        "meaning": "To attempt to sell (something), typically by pestering people in an aggressive or bold manner. To publicly praise or promote.",
+        "examples": [
+          "Street vendors were touting their wares to tourists.",
+          "The critics touted the new film as a masterpiece."
+        ]
+      },
+      {
+        "id": "g61w11",
+        "word": "touted",
+        "meaning": "Publicly praised or promoted.",
+        "examples": [
+          "The highly touted athlete failed to win the championship.",
+          "The new product was touted as a revolutionary solution."
+        ]
+      },
+      {
+        "id": "g61w12",
+        "word": "toxic",
+        "meaning": "Poisonous. Very harmful or unpleasant in a pervasive or insidious way.",
+        "examples": [
+          "Exposure to toxic chemicals can be dangerous.",
+          "He finally left the toxic relationship that was draining him."
+        ]
+      },
+      {
+        "id": "g61w13",
+        "word": "tractable",
+        "meaning": "(Of a person or animal) easy to control or influence. (Of a problem or process) easy to deal with.",
+        "examples": [
+          "The wild horse eventually became tractable after much training.",
+          "The complex problem proved to be more tractable than initially thought."
+        ]
+      },
+      {
+        "id": "g61w14",
+        "word": "tradition",
+        "meaning": "The transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way. A long-established custom or belief.",
+        "examples": [
+          "It's a family tradition to have a big dinner on Sundays.",
+          "Many cultures value their ancient traditions."
+        ]
+      },
+      {
+        "id": "g61w15",
+        "word": "traitor",
+        "meaning": "A person who betrays a friend, country, principle, etc.",
+        "examples": [
+          "He was branded a traitor for revealing military secrets.",
+          "The organization expelled him, calling him a traitor to their cause."
+        ]
+      },
+      {
+        "id": "g61w16",
+        "word": "trample",
+        "meaning": "To tread on and crush. To treat with contempt.",
+        "examples": [
+          "The crowd trampled over the fallen barriers.",
+          "He felt his rights were being trampled upon by the new law."
+        ]
+      },
+      {
+        "id": "g61w17",
+        "word": "tranquil",
+        "meaning": "Free from disturbance; calm.",
+        "examples": [
+          "The tranquil lake reflected the clear blue sky.",
+          "She sought a tranquil place to meditate and relax."
+        ]
+      },
+      {
+        "id": "g61w18",
+        "word": "transcend",
+        "meaning": "To be or go beyond the range or limits of (something abstract, typically a conceptual field or division). To surpass (a person or an achievement).",
+        "examples": [
+          "His art transcends cultural boundaries, appealing to everyone.",
+          "The athlete hoped to transcend his previous performance records."
+        ]
+      },
+      {
+        "id": "g61w19",
+        "word": "transgress",
+        "meaning": "To infringe or violate (a law, command, or moral code).",
+        "examples": [
+          "He knew he would transgress the rules by sneaking out.",
+          "The government was accused of transgressing international law."
+        ]
+      },
+      {
+        "id": "g61w20",
+        "word": "transgression",
+        "meaning": "An act that goes against a law, rule, or code of conduct; an offense.",
+        "examples": [
+          "His minor transgression resulted in a warning from the police.",
+          "She sought forgiveness for her past transgressions."
+        ]
+      },
+      {
+        "id": "g61w21",
+        "word": "transient",
+        "meaning": "Lasting only for a short time; impermanent. A person who is staying or working in a place for a short time.",
+        "examples": [
+          "The beauty of cherry blossoms is transient.",
+          "The city has a large transient population due to its tourism industry."
+        ]
+      },
+      {
+        "id": "g61w22",
+        "word": "transitory",
+        "meaning": "Not permanent or lasting; transient.",
+        "examples": [
+          "Life is full of transitory moments of joy and sorrow.",
+          "The economic downturn was hoped to be merely transitory."
+        ]
+      },
+      {
+        "id": "g61w23",
+        "word": "translucent",
+        "meaning": "(Of a substance) allowing light to pass through but not allowing objects behind to be seen clearly.",
+        "examples": [
+          "The frosted glass was translucent, letting light in but obscuring the view.",
+          "The insect's wings were delicate and translucent."
+        ]
+      },
+      {
+        "id": "g61w24",
+        "word": "transmute",
+        "meaning": "To change in form, nature, or substance.",
+        "examples": [
+          "Alchemists once tried to transmute base metals into gold.",
+          "Negative experiences can sometimes transmute into valuable lessons."
+        ]
+      },
+      {
+        "id": "g61w25",
+        "word": "travail",
+        "meaning": "Painful or laborious effort.",
+        "examples": [
+          "The birth of a child is often a period of great travail for the mother.",
+          "He recounted the travails of his long journey."
+        ]
+      },
+      {
+        "id": "g61w26",
+        "word": "travesty",
+        "meaning": "A false, absurd, or distorted representation of something.",
+        "examples": [
+          "The trial was a travesty of justice.",
+          "The play was a travesty of the original novel."
+        ]
+      },
+      {
+        "id": "g61w27",
+        "word": "treacherous",
+        "meaning": "Guilty of or involving betrayal or deception. (Of ground, sea, roads, etc.) presenting hidden dangers or difficulties.",
+        "examples": [
+          "He was betrayed by his treacherous accomplice.",
+          "The mountain pass was treacherous, especially in winter."
+        ]
+      },
+      {
+        "id": "g61w28",
+        "word": "treacly",
+        "meaning": "Resembling treacle (molasses) in consistency or taste; excessively sweet or sentimental.",
+        "examples": [
+          "The movie's ending was overly treacly and unrealistic.",
+          "She disliked the treacly compliments he offered."
+        ]
+      },
+      {
+        "id": "g61w29",
+        "word": "treatise",
+        "meaning": "A written work dealing formally and systematically with a subject.",
+        "examples": [
+          "He published a scholarly treatise on quantum physics.",
+          "The philosopher's treatise explored the nature of consciousness."
+        ]
+      },
+      {
+        "id": "g61w30",
+        "word": "tremor",
+        "meaning": "An involuntary quivering movement. A sudden or brief burst of movement or activity.",
+        "examples": [
+          "She felt a slight tremor in her hand due to nervousness.",
+          "The earthquake caused a series of tremors across the region."
+        ]
+      },
+      {
+        "id": "g61w31",
+        "word": "tremulous",
+        "meaning": "Shaking or quivering slightly. Timid; nervous.",
+        "examples": [
+          "Her voice was tremulous with emotion as she spoke.",
+          "He approached the stage with tremulous steps."
+        ]
+      },
+      {
+        "id": "g61w32",
+        "word": "trenchant",
+        "meaning": "Keen or incisive. Forceful and penetrating.",
+        "examples": [
+          "Her trenchant wit was evident in her sharp remarks.",
+          "He delivered a trenchant critique of the government's policies."
+        ]
+      },
+      {
+        "id": "g61w33",
+        "word": "trend",
+        "meaning": "A general direction in which something is developing or changing.",
+        "examples": [
+          "The latest fashion trend is all about bright colors.",
+          "There's a growing trend towards healthier eating habits."
+        ]
+      },
+      {
+        "id": "g61w34",
+        "word": "trepidation",
+        "meaning": "A feeling of fear or anxiety about something that may happen.",
+        "examples": [
+          "He approached the job interview with a sense of trepidation.",
+          "There was trepidation in her voice as she discussed the challenges ahead."
+        ]
+      },
+      {
+        "id": "g61w35",
+        "word": "tribulation",
+        "meaning": "A cause of great trouble or suffering.",
+        "examples": [
+          "The pioneers faced many tribulations on their journey west.",
+          "She endured years of tribulation before finding happiness."
+        ]
+      },
+      {
+        "id": "g61w36",
+        "word": "trifling",
+        "meaning": "Unimportant or trivial.",
+        "examples": [
+          "His concerns seemed trifling compared to the global crisis.",
+          "Don't waste your time on trifling matters."
+        ]
+      },
+      {
+        "id": "g61w37",
+        "word": "trite",
+        "meaning": "(Of a remark, opinion, or idea) overused and consequently of little import; lacking originality or freshness.",
+        "examples": [
+          "The movie's plot was full of trite clichés.",
+          "His advice, though well-intentioned, sounded trite and unoriginal."
+        ]
+      },
+      {
+        "id": "g61w38",
+        "word": "trivial",
+        "meaning": "Of little value or importance.",
+        "examples": [
+          "Don't worry about such trivial details; focus on the big picture.",
+          "The argument was over a trivial matter."
+        ]
+      },
+      {
+        "id": "g61w39",
+        "word": "truce",
+        "meaning": "An agreement between opponents or warring parties to stop fighting for a certain time; a cease-fire.",
+        "examples": [
+          "The two warring factions declared a temporary truce.",
+          "They called a truce in their long-standing feud."
+        ]
+      },
+      {
+        "id": "g61w40",
+        "word": "truculent",
+        "meaning": "Eager or quick to argue or fight; aggressively defiant.",
+        "examples": [
+          "The truculent student often challenged the teacher's authority.",
+          "He adopted a truculent stance during the negotiations."
+        ]
+      },
+      {
+        "id": "g61w41",
+        "word": "truncate",
+        "meaning": "To shorten (something) by cutting off the top or end.",
+        "examples": [
+          "The company decided to truncate the long report to save time.",
+          "The statue's arms were truncated during its excavation."
+        ]
+      },
+      {
+        "id": "g61w42",
+        "word": "truncated",
+        "meaning": "Shortened by cutting off the top or end.",
+        "examples": [
+          "The truncated pyramid had a flat top.",
+          "The truncated version of the film was released for television."
+        ]
+      },
+      {
+        "id": "g61w43",
+        "word": "tryst",
+        "meaning": "A private, romantic rendezvous between lovers.",
+        "examples": [
+          "They arranged a secret tryst at the secluded cabin.",
+          "Their tryst was discovered, leading to scandal."
+        ]
+      },
+      {
+        "id": "g61w44",
+        "word": "tumid",
+        "meaning": "Swollen or distended. (Of language) pompous or bombastic.",
+        "examples": [
+          "His ankle was tumid after the injury.",
+          "The politician delivered a tumid speech, full of empty rhetoric."
+        ]
+      },
+      {
+        "id": "g61w45",
+        "word": "tumult",
+        "meaning": "A loud, confused noise, especially one caused by a large mass of people. Confusion or disorder.",
+        "examples": [
+          "The crowd erupted in a tumult of cheers and applause.",
+          "His mind was in a tumult of conflicting emotions."
+        ]
+      },
+      {
+        "id": "g61w46",
+        "word": "tumultuous",
+        "meaning": "Making a loud, confused noise; uproarious. Characterized by disorder or commotion.",
+        "examples": [
+          "The tumultuous crowd cheered for their favorite team.",
+          "The 1960s were a tumultuous period of social change."
+        ]
+      },
+      {
+        "id": "g61w47",
+        "word": "turbid",
+        "meaning": "(Of a liquid) cloudy, opaque, or thick with suspended matter. In a state of confusion or disorder.",
+        "examples": [
+          "The turbid river overflowed its banks after the storm.",
+          "His thoughts became turbid and unclear under pressure."
+        ]
+      },
+      {
+        "id": "g61w48",
+        "word": "turbulent",
+        "meaning": "Characterized by conflict, disorder, or confusion; not controlled or calm. (Of air or water) moving unsteadily or violently.",
+        "examples": [
+          "The turbulent waters tossed the boat violently.",
+          "The country was going through a turbulent political period."
+        ]
+      },
+      {
+        "id": "g61w49",
+        "word": "turgid",
+        "meaning": "Swollen and distended or congested. (Of language or style) pompous or bombastic.",
+        "examples": [
+          "The turgid prose of the academic paper was difficult to read.",
+          "His turgid writing style made his arguments unclear."
+        ]
+      },
+      {
+        "id": "g61w50",
+        "word": "turn the tables",
+        "meaning": "To reverse a situation and gain the upper hand.",
+        "examples": [
+          "After being down by a large margin, they managed to turn the tables and win the game.",
+          "She finally turned the tables on her tormentor, exposing his lies."
+        ]
+      },
+      {
+        "id": "g61w51",
+        "word": "turpitude",
+        "meaning": "Depravity; wickedness.",
+        "examples": [
+          "The criminal's actions were indicative of moral turpitude.",
+          "He was shocked by the sheer turpitude of the crime."
+        ]
+      },
+      {
+        "id": "g61w52",
+        "word": "tussle",
+        "meaning": "A vigorous struggle or scuffle, typically in order to obtain or keep something.",
+        "examples": [
+          "The two children had a friendly tussle over the toy.",
+          "The political leaders engaged in a heated tussle over economic policy."
+        ]
+      },
+      {
+        "id": "g61w53",
+        "word": "tutelary",
+        "meaning": "Serving as a guardian or protector.",
+        "examples": [
+          "The tutelary deity was believed to protect the ancient city.",
+          "She felt the tutelary presence of her ancestors watching over her."
+        ]
+      },
+      {
+        "id": "g61w54",
+        "word": "two strings to one's bow",
+        "meaning": "Having more than one means of achieving one's aim or making a living.",
+        "examples": [
+          "It's always good to have two strings to your bow in case your primary plan fails.",
+          "As a freelancer, he had two strings to his bow: writing and web design."
+        ]
+      },
+      {
+        "id": "g61w55",
+        "word": "tyro",
+        "meaning": "A beginner or novice.",
+        "examples": [
+          "Despite being a tyro, he showed great promise in his new field.",
+          "The art class was perfect for tyros who wanted to learn the basics."
+        ]
+      },
+      {
+        "id": "g61w56",
+        "word": "ubiquitous",
+        "meaning": "Present, appearing, or found everywhere.",
+        "examples": [
+          "In modern society, smartphones are ubiquitous.",
+          "The ubiquitous presence of cameras makes privacy difficult."
+        ]
+      },
+      {
+        "id": "g61w57",
+        "word": "ulterior",
+        "meaning": "Existing beyond what is obvious or openly stated; intentionally hidden.",
+        "examples": [
+          "She suspected he had an ulterior motive for offering his help.",
+          "His seemingly generous offer had an ulterior purpose."
+        ]
+      },
+      {
+        "id": "g61w58",
+        "word": "ultimate",
+        "meaning": "The best achievable or imaginable of its kind. The last or furthest in a progression; final.",
+        "examples": [
+          "Winning the championship was his ultimate goal.",
+          "The ultimate consequence of his actions was losing everything."
+        ]
+      },
+      {
+        "id": "g61w59",
+        "word": "umbrage",
+        "meaning": "Offense or annoyance.",
+        "examples": [
+          "He took umbrage at her critical remarks.",
+          "She felt a sense of umbrage when her ideas were dismissed."
+        ]
+      },
+      {
+        "id": "g61w60",
+        "word": "unabated",
+        "meaning": "Without any reduction in intensity or force.",
+        "examples": [
+          "The storm continued unabated for hours.",
+          "Her enthusiasm for the project remained unabated despite the setbacks."
+        ]
+      }
+    ]
+  }

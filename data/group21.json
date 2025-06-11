@@ -1,0 +1,546 @@
+{
+  "id": "group21",
+  "words": [
+    {
+      "id": "g21w1",
+      "word": "epicure",
+      "meaning": "A person who takes particular pleasure in fine food and drink.",
+      "examples": [
+        "He was an epicure who would travel for miles to try a new restaurant.",
+        "The epicure savored every bite of the gourmet meal."
+      ]
+    },
+    {
+      "id": "g21w2",
+      "word": "epigram",
+      "meaning": "A pithy saying or remark expressing an idea in a clever and amusing way.",
+      "examples": [
+        "Oscar Wilde was famous for his witty epigrams.",
+        "One of his favorite epigrams is 'I can resist everything except temptation.'"
+      ]
+    },
+    {
+      "id": "g21w3",
+      "word": "epiphany",
+      "meaning": "A moment of sudden and great revelation or realization.",
+      "examples": [
+        "He had an epiphany and suddenly understood the solution to the problem.",
+        "The novel's climax features a profound epiphany for the main character."
+      ]
+    },
+    {
+      "id": "g21w4",
+      "word": "episodic",
+      "meaning": "Containing or consisting of a series of loosely connected parts or events.",
+      "examples": [
+        "The television series had an episodic structure, with each episode telling a self-contained story.",
+        "His memory of the event was episodic and fragmented."
+      ]
+    },
+    {
+      "id": "g21w5",
+      "word": "epistemology",
+      "meaning": "The theory of knowledge, especially with regard to its methods, validity, and scope.",
+      "examples": [
+        "The philosopher's main area of research was epistemology.",
+        "Epistemology explores questions about what knowledge is and how we can acquire it."
+      ]
+    },
+    {
+      "id": "g21w6",
+      "word": "epistle",
+      "meaning": "A letter, especially a long or formal one.",
+      "examples": [
+        "The book is a collection of his epistles to his family and friends.",
+        "The New Testament contains several epistles written by the apostles."
+      ]
+    },
+    {
+      "id": "g21w7",
+      "word": "epistolary",
+      "meaning": "(Of a literary work) in the form of letters.",
+      "examples": [
+        "The novel 'Dracula' is written in an epistolary format.",
+        "She enjoyed reading epistolary novels for their intimate feel."
+      ]
+    },
+    {
+      "id": "g21w8",
+      "word": "epithet",
+      "meaning": "An adjective or descriptive phrase expressing a quality characteristic of the person or thing mentioned.",
+      "examples": [
+        "Richard the Lionheart is an epithet for King Richard I.",
+        "He hurled a stream of racist epithets at the protesters."
+      ]
+    },
+    {
+      "id": "g21w9",
+      "word": "epitome",
+      "meaning": "A person or thing that is a perfect example of a particular quality or type.",
+      "examples": [
+        "She is the epitome of grace and elegance.",
+        "The new sports car is the epitome of luxury and performance."
+      ]
+    },
+    {
+      "id": "g21w10",
+      "word": "eponym",
+      "meaning": "A person after whom a discovery, invention, place, etc., is named or thought to be named.",
+      "examples": [
+        "The sandwich is named after its eponym, the Earl of Sandwich.",
+        "Alzheimer's disease is named for its eponym, Dr. Alois Alzheimer."
+      ]
+    },
+    {
+      "id": "g21w11",
+      "word": "eponymous",
+      "meaning": "(Of a person) giving their name to something; (of a thing) named after a particular person.",
+      "examples": [
+        "The band's eponymous debut album was a huge success.",
+        "The eponymous hero of the novel is a young boy named Oliver Twist."
+      ]
+    },
+    {
+      "id": "g21w12",
+      "word": "equable",
+      "meaning": "(Of a person) not easily disturbed or angered; calm and even-tempered.",
+      "examples": [
+        "He has an equable temperament and rarely gets upset.",
+        "The region enjoys an equable climate with mild winters."
+      ]
+    },
+    {
+      "id": "g21w13",
+      "word": "equanimity",
+      "meaning": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
+      "examples": [
+        "She faced the crisis with great equanimity.",
+        "He accepted his defeat with equanimity."
+      ]
+    },
+    {
+      "id": "g21w14",
+      "word": "equipoise",
+      "meaning": "Balance of forces or interests.",
+      "examples": [
+        "The political system was in a state of delicate equipoise.",
+        "The gymnast maintained perfect equipoise on the balance beam."
+      ]
+    },
+    {
+      "id": "g21w15",
+      "word": "equitable",
+      "meaning": "Fair and impartial.",
+      "examples": [
+        "The company is committed to the equitable treatment of all its employees.",
+        "They reached an equitable settlement in their divorce."
+      ]
+    },
+    {
+      "id": "g21w16",
+      "word": "equivocal",
+      "meaning": "Open to more than one interpretation; ambiguous.",
+      "examples": [
+        "He gave an equivocal answer, and I couldn't tell if he agreed or not.",
+        "The results of the study were equivocal."
+      ]
+    },
+    {
+      "id": "g21w17",
+      "word": "equivocate",
+      "meaning": "To use ambiguous language so as to conceal the truth or avoid committing oneself.",
+      "examples": [
+        "The politician would often equivocate when asked about his past.",
+        "Stop equivocating and give me a straight answer."
+      ]
+    },
+    {
+      "id": "g21w18",
+      "word": "equivocation",
+      "meaning": "The use of ambiguous language to conceal the truth or to avoid committing oneself; prevarication.",
+      "examples": [
+        "His speech was full of equivocations and half-truths.",
+        "The witness's equivocation made the jury suspicious."
+      ]
+    },
+    {
+      "id": "g21w19",
+      "word": "eradicate",
+      "meaning": "To destroy completely; put an end to.",
+      "examples": [
+        "The organization is working to eradicate poverty.",
+        "Scientists are trying to eradicate the disease."
+      ]
+    },
+    {
+      "id": "g21w20",
+      "word": "err",
+      "meaning": "To be mistaken or incorrect; make a mistake.",
+      "examples": [
+        "To err is human, to forgive divine.",
+        "The accountant erred in his calculations."
+      ]
+    },
+    {
+      "id": "g21w21",
+      "word": "errant",
+      "meaning": "Erring or straying from the proper course or standards.",
+      "examples": [
+        "The errant golf ball shattered a window.",
+        "The teacher corrected the errant student."
+      ]
+    },
+    {
+      "id": "g21w22",
+      "word": "erratic",
+      "meaning": "Not even or regular in pattern or movement; unpredictable.",
+      "examples": [
+        "His behavior has been erratic lately.",
+        "The car's engine was making an erratic sound."
+      ]
+    },
+    {
+      "id": "g21w23",
+      "word": "erroneous",
+      "meaning": "Wrong; incorrect.",
+      "examples": [
+        "The report was based on erroneous information.",
+        "He came to an erroneous conclusion."
+      ]
+    },
+    {
+      "id": "g21w24",
+      "word": "ersatz",
+      "meaning": "(Of a product) made or used as a substitute, typically an inferior one, for something else.",
+      "examples": [
+        "During the war, they had to drink ersatz coffee made from chicory.",
+        "The ersatz leather jacket looked cheap."
+      ]
+    },
+    {
+      "id": "g21w25",
+      "word": "erstwhile",
+      "meaning": "Former.",
+      "examples": [
+        "He met with his erstwhile colleagues for lunch.",
+        "The erstwhile enemies are now close allies."
+      ]
+    },
+    {
+      "id": "g21w26",
+      "word": "erudite",
+      "meaning": "Having or showing great knowledge or learning.",
+      "examples": [
+        "He was an erudite scholar who could speak six languages.",
+        "The book is an erudite and well-researched study of the topic."
+      ]
+    },
+    {
+      "id": "g21w27",
+      "word": "erudition",
+      "meaning": "The quality of having or showing great knowledge or learning; scholarship.",
+      "examples": [
+        "He was a man of great erudition and culture.",
+        "Her erudition was evident in her insightful lectures."
+      ]
+    },
+    {
+      "id": "g21w28",
+      "word": "eruption",
+      "meaning": "An act or instance of erupting.",
+      "examples": [
+        "The eruption of the volcano caused widespread destruction.",
+        "He had a sudden eruption of anger."
+      ]
+    },
+    {
+      "id": "g21w29",
+      "word": "escalate",
+      "meaning": "To increase rapidly; to become or make more intense or serious.",
+      "examples": [
+        "The conflict could escalate into a full-scale war.",
+        "The company is escalating its marketing efforts."
+      ]
+    },
+    {
+      "id": "g21w30",
+      "word": "escalation",
+      "meaning": "A rapid increase; a rise.",
+      "examples": [
+        "The escalation of violence in the region is a major concern.",
+        "There has been a significant escalation in housing prices."
+      ]
+    },
+    {
+      "id": "g21w31",
+      "word": "eschew",
+      "meaning": "To deliberately avoid using; abstain from.",
+      "examples": [
+        "He decided to eschew all forms of modern technology.",
+        "She eschews processed foods and eats only natural ingredients."
+      ]
+
+    },
+    {
+      "id": "g21w32",
+      "word": "esoteric",
+      "meaning": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.",
+      "examples": [
+        "The philosophy lecture was too esoteric for most of the students.",
+        "He had an esoteric collection of rare books."
+      ]
+    },
+    {
+      "id": "g21w33",
+      "word": "espouse",
+      "meaning": "To adopt or support (a cause, belief, or way of life).",
+      "examples": [
+        "He espoused the principles of non-violence.",
+        "The political party espouses a policy of free trade."
+      ]
+    },
+    {
+      "id": "g21w34",
+      "word": "espy",
+      "meaning": "To catch sight of.",
+      "examples": [
+        "From the top of the hill, he could espy the distant sea.",
+        "She espied a rare bird in the branches of the tree."
+      ]
+    },
+    {
+      "id": "g21w35",
+      "word": "essay",
+      "meaning": "To attempt or try.",
+      "examples": [
+        "The climbers will essay the difficult north face of the mountain.",
+        "She essayed a short story, but it was not very good."
+      ]
+    },
+    {
+      "id": "g21w36",
+      "word": "estimable",
+      "meaning": "Worthy of great respect.",
+      "examples": [
+        "She is an estimable colleague and a dear friend.",
+        "He was an estimable leader who was admired by all."
+      ]
+    },
+    {
+      "id": "g21w37",
+      "word": "estranged",
+      "meaning": "(Of a person) no longer close or affectionate to someone; alienated.",
+      "examples": [
+        "He became estranged from his family after a bitter argument.",
+        "The estranged couple decided to get a divorce."
+      ]
+    },
+    {
+      "id": "g21w38",
+      "word": "ethereal",
+      "meaning": "Extremely delicate and light in a way that seems too perfect for this world.",
+      "examples": [
+        "The ballet dancer had an ethereal beauty.",
+        "The ethereal music seemed to float on the air."
+      ]
+    },
+    {
+      "id": "g21w39",
+      "word": "ethics",
+      "meaning": "Moral principles that govern a person's behavior or the conducting of an activity.",
+      "examples": [
+        "The company has a strict code of ethics.",
+        "The doctor's actions were a violation of medical ethics."
+      ]
+    },
+    {
+      "id": "g21w40",
+      "word": "ethnocentric",
+      "meaning": "Evaluating other peoples and cultures according to the standards of one's own culture.",
+      "examples": [
+        "His ethnocentric views made it difficult for him to understand other cultures.",
+        "The article was criticized for its ethnocentric bias."
+      ]
+    },
+    {
+      "id": "g21w41",
+      "word": "ethos",
+      "meaning": "The characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations.",
+      "examples": [
+        "The company's ethos is focused on customer satisfaction.",
+        "The ethos of the school is to encourage creativity and independent thought."
+      ]
+    },
+    {
+      "id": "g21w42",
+      "word": "etiolated",
+      "meaning": "(Of a plant) pale and drawn out due to a lack of light; having lost vigor or substance; feeble.",
+      "examples": [
+        "The etiolated seedlings were weak and spindly.",
+        "After a long illness, he looked pale and etiolated."
+      ]
+    },
+    {
+      "id": "g21w43",
+      "word": "etiology",
+      "meaning": "The cause, set of causes, or manner of causation of a disease or condition.",
+      "examples": [
+        "The etiology of the disease is still unknown.",
+        "Researchers are studying the etiology of cancer."
+      ]
+    },
+    {
+      "id": "g21w44",
+      "word": "etymology",
+      "meaning": "The study of the origin of words and the way in which their meanings have changed throughout history.",
+      "examples": [
+        "He has a keen interest in etymology.",
+        "The etymology of the word 'robot' is from the Czech word 'robota', meaning 'forced labor'."
+      ]
+    },
+    {
+      "id": "g21w45",
+      "word": "eugenics",
+      "meaning": "The science of improving a human population by controlled breeding to increase the occurrence of desirable heritable characteristics.",
+      "examples": [
+        "The theory of eugenics was popular in the early 20th century.",
+        "The practice of eugenics is now widely condemned."
+      ]
+    },
+    {
+      "id": "g21w46",
+      "word": "eulogy",
+      "meaning": "A speech or piece of writing that praises someone or something highly, typically someone who has just died.",
+      "examples": [
+        "He delivered a moving eulogy at his friend's funeral.",
+        "The book is a eulogy to the beauty of the natural world."
+      ]
+    },
+    {
+      "id": "g21w47",
+      "word": "euphemism",
+      "meaning": "A mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing.",
+      "examples": [
+        "'Passed away' is a euphemism for 'died'.",
+        "He used a euphemism to describe the company's financial problems."
+      ]
+    },
+    {
+      "id": "g21w48",
+      "word": "euphony",
+      "meaning": "The quality of being pleasing to the ear, especially through a harmonious combination of words.",
+      "examples": [
+        "The poet's use of assonance and alliteration created a beautiful euphony.",
+        "The euphony of her voice was captivating."
+      ]
+    },
+    {
+      "id": "g21w49",
+      "word": "euphoria",
+      "meaning": "A feeling or state of intense excitement and happiness.",
+      "examples": [
+        "She was in a state of euphoria after winning the lottery.",
+        "The victory was met with euphoria by the fans."
+      ]
+    },
+    {
+      "id": "g21w50",
+      "word": "euphoric",
+      "meaning": "Characterized by or feeling intense excitement and happiness.",
+      "examples": [
+        "The team was euphoric after their victory.",
+        "He felt a euphoric sense of relief."
+      ]
+    },
+    {
+      "id": "g21w51",
+      "word": "euthanasia",
+      "meaning": "The painless killing of a patient suffering from an incurable and painful disease or in an irreversible coma.",
+      "examples": [
+        "The debate over the legality of euthanasia is ongoing.",
+        "He believed in the right to choose euthanasia."
+      ]
+    },
+    {
+      "id": "g21w52",
+      "word": "evade",
+      "meaning": "To escape or avoid, especially by cleverness or trickery.",
+      "examples": [
+        "He tried to evade the question by changing the subject.",
+        "The criminal managed to evade capture for years."
+      ]
+    },
+    {
+      "id": "g21w53",
+      "word": "evaluate",
+      "meaning": "To form an idea of the amount, number, or value of; assess.",
+      "examples": [
+        "The teacher will evaluate the students' performance.",
+        "It is important to evaluate the risks before making a decision."
+      ]
+    },
+    {
+      "id": "g21w54",
+      "word": "evanescent",
+      "meaning": "Soon passing out of sight, memory, or existence; quickly fading or disappearing.",
+      "examples": [
+        "The beauty of the sunset was evanescent.",
+        "Fame can be as evanescent as a morning mist."
+      ]
+    },
+    {
+      "id": "g21w55",
+      "word": "evasive",
+      "meaning": "Tending to avoid commitment or self-revelation, especially by responding only indirectly.",
+      "examples": [
+        "He was evasive when asked about his whereabouts on the night of the crime.",
+        "She gave an evasive answer to the direct question."
+      ]
+    },
+    {
+      "id": "g21w56",
+      "word": "evenhanded",
+      "meaning": "Fair and impartial in treatment or judgment.",
+      "examples": [
+        "A good judge must be evenhanded in their decisions.",
+        "He tried to be evenhanded in his distribution of the inheritance."
+      ]
+    },
+    {
+      "id": "g21w57",
+      "word": "eventuate",
+      "meaning": "To occur as a result.",
+      "examples": [
+        "The negotiations are expected to eventuate in a peace treaty.",
+        "His hard work eventuated in a promotion."
+      ]
+    },
+    {
+      "id": "g21w58",
+      "word": "evict",
+      "meaning": "To expel (someone) from a property, especially with the support of the law.",
+      "examples": [
+        "The landlord threatened to evict the tenants for not paying their rent.",
+        "He was evicted from his apartment for violating the lease."
+      ]
+    },
+    {
+      "id": "g21w59",
+      "word": "evince",
+      "meaning": "To reveal the presence of (a quality or feeling).",
+      "examples": [
+        "She evinced a great deal of courage in the face of danger.",
+        "His letter evinces a deep sense of remorse."
+      ]
+    },
+    {
+      "id": "g21w60",
+      "word": "evinced",
+      "meaning": "Past tense of evince; revealed the presence of a quality or feeling.",
+      "examples": [
+        "The jury was not convinced by the remorse he evinced.",
+        "The joy she evinced upon seeing her family was heartwarming."
+      ]
+    }
+  ]
+}

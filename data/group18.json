@@ -1,0 +1,546 @@
+{
+    "id": "group18",
+    "words": [
+      {
+        "id": "g18w1",
+        "word": "disquieting",
+        "meaning": "Inducing feelings of anxiety or worry.",
+        "examples": [
+          "The news report contained some disquieting information.",
+          "There was a disquieting silence in the house."
+        ]
+      },
+      {
+        "id": "g18w2",
+        "word": "disregard",
+        "meaning": "To pay no attention to; ignore.",
+        "examples": [
+          "Please disregard my previous email.",
+          "He showed a complete disregard for the safety of others."
+        ]
+      },
+      {
+        "id": "g18w3",
+        "word": "disrobe",
+        "meaning": "To undress.",
+        "examples": [
+          "The doctor asked the patient to disrobe for the examination.",
+          "He disrobed and stepped into the shower."
+        ]
+      },
+      {
+        "id": "g18w4",
+        "word": "dissemble",
+        "meaning": "To conceal one's true motives, feelings, or beliefs.",
+        "examples": [
+          "He tried to dissemble his fear with a confident smile.",
+          "She was unable to dissemble her disappointment."
+        ]
+      },
+      {
+        "id": "g18w5",
+        "word": "disseminate",
+        "meaning": "To spread (something, especially information) widely.",
+        "examples": [
+          "The organization's goal is to disseminate information about public health.",
+          "The seeds are disseminated by the wind."
+        ]
+      },
+      {
+        "id": "g18w6",
+        "word": "disseminated",
+        "meaning": "Past tense of disseminate; spread widely.",
+        "examples": [
+          "The news was disseminated quickly through social media.",
+          "The report was disseminated to all employees."
+        ]
+      },
+      {
+        "id": "g18w7",
+        "word": "dissent",
+        "meaning": "The expression or holding of opinions at variance with those previously, commonly, or officially held.",
+        "examples": [
+          "There was a great deal of dissent within the committee.",
+          "Two judges dissented from the majority opinion."
+        ]
+      },
+      {
+        "id": "g18w8",
+        "word": "dissident",
+        "meaning": "A person who opposes official policy, especially that of an authoritarian state.",
+        "examples": [
+          "The political dissident was arrested for speaking out against the government.",
+          "The country has a history of suppressing dissident voices."
+        ]
+      },
+      {
+        "id": "g18w9",
+        "word": "dissipate",
+        "meaning": "To squander or fritter away (money, energy, or resources); to disperse or scatter.",
+        "examples": [
+          "He dissipated his inheritance on gambling and expensive cars.",
+          "The morning mist will dissipate as the sun rises."
+        ]
+      },
+      {
+        "id": "g18w10",
+        "word": "dissolution",
+        "meaning": "The closing down or dismissal of an assembly, partnership, or official body.",
+        "examples": [
+          "The dissolution of the Soviet Union marked the end of an era.",
+          "The dissolution of their marriage was amicable."
+        ]
+      },
+      {
+        "id": "g18w11",
+        "word": "dissonance",
+        "meaning": "A lack of harmony among musical notes; a tension or clash resulting from the combination of two disharmonious or unsuitable elements.",
+        "examples": [
+          "The composer used dissonance to create a sense of unease.",
+          "There was a dissonance between her words and her actions."
+        ]
+      },
+      {
+        "id": "g18w12",
+        "word": "distaff",
+        "meaning": "Of or concerning women.",
+        "examples": [
+          "The inheritance passed through the distaff side of the family.",
+          "In the novel, the distaff characters were more compelling than the male ones."
+        ]
+      },
+      {
+        "id": "g18w13",
+        "word": "distend",
+        "meaning": "To swell or cause to swell by pressure from inside.",
+        "examples": [
+          "The snake's belly began to distend after it swallowed the large egg.",
+          "Eating too much can cause your stomach to distend."
+        ]
+      },
+      {
+        "id": "g18w14",
+        "word": "distension",
+        "meaning": "The state of being distended or swollen.",
+        "examples": [
+          "The patient complained of abdominal distension.",
+          "The distension of the balloon continued until it burst."
+        ]
+      },
+      {
+        "id": "g18w15",
+        "word": "distention",
+        "meaning": "A variant spelling of distension; the state of being swollen or stretched.",
+        "examples": [
+          "The primary symptom is a painful distention of the abdomen.",
+          "The distention of the river's banks was a sign of the impending flood."
+        ]
+      },
+      {
+        "id": "g18w16",
+        "word": "distill",
+        "meaning": "To extract the essential meaning or most important aspects of.",
+        "examples": [
+          "The reporter had to distill a long speech into a few short paragraphs.",
+          "She managed to distill the complex theory into a simple explanation."
+        ]
+      },
+      {
+        "id": "g18w17",
+        "word": "distort",
+        "meaning": "To pull or twist out of shape; to give a misleading or false account or impression of.",
+        "examples": [
+          "The funhouse mirror distorted his reflection.",
+          "The media distorted the facts of the story."
+        ]
+      },
+      {
+        "id": "g18w18",
+        "word": "distract",
+        "meaning": "To prevent (someone) from giving full attention to something.",
+        "examples": [
+          "The loud music was distracting me from my work.",
+          "Don't distract the driver."
+        ]
+      },
+      {
+        "id": "g18w19",
+        "word": "distraught",
+        "meaning": "Very worried and upset.",
+        "examples": [
+          "The distraught parents searched for their missing child.",
+          "She was distraught over the news of her friend's death."
+        ]
+      },
+      {
+        "id": "g18w20",
+        "word": "distressed",
+        "meaning": "Suffering from anxiety, sorrow, or pain.",
+        "examples": [
+          "The distressed sailors sent out a call for help.",
+          "She was deeply distressed by the recent events."
+        ]
+      },
+      {
+        "id": "g18w21",
+        "word": "dither",
+        "meaning": "To be indecisive.",
+        "examples": [
+          "He was dithering over whether to accept the job offer.",
+          "Stop dithering and make a decision."
+        ]
+      },
+      {
+        "id": "g18w22",
+        "word": "diurnal",
+        "meaning": "Of or during the day; active during the day.",
+        "examples": [
+          "Most birds are diurnal animals.",
+          "The diurnal cycle of light and darkness affects many biological processes."
+        ]
+      },
+      {
+        "id": "g18w23",
+        "word": "diverge",
+        "meaning": "(Of a road, route, or line) to separate from another route and go in a different direction.",
+        "examples": [
+          "The path diverges here; you can go left or right.",
+          "Their opinions diverged on the matter."
+        ]
+      },
+      {
+        "id": "g18w24",
+        "word": "divergent",
+        "meaning": "Tending to be different or develop in different directions.",
+        "examples": [
+          "They have divergent views on how to solve the problem.",
+          "The two species evolved along divergent paths."
+        ]
+      },
+      {
+        "id": "g18w25",
+        "word": "diversity",
+        "meaning": "The state of being diverse; variety.",
+        "examples": [
+          "The city is known for its cultural diversity.",
+          "The company promotes diversity in the workplace."
+        ]
+      },
+      {
+        "id": "g18w26",
+        "word": "divert",
+        "meaning": "To cause (someone or something) to change course or turn from one direction to another.",
+        "examples": [
+          "Traffic was diverted around the accident scene.",
+          "He tried to divert her attention from the bad news."
+        ]
+      },
+      {
+        "id": "g18w27",
+        "word": "divest",
+        "meaning": "To deprive (someone) of power, rights, or possessions; to rid oneself of something that one no longer wants.",
+        "examples": [
+          "The new law will divest the company of its monopoly.",
+          "He decided to divest himself of his shares in the company."
+        ]
+  
+      },
+      {
+        "id": "g18w28",
+        "word": "divine",
+        "meaning": "To discover (something) by guesswork or intuition.",
+        "examples": [
+          "She could divine his true intentions from the look in his eyes.",
+          "The detective divined that the suspect was lying."
+        ]
+      },
+      {
+        "id": "g18w29",
+        "word": "divisive",
+        "meaning": "Tending to cause disagreement or hostility between people.",
+        "examples": [
+          "The issue of immigration is highly divisive.",
+          "His divisive rhetoric split the party."
+        ]
+      },
+      {
+        "id": "g18w30",
+        "word": "divorced",
+        "meaning": "Legally dissolved from a marriage; separate and different from something.",
+        "examples": [
+          "Her parents are divorced.",
+          "His new novel is completely divorced from his earlier work."
+        ]
+      },
+      {
+        "id": "g18w31",
+        "word": "divulge",
+        "meaning": "To make known (private or sensitive information).",
+        "examples": [
+          "The company refused to divulge its sales figures.",
+          "He would not divulge the source of his information."
+        ]
+      },
+      {
+        "id": "g18w32",
+        "word": "docile",
+        "meaning": "Ready to accept control or instruction; submissive.",
+        "examples": [
+          "The dog was a docile and obedient pet.",
+          "She was a docile child who never caused any trouble."
+        ]
+      },
+      {
+        "id": "g18w33",
+        "word": "doctrinaire",
+        "meaning": "Seeking to impose a doctrine in all circumstances without regard to practical considerations.",
+        "examples": [
+          "He was a doctrinaire socialist who refused to compromise.",
+          "Her doctrinaire approach was not suitable for the complex situation."
+        ]
+      },
+      {
+        "id": "g18w34",
+        "word": "document",
+        "meaning": "To record (something) in written, photographic, or other form.",
+        "examples": [
+          "It is important to document all your expenses.",
+          "The film documents the lives of a poor family in rural India."
+        ]
+      },
+      {
+        "id": "g18w35",
+        "word": "documentary",
+        "meaning": "A movie or a television or radio program that provides a factual record or report.",
+        "examples": [
+          "The documentary was about the history of the Civil Rights Movement.",
+          "She is a famous documentary filmmaker."
+        ]
+      },
+      {
+        "id": "g18w36",
+        "word": "doddering",
+        "meaning": "Trembling or tottering, typically because of old age.",
+        "examples": [
+          "He was a doddering old man who needed a cane to walk.",
+          "The doddering empire was on the verge of collapse."
+        ]
+      },
+      {
+        "id": "g18w37",
+        "word": "doff",
+        "meaning": "To remove (an item of clothing).",
+        "examples": [
+          "He doffed his hat as a sign of respect.",
+          "The knight doffed his helmet."
+        ]
+      },
+      {
+        "id": "g18w38",
+        "word": "dog",
+        "meaning": "To follow (someone) closely and persistently.",
+        "examples": [
+          "Reporters would dog the celebrity everywhere she went.",
+          "He was dogged by misfortune all his life."
+        ]
+      },
+      {
+        "id": "g18w39",
+        "word": "dogged",
+        "meaning": "Having or showing tenacity and grim persistence.",
+        "examples": [
+          "Her dogged determination helped her to succeed.",
+          "He pursued his goal with dogged persistence."
+        ]
+      },
+      {
+        "id": "g18w40",
+        "word": "doggedness",
+        "meaning": "The quality of being dogged; persistence.",
+        "examples": [
+          "She admired his doggedness in the face of adversity.",
+          "His doggedness paid off in the end."
+        ]
+      },
+      {
+        "id": "g18w41",
+        "word": "doggerel",
+        "meaning": "Verse or words that are badly written or expressed.",
+        "examples": [
+          "The poem was nothing more than sentimental doggerel.",
+          "He wrote a few lines of doggerel on a napkin."
+        ]
+      },
+      {
+        "id": "g18w42",
+        "word": "dogma",
+        "meaning": "A principle or set of principles laid down by an authority as incontrovertibly true.",
+        "examples": [
+          "The church's dogma is based on the teachings of its founder.",
+          "He questioned the central dogma of the political party."
+        ]
+      },
+      {
+        "id": "g18w43",
+        "word": "dogmatic",
+        "meaning": "Inclined to lay down principles as incontrovertibly true.",
+        "examples": [
+          "He was a dogmatic and opinionated person.",
+          "She had a dogmatic belief in the superiority of her own culture."
+        ]
+      },
+      {
+        "id": "g18w44",
+        "word": "doleful",
+        "meaning": "Expressing sorrow; mournful.",
+        "examples": [
+          "He had a doleful expression on his face.",
+          "The doleful sound of the funeral bells filled the air."
+        ]
+      },
+      {
+        "id": "g18w45",
+        "word": "dolorous",
+        "meaning": "Feeling or expressing great sorrow or distress.",
+        "examples": [
+          "She let out a dolorous cry of grief.",
+          "The dolorous music matched the mood of the play."
+        ]
+      },
+      {
+        "id": "g18w46",
+        "word": "domicile",
+        "meaning": "A person's residence or home.",
+        "examples": [
+          "His legal domicile is in Texas, but he currently lives in New York.",
+          "The couple established their domicile in a quiet suburb."
+        ]
+      },
+      {
+        "id": "g18w47",
+        "word": "dormant",
+        "meaning": "(Of an animal) having normal physical functions suspended or slowed down for a period of time; in or as if in a deep sleep.",
+        "examples": [
+          "The volcano has been dormant for many years.",
+          "Her artistic talent lay dormant for years."
+        ]
+      },
+      {
+        "id": "g18w48",
+        "word": "doughty",
+        "meaning": "Brave and persistent.",
+        "examples": [
+          "The doughty warrior fought until the very end.",
+          "A doughty band of rebels stood up against the tyrant."
+        ]
+      },
+      {
+        "id": "g18w49",
+        "word": "dour",
+        "meaning": "Relentlessly severe, stern, or gloomy in manner or appearance.",
+        "examples": [
+          "He had a dour and humorless expression.",
+          "The dour landscape was bleak and unwelcoming."
+        ]
+      },
+      {
+        "id": "g18w50",
+        "word": "dovetail",
+        "meaning": "To fit together easily and neatly.",
+        "examples": [
+          "Her travel plans dovetailed perfectly with his.",
+          "The two theories dovetail to provide a complete explanation."
+        ]
+      },
+      {
+        "id": "g18w51",
+        "word": "dowdy",
+        "meaning": "(Of a person or their clothes) unfashionable and dull in appearance.",
+        "examples": [
+          "She wore a dowdy, gray dress.",
+          "He was a dowdy man with no sense of style."
+        ]
+      },
+      {
+        "id": "g18w52",
+        "word": "drab",
+        "meaning": "Lacking brightness or interest; drearily dull.",
+        "examples": [
+          "The room was painted in a drab shade of brown.",
+          "He led a drab and monotonous life."
+        ]
+      },
+      {
+        "id": "g18w53",
+        "word": "draconian",
+        "meaning": "(Of laws or their application) excessively harsh and severe.",
+        "examples": [
+          "The new law imposes draconian penalties for minor offenses.",
+          "The government was criticized for its draconian measures."
+        ]
+      },
+      {
+        "id": "g18w54",
+        "word": "Draconian Code",
+        "meaning": "A very severe set of laws, named after Draco, an Athenian lawgiver of the 7th century BC.",
+        "examples": [
+          "The historical Draconian Code was known for its harsh punishments.",
+          "Critics called the new legislation a modern-day Draconian Code."
+        ]
+      },
+      {
+        "id": "g18w55",
+        "word": "draw in one's horns",
+        "meaning": "To become more cautious and less assertive, especially in spending money.",
+        "examples": [
+          "After losing his job, he had to draw in his horns and cut back on expenses.",
+          "The company had to draw in its horns during the economic recession."
+        ]
+      },
+      {
+        "id": "g18w56",
+        "word": "drawl",
+        "meaning": "To speak in a slow, lazy way with prolonged vowel sounds.",
+        "examples": [
+          "He spoke with a slow Southern drawl.",
+          "She drawled her words, giving the impression of boredom."
+        ]
+      },
+      {
+        "id": "g18w57",
+        "word": "dregs",
+        "meaning": "The most worthless part or parts of something.",
+        "examples": [
+          "They were considered the dregs of society.",
+          "He drank the last dregs of his coffee."
+        ]
+      },
+      {
+        "id": "g18w58",
+        "word": "droll",
+        "meaning": "Curious or unusual in a way that provokes dry amusement.",
+        "examples": [
+          "He had a droll sense of humor.",
+          "The book is a droll and witty satire."
+        ]
+      },
+      {
+        "id": "g18w59",
+        "word": "drone",
+        "meaning": "To make a continuous low humming sound; to speak tediously in a dull monotonous tone.",
+        "examples": [
+          "The air conditioner droned on in the background.",
+          "The professor droned on about a boring topic."
+        ]
+      },
+      {
+        "id": "g18w60",
+        "word": "dross",
+        "meaning": "Something regarded as worthless; rubbish.",
+        "examples": [
+          "He considered most of what was on television to be dross.",
+          "The editor had to sift through a lot of dross to find the good stories."
+        ]
+      }
+    ]
+  }

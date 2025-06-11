@@ -1,0 +1,545 @@
+{
+    "id": "group39",
+    "words": [
+      {
+        "id": "g39w1",
+        "word": "neglect",
+        "meaning": "To fail to care for properly; the state of being uncared for.",
+        "examples": [
+          "The old house had fallen into a state of neglect.",
+          "He was accused of child neglect."
+        ]
+      },
+      {
+        "id": "g39w2",
+        "word": "negligent",
+        "meaning": "Failing to take proper care over something.",
+        "examples": [
+          "The court found the driver to be negligent and responsible for the accident.",
+          "He was negligent in his duties, which led to a serious error."
+        ]
+      },
+      {
+        "id": "g39w3",
+        "word": "negligible",
+        "meaning": "So small or unimportant as to be not worth considering; insignificant.",
+        "examples": [
+          "The cost of the repair was negligible compared to buying a new one.",
+          "The side effects of the drug are considered negligible."
+        ]
+      },
+      {
+        "id": "g39w4",
+        "word": "neologism",
+        "meaning": "A newly coined word or expression.",
+        "examples": [
+          "The word 'google' as a verb is a neologism that has entered common usage.",
+          "Writers like Shakespeare were famous for inventing neologisms."
+        ]
+      },
+      {
+        "id": "g39w5",
+        "word": "neophyte",
+        "meaning": "A person who is new to a subject, skill, or belief; a beginner or novice.",
+        "examples": [
+          "As a neophyte in the kitchen, he was afraid of burning the food.",
+          "The experienced trader gave some advice to the neophyte investor."
+        ]
+      },
+      {
+        "id": "g39w6",
+        "word": "nepotism",
+        "meaning": "The practice among those with power or influence of favoring relatives or friends, especially by giving them jobs.",
+        "examples": [
+          "The CEO was accused of nepotism for hiring his son as a vice president.",
+          "Nepotism can lead to a less qualified and inefficient workforce."
+        ]
+      },
+      {
+        "id": "g39w7",
+        "word": "net",
+        "meaning": "Remaining after all necessary deductions; the final result or effect.",
+        "examples": [
+          "After taxes, his net income was significantly lower.",
+          "The net effect of the new policy was an increase in public complaints."
+        ]
+      },
+      {
+        "id": "g39w8",
+        "word": "nettle",
+        "meaning": "To irritate or annoy someone.",
+        "examples": [
+          "His constant humming began to nettle his coworkers.",
+          "She was nettled by his dismissive tone."
+        ]
+      },
+      {
+        "id": "g39w9",
+        "word": "neuralgia",
+        "meaning": "Intense, typically intermittent pain along the course of a nerve, especially in the head or face.",
+        "examples": [
+          "She suffered from severe neuralgia that made it difficult to eat or speak.",
+          "The doctor prescribed medication to manage the painful neuralgia."
+        ]
+      },
+      {
+        "id": "g39w10",
+        "word": "neurotic",
+        "meaning": "Abnormally sensitive, obsessive, or anxious.",
+        "examples": [
+          "He was neurotic about germs and washed his hands constantly.",
+          "Her neurotic perfectionism made her difficult to work with."
+        ]
+      },
+      {
+        "id": "g39w11",
+        "word": "neutralize",
+        "meaning": "To render something ineffective or harmless by applying an opposite force or effect.",
+        "examples": [
+          "You can use baking soda to neutralize stomach acid.",
+          "The army's mission was to neutralize the enemy threat."
+        ]
+      },
+      {
+        "id": "g39w12",
+        "word": "nevertheless or nonetheless",
+        "meaning": "In spite of what has just been said; however.",
+        "examples": [
+          "The hike was challenging; nevertheless, the view from the top was worth it.",
+          "The evidence was compelling; nonetheless, the jury found him not guilty."
+        ]
+      },
+      {
+        "id": "g39w13",
+        "word": "newfangled",
+        "meaning": "(Often used disapprovingly) different from what one is used to; objectionably new.",
+        "examples": [
+          "My grandfather refuses to use any of this newfangled technology.",
+          "She couldn't figure out how the newfangled coffee maker worked."
+        ]
+      },
+      {
+        "id": "g39w14",
+        "word": "nexus",
+        "meaning": "A connection or series of connections linking two or more things; a central or focal point.",
+        "examples": [
+          "The city's main train station is a nexus for regional transportation.",
+          "The investigation revealed a nexus of corruption linking politicians and business leaders."
+        ]
+      },
+      {
+        "id": "g39w15",
+        "word": "nice",
+        "meaning": "(In a formal or literary sense) fine or subtle.",
+        "examples": [
+          "The philosopher drew a nice distinction between the two concepts.",
+          "The argument required an understanding of several nice points of law."
+        ]
+      },
+      {
+        "id": "g39w16",
+        "word": "nihilism",
+        "meaning": "The rejection of all religious and moral principles, in the belief that life is meaningless.",
+        "examples": [
+          "The character's journey from idealism to nihilism is the central theme of the book.",
+          "A philosophy of nihilism can lead to profound despair."
+        ]
+      },
+      {
+        "id": "g39w17",
+        "word": "nimble",
+        "meaning": "Quick and light in movement or action; agile.",
+        "examples": [
+          "The nimble rock climber scaled the cliff with ease.",
+          "He had a nimble mind and could solve complex puzzles quickly."
+        ]
+      },
+      {
+        "id": "g39w18",
+        "word": "nirvana",
+        "meaning": "A state of perfect happiness; an idyllic place.",
+        "examples": [
+          "For a book lover, the library was a kind of nirvana.",
+          "In Buddhism, the ultimate goal is to achieve a state of nirvana."
+        ]
+      },
+      {
+        "id": "g39w19",
+        "word": "noble",
+        "meaning": "Having or showing fine personal qualities or high moral principles.",
+        "examples": [
+          "It was a noble act to sacrifice his own life to save the child.",
+          "She dedicated her life to the noble cause of helping the poor."
+        ]
+      },
+      {
+        "id": "g39w20",
+        "word": "nocturnal",
+        "meaning": "Done, occurring, or active at night.",
+        "examples": [
+          "Owls and bats are nocturnal animals.",
+          "He preferred the quiet of his nocturnal study sessions."
+        ]
+      },
+      {
+        "id": "g39w21",
+        "word": "noisome",
+        "meaning": "Having an extremely offensive smell.",
+        "examples": [
+          "The noisome stench from the swamp was unbearable.",
+          "A noisome cloud of fumes rose from the chemical factory."
+        ]
+      },
+      {
+        "id": "g39w22",
+        "word": "nomadic",
+        "meaning": "Living the life of a wanderer; migratory.",
+        "examples": [
+          "The nomadic tribes of the desert move with their herds.",
+          "After college, he lived a nomadic lifestyle for a few years, never staying in one place for long."
+        ]
+      },
+      {
+        "id": "g39w23",
+        "word": "nominal",
+        "meaning": "(Of a role or status) existing in name only; (of a price or fee) very small.",
+        "examples": [
+          "He was the nominal head of the company, but his deputy made all the decisions.",
+          "They charged a nominal fee of one dollar for admission."
+        ]
+      },
+      {
+        "id": "g39w24",
+        "word": "non sequitur",
+        "meaning": "A conclusion or statement that does not logically follow from the previous argument or statement.",
+        "examples": [
+          "His response was a complete non sequitur that left everyone confused.",
+          "The comedian's routine was a series of hilarious non sequiturs."
+        ]
+      },
+      {
+        "id": "g39w25",
+        "word": "nonchalant",
+        "meaning": "Feeling or appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm.",
+        "examples": [
+          "He tried to appear nonchalant, but I could tell he was nervous.",
+          "She gave a nonchalant shrug as if it didn't matter."
+        ]
+      },
+      {
+        "id": "g39w26",
+        "word": "nondescript",
+        "meaning": "Lacking distinctive or interesting features or characteristics.",
+        "examples": [
+          "The spy tried to look as nondescript as possible to avoid attention.",
+          "He lived in a nondescript apartment building on the edge of town."
+        ]
+      },
+      {
+        "id": "g39w27",
+        "word": "nonentity",
+        "meaning": "A person or thing with no special or interesting qualities; an unimportant person or thing.",
+        "examples": [
+          "He felt like a nonentity in the large, impersonal corporation.",
+          "The actor went from being a complete nonentity to a household name overnight."
+        ]
+      },
+      {
+        "id": "g39w28",
+        "word": "nonpareil",
+        "meaning": "Having no match or equal; unrivaled.",
+        "examples": [
+          "The chef's skill at creating desserts was nonpareil.",
+          "She was a violinist of nonpareil talent."
+        ]
+      },
+      {
+        "id": "g39w29",
+        "word": "nonplussed",
+        "meaning": "Surprised and confused so much that one is unsure how to react.",
+        "examples": [
+          "She was completely nonplussed by his unexpected marriage proposal.",
+          "The strange question left the speaker nonplussed for a moment."
+        ]
+      },
+      {
+        "id": "g39w30",
+        "word": "nontrivial",
+        "meaning": "Important or significant; not straightforward or simple.",
+        "examples": [
+          "The amount of money involved was nontrivial.",
+          "Solving the equation was a nontrivial task that required advanced mathematics."
+        ]
+      },
+      {
+        "id": "g39w31",
+        "word": "normative",
+        "meaning": "Establishing, relating to, or deriving from a standard or norm, especially of behavior.",
+        "examples": [
+          "The study was concerned with normative questions of what is morally right and wrong.",
+          "A normative statement describes how things 'should' be."
+        ]
+      },
+      {
+        "id": "g39w32",
+        "word": "nostalgia",
+        "meaning": "A sentimental longing or wistful affection for a period in the past.",
+        "examples": [
+          "Hearing the old song filled him with nostalgia for his childhood.",
+          "The reunion was a bittersweet mix of joy and nostalgia."
+        ]
+      },
+      {
+        "id": "g39w33",
+        "word": "nostrum",
+        "meaning": "A medicine of secret composition and unproven effectiveness; a questionable remedy or scheme.",
+        "examples": [
+          "The traveling salesman sold a nostrum he claimed could cure any ailment.",
+          "The politician's simplistic plan was dismissed as a populist nostrum."
+        ]
+      },
+      {
+        "id": "g39w34",
+        "word": "note",
+        "meaning": "To notice or pay particular attention to someone or something.",
+        "examples": [
+          "Please note that the library will be closed on Monday.",
+          "It is interesting to note the differences between the two documents."
+        ]
+      },
+      {
+        "id": "g39w35",
+        "word": "notion",
+        "meaning": "A conception of or belief about something; an impulse or desire.",
+        "examples": [
+          "She had a vague notion of what she wanted to do with her life.",
+          "He suddenly had a notion to go for a swim."
+        ]
+      },
+      {
+        "id": "g39w36",
+        "word": "notoriety",
+        "meaning": "The state of being famous or well known for some bad quality or deed.",
+        "examples": [
+          "The gangster gained notoriety for his ruthless tactics.",
+          "The scandal brought her unwelcome notoriety."
+        ]
+      },
+      {
+        "id": "g39w37",
+        "word": "notorious",
+        "meaning": "Famous or well known, typically for some bad quality or deed.",
+        "examples": [
+          "He was a notorious gambler who had lost a fortune.",
+          "The city is notorious for its terrible traffic."
+        ]
+      },
+      {
+        "id": "g39w38",
+        "word": "novel",
+        "meaning": "New or unusual in an interesting way.",
+        "examples": [
+          "She came up with a novel approach to solving the problem.",
+          "The architect's design for the building was quite novel."
+        ]
+      },
+      {
+        "id": "g39w39",
+        "word": "novitiate",
+        "meaning": "The period or state of being a novice, especially in a religious order.",
+        "examples": [
+          "During her novitiate, she learned the customs of the convent.",
+          "The young monk completed his novitiate after a year of training and prayer."
+        ]
+      },
+      {
+        "id": "g39w40",
+        "word": "noxious",
+        "meaning": "Harmful, poisonous, or very unpleasant.",
+        "examples": [
+          "The factory was fined for releasing noxious fumes into the air.",
+          "Noxious weeds were spreading across the farmer's fields."
+        ]
+      },
+      {
+        "id": "g39w41",
+        "word": "nuance",
+        "meaning": "A subtle difference in or shade of meaning, expression, or sound.",
+        "examples": [
+          "A good translator must be sensitive to the nuances of both languages.",
+          "He missed the nuance of her sarcastic tone."
+        ]
+      },
+      {
+        "id": "g39w42",
+        "word": "nugatory",
+        "meaning": "Of no value or importance; useless or futile.",
+        "examples": [
+          "His contribution to the discussion was nugatory.",
+          "The contract was declared nugatory because it was not signed."
+        ]
+      },
+      {
+        "id": "g39w43",
+        "word": "nullify",
+        "meaning": "To make legally null and void; to make of no use or value.",
+        "examples": [
+          "The court's decision will nullify the previous ruling.",
+          "A single mistake could nullify all our hard work."
+        ]
+      },
+      {
+        "id": "g39w44",
+        "word": "numinous",
+        "meaning": "Having a strong religious or spiritual quality; indicating the presence of a divinity.",
+        "examples": [
+          "She felt a numinous presence as she stood inside the ancient stone circle.",
+          "The canyon had a numinous beauty at sunrise."
+        ]
+      },
+      {
+        "id": "g39w45",
+        "word": "numismatic",
+        "meaning": "Relating to or consisting of coins, paper currency, and medals.",
+        "examples": [
+          "He was a numismatic expert, specializing in Roman coins.",
+          "The museum has an extensive numismatic collection."
+        ]
+      },
+      {
+        "id": "g39w46",
+        "word": "nurture",
+        "meaning": "To care for and encourage the growth or development of.",
+        "examples": [
+          "It is important to nurture young talent.",
+          "She carefully nurtured the fragile plant back to health."
+        ]
+      },
+      {
+        "id": "g39w47",
+        "word": "nutritive",
+        "meaning": "Having nourishing qualities; relating to nutrition.",
+        "examples": [
+          "Whole foods are generally more nutritive than processed ones.",
+          "The study measured the nutritive value of different grains."
+        ]
+      },
+      {
+        "id": "g39w48",
+        "word": "oaf",
+        "meaning": "A stupid, uncultured, or clumsy person.",
+        "examples": [
+          "The clumsy oaf spilled his drink all over the new carpet.",
+          "Don't be such an oaf; think before you speak."
+        ]
+      },
+      {
+        "id": "g39w49",
+        "word": "obdurate",
+        "meaning": "Stubbornly refusing to change one's opinion or course of action.",
+        "examples": [
+          "The manager was obdurate and would not listen to the employees' concerns.",
+          "Despite all the evidence, he remained obdurate in his belief of her innocence."
+        ]
+      },
+      {
+        "id": "g39w50",
+        "word": "obeisance",
+        "meaning": "A gesture expressing deferential respect, such as a bow or curtsy.",
+        "examples": [
+          "The courtiers made their obeisance to the queen.",
+          "He showed deep obeisance to his elders."
+        ]
+      },
+      {
+        "id": "g39w51",
+        "word": "obelisk",
+        "meaning": "A tall, four-sided, narrow tapering monument which ends in a pyramid-like shape at the top.",
+        "examples": [
+          "The Washington Monument is a famous American obelisk.",
+          "An ancient Egyptian obelisk stands in the center of the plaza."
+        ]
+      },
+      {
+        "id": "g39w52",
+        "word": "obese",
+        "meaning": "Grossly fat or overweight.",
+        "examples": [
+          "Public health officials are concerned about the rising number of obese children.",
+          "A poor diet and lack of exercise can lead a person to become obese."
+        ]
+      },
+      {
+        "id": "g39w53",
+        "word": "obfuscate",
+        "meaning": "To render obscure, unclear, or unintelligible.",
+        "examples": [
+          "The politician tried to obfuscate the issue with confusing statistics and jargon.",
+          "Legal documents are often written in a way that seems designed to obfuscate."
+        ]
+      },
+      {
+        "id": "g39w54",
+        "word": "obfuscated",
+        "meaning": "Made obscure, unclear, or unintelligible.",
+        "examples": [
+          "The true meaning of the message was obfuscated by layers of code.",
+          "He gave a long, obfuscated answer to avoid telling the simple truth."
+        ]
+      },
+      {
+        "id": "g39w55",
+        "word": "obituary",
+        "meaning": "A notice of a death, especially in a newspaper, typically including a brief biography of the deceased.",
+        "examples": [
+          "The newspaper published a long obituary for the beloved former mayor.",
+          "He was moved to tears while reading his friend's obituary."
+        ]
+      },
+      {
+        "id": "g39w56",
+        "word": "objectionable",
+        "meaning": "Arousing distaste or opposition; unpleasant or offensive.",
+        "examples": [
+          "The committee removed the objectionable material from the textbook.",
+          "His behavior at the party was rude and objectionable."
+        ]
+      },
+      {
+        "id": "g39w57",
+        "word": "objective",
+        "meaning": "(Of a person or their judgment) not influenced by personal feelings or opinions in considering facts.",
+        "examples": [
+          "A judge must remain objective and impartial at all times.",
+          "It is difficult to give an objective assessment of your own work."
+        ]
+      },
+      {
+        "id": "g39w58",
+        "word": "oblation",
+        "meaning": "A thing presented or offered to a god or gods.",
+        "examples": [
+          "The ancient ritual involved making an oblation of grain and wine.",
+          "He made a silent oblation, giving thanks for his good fortune."
+        ]
+      },
+      {
+        "id": "g39w59",
+        "word": "obligatory",
+        "meaning": "Required by a legal, moral, or other rule; compulsory.",
+        "examples": [
+          "Wearing a seatbelt is obligatory in most countries.",
+          "He made the obligatory phone call to his parents every Sunday."
+        ]
+      },
+      {
+        "id": "g39w60",
+        "word": "obliging",
+        "meaning": "Willing to do a service or kindness; helpful.",
+        "examples": [
+          "The hotel staff were very obliging and catered to our every need.",
+          "He was an obliging neighbor, always willing to lend a hand."
+        ]
+      }
+    ]
+  }

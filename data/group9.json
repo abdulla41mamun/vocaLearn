@@ -1,0 +1,545 @@
+{
+    "id": "group9",
+    "words": [
+      {
+        "id": "g9w1",
+        "word": "cant",
+        "meaning": "Hypocritical and sanctimonious talk, typically of a moral, religious, or political nature.",
+        "examples": [
+          "The politician's speech was full of the cant of patriotism.",
+          "She was tired of the cant about the moral superiority of the ruling class."
+        ]
+      },
+      {
+        "id": "g9w2",
+        "word": "cantankerous",
+        "meaning": "Bad-tempered, argumentative, and uncooperative.",
+        "examples": [
+          "He's a cantankerous old man who is always complaining.",
+          "The cantankerous cat hissed at everyone who came near."
+        ]
+      },
+      {
+        "id": "g9w3",
+        "word": "capacious",
+        "meaning": "Having a lot of space inside; roomy.",
+        "examples": [
+          "She had a capacious handbag that could hold all her essentials.",
+          "The capacious hall was filled with guests for the wedding."
+        ]
+      },
+      {
+        "id": "g9w4",
+        "word": "capacity",
+        "meaning": "The maximum amount that something can contain.",
+        "examples": [
+          "The stadium has a seating capacity of 50,000.",
+          "The fuel tank has a capacity of 15 gallons."
+        ]
+      },
+      {
+        "id": "g9w5",
+        "word": "capitulate",
+        "meaning": "To cease to resist an opponent or an unwelcome demand; surrender.",
+        "examples": [
+          "The outnumbered soldiers were forced to capitulate to the enemy.",
+          "After a long argument, he finally capitulated and agreed to her plan."
+        ]
+      },
+      {
+        "id": "g9w6",
+        "word": "caprice",
+        "meaning": "A sudden and unaccountable change of mood or behavior.",
+        "examples": [
+          "Her refusal to attend the party was a sudden caprice.",
+          "The weather in the mountains is known for its caprice."
+        ]
+      },
+      {
+        "id": "g9w7",
+        "word": "capricious",
+        "meaning": "Given to sudden and unaccountable changes of mood or behavior.",
+        "examples": [
+          "A capricious boss can make a workplace very stressful.",
+          "The capricious winds made it difficult to sail."
+        ]
+      },
+      {
+        "id": "g9w8",
+        "word": "captor",
+        "meaning": "A person who catches or confines another.",
+        "examples": [
+          "The hostage managed to escape from his captor.",
+          "The captor demanded a large ransom for the prisoner's release."
+        ]
+      },
+      {
+        "id": "g9w9",
+        "word": "cardinal",
+        "meaning": "Of the greatest importance; fundamental.",
+        "examples": [
+          "The cardinal rule of the club is to always be respectful.",
+          "Honesty is a cardinal virtue."
+        ]
+      },
+      {
+        "id": "g9w10",
+        "word": "caret",
+        "meaning": "A mark (^) placed below a line of text to indicate a proposed insertion.",
+        "examples": [
+          "The editor used a caret to show where the missing word should be added.",
+          "She added a comma with a quick stroke of a caret."
+        ]
+      },
+      {
+        "id": "g9w11",
+        "word": "caricature",
+        "meaning": "A picture, description, or imitation of a person in which certain striking characteristics are exaggerated in order to create a comic or grotesque effect.",
+        "examples": [
+          "The artist drew a clever caricature of the politician.",
+          "His portrayal of the character was a caricature of a bumbling fool."
+        ]
+      },
+      {
+        "id": "g9w12",
+        "word": "caricatured",
+        "meaning": "To have made a comically or grotesquely exaggerated representation of someone or something.",
+        "examples": [
+          "The newspaper caricatured the president with a very long nose.",
+          "The play caricatured the stuffy, old-fashioned professor."
+        ]
+      },
+      {
+        "id": "g9w13",
+        "word": "carnage",
+        "meaning": "The killing of a large number of people.",
+        "examples": [
+          "The battlefield was a scene of utter carnage.",
+          "The movie depicted the carnage of the war in graphic detail."
+        ]
+      },
+      {
+        "id": "g9w14",
+        "word": "carnal",
+        "meaning": "Relating to physical, especially sexual, needs and activities.",
+        "examples": [
+          "The novel explored themes of spiritual love versus carnal desire.",
+          "He was driven by his carnal appetites."
+        ]
+      },
+      {
+        "id": "g9w15",
+        "word": "carping",
+        "meaning": "Difficult to please; critical.",
+        "examples": [
+          "He was tired of his mother's carping criticism.",
+          "There is no point in carping about a situation you cannot change."
+        ]
+      },
+      {
+        "id": "g9w16",
+        "word": "cartographer",
+        "meaning": "A person who draws or produces maps.",
+        "examples": [
+          "The ancient cartographer spent years mapping the newly discovered lands.",
+          "Modern cartographers use satellite imagery to create highly accurate maps."
+        ]
+      },
+      {
+        "id": "g9w17",
+        "word": "cartography",
+        "meaning": "The science or practice of drawing maps.",
+        "examples": [
+          "He studied cartography to learn the art of map-making.",
+          "The history of cartography shows how our understanding of the world has evolved."
+        ]
+      },
+      {
+        "id": "g9w18",
+        "word": "caste",
+        "meaning": "Each of the hereditary classes of Hindu society, distinguished by relative degrees of ritual purity or pollution and of social status.",
+        "examples": [
+          "In India, the caste system has been a source of social stratification for centuries.",
+          "She was born into a lower caste, which limited her opportunities."
+        ]
+      },
+      {
+        "id": "g9w19",
+        "word": "castigate",
+        "meaning": "To reprimand (someone) severely.",
+        "examples": [
+          "The judge castigated the lawyers for their unprofessional behavior.",
+          "He was castigated by the press for his controversial remarks."
+        ]
+      },
+      {
+        "id": "g9w20",
+        "word": "castigation",
+        "meaning": "Severe reprimand or criticism.",
+        "examples": [
+          "The politician faced public castigation for his role in the scandal.",
+          "Her article was a castigation of the government's failed policies."
+        ]
+      },
+      {
+        "id": "g9w21",
+        "word": "castles in the air",
+        "meaning": "Hopes, plans, or desires that are unlikely to be realized.",
+        "examples": [
+          "Instead of building castles in the air, you should focus on a realistic career path.",
+          "His dreams of becoming a famous actor were just castles in the air."
+        ]
+      },
+      {
+        "id": "g9w22",
+        "word": "cataclysm",
+        "meaning": "A large-scale and violent event in the natural world.",
+        "examples": [
+          "The earthquake was a cataclysm that destroyed the entire city.",
+          "The dinosaurs were wiped out by a cataclysm."
+        ]
+      },
+      {
+        "id": "g9w23",
+        "word": "cataclysmic",
+        "meaning": "Relating to or denoting a violent natural event.",
+        "examples": [
+          "The eruption of the volcano was a cataclysmic event.",
+          "The world is facing a cataclysmic climate crisis."
+        ]
+      },
+      {
+        "id": "g9w24",
+        "word": "catalyst",
+        "meaning": "A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change.",
+        "examples": [
+          "The enzyme acted as a catalyst to speed up the reaction.",
+          "The bombing was the catalyst for the war."
+        ]
+      },
+      {
+        "id": "g9w25",
+        "word": "catastrophic",
+        "meaning": "Involving or causing sudden great damage or suffering.",
+        "examples": [
+          "The hurricane had a catastrophic effect on the coastal town.",
+          "A nuclear war would be catastrophic for humanity."
+        ]
+      },
+      {
+        "id": "g9w26",
+        "word": "categorical",
+        "meaning": "Unambiguously explicit and direct.",
+        "examples": [
+          "She gave a categorical denial of the accusations.",
+          "He made a categorical statement that he would not resign."
+        ]
+      },
+      {
+        "id": "g9w27",
+        "word": "caterwauling",
+        "meaning": "Making a shrill howling or wailing noise like that of a cat.",
+        "examples": [
+          "The caterwauling of the stray cats kept me awake all night.",
+          "I can't stand her caterwauling when she tries to sing opera."
+        ]
+      },
+      {
+        "id": "g9w28",
+        "word": "cathartic",
+        "meaning": "Providing psychological relief through the open expression of strong emotions.",
+        "examples": [
+          "Crying can be a cathartic experience.",
+          "Writing in her journal was a cathartic release for her."
+        ]
+      },
+      {
+        "id": "g9w29",
+        "word": "catholic",
+        "meaning": "Including a wide variety of things; all-embracing.",
+        "examples": [
+          "He has a catholic taste in music, enjoying everything from classical to hip-hop.",
+          "Her interests were catholic, ranging from astronomy to ancient history."
+        ]
+      },
+      {
+        "id": "g9w30",
+        "word": "caucus",
+        "meaning": "A meeting of the members of a legislative body who are members of a particular political party, to select candidates or decide policy.",
+        "examples": [
+          "The Democratic caucus met to choose their nominee.",
+          "The members held a caucus to discuss the upcoming bill."
+        ]
+      },
+      {
+        "id": "g9w31",
+        "word": "causal",
+        "meaning": "Relating to or acting as a cause.",
+        "examples": [
+          "There is a causal link between smoking and lung cancer.",
+          "The investigation sought to determine the causal factors of the accident."
+        ]
+      },
+      {
+        "id": "g9w32",
+        "word": "causality",
+        "meaning": "The relationship between cause and effect.",
+        "examples": [
+          "The concept of causality is fundamental to scientific inquiry.",
+          "It is difficult to establish a direct causality between the two events."
+        ]
+      },
+      {
+        "id": "g9w33",
+        "word": "cause celebre",
+        "meaning": "A controversial issue that attracts a great deal of public attention.",
+        "examples": [
+          "The trial of the famous actor became a cause celebre.",
+          "The environmental protest turned into a national cause celebre."
+        ]
+      },
+      {
+        "id": "g9w34",
+        "word": "caustic",
+        "meaning": "Able to burn or corrode organic tissue by chemical action; sarcastic in a scathing and bitter way.",
+        "examples": [
+          "The chemical was so caustic that it burned a hole in the table.",
+          "Her caustic wit made her both feared and admired."
+        ]
+      },
+      {
+        "id": "g9w35",
+        "word": "cavalier",
+        "meaning": "Showing a lack of proper concern; offhand.",
+        "examples": [
+          "He has a cavalier attitude about the feelings of others.",
+          "She was criticized for her cavalier dismissal of the safety regulations."
+        ]
+      },
+      {
+        "id": "g9w36",
+        "word": "cavern",
+        "meaning": "A large cave or a large, dark space.",
+        "examples": [
+          "The explorers ventured deep into the dark cavern.",
+          "The old warehouse was a vast, empty cavern."
+        ]
+      },
+      {
+        "id": "g9w37",
+        "word": "cavil",
+        "meaning": "To make petty or unnecessary objections.",
+        "examples": [
+          "He would always cavil at the smallest details of the plan.",
+          "There is no reason to cavil about the price; it is very fair."
+        ]
+      },
+      {
+        "id": "g9w38",
+        "word": "cease",
+        "meaning": "To bring or come to an end.",
+        "examples": [
+          "The company was ordered to cease operations immediately.",
+          "The rain finally ceased after three days."
+        ]
+      },
+      {
+        "id": "g9w39",
+        "word": "cede",
+        "meaning": "To give up (power or territory).",
+        "examples": [
+          "The country was forced to cede some of its territory after the war.",
+          "He ceded control of the company to his son."
+        ]
+      },
+      {
+        "id": "g9w40",
+        "word": "celerity",
+        "meaning": "Swiftness of movement.",
+        "examples": [
+          "The cheetah is known for its celerity.",
+          "He responded with surprising celerity."
+        ]
+      },
+      {
+        "id": "g9w41",
+        "word": "celestial",
+        "meaning": "Positioned in or relating to the sky, or outer space as observed in astronomy.",
+        "examples": [
+          "Astronomers study the movement of celestial bodies.",
+          "The moon is the brightest celestial object in the night sky."
+        ]
+      },
+      {
+        "id": "g9w42",
+        "word": "censor",
+        "meaning": "To examine officially and suppress unacceptable parts of it.",
+        "examples": [
+          "The government tried to censor the news report.",
+          "The movie was heavily censored before its release."
+        ]
+      },
+      {
+        "id": "g9w43",
+        "word": "censure",
+        "meaning": "To express severe disapproval of (someone or something), typically in a formal statement.",
+        "examples": [
+          "The Senate voted to censure the member for his misconduct.",
+          "His actions drew widespread censure from the public."
+        ]
+      },
+      {
+        "id": "g9w44",
+        "word": "centrifugal",
+        "meaning": "Moving or tending to move away from a center.",
+        "examples": [
+          "The spinning ride created a strong centrifugal force.",
+          "Centrifugal forces can sometimes pull a group or nation apart."
+        ]
+      },
+      {
+        "id": "g9w45",
+        "word": "centrifuge",
+        "meaning": "A machine with a rapidly rotating container that applies centrifugal force to its contents, typically to separate fluids of different densities or liquids from solids.",
+        "examples": [
+          "The lab used a centrifuge to separate the blood cells from the plasma.",
+          "A centrifuge is essential for many scientific experiments."
+        ]
+      },
+      {
+        "id": "g9w46",
+        "word": "centripetal",
+        "meaning": "Moving or tending to move toward a center.",
+        "examples": [
+          "Gravity provides the centripetal force that keeps planets in orbit.",
+          "A common culture can be a centripetal force in a diverse society."
+        ]
+      },
+      {
+        "id": "g9w47",
+        "word": "cerebral",
+        "meaning": "Intellectual rather than emotional or physical.",
+        "examples": [
+          "Chess is a very cerebral game.",
+          "His approach to the problem was more cerebral than practical."
+        ]
+      },
+      {
+        "id": "g9w48",
+        "word": "cessation",
+        "meaning": "The fact or process of ending or being brought to an end.",
+        "examples": [
+          "The two countries agreed to a cessation of hostilities.",
+          "The cessation of funding led to the project's failure."
+        ]
+      },
+      {
+        "id": "g9w49",
+        "word": "chagrin",
+        "meaning": "Distress or embarrassment at having failed or been humiliated.",
+        "examples": [
+          "Much to his chagrin, he realized he had forgotten her birthday.",
+          "She felt a deep chagrin at her own foolishness."
+        ]
+      },
+      {
+        "id": "g9w50",
+        "word": "champion",
+        "meaning": "To support the cause of; defend.",
+        "examples": [
+          "She was known to champion the rights of the underprivileged.",
+          "The organization champions environmental protection."
+        ]
+      },
+      {
+        "id": "g9w51",
+        "word": "charisma",
+        "meaning": "Compelling attractiveness or charm that can inspire devotion in others.",
+        "examples": [
+          "The political leader had a natural charisma that captivated audiences.",
+          "Her charisma made her a popular and effective manager."
+        ]
+      },
+      {
+        "id": "g9w52",
+        "word": "charlatan",
+        "meaning": "A person falsely claiming to have a special knowledge or skill; a fraud.",
+        "examples": [
+          "The so-called doctor was exposed as a charlatan.",
+          "He was a charming charlatan who swindled many people out of their money."
+        ]
+      },
+      {
+        "id": "g9w53",
+        "word": "charter",
+        "meaning": "A written grant by a country's legislative or sovereign power, by which a body such as a company, college, or city is founded and its rights and privileges defined.",
+        "examples": [
+          "The city was granted a new charter by the government.",
+          "The United Nations Charter outlines the organization's principles."
+        ]
+      },
+      {
+        "id": "g9w54",
+        "word": "chary",
+        "meaning": "Cautiously or suspiciously reluctant to do something.",
+        "examples": [
+          "He was chary of investing his money in the risky venture.",
+          "She is chary of giving out her personal information."
+        ]
+      },
+      {
+        "id": "g9w55",
+        "word": "chasten",
+        "meaning": "To have a restraining or moderating effect on.",
+        "examples": [
+          "The near-death experience chastened him, and he became more careful.",
+          "She delivered a chastening lecture to the misbehaving students."
+        ]
+      },
+      {
+        "id": "g9w56",
+        "word": "chastise",
+        "meaning": "To reprimand severely.",
+        "examples": [
+          "The mother chastised her child for playing with matches.",
+          "The coach would often chastise the team for their lack of effort."
+        ]
+      },
+      {
+        "id": "g9w57",
+        "word": "chauvinism",
+        "meaning": "Exaggerated or aggressive patriotism; excessive or prejudiced support for one's own cause, group, or sex.",
+        "examples": [
+          "His speech was filled with nationalistic chauvinism.",
+          "She fought against the male chauvinism prevalent in the industry."
+        ]
+      },
+      {
+        "id": "g9w58",
+        "word": "chauvinist",
+        "meaning": "A person displaying exaggerated or aggressive patriotism or prejudiced belief in the superiority of their own gender.",
+        "examples": [
+          "He was an unapologetic nationalist and a chauvinist.",
+          "Her boss was a male chauvinist who made inappropriate comments."
+        ]
+      },
+      {
+        "id": "g9w59",
+        "word": "chauvinistic",
+        "meaning": "Feeling or displaying aggressive or exaggerated patriotism.",
+        "examples": [
+          "The crowd sang chauvinistic songs during the rally.",
+          "His chauvinistic attitude made him unpopular with his international colleagues."
+        ]
+      },
+      {
+        "id": "g9w60",
+        "word": "check",
+        "meaning": "To stop or slow down the progress of (something undesirable).",
+        "examples": [
+          "The new dam was built to check the flow of the river.",
+          "The government implemented policies to check inflation."
+        ]
+      }
+    ]
+  }

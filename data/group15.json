@@ -1,0 +1,548 @@
+{
+    "id": "group15",
+    "words": [
+      {
+        "id": "g15w1",
+        "word": "dedication",
+        "meaning": "The quality of being dedicated or committed to a task or purpose.",
+        "examples": [
+          "Her dedication to her students was an inspiration.",
+          "It takes a lot of dedication to become a professional athlete."
+        ]
+      },
+      {
+        "id": "g15w2",
+        "word": "deem",
+        "meaning": "To regard or consider in a specified way.",
+        "examples": [
+          "The court will deem the contract to be valid.",
+          "She deemed it appropriate to wear a formal dress to the event."
+        ]
+      },
+      {
+        "id": "g15w3",
+        "word": "deface",
+        "meaning": "To spoil the surface or appearance of (something), e.g., by drawing or writing on it.",
+        "examples": [
+          "The vandals defaced the public monument with graffiti.",
+          "He was fined for defacing a library book."
+        ]
+      },
+      {
+        "id": "g15w4",
+        "word": "defamatory",
+        "meaning": "(Of a remark, writing, etc.) damaging the good reputation of someone; slanderous or libelous.",
+        "examples": [
+          "He sued the newspaper for publishing a defamatory article about him.",
+          "She claimed the comments were defamatory and harmed her career."
+        ]
+      },
+      {
+        "id": "g15w5",
+        "word": "defame",
+        "meaning": "To damage the good reputation of (someone); slander or libel.",
+        "examples": [
+          "The politician claimed his opponent was trying to defame him with false accusations.",
+          "It is illegal to defame someone's character."
+        ]
+      },
+      {
+        "id": "g15w6",
+        "word": "default",
+        "meaning": "Failure to fulfill an obligation, especially to repay a loan or appear in a court of law.",
+        "examples": [
+          "He defaulted on his car loan payments.",
+          "If you default on the agreement, you will lose your deposit."
+        ]
+      },
+      {
+        "id": "g15w7",
+        "word": "defer",
+        "meaning": "To put off (an action or event) to a later time; postpone.",
+        "examples": [
+          "The committee decided to defer the decision until the next meeting.",
+          "He deferred his college admission for a year to travel."
+        ]
+      },
+      {
+        "id": "g15w8",
+        "word": "deference",
+        "meaning": "Humble submission and respect.",
+        "examples": [
+          "He treated his elders with great deference.",
+          "In deference to her wishes, we did not discuss the sensitive topic."
+        ]
+      },
+      {
+        "id": "g15w9",
+        "word": "deferential",
+        "meaning": "Showing deference; respectful.",
+        "examples": [
+          "The young man had a deferential attitude towards his superiors.",
+          "She spoke in a deferential tone to the judge."
+        ]
+      },
+      {
+        "id": "g15w10",
+        "word": "defiance",
+        "meaning": "Open resistance; bold disobedience.",
+        "examples": [
+          "She acted in defiance of her parents' wishes.",
+          "The protest was an act of defiance against the new law."
+        ]
+      },
+      {
+        "id": "g15w11",
+        "word": "defiant",
+        "meaning": "Showing defiance.",
+        "examples": [
+          "The defiant student refused to apologize for her behavior.",
+          "He had a defiant look in his eyes."
+        ]
+      },
+      {
+        "id": "g15w12",
+        "word": "deflect",
+        "meaning": "To cause (something) to change direction by interposing something; to cause (someone) to deviate from an intended purpose.",
+        "examples": [
+          "The goalie deflected the shot with his hand.",
+          "She tried to deflect the criticism by changing the subject."
+        ]
+      },
+      {
+        "id": "g15w13",
+        "word": "defray",
+        "meaning": "To provide money to pay (a cost or expense).",
+        "examples": [
+          "The company offered to defray the costs of the employee's training.",
+          "A scholarship helped to defray the expenses of his education."
+        ]
+      },
+      {
+        "id": "g15w14",
+        "word": "deft",
+        "meaning": "Neatly skillful and quick in one's movements.",
+        "examples": [
+          "The artist made deft strokes with her brush.",
+          "He has a deft touch for handling delicate negotiations."
+        ]
+      },
+      {
+        "id": "g15w15",
+        "word": "deftness",
+        "meaning": "Skillful performance or ability without difficulty.",
+        "examples": [
+          "She admired the deftness with which the chef chopped the vegetables.",
+          "The pianist played the complex piece with incredible deftness."
+        ]
+      },
+      {
+        "id": "g15w16",
+        "word": "defunct",
+        "meaning": "No longer existing or functioning.",
+        "examples": [
+          "The old railroad line is now defunct.",
+          "He worked for a now-defunct software company."
+        ]
+      },
+      {
+        "id": "g15w17",
+        "word": "degenerate",
+        "meaning": "To decline or deteriorate physically, mentally, or morally.",
+        "examples": [
+          "The peaceful protest began to degenerate into violence.",
+          "His health has degenerated over the years."
+        ]
+      },
+      {
+        "id": "g15w18",
+        "word": "degrade",
+        "meaning": "To treat or regard (someone) with contempt or disrespect.",
+        "examples": [
+          "He would never degrade himself by begging for money.",
+          "The harsh working conditions degraded the employees."
+        ]
+      },
+      {
+        "id": "g15w19",
+        "word": "deify",
+        "meaning": "To worship, regard, or treat (someone or something) as a god.",
+        "examples": [
+          "Ancient Roman emperors were often deified after their death.",
+          "Fans tend to deify their favorite celebrities."
+        ]
+      },
+      {
+        "id": "g15w20",
+        "word": "deign",
+        "meaning": "To do something that one considers to be beneath one's dignity.",
+        "examples": [
+          "The queen did not deign to answer the reporter's impertinent question.",
+          "He would not deign to speak to his former friends."
+        ]
+      },
+      {
+        "id": "g15w21",
+        "word": "delectable",
+        "meaning": "(Of food or drink) delicious.",
+        "examples": [
+          "The restaurant served a variety of delectable desserts.",
+          "She prepared a delectable meal for her guests."
+        ]
+      },
+      {
+        "id": "g15w22",
+        "word": "delegate",
+        "meaning": "To entrust (a task or responsibility) to another person, typically one who is less senior than oneself.",
+        "examples": [
+          "A good manager knows when to delegate tasks to their team.",
+          "She delegated the responsibility of booking the flights to her assistant."
+        ]
+      },
+      {
+        "id": "g15w23",
+        "word": "deleterious",
+        "meaning": "Causing harm or damage.",
+        "examples": [
+          "Smoking has a deleterious effect on your health.",
+          "The chemical is deleterious to the environment."
+        ]
+      },
+      {
+        "id": "g15w24",
+        "word": "deliberate",
+        "meaning": "Done consciously and intentionally.",
+        "examples": [
+          "It was a deliberate act of vandalism.",
+          "She made a deliberate effort to be friendly to everyone."
+        ]
+  
+      },
+      {
+        "id": "g15w25",
+        "word": "delimit",
+        "meaning": "To determine the limits or boundaries of.",
+        "examples": [
+          "The treaty was intended to delimit the borders between the two countries.",
+          "It is important to delimit the scope of the research project."
+        ]
+      },
+      {
+        "id": "g15w26",
+        "word": "delineate",
+        "meaning": "To describe or portray (something) precisely.",
+        "examples": [
+          "The report clearly delineates the company's new strategy.",
+          "The artist's sketch delineated the features of the landscape."
+        ]
+      },
+      {
+        "id": "g15w27",
+        "word": "delineation",
+        "meaning": "The action of describing or portraying something precisely.",
+        "examples": [
+          "The book provides a clear delineation of the historical events.",
+          "The delineation of the characters in the novel was excellent."
+        ]
+      },
+      {
+        "id": "g15w28",
+        "word": "delude",
+        "meaning": "To impose a misleading belief upon (someone); deceive; fool.",
+        "examples": [
+          "Don't delude yourself into thinking that he will change.",
+          "The con artist managed to delude his victims into giving him their money."
+        ]
+      },
+      {
+        "id": "g15w29",
+        "word": "deluge",
+        "meaning": "A severe flood; a great quantity of something arriving at the same time.",
+        "examples": [
+          "The town was hit by a deluge that caused widespread flooding.",
+          "The office received a deluge of complaints after the new policy was announced."
+        ]
+      },
+      {
+        "id": "g15w30",
+        "word": "delusion",
+        "meaning": "An idiosyncratic belief or impression that is firmly maintained despite being contradicted by what is generally accepted as reality or rational argument.",
+        "examples": [
+          "He was suffering from the delusion that he was a famous rock star.",
+          "She was under the delusion that she could pass the exam without studying."
+        ]
+      },
+      {
+        "id": "g15w31",
+        "word": "delve",
+        "meaning": "To reach inside a receptacle and search for something; to research or make painstaking inquiries into something.",
+        "examples": [
+          "She delved into her handbag to find her keys.",
+          "The book delves into the history of the ancient civilization."
+        ]
+      },
+      {
+        "id": "g15w32",
+        "word": "demagogue",
+        "meaning": "A political leader who seeks support by appealing to popular desires and prejudices rather than by using rational argument.",
+        "examples": [
+          "The politician was a demagogue who used fear to gain votes.",
+          "The country was led astray by a charismatic demagogue."
+        ]
+      },
+      {
+        "id": "g15w33",
+        "word": "demarcate",
+        "meaning": "To set the boundaries or limits of.",
+        "examples": [
+          "A fence was built to demarcate the property line.",
+          "It is difficult to demarcate the line between friendship and love."
+        ]
+      },
+      {
+        "id": "g15w34",
+        "word": "demean",
+        "meaning": "To cause a severe loss in the dignity of and respect for (someone or something).",
+        "examples": [
+          "He would never demean himself by accepting a bribe.",
+          "The purpose of the hazing ritual was to demean the new recruits."
+        ]
+      },
+      {
+        "id": "g15w35",
+        "word": "demeanor",
+        "meaning": "Outward behavior or bearing.",
+        "examples": [
+          "She has a calm and professional demeanor.",
+          "His cheerful demeanor hid his inner sadness."
+        ]
+      },
+      {
+        "id": "g15w36",
+        "word": "demographic",
+        "meaning": "Relating to the structure of populations.",
+        "examples": [
+          "The study collected demographic information such as age, gender, and income.",
+          "The product is targeted at a young demographic."
+        ]
+      },
+      {
+        "id": "g15w37",
+        "word": "demonstrative",
+        "meaning": "(Of a person) tending to show feelings, especially of affection, openly.",
+        "examples": [
+          "He is a very demonstrative person who is not afraid to hug his friends.",
+          "She was not a demonstrative child, but she loved her parents deeply."
+        ]
+      },
+      {
+        "id": "g15w38",
+        "word": "demote",
+        "meaning": "To give (someone) a lower rank or less senior position, usually as a punishment.",
+        "examples": [
+          "He was demoted from manager to assistant for his poor performance.",
+          "The officer was demoted for insubordination."
+        ]
+  
+      },
+      {
+        "id": "g15w39",
+        "word": "demotic",
+        "meaning": "Denoting or relating to language used by ordinary people; popular or colloquial.",
+        "examples": [
+          "The novel was praised for its use of demotic language.",
+          "He preferred demotic speech to the formal language of academia."
+        ]
+      },
+      {
+        "id": "g15w40",
+        "word": "demur",
+        "meaning": "To raise doubts or objections or show reluctance.",
+        "examples": [
+          "She demurred at the suggestion that she should work on the weekend.",
+          "He did not demur when asked to take on the extra responsibility."
+        ]
+      },
+      {
+        "id": "g15w41",
+        "word": "demure",
+        "meaning": "(Of a woman or her behavior) reserved, modest, and shy.",
+        "examples": [
+          "She was a demure young woman who rarely spoke.",
+          "He was attracted to her demure and gentle nature."
+        ]
+      },
+      {
+        "id": "g15w42",
+        "word": "denigrate",
+        "meaning": "To criticize unfairly; disparage.",
+        "examples": [
+          "He would often denigrate the work of his colleagues.",
+          "It is wrong to denigrate someone just because you disagree with them."
+        ]
+  
+      },
+      {
+        "id": "g15w43",
+        "word": "denigrated",
+        "meaning": "Past tense of denigrate; criticized unfairly.",
+        "examples": [
+          "The artist's work was denigrated by the critics.",
+          "She felt her contributions to the project were being denigrated."
+        ]
+      },
+      {
+        "id": "g15w44",
+        "word": "denizen",
+        "meaning": "An inhabitant or occupant of a particular place.",
+        "examples": [
+          "The squirrel is a common denizen of our city parks.",
+          "The old bar was a favorite haunt of the local denizens."
+        ]
+      },
+      {
+        "id": "g15w45",
+        "word": "denote",
+        "meaning": "To be a sign of; indicate.",
+        "examples": [
+          "A fever can denote the presence of an infection.",
+          "The red line on the map denotes the main highway."
+        ]
+      },
+      {
+        "id": "g15w46",
+        "word": "denouement",
+        "meaning": "The final part of a play, movie, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.",
+        "examples": [
+          "The movie's denouement was unexpected and shocking.",
+          "The novel's denouement left several questions unanswered."
+        ]
+      },
+      {
+        "id": "g15w47",
+        "word": "denounce",
+        "meaning": "To publicly declare to be wrong or evil.",
+        "examples": [
+          "The president was quick to denounce the terrorist attack.",
+          "Human rights groups denounced the government's actions."
+        ]
+      },
+      {
+        "id": "g15w48",
+        "word": "denuded",
+        "meaning": "Stripped of its covering, possessions, or assets; made bare.",
+        "examples": [
+          "The hillside was denuded of trees by the forest fire.",
+          "Years of overgrazing had left the land denuded."
+        ]
+      },
+      {
+        "id": "g15w49",
+        "word": "denunciation",
+        "meaning": "Public condemnation of someone or something.",
+        "examples": [
+          "The leader's speech was a fierce denunciation of his opponents.",
+          "The book is a powerful denunciation of social injustice."
+        ]
+      },
+      {
+        "id": "g15w50",
+        "word": "depict",
+        "meaning": "To represent by a drawing, painting, or other art form.",
+        "examples": [
+          "The painting depicts a scene from Greek mythology.",
+          "The novel depicts the struggles of a poor family."
+        ]
+      },
+      {
+        "id": "g15w51",
+        "word": "depiction",
+        "meaning": "The action or result of depicting something, especially in art.",
+        "examples": [
+          "The film's depiction of the war was praised for its realism.",
+          "I was moved by the novel's depiction of love and loss."
+        ]
+      },
+      {
+        "id": "g15w52",
+        "word": "deplete",
+        "meaning": "To use up the supply or resources of.",
+        "examples": [
+          "The war had depleted the country's financial resources.",
+          "Overfishing is depleting fish stocks in the ocean."
+        ]
+      },
+      {
+        "id": "g15w53",
+        "word": "deplorable",
+        "meaning": "Deserving strong condemnation; shockingly bad in quality.",
+        "examples": [
+          "The living conditions in the refugee camp were deplorable.",
+          "The team's performance in the last game was deplorable."
+        ]
+      },
+      {
+        "id": "g15w54",
+        "word": "deplore",
+        "meaning": "To feel or express strong disapproval of (something).",
+        "examples": [
+          "We deplore all acts of violence.",
+          "She deplored the lack of funding for the arts."
+        ]
+      },
+      {
+        "id": "g15w55",
+        "word": "deploy",
+        "meaning": "To move (troops or equipment) into position for military action; to bring into effective action.",
+        "examples": [
+          "The government decided to deploy troops to the border.",
+          "The company plans to deploy its new marketing strategy next month."
+        ]
+      },
+      {
+        "id": "g15w56",
+        "word": "deportment",
+        "meaning": "A person's behavior or manners.",
+        "examples": [
+          "She had the graceful deportment of a queen.",
+          "His deportment was always professional and courteous."
+        ]
+      },
+      {
+        "id": "g15w57",
+        "word": "depose",
+        "meaning": "To remove from office suddenly and forcefully.",
+        "examples": [
+          "The king was deposed by a military coup.",
+          "The corrupt leader was deposed in a popular uprising."
+        ]
+      },
+      {
+        "id": "g15w58",
+        "word": "deposition",
+        "meaning": "The action of deposing someone, especially a monarch; the process of giving sworn evidence.",
+        "examples": [
+          "The deposition of the king was followed by a period of instability.",
+          "The lawyer took a deposition from the witness before the trial."
+        ]
+      },
+      {
+        "id": "g15w59",
+        "word": "depravity",
+        "meaning": "Moral corruption; wickedness.",
+        "examples": [
+          "The novel explores the depths of human depravity.",
+          "He was a man of great depravity who committed terrible crimes."
+        ]
+      },
+      {
+        "id": "g15w60",
+        "word": "deprecate",
+        "meaning": "To express disapproval of.",
+        "examples": [
+          "He tends to deprecate his own achievements.",
+          "The teacher deprecated the use of slang in formal essays."
+        ]
+      }
+    ]
+  }

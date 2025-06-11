@@ -1,0 +1,548 @@
+{
+    "id": "group23",
+    "words": [
+      {
+        "id": "g23w1",
+        "word": "extraneous",
+        "meaning": "Irrelevant or unrelated to the subject being dealt with.",
+        "examples": [
+          "Please omit any extraneous details from your report.",
+          "The professor's lecture was full of extraneous information."
+        ]
+      },
+      {
+        "id": "g23w2",
+        "word": "extrapolate",
+        "meaning": "To extend the application of (a method or conclusion, especially one based on statistics) to an unknown situation by assuming that existing trends will continue.",
+        "examples": [
+          "We can extrapolate future trends from the current sales data.",
+          "It is difficult to extrapolate from this small sample to the entire population."
+        ]
+      },
+      {
+        "id": "g23w3",
+        "word": "extrapolation",
+        "meaning": "The action of extrapolating; the process of estimating, beyond the original observation range, the value of a variable on the basis of its relationship with another variable.",
+        "examples": [
+          "The report's conclusions are based on an extrapolation of current trends.",
+          "Any prediction about the future of technology is just an extrapolation."
+        ]
+      },
+      {
+        "id": "g23w4",
+        "word": "extravagant",
+        "meaning": "Lacking restraint in spending money or using resources.",
+        "examples": [
+          "She has an extravagant taste in clothes.",
+          "The extravagant wedding cost a fortune."
+        ]
+      },
+      {
+        "id": "g23w5",
+        "word": "extrinsic",
+        "meaning": "Not part of the essential nature of someone or something; coming or operating from outside.",
+        "examples": [
+          "The extrinsic value of the coin is its monetary worth, while its intrinsic value lies in its historical significance.",
+          "He was motivated by extrinsic rewards like money and praise."
+        ]
+      },
+      {
+        "id": "g23w6",
+        "word": "exuberant",
+        "meaning": "Filled with or characterized by a lively energy and excitement.",
+        "examples": [
+          "The exuberant crowd cheered for their team.",
+          "She has an exuberant and infectious personality."
+        ]
+      },
+      {
+        "id": "g23w7",
+        "word": "exult",
+        "meaning": "To feel or show triumphant elation or jubilation.",
+        "examples": [
+          "The team exulted in their victory.",
+          "She exulted at the news of her promotion."
+        ]
+      },
+      {
+        "id": "g23w8",
+        "word": "exultation",
+        "meaning": "A feeling of triumphant elation or jubilation; rejoicing.",
+        "examples": [
+          "There was a great exultation in the streets after the team won the championship.",
+          "She felt a sense of exultation at her success."
+        ]
+      },
+      {
+        "id": "g23w9",
+        "word": "fabricate",
+        "meaning": "To invent or concoct (something), typically with deceitful intent.",
+        "examples": [
+          "He was accused of fabricating evidence.",
+          "She fabricated a story to explain her absence."
+        ]
+      },
+      {
+        "id": "g23w10",
+        "word": "facade",
+        "meaning": "The face of a building, especially the principal front that looks onto a street or open space; an outward appearance that is maintained to conceal a less pleasant or creditable reality.",
+        "examples": [
+          "The building has a beautiful neoclassical facade.",
+          "He maintained a facade of confidence, but he was actually very nervous."
+        ]
+      },
+      {
+        "id": "g23w11",
+        "word": "facet",
+        "meaning": "One side of something many-sided, especially of a cut gem.",
+        "examples": [
+          "The diamond had many facets, each catching the light.",
+          "We need to consider every facet of the problem."
+        ]
+      },
+      {
+        "id": "g23w12",
+        "word": "facetious",
+        "meaning": "Treating serious issues with deliberately inappropriate humor; flippant.",
+        "examples": [
+          "He was being facetious when he said he wanted to quit his job and join the circus.",
+          "Her facetious comments were not appreciated in the serious meeting."
+        ]
+      },
+      {
+        "id": "g23w13",
+        "word": "facile",
+        "meaning": "(Especially of a theory or argument) appearing neat and comprehensive only by ignoring the true complexities of an issue; superficial.",
+        "examples": [
+          "He offered a facile solution to a complex problem.",
+          "The book was a facile and simplistic account of a difficult historical period."
+        ]
+      },
+      {
+        "id": "g23w14",
+        "word": "facilitate",
+        "meaning": "To make (an action or process) easy or easier.",
+        "examples": [
+          "The new software will facilitate the sharing of information.",
+          "A good teacher can facilitate learning."
+        ]
+      },
+      {
+        "id": "g23w15",
+        "word": "faction",
+        "meaning": "A small, organized, dissenting group within a larger one, especially in politics.",
+        "examples": [
+          "The political party was split by internal factions.",
+          "A faction of the army was plotting a coup."
+        ]
+      },
+      {
+        "id": "g23w16",
+        "word": "factious",
+        "meaning": "Relating or inclined to a state of faction.",
+        "examples": [
+          "The factious group was always causing trouble within the organization.",
+          "The country was torn apart by factious disputes."
+        ]
+      },
+      {
+        "id": "g23w17",
+        "word": "factitious",
+        "meaning": "Artificially created or developed.",
+        "examples": [
+          "The factitious crisis was created by the media.",
+          "She had a factitious and insincere smile."
+        ]
+      },
+      {
+        "id": "g23w18",
+        "word": "factotum",
+        "meaning": "An employee who does all kinds of work.",
+        "examples": [
+          "He was the family factotum, doing everything from cooking to gardening.",
+          "The small company needed a factotum who could handle a variety of tasks."
+        ]
+      },
+      {
+        "id": "g23w19",
+        "word": "faddish",
+        "meaning": "Intensely popular for a short time; relating to a fad.",
+        "examples": [
+          "The new diet is just a faddish trend that won't last.",
+          "He was known for his faddish and eccentric sense of style."
+        ]
+      },
+      {
+        "id": "g23w20",
+        "word": "fair-weather friends",
+        "meaning": "A person who is a dependable friend only when times are good.",
+        "examples": [
+          "He discovered she was just a fair-weather friend when he lost his job.",
+          "True friends stick by you in tough times, unlike fair-weather friends."
+        ]
+      },
+      {
+        "id": "g23w21",
+        "word": "fallacious",
+        "meaning": "Based on a mistaken belief.",
+        "examples": [
+          "His argument was based on a fallacious premise.",
+          "It is fallacious to assume that all stereotypes are true."
+        ]
+      },
+      {
+        "id": "g23w22",
+        "word": "fallacy",
+        "meaning": "A mistaken belief, especially one based on unsound argument.",
+        "examples": [
+          "It is a common fallacy that money brings happiness.",
+          "The idea that the earth is flat is a fallacy."
+        ]
+      },
+      {
+        "id": "g23w23",
+        "word": "fallible",
+        "meaning": "Capable of making mistakes or being erroneous.",
+        "examples": [
+          "All human beings are fallible.",
+          "The expert's judgment proved to be fallible."
+        ]
+      },
+      {
+        "id": "g23w24",
+        "word": "fallow",
+        "meaning": "(Of farmland) plowed and harrowed but left unsown for a period in order to restore its fertility as part of a crop rotation or to avoid surplus production.",
+        "examples": [
+          "The fields lay fallow for a year to recover.",
+          "His creative talents had lain fallow for years."
+        ]
+      },
+      {
+        "id": "g23w25",
+        "word": "falter",
+        "meaning": "To lose strength or momentum.",
+        "examples": [
+          "Her courage did not falter in the face of danger.",
+          "The economy began to falter after the stock market crash."
+        ]
+  
+      },
+      {
+        "id": "g23w26",
+        "word": "fanatic",
+        "meaning": "A person filled with excessive and single-minded zeal, especially for an extreme religious or political cause.",
+        "examples": [
+          "He was a religious fanatic who was intolerant of other beliefs.",
+          "She is a fitness fanatic who exercises every day."
+        ]
+      },
+      {
+        "id": "g23w27",
+        "word": "fanatical",
+        "meaning": "Filled with excessive and single-minded zeal.",
+        "examples": [
+          "He had a fanatical devotion to his favorite sports team.",
+          "The fanatical supporters of the political party were willing to do anything for their leader."
+        ]
+      },
+      {
+        "id": "g23w28",
+        "word": "fanciful",
+        "meaning": "(Of a person or their thoughts and ideas) overimaginative and unrealistic.",
+        "examples": [
+          "She had a fanciful idea of what it would be like to live in a castle.",
+          "The book is a fanciful tale about a talking animal."
+        ]
+      },
+      {
+        "id": "g23w29",
+        "word": "fancy",
+        "meaning": "To feel a desire or liking for.",
+        "examples": [
+          "Do you fancy a cup of tea?",
+          "He fancied himself a great singer."
+        ]
+      },
+      {
+        "id": "g23w30",
+        "word": "farce",
+        "meaning": "A comic dramatic work using buffoonery and horseplay and typically including crude characterization and ludicrously improbable situations.",
+        "examples": [
+          "The play was a hilarious farce about a mistaken identity.",
+          "The trial was a farce, with the outcome already decided."
+        ]
+      },
+      {
+        "id": "g23w31",
+        "word": "fastidious",
+        "meaning": "Very attentive to and concerned about accuracy and detail.",
+        "examples": [
+          "She is a fastidious cleaner who scrubs every inch of the house.",
+          "He was fastidious about his appearance and always well-dressed."
+        ]
+      },
+      {
+        "id": "g23w32",
+        "word": "fat is in the fire",
+        "meaning": "A phrase used to suggest that trouble is about to start.",
+        "examples": [
+          "Now that the secret is out, the fat is in the fire.",
+          "When the boss found out about the mistake, the fat was in the fire."
+        ]
+      },
+      {
+        "id": "g23w33",
+        "word": "fatal",
+        "meaning": "Causing death.",
+        "examples": [
+          "The car crash was fatal, and three people were killed.",
+          "He made a fatal mistake that cost him his job."
+        ]
+      },
+      {
+        "id": "g23w34",
+        "word": "fathom",
+        "meaning": "To understand (a difficult problem or an enigmatic person) after much thought.",
+        "examples": [
+          "I can't fathom why he would do such a thing.",
+          "It is difficult to fathom the vastness of the universe."
+        ]
+      },
+      {
+        "id": "g23w35",
+        "word": "fatuous",
+        "meaning": "Silly and pointless.",
+        "examples": [
+          "He made a fatuous comment that made everyone groan.",
+          "She had a fatuous grin on her face."
+        ]
+      },
+      {
+        "id": "g23w36",
+        "word": "fauna",
+        "meaning": "The animals of a particular region, habitat, or geological period.",
+        "examples": [
+          "The book describes the flora and fauna of the Amazon rainforest.",
+          "The unique fauna of the island includes several endangered species."
+        ]
+      },
+      {
+        "id": "g23w37",
+        "word": "fawn",
+        "meaning": "To give a servile display of exaggerated flattery or affection, typically in order to gain favor or advantage.",
+        "examples": [
+          "The courtiers would fawn over the king, hoping to gain his favor.",
+          "She disliked people who would fawn over celebrities."
+        ]
+      },
+      {
+        "id": "g23w38",
+        "word": "fawning",
+        "meaning": "Displaying exaggerated flattery or affection; obsequious.",
+        "examples": [
+          "He had a fawning and sycophantic manner.",
+          "The fawning assistant agreed with everything her boss said."
+        ]
+      },
+      {
+        "id": "g23w39",
+        "word": "feasible",
+        "meaning": "Possible to do easily or conveniently.",
+        "examples": [
+          "It is not feasible to build a new bridge with the current budget.",
+          "The plan is feasible and could be implemented quickly."
+        ]
+      },
+      {
+        "id": "g23w40",
+        "word": "feckless",
+        "meaning": "Lacking initiative or strength of character; irresponsible.",
+        "examples": [
+          "He was a feckless and lazy person who never accomplished anything.",
+          "The feckless administration was unable to solve the country's problems."
+        ]
+      },
+      {
+        "id": "g23w41",
+        "word": "fecund",
+        "meaning": "Producing or capable of producing an abundance of offspring or new growth; fertile.",
+        "examples": [
+          "The fecund soil produced a bountiful harvest.",
+          "She was a fecund writer who produced many novels."
+        ]
+      },
+      {
+        "id": "g23w42",
+        "word": "feeble",
+        "meaning": "Lacking physical strength, especially as a result of age or illness.",
+        "examples": [
+          "He was a feeble old man who could barely walk.",
+          "She made a feeble attempt to defend her actions."
+        ]
+  
+      },
+      {
+        "id": "g23w43",
+        "word": "feeling no pain",
+        "meaning": "Drunk; intoxicated.",
+        "examples": [
+          "After a few beers, he was feeling no pain.",
+          "The party guests were feeling no pain by the end of the night."
+        ]
+      },
+      {
+        "id": "g23w44",
+        "word": "feign",
+        "meaning": "To pretend to be affected by (a feeling, state, or injury).",
+        "examples": [
+          "He would often feign illness to get out of work.",
+          "She feigned surprise, but she already knew the secret."
+        ]
+      },
+      {
+        "id": "g23w45",
+        "word": "feint",
+        "meaning": "A deceptive or pretended blow, thrust, or other movement, especially in boxing or fencing.",
+        "examples": [
+          "The boxer made a feint with his left hand and then landed a punch with his right.",
+          "Her offer to help was just a feint to get access to the confidential information."
+        ]
+      },
+      {
+        "id": "g23w46",
+        "word": "felicitate",
+        "meaning": "To congratulate.",
+        "examples": [
+          "We felicitate you on your recent success.",
+          "The president sent a message to felicitate the new leader."
+        ]
+      },
+      {
+        "id": "g23w47",
+        "word": "felicitous",
+        "meaning": "Well chosen or suited to the circumstances.",
+        "examples": [
+          "He made a felicitous remark that broke the tension in the room.",
+          "The book's title is particularly felicitous."
+        ]
+      },
+      {
+        "id": "g23w48",
+        "word": "felicity",
+        "meaning": "Intense happiness.",
+        "examples": [
+          "She lived a life of great felicity and contentment.",
+          "He expressed his feelings with great felicity of language."
+        ]
+      },
+      {
+        "id": "g23w49",
+        "word": "fell",
+        "meaning": "Of terrible evil or ferocity; deadly.",
+        "examples": [
+          "The dragon was a fell beast that terrorized the countryside.",
+          "He was struck down by a fell disease."
+        ]
+      },
+      {
+        "id": "g23w50",
+        "word": "felon",
+        "meaning": "A person who has been convicted of a felony.",
+        "examples": [
+          "The convicted felon was sentenced to ten years in prison.",
+          "As a felon, he was not allowed to own a firearm."
+        ]
+      },
+      {
+        "id": "g23w51",
+        "word": "feral",
+        "meaning": "(Especially of an animal) in a wild state, especially after escape from captivity or domestication.",
+        "examples": [
+          "A pack of feral dogs roamed the streets.",
+          "The feral cat was difficult to tame."
+        ]
+      },
+      {
+        "id": "g23w52",
+        "word": "ferment",
+        "meaning": "To incite or stir up (trouble or disorder).",
+        "examples": [
+          "The politician's speech was intended to ferment unrest.",
+          "The revolutionary ideas began to ferment among the people."
+        ]
+      },
+      {
+        "id": "g23w53",
+        "word": "ferret",
+        "meaning": "To search tenaciously for and find something.",
+        "examples": [
+          "The reporter was trying to ferret out the truth.",
+          "She ferreted through her purse for her keys."
+        ]
+      },
+      {
+        "id": "g23w54",
+        "word": "fervent",
+        "meaning": "Having or displaying a passionate intensity.",
+        "examples": [
+          "He was a fervent supporter of the cause.",
+          "She made a fervent plea for help."
+        ]
+      },
+      {
+        "id": "g23w55",
+        "word": "fervid",
+        "meaning": "Intensely enthusiastic or passionate, especially to an excessive degree.",
+        "examples": [
+          "He had a fervid imagination.",
+          "The fervid crowd cheered for their team."
+        ]
+      },
+      {
+        "id": "g23w56",
+        "word": "fervor",
+        "meaning": "Intense and passionate feeling.",
+        "examples": [
+          "He spoke with great fervor about his religious beliefs.",
+          "The revolutionary fervor swept through the country."
+        ]
+      },
+      {
+        "id": "g23w57",
+        "word": "fester",
+        "meaning": "(Of a wound or sore) to become septic; suppurate. (Of a negative feeling or problem) to become worse or more intense, especially through long-term neglect or indifference.",
+        "examples": [
+          "The wound began to fester and needed medical attention.",
+          "His resentment was left to fester for years."
+        ]
+      },
+      {
+        "id": "g23w58",
+        "word": "festoon",
+        "meaning": "To adorn (a place) with ribbons, garlands, or other decorations.",
+        "examples": [
+          "The room was festooned with balloons and streamers for the party.",
+          "The ancient temple was festooned with intricate carvings."
+        ]
+  
+      },
+      {
+        "id": "g23w59",
+        "word": "fete",
+        "meaning": "To honor or entertain (someone) lavishly.",
+        "examples": [
+          "The victorious team was feted with a parade and a banquet.",
+          "The author was feted by her admirers."
+        ]
+      },
+      {
+        "id": "g23w60",
+        "word": "fetid",
+        "meaning": "Smelling extremely unpleasant.",
+        "examples": [
+          "The fetid smell of rotting garbage filled the air.",
+          "The stagnant pond had a fetid odor."
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,545 @@
+{
+    "id": "group32",
+    "words": [
+      {
+        "id": "g32w1",
+        "word": "ingenuous",
+        "meaning": "(Of a person or action) innocent and unsuspecting; naive.",
+        "examples": [
+          "Her ingenuous questions showed her complete lack of experience in the matter.",
+          "He had an ingenuous charm that made everyone trust him immediately."
+        ]
+      },
+      {
+        "id": "g32w2",
+        "word": "ingrained",
+        "meaning": "(Of a habit, belief, or attitude) firmly fixed or established; difficult to change.",
+        "examples": [
+          "His habit of procrastinating was deeply ingrained and hard to break.",
+          "The importance of family was ingrained in him from a young age."
+        ]
+      },
+      {
+        "id": "g32w3",
+        "word": "ingrate",
+        "meaning": "An ungrateful person.",
+        "examples": [
+          "She felt he was an ingrate for not even thanking her for the thoughtful gift.",
+          "Only an ingrate would complain about the free meal he was given."
+        ]
+      },
+      {
+        "id": "g32w4",
+        "word": "ingratiate",
+        "meaning": "To bring oneself into favor with someone by flattering or trying to please them.",
+        "examples": [
+          "He tried to ingratiate himself with the new boss by agreeing with everything she said.",
+          "The new employee's attempts to ingratiate herself with her colleagues were obvious."
+        ]
+      },
+      {
+        "id": "g32w5",
+        "word": "inherent",
+        "meaning": "Existing in something as a permanent, essential, or characteristic attribute.",
+        "examples": [
+          "There is an inherent risk involved in skydiving.",
+          "A love of music seems to be an inherent part of her personality."
+        ]
+      },
+      {
+        "id": "g32w6",
+        "word": "inhibit",
+        "meaning": "To hinder, restrain, or prevent (an action or process).",
+        "examples": [
+          "Fear of failure can inhibit people from pursuing their goals.",
+          "This new drug is designed to inhibit the growth of tumors."
+        ]
+      },
+      {
+        "id": "g32w7",
+        "word": "inhibition",
+        "meaning": "A feeling that makes one self-conscious and unable to act in a relaxed and natural way.",
+        "examples": [
+          "After a glass of wine, he lost his inhibitions and started to dance.",
+          "Her shyness and inhibitions made it difficult for her to make new friends."
+        ]
+      },
+      {
+        "id": "g32w8",
+        "word": "inimical",
+        "meaning": "Tending to obstruct or harm; unfriendly or hostile.",
+        "examples": [
+          "The harsh new regulations were inimical to the growth of small businesses.",
+          "His inimical attitude made it clear he was not open to discussion."
+        ]
+      },
+      {
+        "id": "g32w9",
+        "word": "inimitable",
+        "meaning": "So good or unusual as to be impossible to copy; unique.",
+        "examples": [
+          "The famous actor had an inimitable style that set him apart.",
+          "She brought her own inimitable charm and wit to the role."
+        ]
+      },
+      {
+        "id": "g32w10",
+        "word": "iniquitous",
+        "meaning": "Grossly unfair and morally wrong.",
+        "examples": [
+          "The country suffered under the dictator's iniquitous regime.",
+          "The protestors fought against the iniquitous system of segregation."
+        ]
+      },
+      {
+        "id": "g32w11",
+        "word": "iniquity",
+        "meaning": "Immoral or grossly unfair behavior.",
+        "examples": [
+          "The book exposed the iniquity and corruption of the city's leaders.",
+          "He decried the iniquity of the situation, where the rich got richer and the poor got poorer."
+        ]
+      },
+      {
+        "id": "g32w12",
+        "word": "initiate",
+        "meaning": "To cause (a process or action) to begin; to admit someone into a secret society or group.",
+        "examples": [
+          "The company plans to initiate a new recycling program next month.",
+          "The new members were initiated into the club with a special ceremony."
+        ]
+      },
+      {
+        "id": "g32w13",
+        "word": "inkling",
+        "meaning": "A slight knowledge or suspicion; a hint.",
+        "examples": [
+          "I had an inkling that he wasn't telling me the whole truth.",
+          "She had no inkling of the surprise party they were planning for her."
+        ]
+      },
+      {
+        "id": "g32w14",
+        "word": "innate",
+        "meaning": "Inborn; natural.",
+        "examples": [
+          "She has an innate talent for playing the piano.",
+          "Birds have an innate ability to navigate during migration."
+        ]
+      },
+      {
+        "id": "g32w15",
+        "word": "innervate",
+        "meaning": "To supply (an organ or other body part) with nerves.",
+        "examples": [
+          "The optic nerve innervates the eye.",
+          "The surgeon was careful not to damage the nerves that innervate the hand."
+        ]
+      },
+      {
+        "id": "g32w16",
+        "word": "innocuous",
+        "meaning": "Not harmful or offensive.",
+        "examples": [
+          "It seemed like an innocuous comment, but it caused a lot of trouble.",
+          "The spider was large but completely innocuous."
+        ]
+      },
+      {
+        "id": "g32w17",
+        "word": "Innocuous",
+        "meaning": "Not harmful or offensive.",
+        "examples": [
+          "The substance was tested and found to be innocuous to humans.",
+          "He made a few innocuous jokes to lighten the mood."
+        ]
+      },
+      {
+        "id": "g32w18",
+        "word": "inopportune",
+        "meaning": "Occurring at an inconvenient or inappropriate time.",
+        "examples": [
+          "His request for a raise came at an inopportune time, as the company was losing money.",
+          "The power went out at the most inopportune moment, right before the end of the movie."
+        ]
+      },
+      {
+        "id": "g32w19",
+        "word": "inordinate",
+        "meaning": "Unusually or disproportionately large; excessive.",
+        "examples": [
+          "He spent an inordinate amount of time playing video games.",
+          "The case has attracted an inordinate amount of media attention."
+        ]
+      },
+      {
+        "id": "g32w20",
+        "word": "inquest",
+        "meaning": "A judicial inquiry to ascertain the facts relating to an incident, such as a death.",
+        "examples": [
+          "The coroner's inquest was held to determine the cause of the man's death.",
+          "An inquest into the plane crash will begin next week."
+        ]
+      },
+      {
+        "id": "g32w21",
+        "word": "inquisitive",
+        "meaning": "Having or showing an interest in learning things; curious.",
+        "examples": [
+          "The inquisitive child asked his parents endless questions.",
+          "She has an inquisitive mind and loves to solve puzzles."
+        ]
+      },
+      {
+        "id": "g32w22",
+        "word": "insatiable",
+        "meaning": "(Of an appetite or desire) impossible to satisfy.",
+        "examples": [
+          "He has an insatiable appetite for knowledge and reads constantly.",
+          "Her desire for adventure was insatiable."
+        ]
+      },
+      {
+        "id": "g32w23",
+        "word": "inscrutable",
+        "meaning": "Impossible to understand or interpret.",
+        "examples": [
+          "He sat silently with an inscrutable expression on his face.",
+          "Her motives for quitting her job remained inscrutable to her colleagues."
+        ]
+      },
+      {
+        "id": "g32w24",
+        "word": "insensible",
+        "meaning": "Without one's mental faculties, typically as a result of injury or intoxication; unaware of or indifferent to.",
+        "examples": [
+          "The blow to his head knocked him insensible.",
+          "He seemed insensible to the feelings of those around him."
+        ]
+      },
+      {
+        "id": "g32w25",
+        "word": "insidious",
+        "meaning": "Proceeding in a gradual, subtle way, but with harmful effects.",
+        "examples": [
+          "The disease has an insidious onset, with symptoms appearing very slowly.",
+          "He was a victim of an insidious plot to ruin his reputation."
+        ]
+      },
+      {
+        "id": "g32w26",
+        "word": "insignia",
+        "meaning": "A distinguishing mark or token of a particular office, rank, or membership; an emblem.",
+        "examples": [
+          "The general's uniform was adorned with the insignia of his high rank.",
+          "Each branch of the military has its own unique insignia."
+        ]
+      },
+      {
+        "id": "g32w27",
+        "word": "insinuate",
+        "meaning": "To suggest or hint (something bad or reprehensible) in an indirect and unpleasant way.",
+        "examples": [
+          "Are you insinuating that I am lying?",
+          "He tried to insinuate himself into the group's conversation."
+        ]
+      },
+      {
+        "id": "g32w28",
+        "word": "insipid",
+        "meaning": "Lacking flavor; lacking vigor or interest.",
+        "examples": [
+          "The soup was watery and insipid.",
+          "I nearly fell asleep during the professor's insipid lecture."
+        ]
+      },
+      {
+        "id": "g32w29",
+        "word": "insolence",
+        "meaning": "Rude and disrespectful behavior.",
+        "examples": [
+          "The student was sent to the principal's office for his insolence.",
+          "I will not tolerate such insolence from my own children."
+        ]
+      },
+      {
+        "id": "g32w30",
+        "word": "insolent",
+        "meaning": "Showing a rude and arrogant lack of respect.",
+        "examples": [
+          "The insolent waiter ignored our requests for water.",
+          "She gave an insolent reply to her mother's question."
+        ]
+      },
+      {
+        "id": "g32w31",
+        "word": "insolvent",
+        "meaning": "Unable to pay debts owed.",
+        "examples": [
+          "The once-thriving company was eventually declared insolvent.",
+          "After losing his job, he was worried he would become insolvent."
+        ]
+      },
+      {
+        "id": "g32w32",
+        "word": "insouciance",
+        "meaning": "Casual lack of concern; indifference.",
+        "examples": [
+          "She dismissed the serious warnings with a shrug of insouciance.",
+          "He approached the difficult exam with a surprising level of insouciance."
+        ]
+      },
+      {
+        "id": "g32w33",
+        "word": "insouciant",
+        "meaning": "Showing a casual lack of concern; indifferent.",
+        "examples": [
+          "The insouciant student seemed completely unworried about his failing grades.",
+          "She gave an insouciant toss of her hair and walked away."
+        ]
+      },
+      {
+        "id": "g32w34",
+        "word": "insufferable",
+        "meaning": "Too extreme to bear; intolerable.",
+        "examples": [
+          "His constant bragging is insufferable.",
+          "The insufferable heat made it impossible to be comfortable outdoors."
+        ]
+      },
+      {
+        "id": "g32w35",
+        "word": "insular",
+        "meaning": "Ignorant of or uninterested in cultures, ideas, or peoples outside one's own experience.",
+        "examples": [
+          "Living in a small, isolated village can lead to an insular perspective.",
+          "His insular views were challenged when he traveled abroad for the first time."
+        ]
+      },
+      {
+        "id": "g32w36",
+        "word": "insularity",
+        "meaning": "Ignorance of or lack of interest in cultures, ideas, or peoples outside one's own experience.",
+        "examples": [
+          "The insularity of the community made it resistant to new ideas.",
+          "Travel is a great way to overcome one's own insularity."
+        ]
+      },
+      {
+        "id": "g32w37",
+        "word": "insuperable",
+        "meaning": "(Of a difficulty or obstacle) impossible to overcome.",
+        "examples": [
+          "The team faced what seemed like an insuperable lead in the final minutes of the game.",
+          "For the small company, the competition from the multinational corporation was an insuperable barrier."
+        ]
+      },
+      {
+        "id": "g32w38",
+        "word": "insurgent",
+        "meaning": "A rebel or revolutionary.",
+        "examples": [
+          "The government struggled to defeat the well-armed insurgents.",
+          "The insurgents launched a surprise attack on the capital city."
+        ]
+      },
+      {
+        "id": "g32w39",
+        "word": "insurrection",
+        "meaning": "A violent uprising against an authority or government.",
+        "examples": [
+          "The army was called in to put down the armed insurrection.",
+          "He was charged with treason for his role in leading the insurrection."
+        ]
+      },
+      {
+        "id": "g32w40",
+        "word": "intact",
+        "meaning": "Not damaged or impaired in any way; complete.",
+        "examples": [
+          "Amazingly, the fragile vase survived the earthquake intact.",
+          "He managed to keep his sense of humor intact despite the difficulties."
+        ]
+      },
+      {
+        "id": "g32w41",
+        "word": "intangible",
+        "meaning": "Unable to be touched or grasped; not having physical presence.",
+        "examples": [
+          "A company's reputation is a valuable but intangible asset.",
+          "The museum had an intangible atmosphere of history and reverence."
+        ]
+      },
+      {
+        "id": "g32w42",
+        "word": "integral",
+        "meaning": "Necessary to make a whole complete; essential or fundamental.",
+        "examples": [
+          "Regular exercise is an integral part of a healthy lifestyle.",
+          "The heart is an integral organ of the circulatory system."
+        ]
+      },
+      {
+        "id": "g32w43",
+        "word": "integrate",
+        "meaning": "To combine (one thing) with another so that they become a whole; to bring into equal participation.",
+        "examples": [
+          "The company will integrate the two departments into a single, more efficient unit.",
+          "The program helps new immigrants integrate into the community."
+        ]
+      },
+      {
+        "id": "g32w44",
+        "word": "intelligible",
+        "meaning": "Able to be understood; comprehensible.",
+        "examples": [
+          "The instructions were clear and easily intelligible.",
+          "He spoke so quickly that his words were barely intelligible."
+        ]
+      },
+      {
+        "id": "g32w45",
+        "word": "intemperance",
+        "meaning": "Lack of moderation or self-restraint, especially in eating or drinking.",
+        "examples": [
+          "The doctor warned him that his intemperance would lead to serious health problems.",
+          "He regretted his past intemperance and now lives a much healthier life."
+        ]
+      },
+      {
+        "id": "g32w46",
+        "word": "intensive",
+        "meaning": "Concentrated on a single area or subject or into a short time; very thorough or vigorous.",
+        "examples": [
+          "She enrolled in an intensive language course to prepare for her trip.",
+          "The patient required intensive care after the major surgery."
+        ]
+      },
+      {
+        "id": "g32w47",
+        "word": "inter",
+        "meaning": "To place (a corpse) in a grave or tomb, typically with funeral rites.",
+        "examples": [
+          "The fallen soldier was interred with full military honors.",
+          "The ancient king was interred in a magnificent pyramid."
+        ]
+      },
+      {
+        "id": "g32w48",
+        "word": "interchangeable",
+        "meaning": "(Of two things) able to be interchanged without making any difference or without being noticed.",
+        "examples": [
+          "In this context, the words 'begin' and 'start' are virtually interchangeable.",
+          "The device uses interchangeable batteries, which makes it very convenient."
+        ]
+      },
+      {
+        "id": "g32w49",
+        "word": "interdict",
+        "meaning": "An authoritative prohibition.",
+        "examples": [
+          "The court issued an interdict to halt construction of the controversial new building.",
+          "The government imposed an interdict on the export of rare minerals."
+        ]
+      },
+      {
+        "id": "g32w50",
+        "word": "interject",
+        "meaning": "To say (something) abruptly, especially as an aside or interruption.",
+        "examples": [
+          "He tried to interject a question during the presentation.",
+          "'That's not what happened at all!' she interjected."
+        ]
+      },
+      {
+        "id": "g32w51",
+        "word": "interlocutor",
+        "meaning": "A person who takes part in a dialogue or conversation.",
+        "examples": [
+          "The journalist was a skilled interlocutor, drawing insightful comments from the politician.",
+          "My interlocutor in the debate was well-informed and presented strong arguments."
+        ]
+      },
+      {
+        "id": "g32w52",
+        "word": "interloper",
+        "meaning": "A person who becomes involved in a place or situation where they are not wanted or do not belong.",
+        "examples": [
+          "The locals viewed the tourists as unwelcome interlopers.",
+          "She felt like an interloper at her ex-husband's family reunion."
+        ]
+      },
+      {
+        "id": "g32w53",
+        "word": "intermediary",
+        "meaning": "A person who acts as a link between people in order to try to bring about an agreement; a mediator.",
+        "examples": [
+          "A lawyer acted as an intermediary between the two parties during the dispute.",
+          "The diplomat served as an intermediary in the peace negotiations."
+        ]
+      },
+      {
+        "id": "g32w54",
+        "word": "interminable",
+        "meaning": "Endless or apparently endless (often used hyperbolically).",
+        "examples": [
+          "The drive through the desert seemed interminable.",
+          "We had to sit through an interminable series of speeches."
+        ]
+      },
+      {
+        "id": "g32w55",
+        "word": "intermittent",
+        "meaning": "Occurring at irregular intervals; not continuous or steady.",
+        "examples": [
+          "The weather forecast predicts intermittent rain throughout the day.",
+          "He suffers from intermittent headaches."
+        ]
+      },
+      {
+        "id": "g32w56",
+        "word": "internecine",
+        "meaning": "Destructive to both sides in a conflict.",
+        "examples": [
+          "The political party was weakened by years of internecine strife.",
+          "The company's progress was halted by internecine battles between departments."
+        ]
+      },
+      {
+        "id": "g32w57",
+        "word": "interplay",
+        "meaning": "The way in which two or more things have an effect on each other.",
+        "examples": [
+          "The book examines the complex interplay between genetics and environment.",
+          "The success of the project depended on the interplay of various factors."
+        ]
+      },
+      {
+        "id": "g32w58",
+        "word": "interpolate",
+        "meaning": "To insert (something of a different nature) into something else; to estimate a value within a known range.",
+        "examples": [
+          "The editor interpolated a new paragraph into the author's original text.",
+          "Scientists can interpolate the temperature for a year where no data exists."
+        ]
+      },
+      {
+        "id": "g32w59",
+        "word": "interregnum",
+        "meaning": "A period when normal government is suspended, especially between successive reigns or regimes.",
+        "examples": [
+          "During the interregnum, the country was ruled by a council of nobles.",
+          "There was a brief interregnum of chaos between the fall of the old king and the rise of the new one."
+        ]
+      },
+      {
+        "id": "g32w60",
+        "word": "interrogate",
+        "meaning": "To ask questions of (someone, especially a suspect or a prisoner) closely, aggressively, or formally.",
+        "examples": [
+          "The police will interrogate the suspect about his whereabouts on the night of the crime.",
+          "The congressional committee has the power to interrogate witnesses under oath."
+        ]
+      }
+    ]
+  }

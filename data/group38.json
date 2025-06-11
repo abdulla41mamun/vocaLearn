@@ -1,0 +1,545 @@
+{
+    "id": "group38",
+    "words": [
+      {
+        "id": "g38w1",
+        "word": "misnomer",
+        "meaning": "A wrong or inaccurate name or designation.",
+        "examples": [
+          "Calling a koala a 'bear' is a common misnomer, as it is a marsupial.",
+          "The 'funny bone' is a misnomer; it's actually the ulnar nerve."
+        ]
+      },
+      {
+        "id": "g38w2",
+        "word": "misogynist",
+        "meaning": "A person who dislikes, despises, or is strongly prejudiced against women.",
+        "examples": [
+          "His misogynist comments were offensive and unacceptable in the workplace.",
+          "The article criticized the film director for his history of being a misogynist."
+        ]
+      },
+      {
+        "id": "g38w3",
+        "word": "missive",
+        "meaning": "A letter, especially a long or official one.",
+        "examples": [
+          "The general received an urgent missive from the front lines.",
+          "She spent the afternoon composing a lengthy missive to her estranged sister."
+        ]
+      },
+      {
+        "id": "g38w4",
+        "word": "mistrust",
+        "meaning": "Lack of trust; suspicion.",
+        "examples": [
+          "A deep sense of mistrust had grown between the two business partners.",
+          "After being deceived, she was filled with mistrust for strangers."
+        ]
+      },
+      {
+        "id": "g38w5",
+        "word": "mitigate",
+        "meaning": "To make less severe, serious, or painful.",
+        "examples": [
+          "The company took steps to mitigate the environmental damage it had caused.",
+          "Pain medication can help to mitigate the discomfort after surgery."
+        ]
+      },
+      {
+        "id": "g38w6",
+        "word": "mnemonic",
+        "meaning": "A device such as a pattern of letters, ideas, or associations that assists in remembering something.",
+        "examples": [
+          "I use the mnemonic 'Roy G. Biv' to remember the colors of the rainbow.",
+          "Medical students rely on mnemonics to memorize complex anatomical terms."
+        ]
+      },
+      {
+        "id": "g38w7",
+        "word": "moat",
+        "meaning": "A deep, wide ditch surrounding a castle or other fortified place, typically filled with water.",
+        "examples": [
+          "The ancient castle was protected by a wide moat and a drawbridge.",
+          "Alligators were once kept in the moat as an extra line of defense."
+        ]
+      },
+      {
+        "id": "g38w8",
+        "word": "modest",
+        "meaning": "Unassuming in the estimation of one's abilities; (of an amount) relatively limited or small.",
+        "examples": [
+          "Despite his incredible success, he remained a very modest man.",
+          "They lived on a modest income in a small apartment."
+        ]
+      },
+      {
+        "id": "g38w9",
+        "word": "modicum",
+        "meaning": "A small quantity of a particular thing, especially something desirable or valuable.",
+        "examples": [
+          "If he had even a modicum of sense, he wouldn't have made that investment.",
+          "The proposal has only a modicum of a chance of being approved."
+        ]
+      },
+      {
+        "id": "g38w10",
+        "word": "modify",
+        "meaning": "To make partial or minor changes to something, typically to improve it.",
+        "examples": [
+          "The mechanic had to modify the engine to increase its power.",
+          "You might need to modify your plans based on the weather forecast."
+        ]
+      },
+      {
+        "id": "g38w11",
+        "word": "modish",
+        "meaning": "Conforming to or following what is currently popular and fashionable.",
+        "examples": [
+          "The boutique sold modish clothing and accessories.",
+          "He always tried to appear modish, closely following the latest trends."
+        ]
+      },
+      {
+        "id": "g38w12",
+        "word": "mollify",
+        "meaning": "To appease the anger or anxiety of someone.",
+        "examples": [
+          "The manager tried to mollify the angry customer by offering a full refund.",
+          "His gentle words did little to mollify her rage."
+        ]
+      },
+      {
+        "id": "g38w13",
+        "word": "mollycoddle",
+        "meaning": "To treat someone very indulgently or overprotectively.",
+        "examples": [
+          "Critics say that modern parents tend to mollycoddle their children too much.",
+          "The coach refused to mollycoddle his star player, treating him like everyone else."
+        ]
+      },
+      {
+        "id": "g38w14",
+        "word": "molt",
+        "meaning": "(Of an animal) to shed old feathers, hair, skin, or an old shell to make way for new growth.",
+        "examples": [
+          "Snakes molt their skin as they grow larger.",
+          "We knew the bird was molting because we found its feathers all over the cage."
+        ]
+      },
+      {
+        "id": "g38w15",
+        "word": "moment",
+        "meaning": "Importance or significance.",
+        "examples": [
+          "The decision to go to war was a matter of great moment.",
+          "The issues discussed were of little moment to the final outcome."
+        ]
+      },
+      {
+        "id": "g38w16",
+        "word": "momentary",
+        "meaning": "Lasting for a very short time; brief.",
+        "examples": [
+          "There was a momentary lapse in his concentration.",
+          "She experienced a momentary feeling of panic before she calmed down."
+        ]
+      },
+      {
+        "id": "g38w17",
+        "word": "monastic",
+        "meaning": "Relating to monks or nuns; characterized by a simple, austere, and solitary lifestyle.",
+        "examples": [
+          "He lived a quiet, monastic existence, dedicated to his studies.",
+          "The old monastery maintained its monastic traditions for centuries."
+        ]
+      },
+      {
+        "id": "g38w18",
+        "word": "monolithic",
+        "meaning": "(Of an organization) large, powerful, and uniform, often resistant to change.",
+        "examples": [
+          "The monolithic corporation was slow to respond to new market trends.",
+          "It can be difficult to challenge the authority of such a monolithic government agency."
+        ]
+      },
+      {
+        "id": "g38w19",
+        "word": "monotonous",
+        "meaning": "Dull, tedious, and repetitious; lacking in variety and interest.",
+        "examples": [
+          "Working on the assembly line was a monotonous job.",
+          "He spoke in a flat, monotonous voice that made his students sleepy."
+        ]
+      },
+      {
+        "id": "g38w20",
+        "word": "monotony",
+        "meaning": "Lack of variety and interest; tedious repetition and routine.",
+        "examples": [
+          "She longed for a vacation to break the monotony of her everyday life.",
+          "The endless monotony of the desert landscape was broken by a single oasis."
+        ]
+      },
+      {
+        "id": "g38w21",
+        "word": "moot",
+        "meaning": "Subject to debate or uncertainty; having no practical significance, typically because the subject is hypothetical.",
+        "examples": [
+          "Whether he would have succeeded is a moot point, as he never got the chance to try.",
+          "The court's decision made his lawsuit a moot issue."
+        ]
+      },
+      {
+        "id": "g38w22",
+        "word": "morass",
+        "meaning": "An area of muddy or boggy ground; a complicated or confused situation.",
+        "examples": [
+          "The truck got stuck in a morass of mud.",
+          "The project was sinking in a morass of bureaucracy and red tape."
+        ]
+      },
+      {
+        "id": "g38w23",
+        "word": "moratorium",
+        "meaning": "A temporary prohibition of an activity.",
+        "examples": [
+          "The government declared a moratorium on the construction of new nuclear power plants.",
+          "The two countries agreed to a moratorium on fishing in the disputed waters."
+        ]
+      },
+      {
+        "id": "g38w24",
+        "word": "morbid",
+        "meaning": "Characterized by an abnormal and unhealthy interest in disturbing subjects, especially death and disease.",
+        "examples": [
+          "He has a morbid fascination with true crime stories.",
+          "The book's morbid details about the plague were unsettling."
+        ]
+      },
+      {
+        "id": "g38w25",
+        "word": "mordant",
+        "meaning": "(Especially of humor) having or showing a sharp or critical quality; biting.",
+        "examples": [
+          "The comedian was famous for his mordant wit and social commentary.",
+          "Her mordant observations about the art world were both funny and insightful."
+        ]
+      },
+      {
+        "id": "g38w26",
+        "word": "moreover",
+        "meaning": "As a further matter; besides.",
+        "examples": [
+          "The rent is reasonable; moreover, the location is perfect.",
+          "He is a skilled writer; moreover, he is an excellent public speaker."
+        ]
+      },
+      {
+        "id": "g38w27",
+        "word": "mores",
+        "meaning": "The essential or characteristic customs and conventions of a community.",
+        "examples": [
+          "The novel provides a fascinating look at the social mores of the Victorian era.",
+          "Visitors are expected to respect the local mores and traditions."
+        ]
+      },
+      {
+        "id": "g38w28",
+        "word": "moribund",
+        "meaning": "(Of a person) at the point of death; (of a thing) in terminal decline.",
+        "examples": [
+          "The doctor said the moribund patient had only hours to live.",
+          "The moribund industry was unable to compete with new technology."
+        ]
+      },
+      {
+        "id": "g38w29",
+        "word": "morose",
+        "meaning": "Sullen and ill-tempered.",
+        "examples": [
+          "He became morose and withdrawn after losing his job.",
+          "She sat in morose silence, staring out the window."
+        ]
+      },
+      {
+        "id": "g38w30",
+        "word": "morph",
+        "meaning": "To undergo or cause to undergo a gradual process of transformation.",
+        "examples": [
+          "The caterpillar will morph into a butterfly in a few weeks.",
+          "With new software, you can morph one image into another."
+        ]
+      },
+      {
+        "id": "g38w31",
+        "word": "mortal",
+        "meaning": "(Of a living being) subject to death; causing or liable to cause death.",
+        "examples": [
+          "The ancient Greeks believed their gods were immortal, but humans were mortal.",
+          "The soldier sustained a mortal wound in the battle."
+        ]
+      },
+      {
+        "id": "g38w32",
+        "word": "mortality",
+        "meaning": "The state of being subject to death; the number of deaths in a given area or period.",
+        "examples": [
+          "The near-death experience made him acutely aware of his own mortality.",
+          "The country has a high infant mortality rate."
+        ]
+      },
+      {
+        "id": "g38w33",
+        "word": "mortify",
+        "meaning": "To cause someone to feel very embarrassed or ashamed.",
+        "examples": [
+          "I was mortified when my phone rang during the silent play.",
+          "His rude comment mortified his parents."
+        ]
+      },
+      {
+        "id": "g38w34",
+        "word": "mosaic",
+        "meaning": "A picture or pattern produced by arranging together small colored pieces of hard material, such as stone, tile, or glass.",
+        "examples": [
+          "The ancient Roman bathhouse was decorated with intricate mosaic floors.",
+          "She created a beautiful mosaic tabletop for her garden."
+        ]
+      },
+      {
+        "id": "g38w35",
+        "word": "motile",
+        "meaning": "(Of cells, gametes, and single-celled organisms) capable of motion.",
+        "examples": [
+          "The biologist observed the motile bacteria under the microscope.",
+          "Sperm are motile cells that swim towards the egg."
+        ]
+      },
+      {
+        "id": "g38w36",
+        "word": "motivate",
+        "meaning": "To provide someone with a reason for doing something; to stimulate someone's interest in or enthusiasm for doing something.",
+        "examples": [
+          "A good teacher knows how to motivate students.",
+          "He was motivated by a strong desire to help people in need."
+        ]
+      },
+      {
+        "id": "g38w37",
+        "word": "motley",
+        "meaning": "Made up of strikingly different components; disparate.",
+        "examples": [
+          "The party was attended by a motley crew of artists, musicians, and writers.",
+          "He wore a motley assortment of old clothes."
+        ]
+      },
+      {
+        "id": "g38w38",
+        "word": "multifaceted",
+        "meaning": "Having many different aspects or sides.",
+        "examples": [
+          "The issue of climate change is a multifaceted problem.",
+          "She is a multifaceted artist, excelling in painting, sculpture, and photography."
+        ]
+      },
+      {
+        "id": "g38w39",
+        "word": "multifarious",
+        "meaning": "Having many varied parts or aspects.",
+        "examples": [
+          "The job has multifarious duties and responsibilities.",
+          "New York City is known for its multifarious cultural attractions."
+        ]
+      },
+      {
+        "id": "g38w40",
+        "word": "mundane",
+        "meaning": "Lacking interest or excitement; dull.",
+        "examples": [
+          "She longed for an escape from her mundane daily routine.",
+          "The email was about mundane office matters."
+        ]
+      },
+      {
+        "id": "g38w41",
+        "word": "munificence",
+        "meaning": "The quality or action of being lavishly generous; great generosity.",
+        "examples": [
+          "The new hospital wing was built thanks to the munificence of a local philanthropist.",
+          "We are grateful for your munificence."
+        ]
+      },
+      {
+        "id": "g38w42",
+        "word": "munificent",
+        "meaning": "(Of a gift or sum of money) larger or more generous than is usual or necessary.",
+        "examples": [
+          "The wealthy alumnus made a munificent donation to the university.",
+          "She received a munificent inheritance from her grandmother."
+        ]
+      },
+      {
+        "id": "g38w43",
+        "word": "murky",
+        "meaning": "Dark and gloomy; (of a liquid) dark and dirty; not clear.",
+        "examples": [
+          "He couldn't see the bottom of the murky pond.",
+          "The details of the politician's business dealings remain murky."
+        ]
+      },
+      {
+        "id": "g38w44",
+        "word": "muted",
+        "meaning": "(Of a sound or voice) quiet and soft; (of a color or lighting) not bright; subdued.",
+        "examples": [
+          "They spoke in muted tones so as not to be overheard.",
+          "The room was decorated in muted shades of beige and gray."
+        ]
+      },
+      {
+        "id": "g38w45",
+        "word": "mutiny",
+        "meaning": "An open rebellion against the proper authorities, especially by soldiers or sailors against their officers.",
+        "examples": [
+          "The crew staged a mutiny and seized control of the ship.",
+          "Fear of a mutiny led the captain to address the crew's grievances."
+        ]
+      },
+      {
+        "id": "g38w46",
+        "word": "myopic",
+        "meaning": "Lacking imagination, foresight, or intellectual insight; nearsighted.",
+        "examples": [
+          "The company's myopic focus on quarterly profits led to its long-term failure.",
+          "A myopic view of the situation will not lead to a sustainable solution."
+        ]
+      },
+      {
+        "id": "g38w47",
+        "word": "myriad",
+        "meaning": "A countless or extremely great number of people or things.",
+        "examples": [
+          "The night sky was filled with a myriad of stars.",
+          "A myriad of challenges face the new government."
+        ]
+      },
+      {
+        "id": "g38w48",
+        "word": "nadir",
+        "meaning": "The lowest point in the fortunes of a person or organization.",
+        "examples": [
+          "The company reached its nadir in 2008 when it was on the verge of bankruptcy.",
+          "Losing his job and his house in the same week was the nadir of his life."
+        ]
+      },
+      {
+        "id": "g38w49",
+        "word": "naive",
+        "meaning": "Showing a lack of experience, wisdom, or judgment.",
+        "examples": [
+          "She was very naive to believe everything the salesperson told her.",
+          "His naive plan was bound to fail from the start."
+        ]
+      },
+      {
+        "id": "g38w50",
+        "word": "naïve",
+        "meaning": "Showing a lack of experience, wisdom, or judgment.",
+        "examples": [
+          "It was naïve of him to think he could get rich without working hard.",
+          "Her art has a charmingly naïve quality."
+        ]
+      },
+      {
+        "id": "g38w51",
+        "word": "naivete",
+        "meaning": "Lack of experience, wisdom, or judgment.",
+        "examples": [
+          "The con artist took advantage of her naivete.",
+          "There was a certain charm to his youthful naivete."
+        ]
+      },
+      {
+        "id": "g38w52",
+        "word": "narcissist",
+        "meaning": "A person who has an excessive interest in or admiration of themselves.",
+        "examples": [
+          "A true narcissist is incapable of empathizing with others.",
+          "His social media profile was a clear indication that he was a narcissist."
+        ]
+      },
+      {
+        "id": "g38w53",
+        "word": "narcotic",
+        "meaning": "A drug affecting mood or behavior, especially an illegal one; a drug that relieves pain and induces sleep.",
+        "examples": [
+          "The police seized a large quantity of illegal narcotics.",
+          "The doctor prescribed a powerful narcotic for the patient's severe pain."
+        ]
+      },
+      {
+        "id": "g38w54",
+        "word": "nascent",
+        "meaning": "(Especially of a process or organization) just coming into existence and beginning to display signs of future potential.",
+        "examples": [
+          "The nascent tech industry in the city is showing great promise.",
+          "She was a key figure in the nascent environmental movement."
+        ]
+      },
+      {
+        "id": "g38w55",
+        "word": "natty",
+        "meaning": "(Of a person or an article of clothing) smart and fashionable.",
+        "examples": [
+          "He was known for his natty suits and perfectly polished shoes.",
+          "She wore a natty little hat that matched her dress."
+        ]
+      },
+      {
+        "id": "g38w56",
+        "word": "nausea",
+        "meaning": "A feeling of sickness with an inclination to vomit.",
+        "examples": [
+          "The turbulence during the flight caused her to feel a wave of nausea.",
+          "A common side effect of the medication is nausea."
+        ]
+      },
+      {
+        "id": "g38w57",
+        "word": "nebulous",
+        "meaning": "In the form of a cloud or haze; hazy; (of a concept) unclear, vague, or ill-defined.",
+        "examples": [
+          "She had only a nebulous idea of what she wanted to do after college.",
+          "The politician's promises were too nebulous to be convincing."
+        ]
+      },
+      {
+        "id": "g38w58",
+        "word": "necromancy",
+        "meaning": "The supposed practice of communicating with the dead, especially in order to predict the future.",
+        "examples": [
+          "In the fantasy novel, the evil wizard used necromancy to raise an army of the dead.",
+          "The village accused the old woman of practicing necromancy."
+        ]
+      },
+      {
+        "id": "g38w59",
+        "word": "nefarious",
+        "meaning": "(Typically of an action or activity) wicked or criminal.",
+        "examples": [
+          "The villain hatched a nefarious plot to take over the city.",
+          "The investigation uncovered the company's nefarious activities."
+        ]
+      },
+      {
+        "id": "g38w60",
+        "word": "negate",
+        "meaning": "To nullify or make ineffective; to make a clause, sentence, or proposition negative in meaning.",
+        "examples": [
+          "The surprising new evidence threatened to negate the entire case.",
+          "His careless mistake negated all the hard work he had done."
+        ]
+      }
+    ]
+  }

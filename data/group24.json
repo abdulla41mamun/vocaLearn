@@ -1,0 +1,545 @@
+{
+    "id": "group24",
+    "words": [
+      {
+        "id": "g24w1",
+        "word": "fetish",
+        "meaning": "A form of sexual desire in which gratification is linked to an abnormal degree to a particular object, item of clothing, part of the body, etc.",
+        "examples": [
+          "The museum had a collection of artifacts, some of which were considered to be a fetish by the ancient tribe.",
+          "He had a fetish for expensive shoes."
+        ]
+      },
+      {
+        "id": "g24w2",
+        "word": "fetter",
+        "meaning": "A chain or manacle used to restrain a prisoner, typically placed around the ankles.",
+        "examples": [
+          "The prisoner was bound by a heavy iron fetter.",
+          "Poverty can be a fetter that prevents people from achieving their full potential."
+        ]
+      },
+      {
+        "id": "g24w3",
+        "word": "fetter (v)",
+        "meaning": "To restrain with chains or manacles, typically around the ankles.",
+        "examples": [
+          "The new regulations will fetter the growth of small businesses.",
+          "She refused to be fettered by tradition."
+        ]
+      },
+      {
+        "id": "g24w4",
+        "word": "feud",
+        "meaning": "A prolonged and bitter quarrel or dispute.",
+        "examples": [
+          "There was a long-standing feud between the two families.",
+          "The feud between the two brothers started over a small disagreement."
+        ]
+      },
+      {
+        "id": "g24w5",
+        "word": "fiasco",
+        "meaning": "A thing that is a complete failure, especially in a ludicrous or humiliating way.",
+        "examples": [
+          "The party was a complete fiasco, with everything going wrong.",
+          "The military operation ended in a fiasco."
+        ]
+      },
+      {
+        "id": "g24w6",
+        "word": "fiat",
+        "meaning": "A formal authorization or proposition; a decree.",
+        "examples": [
+          "The dictator ruled by fiat.",
+          "The new policy was implemented by government fiat."
+        ]
+      },
+      {
+        "id": "g24w7",
+        "word": "fickle",
+        "meaning": "Changing frequently, especially as regards one's loyalties, interests, or affection.",
+        "examples": [
+          "The weather in the mountains is notoriously fickle.",
+          "He was a fickle friend who was not very reliable."
+        ]
+      },
+      {
+        "id": "g24w8",
+        "word": "fidelity",
+        "meaning": "Faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.",
+        "examples": [
+          "He swore his fidelity to the king.",
+          "The recording was praised for its high fidelity to the original performance."
+        ]
+      },
+      {
+        "id": "g24w9",
+        "word": "fidget",
+        "meaning": "To make small movements, especially of the hands and feet, through nervousness or impatience.",
+        "examples": [
+          "He began to fidget in his chair as he waited for the interview.",
+          "Stop fidgeting and sit still."
+        ]
+      },
+      {
+        "id": "g24w10",
+        "word": "figurative",
+        "meaning": "Departing from a literal use of words; metaphorical.",
+        "examples": [
+          "'Broken heart' is a figurative expression.",
+          "The painting was a figurative representation of his feelings."
+        ]
+      },
+      {
+        "id": "g24w11",
+        "word": "filial",
+        "meaning": "Of or due from a son or daughter.",
+        "examples": [
+          "She had a strong sense of filial duty to her parents.",
+          "The children showed their filial love by caring for their elderly mother."
+        ]
+      },
+      {
+        "id": "g24w12",
+        "word": "filibuster",
+        "meaning": "An action such as a prolonged speech that obstructs progress in a legislative assembly while not technically contravening the required procedures.",
+        "examples": [
+          "The senator threatened a filibuster to prevent the bill from being passed.",
+          "The opposition party used a filibuster to delay the vote."
+        ]
+      },
+      {
+        "id": "g24w13",
+        "word": "filigree",
+        "meaning": "Ornamental work of fine (typically gold or silver) wire formed into delicate tracery.",
+        "examples": [
+          "The necklace was made of delicate silver filigree.",
+          "The antique box was decorated with intricate filigree."
+        ]
+      },
+      {
+        "id": "g24w14",
+        "word": "fillip",
+        "meaning": "Something which acts as a stimulus or boost to an activity.",
+        "examples": [
+          "The good news provided a much-needed fillip to the team's morale.",
+          "The tax cut was a fillip to the economy."
+        ]
+      },
+      {
+        "id": "g24w15",
+        "word": "finagle",
+        "meaning": "To obtain (something) by devious or dishonest means.",
+        "examples": [
+          "He managed to finagle his way into the exclusive party.",
+          "She finagled a free ticket to the concert."
+        ]
+       },
+      {
+        "id": "g24w16",
+        "word": "finagled",
+        "meaning": "Past tense of finagle; obtained something by devious or dishonest means.",
+        "examples": [
+          "The crafty salesman finagled the customer into buying the expensive model.",
+          "They finagled a better deal by negotiating with the manager."
+        ]
+      },
+      {
+        "id": "g24w17",
+        "word": "finesse",
+        "meaning": "Intricate and refined delicacy.",
+        "examples": [
+          "She handled the difficult situation with great finesse.",
+          "The diplomat was known for his diplomatic finesse."
+        ]
+      },
+      {
+        "id": "g24w18",
+        "word": "finicky",
+        "meaning": "Fussy about one's needs or requirements.",
+        "examples": [
+          "She is a finicky eater and will only eat certain foods.",
+          "The finicky cat would only drink water from a running tap."
+        ]
+      },
+      {
+        "id": "g24w19",
+        "word": "firebrand",
+        "meaning": "A person who is passionate about a particular cause, typically inciting change and taking radical action.",
+        "examples": [
+          "The political firebrand was known for his passionate speeches.",
+          "She was a firebrand who fought for women's rights."
+        ]
+      },
+      {
+        "id": "g24w20",
+        "word": "fissure",
+        "meaning": "A long, narrow opening or line of breakage made by cracking or splitting, especially in rock or earth.",
+        "examples": [
+          "A deep fissure opened up in the earth after the earthquake.",
+          "The argument created a fissure in their friendship."
+        ]
+      },
+      {
+        "id": "g24w21",
+        "word": "fitful",
+        "meaning": "Active or occurring spasmodically or intermittently; not regular or steady.",
+        "examples": [
+          "He had a fitful night's sleep, waking up several times.",
+          "The fitful rain continued throughout the day."
+        ]
+      },
+      {
+        "id": "g24w22",
+        "word": "flabbergasted",
+        "meaning": "Surprised (someone) greatly; astonished.",
+        "examples": [
+          "I was flabbergasted when I heard the news.",
+          "She was flabbergasted by his rude behavior."
+        ]
+      },
+      {
+        "id": "g24w23",
+        "word": "flag",
+        "meaning": "To become tired, weaker, or less enthusiastic.",
+        "examples": [
+          "Her energy began to flag after hours of dancing.",
+          "The conversation started to flag as the night wore on."
+        ]
+      },
+      {
+        "id": "g24w24",
+        "word": "flagrant",
+        "meaning": "(Of something considered wrong or immoral) conspicuously or obviously offensive.",
+        "examples": [
+          "It was a flagrant violation of the rules.",
+          "He showed a flagrant disregard for the law."
+        ]
+      },
+      {
+        "id": "g24w25",
+        "word": "flamboyant",
+        "meaning": "(Of a person or their behavior) tending to attract attention because of their exuberance, confidence, and stylishness.",
+        "examples": [
+          "He has a flamboyant and extroverted personality.",
+          "She wore a flamboyant hat to the wedding."
+        ]
+      },
+      {
+        "id": "g24w26",
+        "word": "flatter",
+        "meaning": "To lavish praise and compliments on (someone), often insincerely and with the aim of furthering one's own interests.",
+        "examples": [
+          "He flattered her, hoping she would agree to go on a date with him.",
+          "Don't flatter yourself; you're not that important."
+        ]
+      },
+      {
+        "id": "g24w27",
+        "word": "flaunt",
+        "meaning": "To display (something) ostentatiously, especially in order to provoke envy or admiration or to show defiance.",
+        "examples": [
+          "She liked to flaunt her wealth by wearing expensive jewelry.",
+          "He flaunted his new car to his friends."
+        ]
+       },
+      {
+        "id": "g24w28",
+        "word": "flay",
+        "meaning": "To strip the skin off (a corpse or carcass); to whip or beat (someone) so harshly as to remove their skin.",
+        "examples": [
+          "The hunter flayed the deer and prepared the meat.",
+          "The critic flayed the new movie, calling it a complete disaster."
+        ]
+      },
+      {
+        "id": "g24w29",
+        "word": "fledging",
+        "meaning": "A young bird that has just fledged; a person or organization that is immature, inexperienced, or underdeveloped.",
+        "examples": [
+          "The fledging company was struggling to compete with established rivals.",
+          "He was a fledging writer, still learning his craft."
+        ]
+      },
+      {
+        "id": "g24w30",
+        "word": "fledgling",
+        "meaning": "A person or organization that is immature, inexperienced, or underdeveloped.",
+        "examples": [
+          "The fledgling democracy was facing many challenges.",
+          "She was a fledgling actress, just starting her career."
+        ]
+      },
+      {
+        "id": "g24w31",
+        "word": "fleece",
+        "meaning": "To obtain a great deal of money from (someone), typically by overcharging or swindling them.",
+        "examples": [
+          "The con artist fleeced the tourists out of their money.",
+          "He was fleeced by a dishonest car salesman."
+        ]
+      },
+      {
+        "id": "g24w32",
+        "word": "fleeting",
+        "meaning": "Lasting for a very short time.",
+        "examples": [
+          "The happiness she felt was fleeting.",
+          "He had a fleeting glimpse of the rare bird."
+        ]
+      },
+      {
+        "id": "g24w33",
+        "word": "flimsy",
+        "meaning": "Insubstantial and easily damaged.",
+        "examples": [
+          "The flimsy excuse was not believable.",
+          "The house was made of flimsy materials and could not withstand the storm."
+        ]
+      },
+      {
+        "id": "g24w34",
+        "word": "flinch",
+        "meaning": "To make a quick, nervous movement of the face or body as an instinctive reaction to surprise, fear or pain.",
+        "examples": [
+          "He flinched when he saw the needle.",
+          "She did not flinch in the face of danger."
+        ]
+      },
+      {
+        "id": "g24w35",
+        "word": "flip",
+        "meaning": "To turn over with a sudden quick movement.",
+        "examples": [
+          "He flipped the coin to decide who would go first.",
+          "She flipped through the pages of the book."
+        ]
+      },
+      {
+        "id": "g24w36",
+        "word": "flippant",
+        "meaning": "Not showing a serious or respectful attitude.",
+        "examples": [
+          "He made a flippant remark that was not appreciated.",
+          "Her flippant attitude towards her studies worried her parents."
+        ]
+      },
+      {
+        "id": "g24w37",
+        "word": "flirt",
+        "meaning": "To behave as though attracted to or trying to attract someone, but for amusement rather than with serious intentions.",
+        "examples": [
+          "He was always flirting with the waitresses.",
+          "She flirted with the idea of moving to a new city."
+        ]
+      },
+      {
+        "id": "g24w38",
+        "word": "flop",
+        "meaning": "To fall, move, or hang in a heavy, loose, and ungainly way.",
+        "examples": [
+          "He flopped down on the sofa, exhausted.",
+          "The movie was a complete flop at the box office."
+        ]
+      },
+      {
+        "id": "g24w39",
+        "word": "flora",
+        "meaning": "The plants of a particular region, habitat, or geological period.",
+        "examples": [
+          "The book describes the flora and fauna of the island.",
+          "The unique flora of the rainforest is threatened by deforestation."
+        ]
+      },
+      {
+        "id": "g24w40",
+        "word": "florid",
+        "meaning": "Having a red or flushed complexion.",
+        "examples": [
+          "He had a florid face and a cheerful personality.",
+          "The florid prose of the novel was difficult to read."
+        ]
+      },
+      {
+        "id": "g24w41",
+        "word": "flotilla",
+        "meaning": "A fleet of ships or boats.",
+        "examples": [
+          "A flotilla of fishing boats sailed out of the harbor.",
+          "The naval flotilla was on a training exercise."
+        ]
+      },
+      {
+        "id": "g24w42",
+        "word": "flotsam",
+        "meaning": "The wreckage of a ship or its cargo found floating on or washed up by the sea.",
+        "examples": [
+          "The beach was littered with flotsam from the shipwreck.",
+          "He felt like flotsam, drifting aimlessly through life."
+        ]
+      },
+      {
+        "id": "g24w43",
+        "word": "flounder",
+        "meaning": "To struggle or stagger helplessly or clumsily in water or mud.",
+        "examples": [
+          "The small boat was floundering in the rough seas.",
+          "He was floundering in his new job, unable to keep up with the demands."
+        ]
+      },
+      {
+        "id": "g24w44",
+        "word": "flourish",
+        "meaning": "(Of a person, animal, or other living organism) to grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment.",
+        "examples": [
+          "The plants flourished in the rich soil.",
+          "The business flourished under his leadership."
+        ]
+      },
+      {
+        "id": "g24w45",
+        "word": "flout",
+        "meaning": "To openly disregard (a rule, law or convention).",
+        "examples": [
+          "He flouted the rules by smoking in a no-smoking area.",
+          "The company was accused of flouting environmental regulations."
+        ]
+      },
+      {
+        "id": "g24w46",
+        "word": "flouted",
+        "meaning": "Past tense of flout; openly disregarded a rule, law, or convention.",
+        "examples": [
+          "The motorcyclist flouted the speed limit.",
+          "She consistently flouted the school's dress code."
+        ]
+      },
+      {
+        "id": "g24w47",
+        "word": "fluctuate",
+        "meaning": "To rise and fall irregularly in number or amount.",
+        "examples": [
+          "The price of oil fluctuates depending on demand.",
+          "His mood would fluctuate from happy to sad."
+        ]
+      },
+      {
+        "id": "g24w48",
+        "word": "fluffy",
+        "meaning": "Of, like, or covered with fluff.",
+        "examples": [
+          "The kitten had a fluffy white coat.",
+          "The pancakes were light and fluffy."
+        ]
+      },
+      {
+        "id": "g24w49",
+        "word": "fluke",
+        "meaning": "An unlikely chance occurrence, especially a surprising piece of luck.",
+        "examples": [
+          "It was a complete fluke that he won the lottery.",
+          "Their victory was a fluke, and they are unlikely to win again."
+        ]
+      },
+      {
+        "id": "g24w50",
+        "word": "flummox",
+        "meaning": "To perplex (someone) greatly; bewilder.",
+        "examples": [
+          "The difficult puzzle completely flummoxed me.",
+          "She was flummoxed by his strange behavior."
+        ]
+      },
+      {
+        "id": "g24w51",
+        "word": "flummoxed",
+        "meaning": "Past tense of flummox; greatly perplexed or bewildered.",
+        "examples": [
+          "The detective was flummoxed by the lack of clues.",
+          "I was completely flummoxed by her question."
+        ]
+      },
+      {
+        "id": "g24w52",
+        "word": "flush",
+        "meaning": "Having a reddish or rosy color; having plenty of something, especially money.",
+        "examples": [
+          "Her cheeks were flush with excitement.",
+          "The company was flush with cash after a successful year."
+        ]
+      },
+      {
+        "id": "g24w53",
+        "word": "flustered",
+        "meaning": "Agitated or confused.",
+        "examples": [
+          "She was flustered by the unexpected question.",
+          "He became flustered when he couldn't find his keys."
+        ]
+      },
+      {
+        "id": "g24w54",
+        "word": "flux",
+        "meaning": "The action or process of flowing or flowing out.",
+        "examples": [
+          "The political situation is in a state of flux.",
+          "The company is experiencing a period of flux and change."
+        ]
+       },
+      {
+        "id": "g24w55",
+        "word": "foible",
+        "meaning": "A minor weakness or eccentricity in someone's character.",
+        "examples": [
+          "We all have our little foibles.",
+          "His only foible was his love of expensive shoes."
+        ]
+      },
+      {
+        "id": "g24w56",
+        "word": "foil",
+        "meaning": "To prevent (something considered wrong or undesirable) from succeeding.",
+        "examples": [
+          "The police managed to foil the bank robbery.",
+          "The hero foiled the villain's evil plan."
+        ]
+      },
+      {
+        "id": "g24w57",
+        "word": "foist",
+        "meaning": "To impose an unwelcome or unnecessary person or thing on.",
+        "examples": [
+          "He tried to foist his unwanted opinion on everyone.",
+          "The company was accused of foisting a faulty product on its customers."
+        ]
+      },
+      {
+        "id": "g24w58",
+        "word": "foment",
+        "meaning": "To instigate or stir up (an undesirable or violent sentiment or course of action).",
+        "examples": [
+          "The politician was accused of fomenting racial hatred.",
+          "The revolutionary tried to foment a rebellion."
+        ]
+      },
+      {
+        "id": "g24w59",
+        "word": "foolhardy",
+        "meaning": "Recklessly bold or rash.",
+        "examples": [
+          "It was a foolhardy attempt to climb the mountain without proper equipment.",
+          "He made a foolhardy decision that he later regretted."
+        ]
+      },
+      {
+        "id": "g24w60",
+        "word": "foppish",
+        "meaning": "(Of a man) concerned with his clothes and appearance in an affected and excessive way.",
+        "examples": [
+          "He was a foppish young man who spent hours getting ready.",
+          "The foppish dandy was a common character in 18th-century literature."
+        ]
+      }
+    ]
+  }

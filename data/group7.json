@@ -1,0 +1,546 @@
+{
+    "id": "group7",
+    "words": [
+        {
+            "id": "g7w1",
+            "word": "belligerent",
+            "meaning": "Hostile and aggressive.",
+            "examples": [
+                "He was drunk and belligerent.",
+                "The belligerent man was escorted out of the bar by the bouncer."
+            ]
+        },
+        {
+            "id": "g7w2",
+            "word": "bemoan",
+            "meaning": "To express discontent or sorrow over (something).",
+            "examples": [
+                "He bemoaned the fact that he was too old to play sports.",
+                "She bemoaned the loss of her favorite necklace."
+            ]
+        },
+        {
+            "id": "g7w3",
+            "word": "beneficence",
+            "meaning": "The quality or state of being good, kind, or charitable.",
+            "examples": [
+                "The hospital was founded on the beneficence of a wealthy philanthropist.",
+                "His beneficence was well known throughout the community."
+            ]
+        },
+        {
+            "id": "g7w4",
+            "word": "beneficent",
+            "meaning": "(of a person) generous or doing good.",
+            "examples": [
+                "A beneficent ruler is loved by his people.",
+                "The beneficent organization provides food and shelter for the homeless."
+            ]
+        },
+        {
+            "id": "g7w5",
+            "word": "benevolent",
+            "meaning": "Well meaning and kindly.",
+            "examples": [
+                "A benevolent smile lit up her face.",
+                "The benevolent millionaire donated to numerous charities."
+            ]
+        },
+        {
+            "id": "g7w6",
+            "word": "benighted",
+            "meaning": "In a state of pitiful or contemptible intellectual or moral ignorance.",
+            "examples": [
+                "They are trying to help the benighted people of the region.",
+                "His benighted views on science were shocking."
+            ]
+        },
+        {
+            "id": "g7w7",
+            "word": "benign",
+            "meaning": "Gentle and kindly; not harmful in effect.",
+            "examples": [
+                "The tumor was found to be benign.",
+                "He has a benign and friendly personality."
+            ]
+        },
+        {
+            "id": "g7w8",
+            "word": "bent",
+            "meaning": "A natural talent or inclination.",
+            "examples": [
+                "She has a bent for music.",
+                "He has a scientific bent."
+            ]
+        },
+        {
+            "id": "g7w9",
+            "word": "berate",
+            "meaning": "To scold or criticize (someone) angrily.",
+            "examples": [
+                "The coach berated the team for their poor performance.",
+                "She berated her son for being late."
+            ]
+        },
+        {
+            "id": "g7w10",
+            "word": "bereft",
+            "meaning": "Deprived of or lacking something, especially a nonmaterial asset.",
+            "examples": [
+                "He was bereft of hope after losing his job.",
+                "The room was bereft of any decoration."
+            ]
+        },
+        {
+            "id": "g7w11",
+            "word": "beseech",
+            "meaning": "To ask (someone) urgently and fervently to do something; implore.",
+            "examples": [
+                "I beseech you to tell the truth.",
+                "She beseeched him to stay."
+            ]
+        },
+        {
+            "id": "g7w12",
+            "word": "besiege",
+            "meaning": "To surround (a place) with armed forces in order to capture it or force its surrender.",
+            "examples": [
+                "The army besieged the city for months.",
+                "He was besieged by reporters asking for an interview."
+            ]
+        },
+        {
+            "id": "g7w13",
+            "word": "besmirch",
+            "meaning": "To damage the reputation of (someone or something) in the opinion of others.",
+            "examples": [
+                "He had besmirched the family name.",
+                "The scandal besmirched his reputation."
+            ]
+        },
+        {
+            "id": "g7w14",
+            "word": "besotted",
+            "meaning": "Strongly infatuated.",
+            "examples": [
+                "He was completely besotted with her.",
+                "The besotted couple couldn't keep their hands off each other."
+            ]
+        },
+        {
+            "id": "g7w15",
+            "word": "betray",
+            "meaning": "To be unfaithful in guarding, maintaining, or fulfilling; to be disloyal to.",
+            "examples": [
+                "He betrayed his country by selling secrets to the enemy.",
+                "Her trembling hands betrayed her nervousness."
+            ]
+        },
+        {
+            "id": "g7w16",
+            "word": "bevy",
+            "meaning": "A large group of people or things of a particular kind.",
+            "examples": [
+                "A bevy of beauties greeted the guests.",
+                "He was surrounded by a bevy of admirers."
+            ]
+        },
+        {
+            "id": "g7w17",
+            "word": "bias",
+            "meaning": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+            "examples": [
+                "The news report showed a clear bias towards the government.",
+                "The company was accused of bias in its hiring practices."
+            ]
+        },
+        {
+            "id": "g7w18",
+            "word": "biased",
+            "meaning": "Unfairly prejudiced for or against someone or something.",
+            "examples": [
+                "The referee was clearly biased towards the home team.",
+                "The article was heavily biased and one-sided."
+            ]
+        },
+        {
+            "id": "g7w19",
+            "word": "bifurcate",
+            "meaning": "To divide into two branches or forks.",
+            "examples": [
+                "The river bifurcates into two smaller streams.",
+                "The road bifurcates at the next intersection."
+            ]
+        },
+        {
+            "id": "g7w20",
+            "word": "bifurcated",
+            "meaning": "Divided into two branches or forks.",
+            "examples": [
+                "The path bifurcated, and he didn't know which way to go.",
+                "The company's management structure is bifurcated."
+            ]
+        },
+        {
+            "id": "g7w21",
+            "word": "bigot",
+            "meaning": "A person who is intolerant toward those holding different opinions.",
+            "examples": [
+                "He was a religious bigot who refused to tolerate other faiths.",
+                "The politician was accused of being a racist bigot."
+            ]
+        },
+        {
+            "id": "g7w22",
+            "word": "bilge",
+            "meaning": "Nonsense; rubbish.",
+            "examples": [
+                "Don't talk such bilge!",
+                "His speech was full of pretentious bilge."
+            ]
+        },
+        {
+            "id": "g7w23",
+            "word": "bilious",
+            "meaning": "Spiteful; bad-tempered.",
+            "examples": [
+                "He was a bilious old man who complained about everything.",
+                "She had a bilious look on her face."
+            ]
+        },
+        {
+            "id": "g7w24",
+            "word": "bilk",
+            "meaning": "To obtain or withhold money from (someone) by deceit or without justification; cheat or defraud.",
+            "examples": [
+                "He bilked his investors out of millions of dollars.",
+                "The con artist bilked the elderly couple out of their life savings."
+            ]
+        },
+        {
+            "id": "g7w25",
+            "word": "bitter pill to swallow",
+            "meaning": "An unpleasant or difficult fact or situation that is hard to accept.",
+            "examples": [
+                "Losing the championship was a bitter pill to swallow.",
+                "It was a bitter pill to swallow when he was laid off from his job."
+            ]
+        },
+        {
+            "id": "g7w26",
+            "word": "bizarre",
+            "meaning": "Very strange or unusual.",
+            "examples": [
+                "He had a bizarre sense of humor.",
+                "The bizarre story was hard to believe."
+            ]
+        },
+        {
+            "id": "g7w27",
+            "word": "blase",
+            "meaning": "Unimpressed or indifferent to something because one has experienced or seen it so often before.",
+            "examples": [
+                "He was blase about the celebrity sightings.",
+                "She had a blase attitude towards the fancy party."
+            ]
+        },
+        {
+            "id": "g7w28",
+            "word": "blasé",
+            "meaning": "Unimpressed or indifferent to something because one has experienced or seen it so often before.",
+            "examples": [
+                "After years of traveling, he had a blasé attitude towards new places.",
+                "The movie star was blasé about all the attention he received."
+            ]
+        },
+        {
+            "id": "g7w29",
+            "word": "blatant",
+            "meaning": "(of bad behavior) done openly and unashamedly.",
+            "examples": [
+                "It was a blatant lie.",
+                "The blatant disregard for the rules was shocking."
+            ]
+        },
+        {
+            "id": "g7w30",
+            "word": "bleak",
+            "meaning": "(of a situation or future prospect) not hopeful or encouraging; depressing.",
+            "examples": [
+                "The future looks bleak for the company.",
+                "The economic outlook is bleak."
+            ]
+        },
+        {
+            "id": "g7w31",
+            "word": "blight",
+            "meaning": "A thing that spoils or damages something.",
+            "examples": [
+                "The abandoned factory is a blight on the neighborhood.",
+                "Urban blight is a major problem in many cities."
+            ]
+
+        },
+        {
+            "id": "g7w32",
+            "word": "blinkered",
+            "meaning": "Having or showing a limited outlook.",
+            "examples": [
+                "He has a blinkered view of the world.",
+                "The blinkered approach to the problem will not solve it."
+            ]
+        },
+        {
+            "id": "g7w33",
+            "word": "bliss",
+            "meaning": "Perfect happiness; great joy.",
+            "examples": [
+                "The couple was in a state of pure bliss after their wedding.",
+                "Lying on the beach was sheer bliss."
+            ]
+        },
+        {
+            "id": "g7w34",
+            "word": "blithe",
+            "meaning": "Showing a casual and cheerful indifference considered to be callous or improper.",
+            "examples": [
+                "He had a blithe disregard for the feelings of others.",
+                "The blithe spirit of the young girl was contagious."
+            ]
+        },
+        {
+            "id": "g7w35",
+            "word": "blow hot and cold",
+            "meaning": "To alternate between two moods, opinions, or courses of action.",
+            "examples": [
+                "He keeps blowing hot and cold about the trip.",
+                "The government has been blowing hot and cold on this issue."
+            ]
+        },
+        {
+            "id": "g7w36",
+            "word": "bludgeon",
+            "meaning": "To beat (someone) repeatedly with a bludgeon or other heavy object.",
+            "examples": [
+                "He was bludgeoned to death.",
+                "The lawyer bludgeoned the witness with questions."
+            ]
+        },
+        {
+            "id": "g7w37",
+            "word": "blue chip",
+            "meaning": "Denoting companies or their shares considered to be a reliable investment, though less secure than gilt-edged stock.",
+            "examples": [
+                "He invested his money in blue chip stocks.",
+                "The company is a blue chip in the tech industry."
+            ]
+        },
+        {
+            "id": "g7w38",
+            "word": "blunder",
+            "meaning": "A stupid or careless mistake.",
+            "examples": [
+                "He made a terrible blunder that cost him the game.",
+                "The company made a major blunder in its marketing campaign."
+            ]
+        },
+        {
+            "id": "g7w39",
+            "word": "blunt",
+            "meaning": "(of a person or remark) uncompromisingly forthright.",
+            "examples": [
+                "She is very blunt and always says what she thinks.",
+                "To be blunt, your work is not good enough."
+            ]
+        },
+        {
+            "id": "g7w40",
+            "word": "board",
+            "meaning": "To get on or into (a ship, aircraft, or other vehicle).",
+            "examples": [
+                "The passengers boarded the plane.",
+                "He boarded the train just as it was about to leave."
+            ]
+        },
+        {
+            "id": "g7w41",
+            "word": "bog",
+            "meaning": "To cause (a vehicle, animal, or person) to become stuck in mud or wet ground.",
+            "examples": [
+                "The car got bogged down in the mud.",
+                "Don't get bogged down in the details."
+            ]
+        },
+        {
+            "id": "g7w42",
+            "word": "bogus",
+            "meaning": "Not genuine or true; fake.",
+            "examples": [
+                "The a bogus ID card.",
+                "The claims were completely bogus."
+            ]
+        },
+        {
+            "id": "g7w43",
+            "word": "boisterous",
+            "meaning": "(of a person, event, or behavior) noisy, energetic, and cheerful; rowdy.",
+            "examples": [
+                "The boisterous children were running around the house.",
+                "The party was a boisterous affair."
+            ]
+        },
+        {
+            "id": "g7w44",
+            "word": "bolster",
+            "meaning": "To support or strengthen.",
+            "examples": [
+                "He bolstered his argument with new evidence.",
+                "The new policy is intended to bolster the economy."
+            ]
+        },
+        {
+            "id": "g7w45",
+            "word": "bombast",
+            "meaning": "High-sounding language with little meaning, used to impress people.",
+            "examples": [
+                "The politician's speech was full of bombast and empty promises.",
+                "His writing is full of bombast and self-importance."
+            ]
+        },
+        {
+            "id": "g7w46",
+            "word": "bombastic",
+            "meaning": "High-sounding but with little meaning; inflated.",
+            "examples": [
+                "He delivered a bombastic speech that was full of hot air.",
+                "The bombastic language of the advertisement was off-putting."
+            ]
+        },
+        {
+            "id": "g7w47",
+            "word": "bona fide",
+            "meaning": "Genuine; real.",
+            "examples": [
+                "He is a bona fide expert in his field.",
+                "She made a bona fide offer to buy the house."
+            ]
+        },
+        {
+            "id": "g7w48",
+            "word": "bonhomie",
+            "meaning": "Cheerful friendliness; geniality.",
+            "examples": [
+                "There was a feeling of bonhomie in the room.",
+                "He was full of bonhomie and good humor."
+            ]
+        },
+        {
+            "id": "g7w49",
+            "word": "boon",
+            "meaning": "A thing that is helpful or beneficial.",
+            "examples": [
+                "The new bridge will be a boon to the local community.",
+                "The good weather was a boon to the farmers."
+            ]
+        },
+        {
+            "id": "g7w50",
+            "word": "boor",
+            "meaning": "An unrefined, ill-mannered person.",
+            "examples": [
+                "He is a boor who doesn't know how to behave in polite society.",
+                "The boor at the next table was talking loudly on his phone."
+            ]
+        },
+        {
+            "id": "g7w51",
+            "word": "boorish",
+            "meaning": "Rough and bad-mannered; coarse.",
+            "examples": [
+                "His boorish behavior at the party was embarrassing.",
+                "The boorish man was asked to leave the restaurant."
+            ]
+        },
+        {
+            "id": "g7w52",
+            "word": "bootless",
+            "meaning": "(of an action) ineffectual; useless.",
+            "examples": [
+                "His efforts to save the company were bootless.",
+                "It was a bootless errand."
+            ]
+        },
+        {
+            "id": "g7w53",
+            "word": "bovine",
+            "meaning": "Relating to or affecting cattle.",
+            "examples": [
+                "Bovine spongiform encephalopathy is a fatal disease in cattle.",
+                "He had a bovine expression on his face."
+            ]
+        },
+        {
+            "id": "g7w54",
+            "word": "brandish",
+            "meaning": "To wave or flourish (something, especially a weapon) as a threat or in anger or excitement.",
+            "examples": [
+                "He brandished a knife at the terrified cashier.",
+                "The protesters brandished banners and chanted slogans."
+            ]
+        },
+        {
+            "id": "g7w55",
+            "word": "brash",
+            "meaning": "Self-assertive in a rude, noisy, or overbearing way.",
+            "examples": [
+                "He is a brash and arrogant young man.",
+                "The brash new building clashed with the surrounding architecture."
+            ]
+        },
+        {
+            "id": "g7w56",
+            "word": "brass tacks",
+            "meaning": "The most important and fundamental aspects of a situation; the essentials.",
+            "examples": [
+                "Let's get down to brass tacks and talk about the budget.",
+                "It's time to stop arguing and get down to brass tacks."
+            ]
+        },
+        {
+            "id": "g7w57",
+            "word": "bravado",
+            "meaning": "A bold manner or a show of boldness intended to impress or intimidate.",
+            "examples": [
+                "His bravado masked his fear.",
+                "The robber's bravado quickly disappeared when the police arrived."
+            ]
+        },
+        {
+            "id": "g7w58",
+            "word": "brazen",
+            "meaning": "Bold and without shame.",
+            "examples": [
+                "He told a brazen lie.",
+                "The brazen thief stole the car in broad daylight."
+            ]
+        },
+        {
+            "id": "g7w59",
+            "word": "breach",
+            "meaning": "An act of breaking or failing to observe a law, agreement, or code of conduct.",
+            "examples": [
+                "The company was sued for breach of contract.",
+                "The security breach exposed the personal data of millions of users."
+            ]
+        },
+        {
+            "id": "g7w60",
+            "word": "break the ice",
+            "meaning": "To do or say something to relieve tension or get conversation going in a strained situation or when strangers meet.",
+            "examples": [
+                "He told a joke to break the ice.",
+                "The party games helped to break the ice."
+            ]
+        }
+    ]
+}

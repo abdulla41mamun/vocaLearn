@@ -1,0 +1,545 @@
+{
+    "id": "group2",
+    "words": [
+        {
+            "id": "g2w1",
+            "word": "adamant",
+            "meaning": "Refusing to be persuaded or to change one's mind.",
+            "examples": [
+                "He is adamant that he is not going to resign.",
+                "She was adamant about her decision to leave."
+            ]
+        },
+        {
+            "id": "g2w2",
+            "word": "adept",
+            "meaning": "Very skilled or proficient at something.",
+            "examples": [
+                "She is adept at cutting through red tape.",
+                "He was an adept negotiator."
+            ]
+        },
+        {
+            "id": "g2w3",
+            "word": "adequate",
+            "meaning": "Satisfactory or acceptable in quality or quantity.",
+            "examples": [
+                "The facilities are adequate for our needs.",
+                "He did not have an adequate understanding of the situation."
+            ]
+        },
+        {
+            "id": "g2w4",
+            "word": "adhere",
+            "meaning": "To stick fast to (a surface or substance); or to believe in and follow the practices of.",
+            "examples": [
+                "The stamp failed to adhere to the envelope.",
+                "All members must adhere to the rules."
+            ]
+        },
+        {
+            "id": "g2w5",
+            "word": "adherent",
+            "meaning": "Someone who supports a particular party, person, or set of ideas.",
+            "examples": [
+                "He was a staunch adherent of the conservative party.",
+                "The movement is gaining new adherents every day."
+            ]
+        },
+        {
+            "id": "g2w6",
+            "word": "adjudicate",
+            "meaning": "To make a formal judgment or decision about a problem or disputed matter.",
+            "examples": [
+                "The committee will adjudicate on the case.",
+                "He was asked to adjudicate the competition."
+            ]
+        },
+        {
+            "id": "g2w7",
+            "word": "adjunct",
+            "meaning": "A thing added to something else as a supplementary rather than an essential part.",
+            "examples": [
+                "The website is an adjunct to the book.",
+                "An adjunct professor is not a full-time member of the faculty."
+            ]
+        },
+        {
+            "id": "g2w8",
+            "word": "admonish",
+            "meaning": "To warn or reprimand someone firmly.",
+            "examples": [
+                "She admonished him for his bad behavior.",
+                "The teacher had to admonish the student for being late."
+            ]
+        },
+        {
+            "id": "g2w9",
+            "word": "admonished",
+            "meaning": "Past tense of admonish; warned or reprimanded firmly.",
+            "examples": [
+                "The judge admonished the witness for lying.",
+                "He was admonished by his parents for skipping school."
+            ]
+        },
+        {
+            "id": "g2w10",
+            "word": "adorned",
+            "meaning": "Made more beautiful or attractive.",
+            "examples": [
+                "The hall was adorned with flowers and streamers.",
+                "She wore a dress adorned with jewels."
+            ]
+        },
+        {
+            "id": "g2w11",
+            "word": "adroit",
+            "meaning": "Clever or skillful in using the hands or mind.",
+            "examples": [
+                "He was adroit at handling difficult questions.",
+                "She is an adroit pianist."
+            ]
+        },
+        {
+            "id": "g2w12",
+            "word": "adulation",
+            "meaning": "Excessive admiration or praise.",
+            "examples": [
+                "The actor enjoyed the adulation of his fans.",
+                "She was the object of public adulation."
+            ]
+        },
+        {
+            "id": "g2w13",
+            "word": "adulterate",
+            "meaning": "To render (something) poorer in quality by adding another substance, typically an inferior one.",
+            "examples": [
+                "It is illegal to adulterate food products.",
+                "The wine was adulterated with water."
+            ]
+        },
+        {
+            "id": "g2w14",
+            "word": "advent",
+            "meaning": "The arrival of a notable person, thing, or event.",
+            "examples": [
+                "The advent of the internet changed the world.",
+                "The advent of spring brings warmer weather."
+            ]
+        },
+        {
+            "id": "g2w15",
+            "word": "adversary",
+            "meaning": "One's opponent in a contest, conflict, or dispute.",
+            "examples": [
+                "He faced his adversary in the final match.",
+                "The two countries were once adversaries in war."
+            ]
+        },
+        {
+            "id": "g2w16",
+            "word": "adverse",
+            "meaning": "Preventing success or development; harmful; unfavorable.",
+            "examples": [
+                "The drug had adverse side effects.",
+                "Adverse weather conditions forced them to cancel the flight."
+            ]
+        },
+        {
+            "id": "g2w17",
+            "word": "adversity",
+            "meaning": "Difficulties; misfortune.",
+            "examples": [
+                "She showed great courage in the face of adversity.",
+                "He overcame many adversities to become successful."
+            ]
+        },
+        {
+            "id": "g2w18",
+            "word": "advocate",
+            "meaning": "A person who publicly supports or recommends a particular cause or policy.",
+            "examples": [
+                "She is a strong advocate for environmental protection.",
+                "He advocates for the rights of the homeless."
+            ]
+        },
+        {
+            "id": "g2w19",
+            "word": "aegis",
+            "meaning": "The protection, backing, or support of a particular person or organization.",
+            "examples": [
+                "The event was held under the aegis of the local council.",
+                "The project is under the aegis of the United Nations."
+            ]
+        },
+        {
+            "id": "g2w20",
+            "word": "aerie",
+            "meaning": "A large nest of a bird of prey, especially an eagle, typically built high on a tree or cliff.",
+            "examples": [
+                "The eagle returned to its aerie to feed its young.",
+                "From our viewpoint, we could see the aerie on the mountaintop."
+            ]
+        },
+        {
+            "id": "g2w21",
+            "word": "aesthete",
+            "meaning": "A person who has or affects to have a special appreciation of art and beauty.",
+            "examples": [
+                "He was a noted aesthete and collector of fine art.",
+                "As an aesthete, she was drawn to the beautiful architecture."
+            ]
+        },
+        {
+            "id": "g2w22",
+            "word": "aesthetic",
+            "meaning": "Concerned with beauty or the appreciation of beauty.",
+            "examples": [
+                "The new building has a pleasing aesthetic.",
+                "His photographs are known for their aesthetic quality."
+            ]
+        },
+        {
+            "id": "g2w23",
+            "word": "affable",
+            "meaning": "Friendly, good-natured, or easy to talk to.",
+            "examples": [
+                "He is an affable and approachable manager.",
+                "She has a very affable personality."
+            ]
+        },
+        {
+            "id": "g2w24",
+            "word": "affectation",
+            "meaning": "Behavior, speech, or writing that is artificial and designed to impress.",
+            "examples": [
+                "His accent is just an affectation.",
+                "She spoke with an affectation of nonchalance."
+            ]
+        },
+        {
+            "id": "g2w25",
+            "word": "affected",
+            "meaning": "Artificial, pretentious, and designed to impress.",
+            "examples": [
+                "He spoke in an affected manner, trying to sound more sophisticated.",
+                "Her affected politeness was irritating."
+            ]
+        },
+        {
+            "id": "g2w26",
+            "word": "affective",
+            "meaning": "Relating to moods, feelings, and attitudes.",
+            "examples": [
+                "The study focused on the affective responses of the participants.",
+                "Affective disorders can impact one's emotional state."
+            ]
+        },
+        {
+            "id": "g2w27",
+            "word": "affiliated",
+            "meaning": "Officially attached or connected to an organization.",
+            "examples": [
+                "The hospital is affiliated with the local university.",
+                "They are part of an affiliated group of companies."
+            ]
+        },
+        {
+            "id": "g2w28",
+            "word": "affinity",
+            "meaning": "A spontaneous or natural liking or sympathy for someone or something.",
+            "examples": [
+                "She has a natural affinity for children.",
+                "He felt an immediate affinity with the new colleague."
+            ]
+        },
+        {
+            "id": "g2w29",
+            "word": "afflict",
+            "meaning": "(of a problem or illness) cause pain or suffering to; affect or trouble.",
+            "examples": [
+                "The country has been afflicted by famine.",
+                "Arthritis can afflict people of all ages."
+            ]
+        },
+        {
+            "id": "g2w30",
+            "word": "affliction",
+            "meaning": "Something that causes pain or suffering.",
+            "examples": [
+                "Poverty is a great affliction in many parts of the world.",
+                "He bore his affliction with great courage."
+            ]
+        },
+        {
+            "id": "g2w31",
+            "word": "affluent",
+            "meaning": "Having a great deal of money; wealthy.",
+            "examples": [
+                "He comes from an affluent family.",
+                "They live in an affluent neighborhood."
+            ]
+        },
+        {
+            "id": "g2w32",
+            "word": "afford",
+            "meaning": "To have enough money to pay for; or to provide or supply (an opportunity or facility).",
+            "examples": [
+                "I can't afford a new car right now.",
+                "The new bridge will afford a quicker route to the city."
+            ]
+        },
+        {
+            "id": "g2w33",
+            "word": "affront",
+            "meaning": "An action or remark that causes outrage or offense.",
+            "examples": [
+                "His comments were an affront to the entire community.",
+                "She considered his behavior a personal affront."
+            ]
+        },
+        {
+            "id": "g2w34",
+            "word": "agape",
+            "meaning": "(of the mouth) wide open, especially with surprise or wonder.",
+            "examples": [
+                "He stared at the scene with his mouth agape.",
+                "The children watched the magician, their mouths agape."
+            ]
+        },
+        {
+            "id": "g2w35",
+            "word": "agglutination",
+            "meaning": "The clumping of particles; the process by which red blood cells clump together.",
+            "examples": [
+                "Agglutination of bacteria is a key step in some diagnostic tests.",
+                "The test for blood type is based on agglutination."
+            ]
+        },
+        {
+            "id": "g2w36",
+            "word": "aggrandize",
+            "meaning": "To increase the power, status, or wealth of.",
+            "examples": [
+                "He used his new position to aggrandize himself.",
+                "The dictator sought to aggrandize his empire."
+            ]
+        },
+        {
+            "id": "g2w37",
+            "word": "aggrandized",
+            "meaning": "Past tense of aggrandize; increased in power, status, or wealth.",
+            "examples": [
+                "The museum's collection was aggrandized by a generous donation.",
+                "His reputation was aggrandized by his recent success."
+            ]
+        },
+        {
+            "id": "g2w38",
+            "word": "aggravate",
+            "meaning": "To make (a problem, injury, or offense) worse or more serious.",
+            "examples": [
+                "His angry response only aggravated the situation.",
+                "Running will aggravate your knee injury."
+            ]
+        },
+        {
+            "id": "g2w39",
+            "word": "aggregate",
+            "meaning": "A whole formed by combining several (typically disparate) elements.",
+            "examples": [
+                "The aggregate score of the two games was 5-2.",
+                "The company's aggregate profits have increased."
+            ]
+        },
+        {
+            "id": "g2w40",
+            "word": "aghast",
+            "meaning": "Filled with horror or shock.",
+            "examples": [
+                "She was aghast at the news of the accident.",
+                "He stood aghast at the sight of the destruction."
+            ]
+        },
+        {
+            "id": "g2w41",
+            "word": "agitate",
+            "meaning": "To make (someone) troubled or nervous.",
+            "examples": [
+                "The news seemed to agitate him.",
+                "Don't agitate the dog by teasing it."
+            ]
+        },
+        {
+            "id": "g2w42",
+            "word": "agog",
+            "meaning": "Very eager or curious to hear or see something.",
+            "examples": [
+                "The children were all agog to see the presents.",
+                "We waited agog for the announcement."
+            ]
+        },
+        {
+            "id": "g2w43",
+            "word": "alacrity",
+            "meaning": "Brisk and cheerful readiness.",
+            "examples": [
+                "She accepted the invitation with alacrity.",
+                "He responded to the request with alacrity."
+            ]
+        },
+        {
+            "id": "g2w44",
+            "word": "albeit",
+            "meaning": "Although.",
+            "examples": [
+                "He finally agreed, albeit reluctantly.",
+                "It was a good performance, albeit a little long."
+            ]
+        },
+        {
+            "id": "g2w45",
+            "word": "alchemy",
+            "meaning": "The medieval forerunner of chemistry, based on the supposed transformation of matter. It was concerned particularly with attempts to convert base metals into gold or to find a universal elixir.",
+            "examples": [
+                "The ancient practice of alchemy was shrouded in mystery.",
+                "He dreamed of discovering the secret of alchemy."
+            ]
+        },
+        {
+            "id": "g2w46",
+            "word": "algorithm",
+            "meaning": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+            "examples": [
+                "The search engine uses a complex algorithm to rank websites.",
+                "He developed a new algorithm for data compression."
+            ]
+        },
+        {
+            "id": "g2w47",
+            "word": "alienate",
+            "meaning": "To cause (someone) to feel isolated or estranged.",
+            "examples": [
+                "His sarcastic remarks alienated his friends.",
+                "The new policies have alienated many voters."
+            ]
+        },
+        {
+            "id": "g2w48",
+            "word": "allay",
+            "meaning": "To diminish or put at rest (fear, suspicion, or worry).",
+            "examples": [
+                "The government's statement did little to allay public fears.",
+                "He tried to allay her concerns."
+            ]
+        },
+        {
+            "id": "g2w49",
+            "word": "allegation",
+            "meaning": "A claim or assertion that someone has done something illegal or wrong, typically one made without proof.",
+            "examples": [
+                "He has denied the allegations against him.",
+                "The police are investigating allegations of fraud."
+            ]
+        },
+        {
+            "id": "g2w50",
+            "word": "allege",
+            "meaning": "To claim or assert that someone has done something illegal or wrong, typically without proof.",
+            "examples": [
+                "He is alleged to have stolen the money.",
+                "The newspaper article alleges that the company is in financial trouble."
+            ]
+        },
+        {
+            "id": "g2w51",
+            "word": "alleged",
+            "meaning": "(of an incident or a person) said, without proof, to have taken place or to have a specified illegal or undesirable quality.",
+            "examples": [
+                "The alleged thief was arrested.",
+                "The alleged crime took place last night."
+            ]
+        },
+        {
+            "id": "g2w52",
+            "word": "allegiance",
+            "meaning": "Loyalty or commitment of a subordinate to a superior or of an individual to a group or cause.",
+            "examples": [
+                "They swore allegiance to the king.",
+                "His allegiance is to his family."
+            ]
+        },
+        {
+            "id": "g2w53",
+            "word": "alleviate",
+            "meaning": "To make (suffering, deficiency, or a problem) less severe.",
+            "examples": [
+                "The medicine is designed to alleviate pain.",
+                "Measures have been taken to alleviate poverty."
+            ]
+        },
+        {
+            "id": "g2w54",
+            "word": "alloy",
+            "meaning": "A metal made by combining two or more metallic elements, especially to give greater strength or resistance to corrosion.",
+            "examples": [
+                "Bronze is an alloy of copper and tin.",
+                "The alloy is used in the construction of aircraft."
+            ]
+        },
+        {
+            "id": "g2w55",
+            "word": "allude",
+            "meaning": "To suggest or call attention to indirectly; hint at.",
+            "examples": [
+                "She alluded to the problem but didn't go into detail.",
+                "He alluded to his past failures."
+            ]
+        },
+        {
+            "id": "g2w56",
+            "word": "allure",
+            "meaning": "The quality of being powerfully and mysteriously attractive or fascinating.",
+            "examples": [
+                "The allure of the city is its vibrant nightlife.",
+                "She could not resist the allure of the forbidden fruit."
+            ]
+        },
+        {
+            "id": "g2w57",
+            "word": "allusion",
+            "meaning": "An expression designed to call something to mind without mentioning it explicitly; an indirect or passing reference.",
+            "examples": [
+                "The poem is full of classical allusions.",
+                "He made a brief allusion to his recent troubles."
+            ]
+        },
+        {
+            "id": "g2w58",
+            "word": "allusive",
+            "meaning": "(of a remark or reference) working by suggestion rather than explicit mention.",
+            "examples": [
+                "Her speech was allusive and full of hidden meanings.",
+                "He has an allusive style of writing."
+            ]
+        },
+        {
+            "id": "g2w59",
+            "word": "ally",
+            "meaning": "A state formally cooperating with another for a military or other purpose.",
+            "examples": [
+                "The United States is a close ally of the United Kingdom.",
+                "They were allies in the fight against a common enemy."
+            ]
+        },
+        {
+            "id": "g2w60",
+            "word": "aloof",
+            "meaning": "Not friendly or forthcoming; cool and distant.",
+            "examples": [
+                "He seemed aloof and uninterested.",
+                "She remained aloof from the others."
+            ]
+        }
+    ]
+}

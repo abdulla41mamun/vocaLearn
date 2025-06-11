@@ -1,0 +1,545 @@
+{
+    "id": "group29",
+    "words": [
+      {
+        "id": "g29w1",
+        "word": "hound",
+        "meaning": "To harass, persecute, or pursue relentlessly.",
+        "examples": [
+          "The press hounded the celebrity relentlessly after the scandal broke.",
+          "He was hounded by creditors for months."
+        ]
+      },
+      {
+        "id": "g29w2",
+        "word": "hubris",
+        "meaning": "Excessive pride or self-confidence; arrogance.",
+        "examples": [
+          "His hubris led him to believe he was invincible, which ultimately caused his downfall.",
+          "In Greek tragedy, hubris is often a fatal flaw."
+        ]
+      },
+      {
+        "id": "g29w3",
+        "word": "humdrum",
+        "meaning": "Lacking excitement or variety; dull; monotonous.",
+        "examples": [
+          "She longed for an escape from her humdrum daily routine.",
+          "After the adventure, returning to his humdrum life was difficult."
+        ]
+      },
+      {
+        "id": "g29w4",
+        "word": "humility",
+        "meaning": "A modest or low view of one's own importance; humbleness.",
+        "examples": [
+          "Despite her great success, she accepted the award with genuine humility.",
+          "He learned the value of humility after his team lost the championship."
+        ]
+      },
+      {
+        "id": "g29w5",
+        "word": "husband",
+        "meaning": "To use (resources) economically; conserve.",
+        "examples": [
+          "During the drought, the community had to husband its water supply.",
+          "She needed to husband her energy for the final part of the marathon."
+        ]
+      },
+      {
+        "id": "g29w6",
+        "word": "husbandry",
+        "meaning": "The care, cultivation, and breeding of crops and animals; management and conservation of resources.",
+        "examples": [
+          "Good animal husbandry is essential for a productive and healthy farm.",
+          "The course taught sustainable forestry and responsible husbandry of natural resources."
+        ]
+      },
+      {
+        "id": "g29w7",
+        "word": "hyperbole",
+        "meaning": "Exaggerated statements or claims not meant to be taken literally.",
+        "examples": [
+          "Saying 'I'm so hungry I could eat a horse' is a classic example of hyperbole.",
+          "The advertisement was full of hyperbole, promising life-changing results."
+        ]
+      },
+      {
+        "id": "g29w8",
+        "word": "hypocritical",
+        "meaning": "Behaving in a way that suggests one has higher standards or more noble beliefs than is the case.",
+        "examples": [
+          "It's hypocritical for him to criticize others for gossiping when he does it all the time.",
+          "The politician's hypocritical stance on ethics was revealed by the investigation."
+        ]
+      },
+      {
+        "id": "g29w9",
+        "word": "hysterical",
+        "meaning": "Deriving from or affected by uncontrolled extreme emotion.",
+        "examples": [
+          "She became hysterical with joy upon hearing she had won the lottery.",
+          "The audience was hysterical with laughter at the comedian's jokes."
+        ]
+      },
+      {
+        "id": "g29w10",
+        "word": "I'm from Missouri",
+        "meaning": "A phrase indicating skepticism and a demand for proof.",
+        "examples": [
+          "You claim this new software is foolproof, but I'm from Missouri—show me a demo.",
+          "He said he could solve the puzzle in under a minute, but her response was a simple, 'I'm from Missouri.'"
+        ]
+      },
+      {
+        "id": "g29w11",
+        "word": "iconoclast",
+        "meaning": "A person who attacks cherished beliefs or established institutions.",
+        "examples": [
+          "Martin Luther was an iconoclast who challenged the practices of the Catholic Church.",
+          "As an artistic iconoclast, she rejected traditional forms and materials."
+        ]
+      },
+      {
+        "id": "g29w12",
+        "word": "iconoclastic",
+        "meaning": "Characterized by an attack on cherished beliefs or institutions.",
+        "examples": [
+          "The film was praised for its iconoclastic portrayal of a historical figure.",
+          "His iconoclastic teaching methods were controversial but highly effective."
+        ]
+      },
+      {
+        "id": "g29w13",
+        "word": "ideological",
+        "meaning": "Based on or relating to a system of ideas and ideals, especially one which forms the basis of economic or political theory and policy.",
+        "examples": [
+          "The two political parties were separated by a deep ideological divide.",
+          "The conflict was not just about territory but also about ideological differences."
+        ]
+      },
+      {
+        "id": "g29w14",
+        "word": "idiosyncrasy",
+        "meaning": "A mode of behavior or way of thought peculiar to an individual.",
+        "examples": [
+          "One of her charming idiosyncrasies was her habit of quoting Shakespeare in casual conversation.",
+          "His insistence on arranging his books by color was his most notable idiosyncrasy."
+        ]
+      },
+      {
+        "id": "g29w15",
+        "word": "idiosyncratic",
+        "meaning": "Peculiar or individual.",
+        "examples": [
+          "The director is known for his idiosyncratic filmmaking style.",
+          "She has an idiosyncratic approach to solving mathematical problems."
+        ]
+      },
+      {
+        "id": "g29w16",
+        "word": "idolatrous",
+        "meaning": "Involving the worship of idols; treating someone or something as an idol.",
+        "examples": [
+          "The pop star's fans showed an idolatrous devotion to her.",
+          "Ancient reformers condemned the idolatrous practices they saw in the temples."
+        ]
+      },
+      {
+        "id": "g29w17",
+        "word": "idolatry",
+        "meaning": "Extreme admiration, love, or reverence for someone or something.",
+        "examples": [
+          "Our modern culture's obsession with celebrities can be seen as a form of idolatry.",
+          "The guide explained that the ancient statues were objects of idolatry."
+        ]
+      },
+      {
+        "id": "g29w18",
+        "word": "idyll",
+        "meaning": "An extremely happy, peaceful, or picturesque episode or scene, typically an idealized or unsustainable one.",
+        "examples": [
+          "Their summer vacation on the quiet island was a perfect idyll.",
+          "The poem describes the rural idyll of the shepherd's life."
+        ]
+      },
+      {
+        "id": "g29w19",
+        "word": "idyllic",
+        "meaning": "Like an idyll; extremely happy, peaceful, or picturesque.",
+        "examples": [
+          "The painting depicted an idyllic country scene with a windmill and rolling hills.",
+          "They dreamed of an idyllic retirement in a small coastal town."
+        ]
+      },
+      {
+        "id": "g29w20",
+        "word": "igneous",
+        "meaning": "(Of rock) having solidified from lava or magma.",
+        "examples": [
+          "Granite is a type of igneous rock commonly used in construction.",
+          "The Hawaiian Islands are primarily composed of igneous rock from volcanic activity."
+        ]
+      },
+      {
+        "id": "g29w21",
+        "word": "ignoble",
+        "meaning": "Not honorable in character or purpose; of humble origin.",
+        "examples": [
+          "Betraying a friend for personal gain is an ignoble act.",
+          "He was motivated by ignoble feelings of greed and envy."
+        ]
+      },
+      {
+        "id": "g29w22",
+        "word": "ignominious",
+        "meaning": "Deserving or causing public disgrace or shame.",
+        "examples": [
+          "The invading army suffered an ignominious defeat.",
+          "After the scandal, the CEO made an ignominious exit from the company."
+        ]
+      },
+      {
+        "id": "g29w23",
+        "word": "ignominy",
+        "meaning": "Public shame or disgrace.",
+        "examples": [
+          "He had to endure the ignominy of being fired in front of his colleagues.",
+          "The team faced the ignominy of a last-place finish."
+        ]
+      },
+      {
+        "id": "g29w24",
+        "word": "ilk",
+        "meaning": "A type of person or thing similar to one already referred to.",
+        "examples": [
+          "The conference was full of tech entrepreneurs, venture capitalists, and others of that ilk.",
+          "I am tired of his constant complaining and the negativity of his ilk."
+        ]
+      },
+      {
+        "id": "g29w25",
+        "word": "illiberal",
+        "meaning": "Restricting freedom of thought or behavior; opposed to liberal principles.",
+        "examples": [
+          "The new regime imposed illiberal laws that limited freedom of speech.",
+          "His illiberal views on immigration were not popular."
+        ]
+      },
+      {
+        "id": "g29w26",
+        "word": "illicit",
+        "meaning": "Forbidden by law, rules, or custom.",
+        "examples": [
+          "He was arrested for his involvement in the illicit arms trade.",
+          "The investigation uncovered a network of illicit financial dealings."
+        ]
+      },
+      {
+        "id": "g29w27",
+        "word": "illusory",
+        "meaning": "Based on illusion; not real.",
+        "examples": [
+          "The sense of control he felt over his life was completely illusory.",
+          "She chased the illusory promise of fame, only to find it empty."
+        ]
+      },
+      {
+        "id": "g29w28",
+        "word": "illustrious",
+        "meaning": "Well known, respected, and admired for past achievements.",
+        "examples": [
+          "The scientist had an illustrious career filled with major discoveries.",
+          "She comes from an illustrious family of musicians and composers."
+        ]
+      },
+      {
+        "id": "g29w29",
+        "word": "imbibe",
+        "meaning": "To drink (especially alcohol); to absorb or assimilate (ideas or knowledge).",
+        "examples": [
+          "After a long week, he liked to imbibe a glass of fine whiskey.",
+          "She traveled to France to imbibe the language and culture."
+        ]
+      },
+      {
+        "id": "g29w30",
+        "word": "imbroglio",
+        "meaning": "An extremely confused, complicated, or embarrassing situation.",
+        "examples": [
+          "The legal imbroglio over the ownership of the property lasted for years.",
+          "The political imbroglio began when the government's secret plans were leaked."
+        ]
+      },
+      {
+        "id": "g29w31",
+        "word": "imbue",
+        "meaning": "To inspire or permeate with a feeling or quality.",
+        "examples": [
+          "The coach managed to imbue his team with a sense of confidence.",
+          "Her paintings are imbued with a deep sense of spirituality."
+        ]
+      },
+      {
+        "id": "g29w32",
+        "word": "immaculate",
+        "meaning": "Perfectly clean, neat, or tidy; free from flaws or mistakes.",
+        "examples": [
+          "The hotel room was immaculate, with not a speck of dust to be found.",
+          "She gave an immaculate performance that earned her a standing ovation."
+        ]
+      },
+      {
+        "id": "g29w33",
+        "word": "immaterial",
+        "meaning": "Unimportant under the circumstances; irrelevant.",
+        "examples": [
+          "Whether you agree with him is immaterial; you must follow the new company policy.",
+          "The cost of the gift was immaterial, as it was the thought that counted."
+        ]
+      },
+      {
+        "id": "g29w34",
+        "word": "imminent",
+        "meaning": "About to happen; threatening.",
+        "examples": [
+          "The dark, gathering clouds suggested a storm was imminent.",
+          "With the enemy troops approaching, an attack seemed imminent."
+        ]
+      },
+      {
+        "id": "g29w35",
+        "word": "immutable",
+        "meaning": "Unchanging over time or unable to be changed.",
+        "examples": [
+          "The laws of physics are considered immutable.",
+          "His decision was immutable and no amount of pleading could change his mind."
+        ]
+      },
+      {
+        "id": "g29w36",
+        "word": "impair",
+        "meaning": "To weaken or damage something (especially a human faculty or function).",
+        "examples": [
+          "Loud noise can permanently impair your hearing.",
+          "A lack of sleep can significantly impair your ability to drive safely."
+        ]
+      },
+      {
+        "id": "g29w37",
+        "word": "impartial",
+        "meaning": "Treating all rivals or disputants equally; fair and just.",
+        "examples": [
+          "A judge must be impartial in order to ensure a fair trial.",
+          "We need an impartial mediator to help us resolve our dispute."
+        ]
+      },
+      {
+        "id": "g29w38",
+        "word": "impasse",
+        "meaning": "A situation in which no progress is possible, especially because of disagreement; a deadlock.",
+        "examples": [
+          "The negotiations reached an impasse, with neither side willing to compromise.",
+          "The traffic was at an impasse, with cars blocked in every direction."
+        ]
+      },
+      {
+        "id": "g29w39",
+        "word": "impassive",
+        "meaning": "Not feeling or showing emotion.",
+        "examples": [
+          "The defendant remained impassive as the verdict was read.",
+          "His face was impassive, making it impossible to know what he was thinking."
+        ]
+      },
+      {
+        "id": "g29w40",
+        "word": "impeccable",
+        "meaning": "In accordance with the highest standards; faultless.",
+        "examples": [
+          "The pianist's performance was impeccable.",
+          "He was a man of impeccable taste and manners."
+        ]
+      },
+      {
+        "id": "g29w41",
+        "word": "impecunious",
+        "meaning": "Having little or no money.",
+        "examples": [
+          "The impecunious student lived on a diet of instant noodles.",
+          "He came from an impecunious background but became a wealthy philanthropist."
+        ]
+      },
+      {
+        "id": "g29w42",
+        "word": "impede",
+        "meaning": "To delay or prevent (someone or something) by obstructing them; to hinder.",
+        "examples": [
+          "Heavy traffic will impede our progress to the airport.",
+          "Fear of failure should not impede you from trying new things."
+        ]
+      },
+      {
+        "id": "g29w43",
+        "word": "impeded",
+        "meaning": "Hindered or obstructed in progress or movement.",
+        "examples": [
+          "Rescue efforts were impeded by the severe weather conditions.",
+          "The investigation was impeded by a lack of evidence."
+        ]
+      },
+      {
+        "id": "g29w44",
+        "word": "impediment",
+        "meaning": "A hindrance or obstruction in doing something.",
+        "examples": [
+          "A lack of funding is a major impediment to scientific research.",
+          "He overcame a speech impediment to become a successful public speaker."
+        ]
+      },
+      {
+        "id": "g29w45",
+        "word": "impending",
+        "meaning": "(Of an event, especially a threatening one) about to happen; forthcoming.",
+        "examples": [
+          "The residents boarded up their windows in preparation for the impending hurricane.",
+          "She felt a sense of impending doom as she walked down the dark alley."
+        ]
+      },
+      {
+        "id": "g29w46",
+        "word": "impenetrable",
+        "meaning": "Impossible to pass through, enter, or understand.",
+        "examples": [
+          "The jungle was so dense it was almost impenetrable.",
+          "His legal jargon was impenetrable to the average person."
+        ]
+      },
+      {
+        "id": "g29w47",
+        "word": "imperative",
+        "meaning": "Of vital importance; crucial; an essential or urgent thing.",
+        "examples": [
+          "It is imperative that we act now to address climate change.",
+          "For the company to survive, a change in strategy is a moral imperative."
+        ]
+      },
+      {
+        "id": "g29w48",
+        "word": "imperceptible",
+        "meaning": "Impossible to perceive; so slight, gradual, or subtle as not to be seen or felt.",
+        "examples": [
+          "The change in the patient's condition was imperceptible at first.",
+          "He gave an almost imperceptible nod of agreement."
+        ]
+      },
+      {
+        "id": "g29w49",
+        "word": "imperious",
+        "meaning": "Assuming power or authority without justification; arrogant and domineering.",
+        "examples": [
+          "The manager had an imperious tone that his employees disliked.",
+          "She waved an imperious hand to dismiss the servant."
+        ]
+      },
+      {
+        "id": "g29w50",
+        "word": "impermeable",
+        "meaning": "Not allowing fluid to pass through.",
+        "examples": [
+          "A good raincoat is made of an impermeable fabric.",
+          "The layer of clay beneath the soil is impermeable to water."
+        ]
+      },
+      {
+        "id": "g29w51",
+        "word": "impertinent",
+        "meaning": "Not showing proper respect; rude.",
+        "examples": [
+          "The student was sent out of the class for his impertinent remark.",
+          "He shocked everyone by asking the host impertinent questions about her age."
+        ]
+      },
+      {
+        "id": "g29w52",
+        "word": "imperturbable",
+        "meaning": "Unable to be upset or excited; calm.",
+        "examples": [
+          "Even in a crisis, the captain remained imperturbable.",
+          "She faced the difficult questions with imperturbable confidence."
+        ]
+      },
+      {
+        "id": "g29w53",
+        "word": "impervious",
+        "meaning": "Not allowing fluid to pass through; unable to be affected by.",
+        "examples": [
+          "The new coating makes the wood impervious to water damage.",
+          "He seemed impervious to the criticism from his opponents."
+        ]
+      },
+      {
+        "id": "g29w54",
+        "word": "impetuous",
+        "meaning": "Acting or done quickly and without thought or care.",
+        "examples": [
+          "His impetuous decision to quit his job left him in a difficult financial situation.",
+          "She had an impetuous nature and often regretted her hasty words."
+        ]
+      },
+      {
+        "id": "g29w55",
+        "word": "impetus",
+        "meaning": "The force that makes something happen or happen more quickly.",
+        "examples": [
+          "The new discovery gave a fresh impetus to the research project.",
+          "The prime minister's speech provided the impetus for a new wave of reforms."
+        ]
+      },
+      {
+        "id": "g29w56",
+        "word": "impiety",
+        "meaning": "Lack of piety or reverence, especially for a god.",
+        "examples": [
+          "In ancient Athens, Socrates was famously accused of impiety.",
+          "The bishop condemned the act of vandalism against the church as a grave impiety."
+        ]
+      },
+      {
+        "id": "g29w57",
+        "word": "impinge",
+        "meaning": "To have a negative effect or impact on; to advance over an area belonging to someone or something else.",
+        "examples": [
+          "Please don't let your personal problems impinge on your work performance.",
+          "The new development should not impinge upon the protected wildlife area."
+        ]
+      },
+      {
+        "id": "g29w58",
+        "word": "impious",
+        "meaning": "Not showing respect or reverence, especially for a god or sacred things.",
+        "examples": [
+          "The rebels committed impious acts by desecrating the temple.",
+          "He was shunned for his impious and blasphemous talk."
+        ]
+      },
+      {
+        "id": "g29w59",
+        "word": "implacable",
+        "meaning": "Relentless; unstoppable; unable to be placated.",
+        "examples": [
+          "He was an implacable foe, never willing to forgive or forget.",
+          "The army advanced with implacable determination."
+        ]
+      },
+      {
+        "id": "g29w60",
+        "word": "implausible",
+        "meaning": "(Of an argument or statement) not seeming reasonable or probable; failing to convince.",
+        "examples": [
+          "The suspect's alibi was highly implausible and quickly fell apart under questioning.",
+          "The plot of the movie was so implausible that it became unintentionally funny."
+        ]
+      }
+    ]
+  }

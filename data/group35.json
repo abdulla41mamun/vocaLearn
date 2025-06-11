@@ -1,0 +1,545 @@
+{
+    "id": "group35",
+    "words": [
+      {
+        "id": "g35w1",
+        "word": "leaven",
+        "meaning": "A substance, like yeast, used to make dough rise; a pervasive influence that modifies or transforms something for the better.",
+        "examples": [
+          "The baker added leaven to the dough.",
+          "A bit of humor is needed to leaven the serious discussion."
+        ]
+      },
+      {
+        "id": "g35w2",
+        "word": "leery",
+        "meaning": "Cautious or wary due to realistic suspicions.",
+        "examples": [
+          "After being scammed once, she was leery of online offers.",
+          "I'm a bit leery of walking through that neighborhood at night."
+        ]
+      },
+      {
+        "id": "g35w3",
+        "word": "left holding the bag",
+        "meaning": "To be left with the blame or responsibility for something that has gone wrong.",
+        "examples": [
+          "When his partners skipped town, he was left holding the bag for all the company's debts.",
+          "The project failed, and the junior manager was unfairly left holding the bag."
+        ]
+      },
+      {
+        "id": "g35w4",
+        "word": "legerdemain",
+        "meaning": "Skillful use of one's hands when performing conjuring tricks; deception or artful trickery.",
+        "examples": [
+          "The magician's performance was a stunning display of legerdemain.",
+          "The politician used financial legerdemain to hide the budget deficit."
+        ]
+      },
+      {
+        "id": "g35w5",
+        "word": "legion",
+        "meaning": "A vast number of people or things.",
+        "examples": [
+          "The reasons for his success are legion.",
+          "Her fans are legion, spanning across several continents."
+        ]
+      },
+      {
+        "id": "g35w6",
+        "word": "lenient",
+        "meaning": "(Of punishment or a person in authority) more merciful or tolerant than expected.",
+        "examples": [
+          "The judge was known for giving lenient sentences to first-time offenders.",
+          "My parents were much more lenient with me than my older sister."
+        ]
+      },
+      {
+        "id": "g35w7",
+        "word": "let sleeping dogs lie",
+        "meaning": "To avoid interfering in a situation that is currently causing no problems but may do so if disturbed.",
+        "examples": [
+          "I wanted to bring up the old argument, but I decided it was better to let sleeping dogs lie.",
+          "Don't ask him about his past; just let sleeping dogs lie."
+        ]
+      },
+      {
+        "id": "g35w8",
+        "word": "lethal",
+        "meaning": "Sufficient to cause death.",
+        "examples": [
+          "The spy carried a lethal poison in a hidden compartment.",
+          "A lethal combination of drugs and alcohol caused his death."
+        ]
+      },
+      {
+        "id": "g35w9",
+        "word": "lethargic",
+        "meaning": "Affected by a lack of energy and enthusiasm; sluggish and apathetic.",
+        "examples": [
+          "The hot, humid weather made everyone feel lethargic.",
+          "After recovering from the flu, he felt lethargic for a week."
+        ]
+      },
+      {
+        "id": "g35w10",
+        "word": "lethargy",
+        "meaning": "A lack of energy and enthusiasm.",
+        "examples": [
+          "Symptoms of the illness include fever, headache, and lethargy.",
+          "He had to fight off a feeling of lethargy on Monday morning."
+        ]
+      },
+      {
+        "id": "g35w11",
+        "word": "levee",
+        "meaning": "An embankment built to prevent the overflow of a river.",
+        "examples": [
+          "Volunteers worked through the night to reinforce the levee with sandbags.",
+          "The town was flooded when the levee broke."
+        ]
+      },
+      {
+        "id": "g35w12",
+        "word": "leviathan",
+        "meaning": "Something very large and powerful, especially a sea monster or a large organization.",
+        "examples": [
+          "The multinational corporation is a corporate leviathan that dominates the market.",
+          "The old sailors' tales spoke of a great leviathan that could swallow ships whole."
+        ]
+      },
+      {
+        "id": "g35w13",
+        "word": "levity",
+        "meaning": "The treatment of a serious matter with humor or in a manner lacking due respect.",
+        "examples": [
+          "His attempt to introduce some levity into the somber meeting was not well received.",
+          "There was no room for levity in the courtroom."
+        ]
+      },
+      {
+        "id": "g35w14",
+        "word": "levy",
+        "meaning": "To impose (a tax, fee, or fine).",
+        "examples": [
+          "The government decided to levy a new tax on imported goods.",
+          "A fine was levied against the company for violating environmental regulations."
+        ]
+      },
+      {
+        "id": "g35w15",
+        "word": "lexicography",
+        "meaning": "The activity or profession of compiling dictionaries.",
+        "examples": [
+          "Lexicography requires a deep love of language and meticulous attention to detail.",
+          "The university offers a postgraduate course in lexicography."
+        ]
+      },
+      {
+        "id": "g35w16",
+        "word": "liability",
+        "meaning": "The state of being legally responsible for something; a person or thing whose presence is likely to be a disadvantage.",
+        "examples": [
+          "The company's main liability is its massive debt.",
+          "His unpredictable temper is a huge liability in his career."
+        ]
+      },
+      {
+        "id": "g35w17",
+        "word": "libel",
+        "meaning": "A published false statement that is damaging to a person's reputation; a written defamation.",
+        "examples": [
+          "The politician sued the newspaper for libel over the false story.",
+          "To win a libel case, you must prove the statement was both false and damaging."
+        ]
+      },
+      {
+        "id": "g35w18",
+        "word": "liberal",
+        "meaning": "Open to new behavior or opinions; given, used, or applied in generous amounts.",
+        "examples": [
+          "Her parents had very liberal views on raising children.",
+          "He applied a liberal amount of sunscreen before going to the beach."
+        ]
+      },
+      {
+        "id": "g35w19",
+        "word": "liberate",
+        "meaning": "To set someone free from a situation of imprisonment, oppression, or slavery.",
+        "examples": [
+          "The allied armies fought to liberate the country from the invaders.",
+          "Education can help liberate people from the constraints of poverty."
+        ]
+      },
+      {
+        "id": "g35w20",
+        "word": "libertine",
+        "meaning": "A person, especially a man, who behaves without moral principles, especially in sexual matters.",
+        "examples": [
+          "He was a well-known libertine whose decadent lifestyle was the talk of the town.",
+          "The novel tells the story of the downfall of a rich libertine."
+        ]
+      },
+      {
+        "id": "g35w21",
+        "word": "libido",
+        "meaning": "Sexual desire.",
+        "examples": [
+          "The medication can sometimes cause a decrease in libido.",
+          "Stress and lack of sleep can negatively affect one's libido."
+        ]
+      },
+      {
+        "id": "g35w22",
+        "word": "licentious",
+        "meaning": "Promiscuous and unprincipled in sexual matters.",
+        "examples": [
+          "The city was portrayed as a den of licentious behavior.",
+          "His licentious lifestyle eventually led to his ruin."
+        ]
+      },
+      {
+        "id": "g35w23",
+        "word": "like Caesar's wife",
+        "meaning": "To be above suspicion; having a reputation that is impeccable.",
+        "examples": [
+          "As the head of the ethics committee, her conduct must be like Caesar's wife.",
+          "A judge's integrity should be like Caesar's wife, beyond any question."
+        ]
+      },
+      {
+        "id": "g35w24",
+        "word": "likewise",
+        "meaning": "In the same way; also.",
+        "examples": [
+          "I enjoyed the movie, and my brother likewise found it entertaining.",
+          "She arranged the flowers beautifully; do likewise with the ribbons."
+        ]
+      },
+      {
+        "id": "g35w25",
+        "word": "lily-livered",
+        "meaning": "Weak and cowardly.",
+        "examples": [
+          "The pirates taunted the lily-livered sailor who was afraid of the storm.",
+          "He was too lily-livered to stand up to the bully."
+        ]
+      },
+      {
+        "id": "g35w26",
+        "word": "limerick",
+        "meaning": "A humorous five-line poem with a specific rhyme scheme (AABBA).",
+        "examples": [
+          "Edward Lear was famous for his nonsensical limericks.",
+          "The children giggled as their grandfather recited a funny limerick."
+        ]
+      },
+      {
+        "id": "g35w27",
+        "word": "limp",
+        "meaning": "Lacking internal strength or structure; not stiff or firm; to walk with difficulty due to a damaged leg or foot.",
+        "examples": [
+          "After hours in the vase, the flowers became limp.",
+          "He walked with a slight limp after the accident."
+        ]
+      },
+      {
+        "id": "g35w28",
+        "word": "limpid",
+        "meaning": "(Of a liquid or a person's eyes) completely clear and transparent; (of writing or music) clear and accessible.",
+        "examples": [
+          "We could see the pebbles at the bottom of the limpid stream.",
+          "The author was praised for her limpid prose and clear explanations."
+        ]
+      },
+      {
+        "id": "g35w29",
+        "word": "linen",
+        "meaning": "Cloth woven from flax; articles such as sheets, tablecloths, or clothes made of this fabric.",
+        "examples": [
+          "He wore a cool, white linen suit to the summer party.",
+          "She put fresh linen on the bed."
+        ]
+      },
+      {
+        "id": "g35w30",
+        "word": "linguistic",
+        "meaning": "Relating to language or the study of language.",
+        "examples": [
+          "The country's linguistic diversity is remarkable, with over a hundred languages spoken.",
+          "She is conducting linguistic research on how children acquire language."
+        ]
+      },
+      {
+        "id": "g35w31",
+        "word": "lionize",
+        "meaning": "To give a lot of public attention and approval to someone; to treat as a celebrity.",
+        "examples": [
+          "The press is always ready to lionize a new sports hero.",
+          "After his discovery, the scientist was lionized by the academic community."
+        ]
+      },
+      {
+        "id": "g35w32",
+        "word": "lionized",
+        "meaning": "Treated as a celebrity; given a lot of public attention and approval.",
+        "examples": [
+          "The lionized author soon grew tired of the constant media attention.",
+          "Once a lionized figure, the disgraced politician now avoids the public eye."
+        ]
+      },
+      {
+        "id": "g35w33",
+        "word": "liquidation",
+        "meaning": "The process of closing a business and selling its assets to pay its debts.",
+        "examples": [
+          "The struggling company was forced into liquidation.",
+          "During the liquidation, all remaining stock was sold at a heavy discount."
+        ]
+      },
+      {
+        "id": "g35w34",
+        "word": "list",
+        "meaning": "(Of a ship) to lean over to one side, typically because of damage or uneven loading.",
+        "examples": [
+          "The damaged cargo ship began to list heavily to starboard.",
+          "The boat listed dangerously in the strong winds."
+        ]
+      },
+      {
+        "id": "g35w35",
+        "word": "listless",
+        "meaning": "(Of a person or their manner) lacking energy or enthusiasm.",
+        "examples": [
+          "The hot weather made the students feel listless and unable to concentrate.",
+          "He had been listless and withdrawn since he received the bad news."
+        ]
+      },
+      {
+        "id": "g35w36",
+        "word": "litany",
+        "meaning": "A long, tedious recital or repetitive series of something, such as complaints or requests.",
+        "examples": [
+          "He launched into a familiar litany of grievances against his boss.",
+          "She had a whole litany of excuses for not finishing her work."
+        ]
+      },
+      {
+        "id": "g35w37",
+        "word": "literal",
+        "meaning": "Taking words in their usual or most basic sense without metaphor or allegory.",
+        "examples": [
+          "The literal meaning of 'heartbroken' is not that one's heart has actually broken.",
+          "He is a very literal person, so sarcasm is often lost on him."
+        ]
+      },
+      {
+        "id": "g35w38",
+        "word": "literati",
+        "meaning": "Well-educated people who are interested in literature and the arts.",
+        "examples": [
+          "The cafe was a favorite gathering spot for the city's literati.",
+          "The new novel was hotly debated among the literati."
+        ]
+      },
+      {
+        "id": "g35w39",
+        "word": "lithe",
+        "meaning": "(Especially of a person's body) thin, supple, and graceful.",
+        "examples": [
+          "The ballet dancer was praised for her lithe and elegant movements.",
+          "A lithe cat gracefully leaped onto the high fence."
+        ]
+      },
+      {
+        "id": "g35w40",
+        "word": "litigation",
+        "meaning": "The process of taking legal action in court.",
+        "examples": [
+          "The company is facing costly litigation from a former employee.",
+          "They decided to settle the dispute to avoid years of litigation."
+        ]
+      },
+      {
+        "id": "g35w41",
+        "word": "livid",
+        "meaning": "Furiously angry.",
+        "examples": [
+          "She was livid when she discovered her car had been keyed.",
+          "His face was livid with rage as he confronted his accuser."
+        ]
+      },
+      {
+        "id": "g35w42",
+        "word": "lizard",
+        "meaning": "A reptile that typically has a long body and tail, four legs, movable eyelids, and a scaly skin.",
+        "examples": [
+          "A small green lizard scurried up the wall.",
+          "The Komodo dragon is the world's largest species of lizard."
+        ]
+      },
+      {
+        "id": "g35w43",
+        "word": "loaded for bear",
+        "meaning": "To be thoroughly prepared for a conflict or difficult situation.",
+        "examples": [
+          "She went into the board meeting loaded for bear, with stacks of data to support her case.",
+          "The lawyer arrived at the courthouse loaded for bear, ready to cross-examine the witness."
+        ]
+      },
+      {
+        "id": "g35w44",
+        "word": "loafer",
+        "meaning": "A person who idles their time away and avoids work.",
+        "examples": [
+          "His father told him to stop being a loafer and find a job.",
+          "He spent his youth as a loafer, drifting from one place to another."
+        ]
+      },
+      {
+        "id": "g35w45",
+        "word": "loath",
+        "meaning": "Reluctant; unwilling.",
+        "examples": [
+          "I was loath to spend so much money on a single dinner.",
+          "He is loath to admit his mistakes."
+        ]
+      },
+      {
+        "id": "g35w46",
+        "word": "loathe",
+        "meaning": "To feel intense dislike or disgust for.",
+        "examples": [
+          "She has come to loathe her job and is looking for a new one.",
+          "The two politicians absolutely loathe each other."
+        ]
+      },
+      {
+        "id": "g35w47",
+        "word": "lock, stock, and barrel",
+        "meaning": "Including every part of a thing; completely.",
+        "examples": [
+          "He sold the business lock, stock, and barrel to a competitor.",
+          "They moved out of the house, taking everything they owned lock, stock, and barrel."
+        ]
+      },
+      {
+        "id": "g35w48",
+        "word": "log",
+        "meaning": "A part of the trunk or a large branch of a tree that has fallen or been cut off; an official record of events.",
+        "examples": [
+          "He added another log to the campfire.",
+          "The pilot is required to keep a detailed flight log."
+        ]
+      },
+      {
+        "id": "g35w49",
+        "word": "loll",
+        "meaning": "To sit, lie, or stand in a lazy, relaxed way.",
+        "examples": [
+          "He spent the afternoon lolling in a hammock.",
+          "The dog's tongue was lolling out of its mouth after the long walk."
+        ]
+      },
+      {
+        "id": "g35w50",
+        "word": "longevity",
+        "meaning": "Long life; the fact of lasting for a long time.",
+        "examples": [
+          "The island is famous for the longevity of its inhabitants.",
+          "Good genes and a healthy lifestyle are key factors for longevity."
+        ]
+      },
+      {
+        "id": "g35w51",
+        "word": "look a gift horse in the mouth",
+        "meaning": "To find fault with or be critical of something that has been received as a gift or favor.",
+        "examples": [
+          "I know the sweater isn't exactly your style, but you shouldn't look a gift horse in the mouth.",
+          "He complained that the free tickets were for seats in the back, but I told him not to look a gift horse in the mouth."
+        ]
+      },
+      {
+        "id": "g35w52",
+        "word": "loom",
+        "meaning": "To appear as a large, shadowy, and often frightening form; (of an event) to seem about to happen.",
+        "examples": [
+          "A huge mountain loomed in the distance.",
+          "The deadline for the project loomed closer every day."
+        ]
+      },
+      {
+        "id": "g35w53",
+        "word": "lope",
+        "meaning": "To run or move with a long, bounding stride.",
+        "examples": [
+          "The wolf began to lope across the snowy field.",
+          "He set off at a steady lope down the trail."
+        ]
+      },
+      {
+        "id": "g35w54",
+        "word": "loquacious",
+        "meaning": "Tending to talk a great deal; talkative.",
+        "examples": [
+          "My loquacious taxi driver told me his entire life story.",
+          "She was in a loquacious mood after a couple glasses of wine."
+        ]
+      },
+      {
+        "id": "g35w55",
+        "word": "lovelorn",
+        "meaning": "Unhappy because of unrequited love.",
+        "examples": [
+          "The lovelorn poet wrote countless verses about his lost love.",
+          "She spent her evenings listening to sad songs, feeling utterly lovelorn."
+        ]
+      },
+      {
+        "id": "g35w56",
+        "word": "lubricious",
+        "meaning": "Characterized by or intending to arouse sexual desire; lewd.",
+        "examples": [
+          "The film was criticized for its lubricious humor and gratuitous nudity.",
+          "He made a lubricious comment that made everyone at the table uncomfortable."
+        ]
+      },
+      {
+        "id": "g35w57",
+        "word": "lucid",
+        "meaning": "Expressed clearly and easy to understand; showing the ability to think clearly, especially between periods of confusion.",
+        "examples": [
+          "The professor gave a lucid explanation of the complex theory.",
+          "During a brief lucid moment, the patient was able to recognize her family."
+        ]
+      },
+      {
+        "id": "g35w58",
+        "word": "lucrative",
+        "meaning": "Producing a great deal of profit.",
+        "examples": [
+          "He quit his day job to pursue a more lucrative career in software development.",
+          "The new contract proved to be highly lucrative for the small company."
+        ]
+      },
+      {
+        "id": "g35w59",
+        "word": "lucre",
+        "meaning": "Money, especially when regarded as distasteful or gained in a dishonorable way.",
+        "examples": [
+          "He was a man motivated by a lust for filthy lucre.",
+          "She claimed she was not interested in lucre, only in artistic fulfillment."
+        ]
+      },
+      {
+        "id": "g35w60",
+        "word": "ludicrous",
+        "meaning": "So foolish, unreasonable, or out of place as to be amusing; ridiculous.",
+        "examples": [
+          "The idea of teaching a cat to play the piano is ludicrous.",
+          "He was wearing a ludicrous outfit with a purple top hat and orange pants."
+        ]
+      }
+    ]
+  }

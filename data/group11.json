@@ -1,0 +1,545 @@
+{
+    "id": "group11",
+    "words": [
+      {
+        "id": "g11w1",
+        "word": "coin",
+        "meaning": "To invent (a new word or phrase).",
+        "examples": [
+          "He is credited with coining the term 'cyberspace'.",
+          "She was known for coining clever phrases to describe complex ideas."
+        ]
+      },
+      {
+        "id": "g11w2",
+        "word": "cold feet",
+        "meaning": "A loss of nerve or confidence.",
+        "examples": [
+          "He got cold feet just before the wedding and called it off.",
+          "She was going to try bungee jumping but got cold feet at the last minute."
+        ]
+      },
+      {
+        "id": "g11w3",
+        "word": "cold shoulder",
+        "meaning": "A show of intentional unfriendliness; a slight or rejection.",
+        "examples": [
+          "After their argument, she gave him the cold shoulder for a week.",
+          "I tried to be friendly, but he just gave me the cold shoulder."
+        ]
+      },
+      {
+        "id": "g11w4",
+        "word": "collaborate",
+        "meaning": "To work jointly on an activity, especially to produce or create something.",
+        "examples": [
+          "The two artists decided to collaborate on a mural.",
+          "Scientists from different countries collaborated on the research project."
+        ]
+      },
+      {
+        "id": "g11w5",
+        "word": "collage",
+        "meaning": "A piece of art made by sticking various different materials such as photographs and pieces of paper or fabric onto a backing.",
+        "examples": [
+          "She made a collage of her favorite family photos.",
+          "The art class project was to create a collage representing their dreams."
+        ]
+      },
+      {
+        "id": "g11w6",
+        "word": "collude",
+        "meaning": "To cooperate in a secret or unlawful way in order to deceive or gain an advantage over others.",
+        "examples": [
+          "The companies were accused of colluding to fix prices.",
+          "Several officials colluded to embezzle public funds."
+        ]
+      },
+      {
+        "id": "g11w7",
+        "word": "collusion",
+        "meaning": "Secret or illegal cooperation or conspiracy, especially in order to cheat or deceive others.",
+        "examples": [
+          "The investigation uncovered collusion between the two companies.",
+          "He was found guilty of acting in collusion with the enemy."
+        ]
+      },
+      {
+        "id": "g11w8",
+        "word": "color",
+        "meaning": "To influence, especially in a negative way; to misrepresent.",
+        "examples": [
+          "His personal biases colored his judgment of the situation.",
+          "The media's reporting colored the public's perception of the event."
+        ]
+      },
+      {
+        "id": "g11w9",
+        "word": "colossal",
+        "meaning": "Extremely large; enormous.",
+        "examples": [
+          "The ancient Egyptians built colossal pyramids.",
+          "It was a colossal waste of money."
+        ]
+      },
+      {
+        "id": "g11w10",
+        "word": "comely",
+        "meaning": "(Typically of a woman) pleasant to look at; attractive.",
+        "examples": [
+          "The painting depicted a comely young maiden.",
+          "He was struck by her comely face and graceful manner."
+        ]
+      },
+      {
+        "id": "g11w11",
+        "word": "comity",
+        "meaning": "Courtesy and considerate behavior toward others; mutual respect among nations.",
+        "examples": [
+          "The two leaders treated each other with comity and respect.",
+          "The principle of comity requires courts in one country to respect the laws of another."
+        ]
+      },
+      {
+        "id": "g11w12",
+        "word": "commence",
+        "meaning": "To begin; to start.",
+        "examples": [
+          "The graduation ceremony will commence at 10:00 AM.",
+          "They will commence building the new bridge next year."
+        ]
+      },
+      {
+        "id": "g11w13",
+        "word": "commendable",
+        "meaning": "Deserving praise.",
+        "examples": [
+          "Her dedication to her work is commendable.",
+          "His effort to help the poor was a commendable act."
+        ]
+      },
+      {
+        "id": "g11w14",
+        "word": "commensurate",
+        "meaning": "Corresponding in size or degree; in proportion.",
+        "examples": [
+          "Your salary will be commensurate with your experience.",
+          "The punishment should be commensurate with the crime."
+        ]
+      },
+      {
+        "id": "g11w15",
+        "word": "commentator",
+        "meaning": "A person who comments on events or on a text.",
+        "examples": [
+          "The sports commentator provided an exciting play-by-play of the game.",
+          "Political commentators offered their analysis of the election results."
+        ]
+      },
+      {
+        "id": "g11w16",
+        "word": "commiserate",
+        "meaning": "To express or feel sympathy or pity; sympathize.",
+        "examples": [
+          "She commiserated with her friend on the loss of her job.",
+          "The players commiserated with each other after the tough defeat."
+        ]
+      },
+      {
+        "id": "g11w17",
+        "word": "commodious",
+        "meaning": "Roomy and comfortable.",
+        "examples": [
+          "They moved into a commodious house with a large backyard.",
+          "The commodious armchair was perfect for reading."
+        ]
+      },
+      {
+        "id": "g11w18",
+        "word": "companionable",
+        "meaning": "Friendly and sociable.",
+        "examples": [
+          "They spent a companionable evening chatting by the fire.",
+          "He was a quiet but companionable travel partner."
+        ]
+      },
+      {
+        "id": "g11w19",
+        "word": "compassion",
+        "meaning": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+        "examples": [
+          "She showed great compassion for the homeless.",
+          "His heart was filled with compassion for the victims of the disaster."
+        ]
+      },
+      {
+        "id": "g11w20",
+        "word": "compatible",
+        "meaning": "(Of two things) able to exist or occur together without conflict.",
+        "examples": [
+          "The new software is not compatible with older operating systems.",
+          "Their personalities are not compatible, so they argue a lot."
+        ]
+      },
+      {
+        "id": "g11w21",
+        "word": "compelling",
+        "meaning": "Evoking interest, attention, or admiration in a powerfully irresistible way.",
+        "examples": [
+          "The book was so compelling that I couldn't put it down.",
+          "There is compelling evidence that he is guilty."
+        ]
+      },
+      {
+        "id": "g11w22",
+        "word": "compendium",
+        "meaning": "A collection of concise but detailed information about a particular subject, especially in a book or other publication.",
+        "examples": [
+          "The book is a compendium of knowledge about the ancient world.",
+          "He published a compendium of his life's work."
+        ]
+      },
+      {
+        "id": "g11w23",
+        "word": "compensatory",
+        "meaning": "Reducing or offsetting the unwelcome effects of something by exerting an opposite force or effect.",
+        "examples": [
+          "The court awarded compensatory damages to the victim.",
+          "He received a compensatory day off for working on the weekend."
+        ]
+      },
+      {
+        "id": "g11w24",
+        "word": "competent",
+        "meaning": "Having the necessary ability, knowledge, or skill to do something successfully.",
+        "examples": [
+          "She is a highly competent lawyer.",
+          "We need a competent person to manage the project."
+        ]
+      },
+      {
+        "id": "g11w25",
+        "word": "complacent",
+        "meaning": "Showing smug or uncritical satisfaction with oneself or one's achievements.",
+        "examples": [
+          "After their initial success, the team became complacent and lost the next game.",
+          "We can't afford to be complacent about the threat of climate change."
+        ]
+      },
+      {
+        "id": "g11w26",
+        "word": "complaisance",
+        "meaning": "The quality of being willing to please others; agreeableness.",
+        "examples": [
+          "Her complaisance made her popular, but it also meant she was easily taken advantage of.",
+          "He showed an excessive complaisance to his boss's every demand."
+        ]
+      },
+      {
+        "id": "g11w27",
+        "word": "complaisant",
+        "meaning": "Willing to please others; obliging; agreeable.",
+        "examples": [
+          "The complaisant waiter was happy to accommodate our special requests.",
+          "She was too complaisant to stand up for her own rights."
+        ]
+      },
+      {
+        "id": "g11w28",
+        "word": "complement",
+        "meaning": "A thing that completes or brings to perfection.",
+        "examples": [
+          "The wine is a perfect complement to the cheese.",
+          "His skills are a good complement to the team."
+        ]
+      },
+      {
+        "id": "g11w29",
+        "word": "complementary",
+        "meaning": "Combining in such a way as to enhance or emphasize the qualities of each other or another.",
+        "examples": [
+          "The two colors are complementary and look great together.",
+          "They have complementary skills that make them a good team."
+        ]
+      },
+      {
+        "id": "g11w30",
+        "word": "compliant",
+        "meaning": "Inclined to agree with others or obey rules, especially to an excessive degree; acquiescent.",
+        "examples": [
+          "The company was found to be compliant with all safety regulations.",
+          "He has a very compliant and obedient personality."
+        ]
+      },
+      {
+        "id": "g11w31",
+        "word": "complicit",
+        "meaning": "Involved with others in an illegal activity or wrongdoing.",
+        "examples": [
+          "He was complicit in the cover-up of the scandal.",
+          "She was found to be complicit in her husband's crimes."
+        ]
+      },
+      {
+        "id": "g11w32",
+        "word": "complicity",
+        "meaning": "The state of being involved with others in an illegal activity or wrongdoing.",
+        "examples": [
+          "Her complicity in the crime could not be denied.",
+          "The investigation revealed the complicity of several high-ranking officials."
+        ]
+      },
+      {
+        "id": "g11w33",
+        "word": "comply",
+        "meaning": "To act in accordance with a wish or command.",
+        "examples": [
+          "You must comply with the rules or you will be asked to leave.",
+          "He refused to comply with the officer's request."
+        ]
+      },
+      {
+        "id": "g11w34",
+        "word": "component",
+        "meaning": "A part or element of a larger whole, especially a part of a machine or vehicle.",
+        "examples": [
+          "The computer is made up of many different components.",
+          "Trust is a vital component of any healthy relationship."
+        ]
+      },
+      {
+        "id": "g11w35",
+        "word": "composure",
+        "meaning": "The state or feeling of being calm and in control of oneself.",
+        "examples": [
+          "Despite the chaos, she maintained her composure.",
+          "He lost his composure and started shouting."
+        ]
+      },
+      {
+        "id": "g11w36",
+        "word": "compound",
+        "meaning": "To make (something bad) worse; intensify the negative aspects of.",
+        "examples": [
+          "His refusal to apologize only compounded the problem.",
+          "The rain compounded the difficulties of the rescue mission."
+        ]
+      },
+      {
+        "id": "g11w37",
+        "word": "comprehensive",
+        "meaning": "Complete; including all or nearly all elements or aspects of something.",
+        "examples": [
+          "The book provides a comprehensive overview of the subject.",
+          "The company offers a comprehensive benefits package."
+        ]
+      },
+      {
+        "id": "g11w38",
+        "word": "compromise",
+        "meaning": "An agreement or a settlement of a dispute that is reached by each side making concessions.",
+        "examples": [
+          "After a long negotiation, they finally reached a compromise.",
+          "In any relationship, you have to be willing to compromise."
+        ]
+      },
+      {
+        "id": "g11w39",
+        "word": "compunction",
+        "meaning": "A feeling of guilt or moral scruple that prevents or follows the doing of something bad.",
+        "examples": [
+          "He felt no compunction about lying to his friends.",
+          "She had some compunction about borrowing the money without asking."
+        ]
+      },
+      {
+        "id": "g11w40",
+        "word": "concave",
+        "meaning": "Having an outline or surface that curves inward like the interior of a circle or sphere.",
+        "examples": [
+          "A spoon has a concave shape.",
+          "The cave had a concave roof that arched overhead."
+        ]
+      },
+      {
+        "id": "g11w41",
+        "word": "concede",
+        "meaning": "To admit that something is true or valid after first denying or resisting it.",
+        "examples": [
+          "After losing the election, the candidate conceded defeat.",
+          "He was forced to concede that his argument was flawed."
+        ]
+      },
+      {
+        "id": "g11w42",
+        "word": "conceit",
+        "meaning": "Excessive pride in oneself; vanity.",
+        "examples": [
+          "His conceit was so great that he couldn't see his own faults.",
+          "She was full of conceit about her good looks."
+        ]
+      },
+      {
+        "id": "g11w43",
+        "word": "concession",
+        "meaning": "A thing that is granted, especially in response to demands; a thing conceded.",
+        "examples": [
+          "The company made several concessions to the striking workers.",
+          "As a concession, he agreed to work on Saturday."
+        ]
+      },
+      {
+        "id": "g11w44",
+        "word": "conciliate",
+        "meaning": "To stop (someone) from being angry or discontented; placate; pacify.",
+        "examples": [
+          "He tried to conciliate his angry neighbor by offering to pay for the broken window.",
+          "The government attempted to conciliate the protesters with promises of reform."
+        ]
+      },
+      {
+        "id": "g11w45",
+        "word": "conciliatory",
+        "meaning": "Intended or likely to placate or pacify.",
+        "examples": [
+          "He spoke in a conciliatory tone, hoping to calm the situation.",
+          "The company made a conciliatory gesture by offering a full refund."
+        ]
+      },
+      {
+        "id": "g11w46",
+        "word": "conclusive",
+        "meaning": "(Of evidence or argument) serving to prove a case; decisive.",
+        "examples": [
+          "The DNA evidence was conclusive proof of his guilt.",
+          "The study provided conclusive evidence that the new drug was effective."
+        ]
+      },
+      {
+        "id": "g11w47",
+        "word": "concoct",
+        "meaning": "To create or devise (a story or plan).",
+        "examples": [
+          "He concocted a wild story to explain his absence.",
+          "The prisoners concocted a plan to escape."
+        ]
+      },
+      {
+        "id": "g11w48",
+        "word": "concomitant",
+        "meaning": "Naturally accompanying or associated.",
+        "examples": [
+          "Loss of appetite is a concomitant effect of the medication.",
+          "War and its concomitant suffering have plagued humanity for centuries."
+        ]
+      },
+      {
+        "id": "g11w49",
+        "word": "concord",
+        "meaning": "Agreement or harmony between people or groups.",
+        "examples": [
+          "The two nations lived in concord for many years.",
+          "The family dinner was a rare moment of concord."
+        ]
+      },
+      {
+        "id": "g11w50",
+        "word": "concupiscence",
+        "meaning": "Strong sexual desire; lust.",
+        "examples": [
+          "The novel explores themes of concupiscence and spiritual redemption.",
+          "He struggled to control his concupiscence."
+        ]
+      },
+      {
+        "id": "g11w51",
+        "word": "concur",
+        "meaning": "To be of the same opinion; to agree.",
+        "examples": [
+          "I concur with the previous speaker's assessment.",
+          "The two experts concurred on the cause of the problem."
+        ]
+      },
+      {
+        "id": "g11w52",
+        "word": "condemn",
+        "meaning": "To express complete disapproval of, typically in public; to censure.",
+        "examples": [
+          "The international community condemned the country's actions.",
+          "The building was condemned as unsafe."
+        ]
+      },
+      {
+        "id": "g11w53",
+        "word": "condescend",
+        "meaning": "To show feelings of superiority; to be patronizing.",
+        "examples": [
+          "He would often condescend to his employees, making them feel inferior.",
+          "She condescended to explain the simple instructions to me."
+        ]
+      },
+      {
+        "id": "g11w54",
+        "word": "condign",
+        "meaning": "(Of punishment or retribution) appropriate to the crime or wrongdoing; fitting and deserved.",
+        "examples": [
+          "The villain in the movie received his condign punishment in the end.",
+          "The public demanded a condign sentence for the perpetrator."
+        ]
+      },
+      {
+        "id": "g11w55",
+        "word": "condolence",
+        "meaning": "An expression of sympathy, especially on the occasion of a death.",
+        "examples": [
+          "He offered his condolences to the grieving family.",
+          "The president sent a message of condolence to the victims' families."
+        ]
+      },
+      {
+        "id": "g11w56",
+        "word": "condone",
+        "meaning": "To accept and allow (behavior that is considered morally wrong or offensive) to continue.",
+        "examples": [
+          "The school does not condone bullying in any form.",
+          "By not speaking out, you are condoning his bad behavior."
+        ]
+      },
+      {
+        "id": "g11w57",
+        "word": "condones",
+        "meaning": "Third-person singular present tense of condone; accepts or allows wrong behavior.",
+        "examples": [
+          "The coach never condones cheating among his players.",
+          "A society that condones violence will ultimately suffer."
+        ]
+      },
+      {
+        "id": "g11w58",
+        "word": "conducive",
+        "meaning": "Making a certain situation or outcome likely or possible.",
+        "examples": [
+          "The quiet library was conducive to studying.",
+          "A positive attitude is conducive to success."
+        ]
+      },
+      {
+        "id": "g11w59",
+        "word": "conductive",
+        "meaning": "Having the property of conducting heat or electricity.",
+        "examples": [
+          "Metal is a conductive material.",
+          "Water is conductive, so you should not use electrical appliances near it."
+        ]
+      },
+      {
+        "id": "g11w60",
+        "word": "confer",
+        "meaning": "To grant or bestow (a title, degree, benefit, or right); to have discussions; exchange opinions.",
+        "examples": [
+          "The university will confer degrees on the graduating students.",
+          "The president will confer with his advisors before making a decision."
+        ]
+      }
+    ]
+  }

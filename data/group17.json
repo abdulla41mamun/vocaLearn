@@ -1,0 +1,548 @@
+{
+    "id": "group17",
+    "words": [
+      {
+        "id": "g17w1",
+        "word": "dilettante",
+        "meaning": "A person who cultivates an area of interest, such as the arts, without real commitment or knowledge.",
+        "examples": [
+          "He was a wealthy dilettante who dabbled in painting.",
+          "She was not a serious musician, but rather a dilettante."
+        ]
+      },
+      {
+        "id": "g17w2",
+        "word": "diligent",
+        "meaning": "Having or showing care and conscientiousness in one's work or duties.",
+        "examples": [
+          "She is a diligent student who always gets good grades.",
+          "He was diligent in his efforts to find a solution to the problem."
+        ]
+      },
+      {
+        "id": "g17w3",
+        "word": "dilute",
+        "meaning": "To make (a liquid) thinner or weaker by adding water or another solvent to it.",
+        "examples": [
+          "You should dilute the juice with water before giving it to the baby.",
+          "The new law will dilute the power of the unions."
+        ]
+      },
+      {
+        "id": "g17w4",
+        "word": "diminutive",
+        "meaning": "Extremely or unusually small.",
+        "examples": [
+          "She was a diminutive woman, barely five feet tall.",
+          "The model train set was a diminutive replica of the real thing."
+        ]
+      },
+      {
+        "id": "g17w5",
+        "word": "din",
+        "meaning": "A loud, unpleasant, and prolonged noise.",
+        "examples": [
+          "The din of the city traffic was deafening.",
+          "It was hard to hear over the din of the party."
+        ]
+      },
+      {
+        "id": "g17w6",
+        "word": "dint",
+        "meaning": "By force of; by means of.",
+        "examples": [
+          "He succeeded by dint of hard work and perseverance.",
+          "By dint of sheer willpower, she managed to finish the marathon."
+        ]
+      },
+      {
+        "id": "g17w7",
+        "word": "dire",
+        "meaning": "(Of a situation or event) extremely serious or urgent.",
+        "examples": [
+          "The country is in dire need of food and medical supplies.",
+          "The consequences of his actions could be dire."
+        ]
+      },
+      {
+        "id": "g17w8",
+        "word": "dirge",
+        "meaning": "A lament for the dead, especially one forming part of a funeral rite.",
+        "examples": [
+          "The funeral procession was accompanied by a mournful dirge.",
+          "The poet wrote a dirge for his lost love."
+        ]
+      },
+      {
+        "id": "g17w9",
+        "word": "disabuse",
+        "meaning": "To persuade (someone) that an idea or belief is mistaken.",
+        "examples": [
+          "He thought he was a great singer, and I had to disabuse him of that notion.",
+          "Let me disabuse you of the idea that this will be an easy task."
+        ]
+      },
+      {
+        "id": "g17w10",
+        "word": "disaffected",
+        "meaning": "Dissatisfied with the people in authority and no longer willing to support them.",
+        "examples": [
+          "The disaffected youth of the country were a major source of unrest.",
+          "The company was facing a strike by disaffected workers."
+        ]
+      },
+      {
+        "id": "g17w11",
+        "word": "disassemble",
+        "meaning": "To take (something, especially a piece of machinery or equipment) to pieces.",
+        "examples": [
+          "He had to disassemble the engine to find the problem.",
+          "The soldiers were trained to disassemble and reassemble their rifles quickly."
+        ]
+      },
+      {
+        "id": "g17w12",
+        "word": "disburse",
+        "meaning": "To pay out (money from a fund).",
+        "examples": [
+          "The charity will disburse the funds to the flood victims.",
+          "The scholarship money will be disbursed at the beginning of the semester."
+        ]
+      },
+      {
+        "id": "g17w13",
+        "word": "discern",
+        "meaning": "To perceive or recognize (something).",
+        "examples": [
+          "It was difficult to discern the truth from the lies.",
+          "I could just discern a figure in the darkness."
+        ]
+  
+      },
+      {
+        "id": "g17w14",
+        "word": "discernible",
+        "meaning": "Able to be discerned; perceptible.",
+        "examples": [
+          "There was no discernible difference between the two paintings.",
+          "A discernible change in the patient's condition was noted."
+        ]
+      },
+      {
+        "id": "g17w15",
+        "word": "discerning",
+        "meaning": "Having or showing good judgment.",
+        "examples": [
+          "She is a discerning critic with a keen eye for talent.",
+          "The discerning shopper knows where to find the best bargains."
+        ]
+      },
+      {
+        "id": "g17w16",
+        "word": "disciple",
+        "meaning": "A follower or student of a teacher, leader, or philosopher.",
+        "examples": [
+          "He was a disciple of the famous economist.",
+          "The disciples of the religious leader spread his teachings."
+        ]
+  
+      },
+      {
+        "id": "g17w17",
+        "word": "discomfiting",
+        "meaning": "Making (someone) feel uneasy or embarrassed.",
+        "examples": [
+          "He asked a series of discomfiting questions.",
+          "The silence in the room was discomfiting."
+        ]
+      },
+      {
+        "id": "g17w18",
+        "word": "disconcert",
+        "meaning": "To disturb the composure of; unsettle.",
+        "examples": [
+          "The sudden change of plans seemed to disconcert him.",
+          "She was disconcerted by his direct stare."
+        ]
+      },
+      {
+        "id": "g17w19",
+        "word": "discord",
+        "meaning": "Disagreement between people.",
+        "examples": [
+          "The issue caused a great deal of discord within the community.",
+          "The family was torn apart by discord."
+        ]
+      },
+      {
+        "id": "g17w20",
+        "word": "discordant",
+        "meaning": "(Of sounds) harsh and jarring because of a lack of harmony.",
+        "examples": [
+          "The discordant music of the amateur band was painful to hear.",
+          "The discordant colors of the painting clashed horribly."
+        ]
+      },
+      {
+        "id": "g17w21",
+        "word": "discount",
+        "meaning": "To regard (a possibility, fact, or person) as being unworthy of consideration because it lacks credibility.",
+        "examples": [
+          "We cannot discount the possibility that he is lying.",
+          "The police discounted his alibi as being unreliable."
+        ]
+      },
+      {
+        "id": "g17w22",
+        "word": "discourse",
+        "meaning": "Written or spoken communication or debate.",
+        "examples": [
+          "The book is a scholarly discourse on the history of philosophy.",
+          "He engaged in a lively discourse with his friends about politics."
+        ]
+      },
+      {
+        "id": "g17w23",
+        "word": "discredit",
+        "meaning": "To harm the good reputation of (someone or something).",
+        "examples": [
+          "The politician tried to discredit his opponent with false accusations.",
+          "The new evidence discredited the old theory."
+        ]
+      },
+      {
+        "id": "g17w24",
+        "word": "discreet",
+        "meaning": "Careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage.",
+        "examples": [
+          "She was very discreet about her personal life.",
+          "He made a discreet inquiry about the job opening."
+        ]
+      },
+      {
+        "id": "g17w25",
+        "word": "discrepancy",
+        "meaning": "A lack of compatibility or similarity between two or more facts.",
+        "examples": [
+          "There was a discrepancy between the two witness statements.",
+          "The accountant found a discrepancy in the financial records."
+        ]
+      },
+      {
+        "id": "g17w26",
+        "word": "discrete",
+        "meaning": "Individually separate and distinct.",
+        "examples": [
+          "The process consists of several discrete steps.",
+          "The survey was divided into discrete sections."
+        ]
+      },
+      {
+        "id": "g17w27",
+        "word": "discretion",
+        "meaning": "The quality of behaving or speaking in such a way as to avoid causing offense or revealing private information.",
+        "examples": [
+          "She handled the sensitive matter with great discretion.",
+          "The teacher used her discretion in deciding how to punish the student."
+        ]
+  
+      },
+      {
+        "id": "g17w28",
+        "word": "discriminate",
+        "meaning": "To recognize a distinction; differentiate.",
+        "examples": [
+          "It is important to discriminate between fact and opinion.",
+          "The law makes it illegal to discriminate against people based on their race or gender."
+        ]
+      },
+      {
+        "id": "g17w29",
+        "word": "discriminating",
+        "meaning": "(Of a person) having or showing refined taste or good judgment.",
+        "examples": [
+          "She has a discriminating palate and can identify the subtle flavors in wine.",
+          "He is a discriminating collector of rare books."
+        ]
+      },
+      {
+        "id": "g17w30",
+        "word": "discursive",
+        "meaning": "Digressing from subject to subject.",
+        "examples": [
+          "The professor's lecture was discursive and difficult to follow.",
+          "He wrote in a discursive and rambling style."
+        ]
+      },
+      {
+        "id": "g17w31",
+        "word": "disdain",
+        "meaning": "The feeling that someone or something is unworthy of one's consideration or respect; contempt.",
+        "examples": [
+          "She looked at him with disdain.",
+          "He had a deep disdain for authority."
+        ]
+      },
+      {
+        "id": "g17w32",
+        "word": "disenfranchise",
+        "meaning": "To deprive (someone) of the right to vote.",
+        "examples": [
+          "The new law would disenfranchise millions of poor people.",
+          "The former prisoners were disenfranchised and unable to vote."
+        ]
+      },
+      {
+        "id": "g17w33",
+        "word": "disentangle",
+        "meaning": "To free (something or someone) from an entanglement; extricate.",
+        "examples": [
+          "He tried to disentangle the knotted ropes.",
+          "It took a long time to disentangle the complex legal issues."
+        ]
+      },
+      {
+        "id": "g17w34",
+        "word": "disgruntled",
+        "meaning": "Angry or dissatisfied.",
+        "examples": [
+          "The disgruntled employee complained about his low pay.",
+          "The team was disgruntled with the referee's decision."
+        ]
+      },
+      {
+        "id": "g17w35",
+        "word": "disguise",
+        "meaning": "To give (someone or oneself) a different appearance in order to conceal one's identity.",
+        "examples": [
+          "He disguised himself as a waiter to get into the party.",
+          "She could not disguise her disappointment."
+        ]
+      },
+      {
+        "id": "g17w36",
+        "word": "disheartened",
+        "meaning": "Having lost determination or confidence; dispirited.",
+        "examples": [
+          "She was disheartened by the lack of progress.",
+          "The team was disheartened after their third consecutive loss."
+        ]
+      },
+      {
+        "id": "g17w37",
+        "word": "disheveled",
+        "meaning": "(Of a person's hair, clothes, or appearance) untidy; disordered.",
+        "examples": [
+          "He looked tired and disheveled after the long journey.",
+          "Her hair was disheveled from the wind."
+        ]
+      },
+      {
+        "id": "g17w38",
+        "word": "disillusion",
+        "meaning": "To cause (someone) to realize that a belief or an ideal is false.",
+        "examples": [
+          "He was disillusioned with politics after seeing the corruption.",
+          "The reality of the job quickly disillusioned her."
+        ]
+      },
+      {
+        "id": "g17w39",
+        "word": "disingenuous",
+        "meaning": "Not candid or sincere, typically by pretending that one knows less about something than one really does.",
+        "examples": [
+          "His apology was disingenuous and insincere.",
+          "It was disingenuous of him to claim he knew nothing about the plan."
+        ]
+      },
+      {
+        "id": "g17w40",
+        "word": "disinterest",
+        "meaning": "The state of not being influenced by personal involvement in something; impartiality.",
+        "examples": [
+          "A judge must show complete disinterest in the case.",
+          "He approached the matter with scholarly disinterest."
+        ]
+      },
+      {
+        "id": "g17w41",
+        "word": "disinterested",
+        "meaning": "Not influenced by considerations of personal advantage.",
+        "examples": [
+          "We need a disinterested third party to mediate the dispute.",
+          "A good journalist should be a disinterested observer."
+        ]
+      },
+      {
+        "id": "g17w42",
+        "word": "disjointed",
+        "meaning": "Lacking a coherent sequence or connection.",
+        "examples": [
+          "The movie's plot was disjointed and confusing.",
+          "He gave a disjointed and rambling account of what had happened."
+        ]
+      },
+      {
+        "id": "g17w43",
+        "word": "dislodge",
+        "meaning": "To knock or force out of a position.",
+        "examples": [
+          "The army was trying to dislodge the enemy from their stronghold.",
+          "The earthquake dislodged several large boulders from the cliff."
+        ]
+      },
+      {
+        "id": "g17w44",
+        "word": "dismantle",
+        "meaning": "To take (a machine or structure) to pieces.",
+        "examples": [
+          "He dismantled the old engine to see how it worked.",
+          "The government plans to dismantle the welfare state."
+        ]
+      },
+      {
+        "id": "g17w45",
+        "word": "dismiss",
+        "meaning": "To order or allow to leave; send away.",
+        "examples": [
+          "The teacher dismissed the class early.",
+          "He was dismissed from his job for misconduct."
+        ]
+      },
+      {
+        "id": "g17w46",
+        "word": "dismissive",
+        "meaning": "Feeling or showing that something is unworthy of consideration.",
+        "examples": [
+          "She was dismissive of his suggestions.",
+          "He gave a dismissive wave of his hand."
+        ]
+      },
+      {
+        "id": "g17w47",
+        "word": "disparage",
+        "meaning": "To regard or represent as being of little worth.",
+        "examples": [
+          "He would often disparage the work of his rivals.",
+          "It is wrong to disparage someone's beliefs."
+        ]
+      },
+      {
+        "id": "g17w48",
+        "word": "disparate",
+        "meaning": "Essentially different in kind; not allowing comparison.",
+        "examples": [
+          "The two cultures are disparate and have little in common.",
+          "The committee was made up of people with disparate interests."
+        ]
+      },
+      {
+        "id": "g17w49",
+        "word": "disparity",
+        "meaning": "A great difference.",
+        "examples": [
+          "There is a large disparity in income between the rich and the poor.",
+          "The disparity in their ages was noticeable."
+        ]
+      },
+      {
+        "id": "g17w50",
+        "word": "dispassionate",
+        "meaning": "Not influenced by strong emotion, and so able to be rational and impartial.",
+        "examples": [
+          "A judge must be dispassionate and objective.",
+          "He gave a dispassionate analysis of the situation."
+        ]
+      },
+      {
+        "id": "g17w51",
+        "word": "dispatch",
+        "meaning": "To send off to a destination or for a purpose.",
+        "examples": [
+          "The company will dispatch the goods within 24 hours.",
+          "He was dispatched to the scene of the accident."
+        ]
+      },
+      {
+        "id": "g17w52",
+        "word": "dispel",
+        "meaning": "To make (a doubt, feeling, or belief) disappear.",
+        "examples": [
+          "He made a joke to dispel the tension in the room.",
+          "The new evidence helped to dispel any doubts about his innocence."
+        ]
+      },
+      {
+        "id": "g17w53",
+        "word": "dispensation",
+        "meaning": "Exemption from a rule or usual requirement.",
+        "examples": [
+          "The student was granted a special dispensation to take the exam at a later date.",
+          "He received a dispensation from his religious vows."
+        ]
+      },
+      {
+        "id": "g17w54",
+        "word": "dispense",
+        "meaning": "To distribute or provide (a service or information) to a number of people.",
+        "examples": [
+          "The pharmacist will dispense the medication.",
+          "The charity dispenses food and clothing to the needy."
+        ]
+      },
+      {
+        "id": "g17w55",
+        "word": "disperse",
+        "meaning": "To distribute or spread over a wide area.",
+        "examples": [
+          "The police used tear gas to disperse the crowd.",
+          "The dandelion seeds were dispersed by the wind."
+        ]
+      },
+      {
+        "id": "g17w56",
+        "word": "dispersed",
+        "meaning": "Past tense of disperse; distributed or spread over a wide area.",
+        "examples": [
+          "The protesters were dispersed by the police.",
+          "The crowd dispersed quickly after the concert ended."
+        ]
+      },
+      {
+        "id": "g17w57",
+        "word": "displacing",
+        "meaning": "Taking over the place, position, or role of (someone or something).",
+        "examples": [
+          "The new technology is displacing many traditional jobs.",
+          "The refugees were displaced from their homes by the war."
+        ]
+      },
+      {
+        "id": "g17w58",
+        "word": "disposition",
+        "meaning": "A person's inherent qualities of mind and character.",
+        "examples": [
+          "She has a cheerful and sunny disposition.",
+          "He had a nervous disposition and was easily worried."
+        ]
+      },
+      {
+        "id": "g17w59",
+        "word": "disprove",
+        "meaning": "To prove that (something) is false.",
+        "examples": [
+          "The new evidence disproved his alibi.",
+          "It is difficult to disprove a negative statement."
+        ]
+      },
+      {
+        "id": "g17w60",
+        "word": "disputatious",
+        "meaning": "Fond of or causing heated arguments.",
+        "examples": [
+          "He is a disputatious person who loves to argue.",
+          "The meeting was long and disputatious."
+        ]
+      }
+    ]
+  }

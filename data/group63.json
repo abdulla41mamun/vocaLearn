@@ -1,0 +1,545 @@
+{
+    "id": "group62",
+    "words": [
+      {
+        "id": "g62w1",
+        "word": "vacuous",
+        "meaning": "Having or showing a lack of thought or intelligence; mindless.",
+        "examples": [
+          "She had a vacuous smile that suggested she wasn't paying attention.",
+          "The celebrity's vacuous comments on politics were widely ridiculed."
+        ]
+      },
+      {
+        "id": "g62w2",
+        "word": "vagrant",
+        "meaning": "A person without a settled home or regular work who wanders from place to place and lives by begging.",
+        "examples": [
+          "The old vagrant slept on a park bench, covered in newspapers.",
+          "He had a vagrant lifestyle, never staying in one place for too long."
+        ]
+      },
+      {
+        "id": "g62w3",
+        "word": "vainglorious",
+        "meaning": "Excessively proud of oneself or one's achievements; boastful.",
+        "examples": [
+          "The vainglorious general took all the credit for the victory.",
+          "His vainglorious speech about his accomplishments bored everyone."
+        ]
+      },
+      {
+        "id": "g62w4",
+        "word": "valedictory",
+        "meaning": "Serving as a farewell.",
+        "examples": [
+          "He gave a valedictory speech at his retirement party.",
+          "The valedictory address at graduation was both inspiring and emotional."
+        ]
+      },
+      {
+        "id": "g62w5",
+        "word": "valiant",
+        "meaning": "Possessing or showing courage or determination.",
+        "examples": [
+          "The valiant knight rode into battle to save the princess.",
+          "She made a valiant effort to finish the race despite her injury."
+        ]
+      },
+      {
+        "id": "g62w6",
+        "word": "valor",
+        "meaning": "Great courage in the face of danger, especially in battle.",
+        "examples": [
+          "The soldier was awarded a medal for his valor.",
+          "She showed great valor in defending her beliefs."
+        ]
+      },
+      {
+        "id": "g62w7",
+        "word": "vanguard",
+        "meaning": "A group of people leading the way in new developments or ideas.",
+        "examples": [
+          "The company is in the vanguard of technological innovation.",
+          "She was a member of the artistic vanguard, pushing the boundaries of traditional art."
+        ]
+      },
+      {
+        "id": "g62w8",
+        "word": "vanity",
+        "meaning": "Excessive pride in or admiration of one's own appearance or achievements.",
+        "examples": [
+          "Her vanity was her undoing, as she cared more about her looks than anything else.",
+          "He bought the expensive car out of pure vanity."
+        ]
+      },
+      {
+        "id": "g62w9",
+        "word": "vanquish",
+        "meaning": "To defeat thoroughly.",
+        "examples": [
+          "The hero's quest was to vanquish the evil dragon.",
+          "She was determined to vanquish her fears and climb the mountain."
+        ]
+      },
+      {
+        "id": "g62w10",
+        "word": "vanquished",
+        "meaning": "Defeated thoroughly.",
+        "examples": [
+          "The vanquished army surrendered to the victorious general.",
+          "He felt vanquished and defeated after losing the election."
+        ]
+      },
+      {
+        "id": "g62w11",
+        "word": "vapid",
+        "meaning": "Offering nothing that is stimulating or challenging.",
+        "examples": [
+          "The conversation was vapid and uninteresting.",
+          "His vapid personality made him a boring companion."
+        ]
+      },
+      {
+        "id": "g62w12",
+        "word": "variance",
+        "meaning": "The fact or quality of being different, divergent, or inconsistent.",
+        "examples": [
+          "There was a significant variance between the two eyewitness accounts.",
+          "The results of the experiment showed a high degree of variance."
+        ]
+      },
+      {
+        "id": "g62w13",
+        "word": "variegated",
+        "meaning": "Exhibiting different colors, especially as irregular patches or streaks.",
+        "examples": [
+          "The variegated leaves of the plant were beautiful and unusual.",
+          "The country has a variegated culture, with influences from many different traditions."
+        ]
+      },
+      {
+        "id": "g62w14",
+        "word": "varnish",
+        "meaning": "Resin dissolved in a liquid for applying on wood, metal, or other materials to form a hard, clear, shiny surface when dry.",
+        "examples": [
+          "He applied a coat of varnish to the wooden table to protect it.",
+          "Her politeness was just a varnish for her true feelings of contempt."
+        ]
+      },
+      {
+        "id": "g62w15",
+        "word": "vaunt",
+        "meaning": "To boast about or praise (something), especially excessively.",
+        "examples": [
+          "He would often vaunt his own accomplishments, much to the annoyance of others.",
+          "The company vaunted its new product as the best on the market."
+        ]
+       },
+      {
+        "id": "g62w16",
+        "word": "vaunted",
+        "meaning": "Praised or boasted about, especially in an excessive way.",
+        "examples": [
+          "The team's vaunted defense was unable to stop the opposing offense.",
+          "His vaunted intelligence did not prevent him from making a foolish mistake."
+        ]
+      },
+      {
+        "id": "g62w17",
+        "word": "vehemence",
+        "meaning": "The display of strong feeling; passion.",
+        "examples": [
+          "She argued with great vehemence for her cause.",
+          "The vehemence of his denial was surprising."
+        ]
+      },
+      {
+        "id": "g62w18",
+        "word": "vehement",
+        "meaning": "Showing strong feeling; forceful, passionate, or intense.",
+        "examples": [
+          "He was a vehement opponent of the new law.",
+          "She made a vehement and emotional plea for help."
+        ]
+      },
+      {
+        "id": "g62w19",
+        "word": "vehemently",
+        "meaning": "In a forceful, passionate, or intense manner; with great feeling.",
+        "examples": [
+          "He vehemently denied any involvement in the crime.",
+          "She argued vehemently against the proposal."
+        ]
+      },
+      {
+        "id": "g62w20",
+        "word": "venal",
+        "meaning": "Showing or motivated by susceptibility to bribery.",
+        "examples": [
+          "The venal politician was willing to sell his vote to the highest bidder.",
+          "He was a venal and corrupt official."
+        ]
+      },
+      {
+        "id": "g62w21",
+        "word": "venality",
+        "meaning": "The quality of being venal; susceptibility to bribery.",
+        "examples": [
+          "The venality of the government officials was a major problem.",
+          "He was disgusted by the venality and corruption he saw in the city."
+        ]
+      },
+      {
+        "id": "g62w22",
+        "word": "vendetta",
+        "meaning": "A blood feud in which the family of a murdered person seeks vengeance on the murderer or the murderer's family.",
+        "examples": [
+          "The two families had a long-standing vendetta that had lasted for generations.",
+          "He had a personal vendetta against his former boss."
+        ]
+      },
+      {
+        "id": "g62w23",
+        "word": "veneer",
+        "meaning": "A thin decorative covering of fine wood applied to a coarser wood or other material.",
+        "examples": [
+          "The table was made of cheap wood with a mahogany veneer.",
+          "Her politeness was just a veneer for her true feelings of anger."
+        ]
+      },
+      {
+        "id": "g62w24",
+        "word": "venerable",
+        "meaning": "Accorded a great deal of respect, especially because of age, wisdom, or character.",
+        "examples": [
+          "The venerable old professor was a respected expert in his field.",
+          "The venerable institution has been in existence for over 200 years."
+        ]
+      },
+      {
+        "id": "g62w25",
+        "word": "venerate",
+        "meaning": "To regard with great respect; revere.",
+        "examples": [
+          "The ancient Egyptians would venerate their pharaohs as living gods.",
+          "She venerated her grandmother for her wisdom and kindness."
+        ]
+      },
+      {
+        "id": "g62w26",
+        "word": "venerated",
+        "meaning": "Regarded with great respect; revered.",
+        "examples": [
+          "The venerated leader was a symbol of hope for his people.",
+          "She was a venerated and beloved teacher."
+        ]
+      },
+      {
+        "id": "g62w27",
+        "word": "veneration",
+        "meaning": "Great respect; reverence.",
+        "examples": [
+          "He held his parents in deep veneration.",
+          "The ancient monument was a site of veneration for the local people."
+        ]
+      },
+      {
+        "id": "g62w28",
+        "word": "venial",
+        "meaning": "(of a fault or offense) slight and pardonable.",
+        "examples": [
+          "His white lie was a venial sin, easily forgiven.",
+          "The judge considered the offense to be venial and gave him a light sentence."
+        ]
+      },
+      {
+        "id": "g62w29",
+        "word": "venom",
+        "meaning": "A poisonous substance secreted by animals such as snakes, spiders, and scorpions and typically injected into prey or aggressors by biting or stinging.",
+        "examples": [
+          "The snake's venom is highly toxic.",
+          "Her words were full of venom and hatred."
+        ]
+      },
+      {
+        "id": "g62w30",
+        "word": "veracious",
+        "meaning": "Speaking or representing the truth.",
+        "examples": [
+          "He was a veracious and trustworthy witness.",
+          "She gave a veracious account of the events."
+        ]
+      },
+      {
+        "id": "g62w31",
+        "word": "veracity",
+        "meaning": "Conformity to facts; accuracy.",
+        "examples": [
+          "The police doubted the veracity of his statement.",
+          "The journalist was known for her veracity and integrity."
+        ]
+      },
+      {
+        "id": "g62w32",
+        "word": "verbatim",
+        "meaning": "In exactly the same words as were used originally.",
+        "examples": [
+          "She quoted the speech verbatim.",
+          "The witness repeated the conversation verbatim."
+        ]
+      },
+      {
+        "id": "g62w33",
+        "word": "verbose",
+        "meaning": "Using or expressed in more words than are needed.",
+        "examples": [
+          "His verbose and rambling speech bored the audience.",
+          "She was a verbose writer who often used unnecessary words."
+        ]
+      },
+      {
+        "id": "g62w34",
+        "word": "verboten",
+        "meaning": "Forbidden, especially by an authority.",
+        "examples": [
+          "It is verboten to smoke in this building.",
+          "His parents had a long list of verboten activities."
+        ]
+      },
+      {
+        "id": "g62w35",
+        "word": "verdant",
+        "meaning": "(of countryside) green with grass or other rich vegetation.",
+        "examples": [
+          "The verdant hills of Ireland were a beautiful sight.",
+          "The valley was a verdant and fertile land."
+        ]
+      },
+      {
+        "id": "g62w36",
+        "word": "verisimilitude",
+        "meaning": "The appearance of being true or real.",
+        "examples": [
+          "The novel was praised for its verisimilitude and realistic characters.",
+          "The film's attention to historical detail gave it a sense of verisimilitude."
+        ]
+      },
+      {
+        "id": "g62w37",
+        "word": "veritable",
+        "meaning": "Used as an intensifier, often to qualify a metaphor.",
+        "examples": [
+          "The party was a veritable feast, with food and drink of every kind.",
+          "He was a veritable giant of a man."
+        ]
+      },
+      {
+        "id": "g62w38",
+        "word": "vernacular",
+        "meaning": "The language or dialect spoken by the ordinary people in a particular country or region.",
+        "examples": [
+          "He wrote in the vernacular to make his work accessible to a wider audience.",
+          "The architect used a vernacular style of building that was in harmony with the local environment."
+        ]
+      },
+      {
+        "id": "g62w39",
+        "word": "vernal",
+        "meaning": "Of, in, or appropriate to spring.",
+        "examples": [
+          "The vernal equinox marks the beginning of spring.",
+          "The vernal flowers were in full bloom."
+        ]
+      },
+      {
+        "id": "g62w40",
+        "word": "versatile",
+        "meaning": "Able to adapt or be adapted to many different functions or activities.",
+        "examples": [
+          "She is a versatile actress who can play both comedic and dramatic roles.",
+          "The new smartphone is a versatile device with many features."
+        ]
+      },
+      {
+        "id": "g62w41",
+        "word": "vertiginous",
+        "meaning": "Causing vertigo, especially by being extremely high or steep.",
+        "examples": [
+          "The vertiginous cliffs were a challenge for even the most experienced climbers.",
+          "He felt a vertiginous sensation as he looked down from the top of the skyscraper."
+        ]
+      },
+      {
+        "id": "g62w42",
+        "word": "vertigo",
+        "meaning": "A sensation of whirling and loss of balance, associated particularly with looking down from a great height, or caused by disease affecting the inner ear or the vestibular nerve; giddiness.",
+        "examples": [
+          "She suffers from vertigo and cannot go on high rides at the amusement park.",
+          "He felt a sudden attack of vertigo and had to sit down."
+        ]
+      },
+      {
+        "id": "g62w43",
+        "word": "verve",
+        "meaning": "Vigor and spirit or enthusiasm.",
+        "examples": [
+          "She played the piano with great verve and passion.",
+          "The young dancer was full of verve and energy."
+        ]
+      },
+      {
+        "id": "g62w44",
+        "word": "vestige",
+        "meaning": "A trace of something that is disappearing or no longer exists.",
+        "examples": [
+          "The abandoned castle was the last vestige of a once-great kingdom.",
+          "There was not a vestige of hope left in her heart."
+        ]
+      },
+      {
+        "id": "g62w45",
+        "word": "vex",
+        "meaning": "To make (someone) feel annoyed, frustrated, or worried, especially with trivial matters.",
+        "examples": [
+          "His constant questions began to vex her.",
+          "The problem of what to do next vexed him for days."
+        ]
+      },
+      {
+        "id": "g62w46",
+        "word": "vexation",
+        "meaning": "The state of being annoyed, frustrated, or worried.",
+        "examples": [
+          "She stamped her foot in vexation.",
+          "He could not hide his vexation at the delay."
+        ]
+      },
+      {
+        "id": "g62w47",
+        "word": "vexatious",
+        "meaning": "Causing or tending to cause annoyance, frustration, or worry.",
+        "examples": [
+          "The vexatious lawsuit was dismissed by the judge.",
+          "He had to deal with a series of vexatious and time-consuming problems."
+        ]
+      },
+      {
+        "id": "g62w48",
+        "word": "via",
+        "meaning": "By way of; through.",
+        "examples": [
+          "We traveled to Paris via London.",
+          "He sent the message via email."
+        ]
+      },
+      {
+        "id": "g62w49",
+        "word": "viable",
+        "meaning": "Capable of working successfully; feasible.",
+        "examples": [
+          "The business plan was not financially viable.",
+          "We need to find a viable solution to this problem."
+        ]
+      },
+      {
+        "id": "g62w50",
+        "word": "vicarious",
+        "meaning": "Experienced in the imagination through the feelings or actions of another person.",
+        "examples": [
+          "She took a vicarious pleasure in her friend's travels.",
+          "He got a vicarious thrill from watching action movies."
+        ]
+      },
+      {
+        "id": "g62w51",
+        "word": "vicious",
+        "meaning": "Deliberately cruel or violent.",
+        "examples": [
+          "The vicious dog attacked the small child.",
+          "She was the victim of a vicious rumor campaign."
+        ]
+      },
+      {
+        "id": "g62w52",
+        "word": "vicissitudes",
+        "meaning": "A change of circumstances or fortune, typically one that is unwelcome or unpleasant.",
+        "examples": [
+          "The family had to endure the vicissitudes of war.",
+          "He had experienced the many vicissitudes of life."
+        ]
+      },
+      {
+        "id": "g62w53",
+        "word": "vie",
+        "meaning": "To compete eagerly with someone in order to do or achieve something.",
+        "examples": [
+          "The two athletes were vying for the gold medal.",
+          "The two companies are vying for control of the market."
+        ]
+      },
+      {
+        "id": "g62w54",
+        "word": "vigil",
+        "meaning": "A period of keeping awake during the time usually spent asleep, especially to keep watch or pray.",
+        "examples": [
+          "The family kept a vigil by his bedside.",
+          "A candlelight vigil was held to remember the victims of the tragedy."
+        ]
+      },
+      {
+        "id": "g62w55",
+        "word": "vigilance",
+        "meaning": "The action or state of keeping careful watch for possible danger or difficulties.",
+        "examples": [
+          "Constant vigilance is needed to prevent accidents.",
+          "The security guards maintained their vigilance throughout the night."
+        ]
+      },
+      {
+        "id": "g62w56",
+        "word": "vigilant",
+        "meaning": "Keeping careful watch for possible danger or difficulties.",
+        "examples": [
+          "The vigilant watchman spotted the intruder.",
+          "We must be vigilant in our efforts to combat terrorism."
+        ]
+      },
+      {
+        "id": "g62w57",
+        "word": "vigor",
+        "meaning": "Physical strength and good health.",
+        "examples": [
+          "He was a man of great vigor and vitality.",
+          "She tackled the task with renewed vigor."
+        ]
+      },
+      {
+        "id": "g62w58",
+        "word": "vilify",
+        "meaning": "To speak or write about in an abusively disparaging manner.",
+        "examples": [
+          "The politician was vilified in the press for his controversial remarks.",
+          "She was vilified by her former friends after she betrayed their trust."
+        ]
+      },
+      {
+        "id": "g62w59",
+        "word": "vim",
+        "meaning": "Energy; enthusiasm.",
+        "examples": [
+          "She was full of vim and vigor, ready to take on any challenge.",
+          "He tackled his work with great vim and determination."
+        ]
+      },
+      {
+        "id": "g62w60",
+        "word": "vindicate",
+        "meaning": "To clear (someone) of blame or suspicion.",
+        "examples": [
+          "The new evidence vindicated him completely.",
+          "She was determined to vindicate her name and prove her innocence."
+        ]
+      }
+    ]
+  }

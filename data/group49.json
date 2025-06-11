@@ -1,0 +1,548 @@
+{
+    "id": "group49",
+    "words": [
+      {
+        "id": "g49w1",
+        "word": "rash",
+        "meaning": "Acting or done without careful consideration of the possible consequences; impetuous.",
+        "examples": [
+          "It was a rash decision to quit his job without a backup plan.",
+          "Don't make any rash judgments based on limited information."
+        ]
+      },
+      {
+        "id": "g49w2",
+        "word": "rational",
+        "meaning": "Based on or in accordance with reason or logic.",
+        "examples": [
+          "Humans are generally considered to be rational beings.",
+          "She made a rational choice despite her emotional distress."
+        ]
+      },
+      {
+        "id": "g49w3",
+        "word": "rationale",
+        "meaning": "A set of reasons or a logical basis for a course of action or belief.",
+        "examples": [
+          "The rationale behind the new policy was explained in detail.",
+          "He struggled to understand the rationale for her sudden change of plans."
+        ]
+      },
+      {
+        "id": "g49w4",
+        "word": "rationalize",
+        "meaning": "To attempt to explain or justify (behavior or an attitude) with plausible reasons, even if these are not true or appropriate.",
+        "examples": [
+          "He tried to rationalize his laziness by blaming external factors.",
+          "People often rationalize their bad habits to feel better about themselves."
+        ]
+      },
+      {
+        "id": "g49w5",
+        "word": "raucous",
+        "meaning": "Making or constituting a disturbingly harsh and loud noise.",
+        "examples": [
+          "The raucous laughter from the party kept the neighbors awake.",
+          "A flock of raucous crows settled on the power lines."
+        ]
+      },
+      {
+        "id": "g49w6",
+        "word": "ravage",
+        "meaning": "To cause severe and extensive damage to.",
+        "examples": [
+          "The wildfire ravaged the forest, leaving widespread destruction.",
+          "The disease can ravage a person's immune system."
+        ]
+      },
+      {
+        "id": "g49w7",
+        "word": "ravenous",
+        "meaning": "Extremely hungry. (Of a desire or need) very great; insatiable.",
+        "examples": [
+          "After the long hike, he was absolutely ravenous.",
+          "She had a ravenous appetite for knowledge."
+        ]
+      },
+      {
+        "id": "g49w8",
+        "word": "raze",
+        "meaning": "To completely destroy (a building, town, or other site).",
+        "examples": [
+          "The old factory was razed to make way for new apartments.",
+          "Enemy forces attempted to raze the ancient city to the ground."
+        ]
+      },
+      {
+        "id": "g49w9",
+        "word": "reactant",
+        "meaning": "A substance that takes part in and undergoes change during a reaction.",
+        "examples": [
+          "In this chemical reaction, oxygen is one of the reactants.",
+          "The experiment involved combining several different reactants."
+        ]
+      },
+      {
+        "id": "g49w10",
+        "word": "readily",
+        "meaning": "Without hesitation or difficulty; willingly.",
+        "examples": [
+          "She readily agreed to help with the project.",
+          "The information is readily available online."
+        ]
+      },
+      {
+        "id": "g49w11",
+        "word": "realization",
+        "meaning": "The fulfillment or achievement of something desired or anticipated. An act of becoming aware of something.",
+        "examples": [
+          "The realization of his dream brought him immense joy.",
+          "A sudden realization dawned on her as she recalled the events."
+        ]
+      },
+      {
+        "id": "g49w12",
+        "word": "realm",
+        "meaning": "A kingdom. A field or domain of activity or interest.",
+        "examples": [
+          "The king ruled over a vast and prosperous realm.",
+          "His expertise lies in the realm of quantum physics."
+        ]
+      },
+      {
+        "id": "g49w13",
+        "word": "reap",
+        "meaning": "To cut or gather (a crop or harvest). To receive (a reward or benefit) as a consequence of one's own or other people's actions.",
+        "examples": [
+          "Farmers will soon reap the wheat harvest.",
+          "You reap what you sow, both good and bad."
+        ]
+      },
+      {
+        "id": "g49w14",
+        "word": "rebuke",
+        "meaning": "To express sharp disapproval or criticism of (someone) because of their behavior or actions.",
+        "examples": [
+          "The teacher rebuked the student for cheating on the exam.",
+          "He received a stern rebuke from his parents for his disrespectful attitude."
+        ]
+      },
+      {
+        "id": "g49w15",
+        "word": "rebus",
+        "meaning": "A puzzle in which words are represented by combinations of pictures and individual letters; for example, 'hear' might be represented by a picture of an ear.",
+        "examples": [
+          "The children enjoyed solving the simple rebus puzzles.",
+          "The secret message was disguised as a complex rebus."
+        ]
+      },
+      {
+        "id": "g49w16",
+        "word": "rebut",
+        "meaning": "To prove (a statement or theory) to be wrong or false. To refute (a charge or accusation).",
+        "examples": [
+          "He attempted to rebut the accusations made against him.",
+          "The lawyer presented evidence to rebut the prosecution's claims."
+        ]
+      },
+      {
+        "id": "g49w17",
+        "word": "rebuttal",
+        "meaning": "A refutation or contradiction.",
+        "examples": [
+          "Her strong rebuttal effectively countered his arguments.",
+          "The debate concluded with a fiery rebuttal from the opposing team."
+        ]
+      },
+      {
+        "id": "g49w18",
+        "word": "recalcitrant",
+        "meaning": "Having an obstinately uncooperative attitude toward authority or discipline.",
+        "examples": [
+          "The recalcitrant student refused to follow the school rules.",
+          "Managing the recalcitrant employees proved to be a difficult task."
+        ]
+      },
+      {
+        "id": "g49w19",
+        "word": "recant",
+        "meaning": "To say that one no longer holds an opinion or belief, especially one previously publicly expressed.",
+        "examples": [
+          "He was forced to recant his controversial statements under pressure.",
+          "Despite threats, she refused to recant her testimony."
+        ]
+      },
+      {
+        "id": "g49w20",
+        "word": "recapitulate",
+        "meaning": "To summarize and state again the main points of.",
+        "examples": [
+          "Let me recapitulate the key findings of the report.",
+          "The professor began by recapitulating the previous lecture's content."
+        ]
+      },
+      {
+        "id": "g49w21",
+        "word": "recapitulated",
+        "meaning": "Summarized and stated again the main points of.",
+        "examples": [
+          "He briefly recapitulated the arguments before the conclusion.",
+          "The speaker recapitulated the main goals of the project."
+        ]
+      },
+      {
+        "id": "g49w22",
+        "word": "recapitulation",
+        "meaning": "The action of summarizing and restating the main points of something.",
+        "examples": [
+          "The report included a recapitulation of the most important data.",
+          "His brief recapitulation helped clarify the complex issue."
+        ]
+      },
+      {
+        "id": "g49w23",
+        "word": "recede",
+        "meaning": "To go or move back or further away from a previous position. (Of a quality, feeling, or possibility) gradually diminish.",
+        "examples": [
+          "The floodwaters slowly began to recede.",
+          "His anger receded as he understood the situation better."
+        ]
+      },
+      {
+        "id": "g49w24",
+        "word": "recidivism",
+        "meaning": "The tendency of a convicted criminal to reoffend.",
+        "examples": [
+          "Programs aimed at reducing recidivism are crucial for rehabilitation.",
+          "High rates of recidivism indicate failures in the justice system."
+        ]
+      },
+      {
+        "id": "g49w25",
+        "word": "recidivist",
+        "meaning": "A convicted criminal who reoffends, especially repeatedly.",
+        "examples": [
+          "The court identified him as a habitual recidivist.",
+          "Special rehabilitation programs are designed for recidivists."
+        ]
+      },
+      {
+        "id": "g49w26",
+        "word": "reciprocal",
+        "meaning": "Given, felt, or done in return. (Of an agreement or arrangement) involving mutual action or corresponding adjustment.",
+        "examples": [
+          "They shared a reciprocal admiration for each other's work.",
+          "The two countries established a reciprocal trade agreement."
+        ]
+      },
+      {
+        "id": "g49w27",
+        "word": "reckless",
+        "meaning": "Heedless of danger or the consequences of one's actions; rash or impetuous.",
+        "examples": [
+          "His reckless driving led to the accident.",
+          "Making a reckless investment can lead to significant financial loss."
+        ]
+      },
+      {
+        "id": "g49w28",
+        "word": "recluse",
+        "meaning": "A person who lives a solitary life and tends to avoid other people.",
+        "examples": [
+          "After his wife's death, he became a recluse, rarely leaving his home.",
+          "The famous author lived as a recluse, shunning public appearances."
+        ]
+      },
+      {
+        "id": "g49w29",
+        "word": "reclusive",
+        "meaning": "Avoiding the company of other people; solitary.",
+        "examples": [
+          "She lived a reclusive life in a secluded cabin in the woods.",
+          "His reclusive nature made it difficult for him to form close relationships."
+        ]
+      },
+      {
+        "id": "g49w30",
+        "word": "recoil",
+        "meaning": "To suddenly spring or flinch back in fear, horror, or disgust.",
+        "examples": [
+          "She recoiled in horror at the sight of the spider.",
+          "The gun recoiled violently after being fired."
+        ]
+      },
+      {
+        "id": "g49w31",
+        "word": "recompense",
+        "meaning": "Compensation or reward given for loss or harm suffered or effort made.",
+        "examples": [
+          "He received fair recompense for his hard work.",
+          "The company offered recompense to customers affected by the faulty product."
+        ]
+      },
+      {
+        "id": "g49w32",
+        "word": "reconcile",
+        "meaning": "To restore friendly relations between. To make (one thing) compatible with another.",
+        "examples": [
+          "It was difficult to reconcile their differences after the argument.",
+          "She struggled to reconcile her faith with scientific discoveries."
+        ]
+      },
+      {
+        "id": "g49w33",
+        "word": "reconciliation",
+        "meaning": "The restoration of friendly relations. The action of making one view or belief compatible with another.",
+        "examples": [
+          "The couple sought reconciliation after their separation.",
+          "Achieving reconciliation between the two warring factions was a long process."
+        ]
+      },
+      {
+        "id": "g49w34",
+        "word": "recondite",
+        "meaning": "Dealing with a very profound, difficult, or abstruse subject. (Of a subject or knowledge) little known; abstruse.",
+        "examples": [
+          "The book was filled with recondite philosophical concepts.",
+          "He enjoyed delving into the recondite theories of ancient cosmology."
+        ]
+      },
+      {
+        "id": "g49w35",
+        "word": "reconnaissance",
+        "meaning": "Military observation of a region to locate an enemy or ascertain strategic features. Preliminary surveying or research.",
+        "examples": [
+          "The helicopter conducted a reconnaissance mission over enemy territory.",
+          "We need to perform some reconnaissance before making a final decision."
+        ]
+      },
+      {
+        "id": "g49w36",
+        "word": "reconnoiter",
+        "meaning": "To make a military observation of (a region) to locate an enemy or ascertain strategic features. To make a preliminary inspection or survey of (an area).",
+        "examples": [
+          "The scouts were sent to reconnoiter the enemy's positions.",
+          "We went ahead to reconnoiter the hiking trail."
+        ]
+      },
+      {
+        "id": "g49w37",
+        "word": "recourse",
+        "meaning": "A source of help or information resorted to in a difficult situation. The legal right to demand compensation or payment.",
+        "examples": [
+          "She had no recourse but to accept the unfair terms.",
+          "The consumer had no legal recourse against the dishonest company."
+        ]
+      },
+      {
+        "id": "g49w38",
+        "word": "recrimination",
+        "meaning": "An accusation in response to one from someone else.",
+        "examples": [
+          "The meeting quickly descended into a series of bitter recriminations.",
+          "Instead of solving the problem, they engaged in endless recrimination."
+        ]
+      },
+      {
+        "id": "g49w39",
+        "word": "rectify",
+        "meaning": "To put (something) right; correct.",
+        "examples": [
+          "He tried to rectify the error in his calculations.",
+          "The company promised to rectify the issue with the faulty product."
+        ]
+      },
+      {
+        "id": "g49w40",
+        "word": "rectitude",
+        "meaning": "Morally correct behavior or thinking; righteousness.",
+        "examples": [
+          "He was a man of unwavering rectitude and integrity.",
+          "Her professional rectitude was never questioned."
+        ]
+      },
+      {
+        "id": "g49w41",
+        "word": "recumbent",
+        "meaning": "Lying down.",
+        "examples": [
+          "The patient remained in a recumbent position after the surgery.",
+          "She enjoyed reading in a comfortable recumbent chair."
+        ]
+      },
+      {
+        "id": "g49w42",
+        "word": "red-letter day",
+        "meaning": "A day that is memorable because of some important or happy event.",
+        "examples": [
+          "His graduation was a red-letter day for the entire family.",
+          "The signing of the peace treaty was a red-letter day in history."
+        ]
+      },
+      {
+        "id": "g49w43",
+        "word": "redeem",
+        "meaning": "To compensate for the faults or bad aspects of (something). To gain or regain possession of (something) in exchange for payment.",
+        "examples": [
+          "His selfless act helped to redeem his reputation.",
+          "She redeemed the gift voucher for a new book."
+        ]
+      },
+      {
+        "id": "g49w44",
+        "word": "redolent",
+        "meaning": "Strongly reminiscent or suggestive of (something). Strongly smelling of something.",
+        "examples": [
+          "The old house was redolent of childhood memories.",
+          "The kitchen was redolent with the aroma of freshly baked bread."
+        ]
+      },
+      {
+        "id": "g49w45",
+        "word": "redouble",
+        "meaning": "To make much greater, more intense, or more numerous.",
+        "examples": [
+          "They had to redouble their efforts to meet the deadline.",
+          "He redoubled his pace to catch up with the others."
+        ]
+      },
+      {
+        "id": "g49w46",
+        "word": "redoubtable",
+        "meaning": "(Of a person) formidable, especially as an opponent.",
+        "examples": [
+          "The redoubtable detective was known for solving the most complex cases.",
+          "She proved to be a redoubtable opponent in the chess championship."
+        ]
+      },
+      {
+        "id": "g49w47",
+        "word": "redound",
+        "meaning": "To contribute greatly to (a person's honor or credit).",
+        "examples": [
+          "His selfless actions redounded to the benefit of the entire community.",
+          "The success of the project will redound to the credit of the whole team."
+        ]
+      },
+      {
+        "id": "g49w48",
+        "word": "redress",
+        "meaning": "To remedy or set right (an undesirable or unfair situation).",
+        "examples": [
+          "The government sought to redress the injustices of the past.",
+          "He demanded redress for the damage caused to his property."
+        ]
+      },
+      {
+        "id": "g49w49",
+        "word": "reductive",
+        "meaning": "Tending to present a subject or problem in a simplified way, especially one that distorts or undervalues its complexity.",
+        "examples": [
+          "Her analysis was criticized for being overly reductive.",
+          "A reductive approach to history often overlooks important nuances."
+        ]
+      },
+      {
+        "id": "g49w50",
+        "word": "redundant",
+        "meaning": "Not or no longer needed or useful; superfluous. (Of a person) no longer employed because there is no more work available.",
+        "examples": [
+          "The extra paragraph in the essay was completely redundant.",
+          "Many workers were made redundant when the factory closed."
+        ]
+      },
+      {
+        "id": "g49w51",
+        "word": "refine",
+        "meaning": "To remove impurities or unwanted elements from (a substance), typically as part of a process. To improve (something) by making small changes, in particular to make it more subtle and precise.",
+        "examples": [
+          "The crude oil was refined into gasoline and other products.",
+          "He spent years refining his writing style."
+        ]
+      },
+      {
+        "id": "g49w52",
+        "word": "refracted",
+        "meaning": "(Of water, air, or glass) made (a ray of light) change direction when it enters at an angle.",
+        "examples": [
+          "The prism refracted the sunlight into a rainbow of colors.",
+          "Light was refracted as it passed through the water."
+        ]
+      },
+      {
+        "id": "g49w53",
+        "word": "refractory",
+        "meaning": "Stubborn or unmanageable. Resistant to a process or stimulus.",
+        "examples": [
+          "The refractory child refused to obey his parents.",
+          "Some bacteria are refractory to certain antibiotics."
+        ]
+      },
+      {
+        "id": "g49w54",
+        "word": "refurbish",
+        "meaning": "To renovate and redecorate (something, especially a building).",
+        "examples": [
+          "They decided to refurbish their old kitchen rather than replace it.",
+          "The hotel underwent a major refurbishment to attract new guests."
+        ]
+      },
+      {
+        "id": "g49w55",
+        "word": "refute",
+        "meaning": "To prove (a statement or theory) to be wrong or false; disprove.",
+        "examples": [
+          "She was able to refute all the accusations against her.",
+          "The scientist published an article to refute the opposing theory."
+        ]
+      },
+      {
+        "id": "g49w56",
+        "word": "regale",
+        "meaning": "To entertain or amuse (someone) with talk.",
+        "examples": [
+          "He regaled his friends with stories of his travels.",
+          "The comedian regaled the audience with hilarious anecdotes."
+        ]
+      },
+      {
+        "id": "g49w57",
+        "word": "regimen",
+        "meaning": "A set of rules about food and exercise for reasons of health.",
+        "examples": [
+          "He followed a strict exercise regimen to stay fit.",
+          "The doctor prescribed a new dietary regimen for her patient."
+        ]
+      },
+      {
+        "id": "g49w58",
+        "word": "regress",
+        "meaning": "To return to a former or less developed state.",
+        "examples": [
+          "After a period of improvement, his condition began to regress.",
+          "The negotiation process seemed to regress rather than progress."
+        ]
+      },
+      {
+        "id": "g49w59",
+        "word": "reinstate",
+        "meaning": "To restore (someone or something) to their former position or state.",
+        "examples": [
+          "The company decided to reinstate the laid-off employees.",
+          "After a thorough review, his driver's license was reinstated."
+        ]
+      },
+      {
+        "id": "g49w60",
+        "word": "reiterate",
+        "meaning": "To say something again or a number of times, typically for emphasis or clarity.",
+        "examples": [
+          "Let me reiterate my main point: we must focus on customer satisfaction.",
+          "The teacher had to reiterate the instructions several times."
+        ]
+      }
+    ]
+  }
+  
+  
+  

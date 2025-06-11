@@ -1,0 +1,548 @@
+{
+    "id": "group14",
+    "words": [
+      {
+        "id": "g14w1",
+        "word": "crockery",
+        "meaning": "Plates, dishes, cups, and other similar items, especially ones made of earthenware or china.",
+        "examples": [
+          "She carefully washed the fine crockery after the dinner party.",
+          "The shelves were filled with stacks of clean crockery."
+        ]
+      },
+      {
+        "id": "g14w2",
+        "word": "crocodile tears",
+        "meaning": "Tears or expressions of sorrow that are insincere.",
+        "examples": [
+          "She shed crocodile tears over the loss of her rival.",
+          "He offered his apologies, but they were just crocodile tears."
+        ]
+      },
+      {
+        "id": "g14w3",
+        "word": "croon",
+        "meaning": "To hum or sing in a soft, low voice, especially in a sentimental manner.",
+        "examples": [
+          "She would croon a lullaby to her baby to help him sleep.",
+          "The singer was known for his ability to croon romantic ballads."
+        ]
+      },
+      {
+        "id": "g14w4",
+        "word": "cryptic",
+        "meaning": "Having a meaning that is mysterious or obscure.",
+        "examples": [
+          "He received a cryptic message through the mail.",
+          "The ancient inscriptions were cryptic and difficult to decipher."
+        ]
+      },
+      {
+        "id": "g14w5",
+        "word": "crystallize",
+        "meaning": "To make or become definite and clear.",
+        "examples": [
+          "Her vague ideas began to crystallize into a solid plan.",
+          "The meeting helped to crystallize our goals for the project."
+        ]
+      },
+      {
+        "id": "g14w6",
+        "word": "cull",
+        "meaning": "To select from a large quantity; to obtain from a variety of sources.",
+        "examples": [
+          "The best essays were culled from a large number of submissions.",
+          "The park service had to cull the deer population to prevent overgrazing."
+        ]
+      },
+      {
+        "id": "g14w7",
+        "word": "culminate",
+        "meaning": "To reach a climax or point of highest development.",
+        "examples": [
+          "The festival will culminate in a spectacular fireworks display.",
+          "Months of hard work culminated in their successful product launch."
+        ]
+      },
+      {
+        "id": "g14w8",
+        "word": "culpability",
+        "meaning": "Responsibility for a fault or wrong; blame.",
+        "examples": [
+          "The investigation will determine the culpability of each party involved.",
+          "He denied any culpability for the accident."
+        ]
+      },
+      {
+        "id": "g14w9",
+        "word": "culpable",
+        "meaning": "Deserving blame.",
+        "examples": [
+          "The driver was found to be culpable for the accident.",
+          "Both parties were culpable to some extent."
+        ]
+      },
+      {
+        "id": "g14w10",
+        "word": "culprit",
+        "meaning": "A person who is responsible for a crime or other misdeed.",
+        "examples": [
+          "The police are still searching for the culprit.",
+          "Lack of sleep is the main culprit for his poor performance."
+        ]
+      },
+      {
+        "id": "g14w11",
+        "word": "cultured",
+        "meaning": "Characterized by good education, taste, and manners.",
+        "examples": [
+          "He was a cultured man who spoke five languages and loved opera.",
+          "She came from a wealthy and cultured family."
+        ]
+      },
+      {
+        "id": "g14w12",
+        "word": "cumbersome",
+        "meaning": "Large or heavy and therefore difficult to carry or use; unwieldy.",
+        "examples": [
+          "The old computer was cumbersome and slow.",
+          "The application process is cumbersome and time-consuming."
+        ]
+      },
+      {
+        "id": "g14w13",
+        "word": "cumulative",
+        "meaning": "Increasing or increasing in quantity, degree, or force by successive additions.",
+        "examples": [
+          "The cumulative effect of all the small errors was a major disaster.",
+          "Your final grade is based on the cumulative score of all exams."
+        ]
+      },
+      {
+        "id": "g14w14",
+        "word": "cunning",
+        "meaning": "Having or showing skill in achieving one's ends by deceit or evasion.",
+        "examples": [
+          "He was as cunning as a fox.",
+          "She used her cunning to outwit her opponents."
+        ]
+      },
+      {
+        "id": "g14w15",
+        "word": "cupidity",
+        "meaning": "Greed for money or possessions.",
+        "examples": [
+          "The cupidity of the bankers led to the financial crisis.",
+          "He was blinded by his own cupidity."
+        ]
+      },
+      {
+        "id": "g14w16",
+        "word": "curb",
+        "meaning": "To restrain or keep in check.",
+        "examples": [
+          "The new law is intended to curb illegal immigration.",
+          "You need to learn to curb your temper."
+        ]
+      },
+      {
+        "id": "g14w17",
+        "word": "curmudgeon",
+        "meaning": "A bad-tempered or surly person.",
+        "examples": [
+          "My neighbor is a curmudgeon who is always complaining about something.",
+          "Don't be such a curmudgeon and come to the party."
+        ]
+      },
+      {
+        "id": "g14w18",
+        "word": "curry",
+        "meaning": "To seek to gain favor by flattery or attention.",
+        "examples": [
+          "He was always trying to curry favor with the boss.",
+          "She curried favor with the teacher by offering to do extra work."
+        ]
+      },
+      {
+        "id": "g14w19",
+        "word": "cursory",
+        "meaning": "Hasty and therefore not thorough or detailed.",
+        "examples": [
+          "He gave the report a cursory glance before signing it.",
+          "A cursory inspection of the car revealed several problems."
+        ]
+      },
+      {
+        "id": "g14w20",
+        "word": "curtail",
+        "meaning": "To reduce in extent or quantity; impose a restriction on.",
+        "examples": [
+          "We had to curtail our vacation due to the bad weather.",
+          "The new law will curtail the power of the police."
+        ]
+      },
+      {
+        "id": "g14w21",
+        "word": "cynic",
+        "meaning": "A person who believes that people are motivated purely by self-interest rather than acting for honorable or unselfish reasons.",
+        "examples": [
+          "He is a cynic who believes that no one can be trusted.",
+          "A cynic might say that the politician's promise is just for show."
+        ]
+      },
+      {
+        "id": "g14w22",
+        "word": "cynical",
+        "meaning": "Believing that people are motivated by self-interest; distrustful of human sincerity or integrity.",
+        "examples": [
+          "She has a cynical view of love and marriage.",
+          "He was cynical about the prospects for peace."
+        ]
+      },
+      {
+        "id": "g14w23",
+        "word": "cynosure",
+        "meaning": "A person or thing that is the center of attention or admiration.",
+        "examples": [
+          "The beautiful actress was the cynosure of all eyes at the party.",
+          "The new skyscraper became the cynosure of the city's skyline."
+        ]
+      },
+      {
+        "id": "g14w24",
+        "word": "dabble",
+        "meaning": "To take part in an activity in a casual or superficial way.",
+        "examples": [
+          "He likes to dabble in painting, but he's not a professional artist.",
+          "She dabbled in politics for a few years before returning to her legal career."
+        ]
+      },
+      {
+        "id": "g14w25",
+        "word": "dalliance",
+        "meaning": "A casual romantic or sexual relationship; a brief or casual involvement with something.",
+        "examples": [
+          "He had a brief dalliance with a coworker.",
+          "His dalliance with acting was short-lived."
+        ]
+      },
+      {
+        "id": "g14w26",
+        "word": "damp",
+        "meaning": "To make something slightly wet.",
+        "examples": [
+          "She used a cloth to damp the surface before painting.",
+          "He damped his hair with water."
+        ]
+      },
+      {
+        "id": "g14w27",
+        "word": "dampen",
+        "meaning": "To make less strong or intense.",
+        "examples": [
+          "The bad news did not dampen their spirits.",
+          "The rain dampened our plans for a picnic."
+        ]
+      },
+      {
+        "id": "g14w28",
+        "word": "dangle",
+        "meaning": "To hang or swing loosely.",
+        "examples": [
+          "He sat on the edge of the pier, his legs dangling over the water.",
+          "She dangled the keys in front of the baby."
+        ]
+      },
+      {
+        "id": "g14w29",
+        "word": "daunt",
+        "meaning": "To make (someone) feel intimidated or apprehensive.",
+        "examples": [
+          "The size of the task did not daunt him.",
+          "She was not daunted by the challenge."
+        ]
+      },
+      {
+        "id": "g14w30",
+        "word": "daunting",
+        "meaning": "Seeming difficult to deal with in anticipation; intimidating.",
+        "examples": [
+          "Climbing Mount Everest is a daunting task.",
+          "The prospect of starting a new job can be daunting."
+        ]
+      },
+      {
+        "id": "g14w31",
+        "word": "dawdle",
+        "meaning": "To waste time; be slow.",
+        "examples": [
+          "Stop dawdling and get ready for school.",
+          "He dawdled over his breakfast, making everyone late."
+        ]
+      },
+      {
+        "id": "g14w32",
+        "word": "dazzle",
+        "meaning": "(Of a bright light) to blind (a person) temporarily; to amaze or overwhelm with a particular impressive quality.",
+        "examples": [
+          "The bright headlights dazzled me.",
+          "She was dazzled by his charm and good looks."
+        ]
+  
+      },
+      {
+        "id": "g14w33",
+        "word": "dearth",
+        "meaning": "A scarcity or lack of something.",
+        "examples": [
+          "There is a dearth of affordable housing in the city.",
+          "The team's performance was hampered by a dearth of experienced players."
+        ]
+      },
+      {
+        "id": "g14w34",
+        "word": "debacle",
+        "meaning": "A sudden and ignominious failure; a fiasco.",
+        "examples": [
+          "The party was a complete debacle, with everything going wrong.",
+          "The military campaign ended in a debacle."
+        ]
+      },
+      {
+        "id": "g14w35",
+        "word": "debase",
+        "meaning": "To reduce (something) in quality or value; degrade.",
+        "examples": [
+          "The currency was debased by the government's printing of more money.",
+          "He would not debase himself by cheating on the exam."
+        ]
+      },
+      {
+        "id": "g14w36",
+        "word": "debased",
+        "meaning": "Reduced in quality or value.",
+        "examples": [
+          "The debased currency was worth very little.",
+          "The film was a debased version of the classic novel."
+        ]
+      },
+      {
+        "id": "g14w37",
+        "word": "debauchery",
+        "meaning": "Excessive indulgence in sensual pleasures.",
+        "examples": [
+          "The novel depicted a world of debauchery and corruption.",
+          "He wasted his inheritance on a life of debauchery."
+        ]
+      },
+      {
+        "id": "g14w38",
+        "word": "debilitate",
+        "meaning": "To make (someone) very weak and infirm.",
+        "examples": [
+          "The long illness had debilitated him.",
+          "The lack of food and water began to debilitate the stranded hikers."
+        ]
+      },
+      {
+        "id": "g14w39",
+        "word": "debilitating",
+        "meaning": "(Of a disease or condition) making someone very weak and infirm.",
+        "examples": [
+          "She suffers from a debilitating chronic illness.",
+          "The heat was debilitating, making it difficult to do any work."
+        ]
+      },
+      {
+        "id": "g14w40",
+        "word": "debonair",
+        "meaning": "(Of a man) confident, stylish, and charming.",
+        "examples": [
+          "He was a debonair young man in a well-tailored suit.",
+          "The debonair spy easily charmed his way into the enemy's headquarters."
+        ]
+      },
+      {
+        "id": "g14w41",
+        "word": "debris",
+        "meaning": "Scattered pieces of waste or remains.",
+        "examples": [
+          "The street was covered in debris from the explosion.",
+          "The volunteers cleaned up the debris left after the storm."
+        ]
+      },
+      {
+        "id": "g14w42",
+        "word": "debunk",
+        "meaning": "To expose the falseness or hollowness of (a myth, idea, or belief).",
+        "examples": [
+          "The scientist's research debunked the popular myth.",
+          "He made it his mission to debunk conspiracy theories."
+        ]
+      },
+      {
+        "id": "g14w43",
+        "word": "debutante",
+        "meaning": "An upper-class young woman making her first appearance in fashionable society.",
+        "examples": [
+          "The debutante was presented to society at a grand ball.",
+          "She was a beautiful debutante from a wealthy family."
+        ]
+      },
+      {
+        "id": "g14w44",
+        "word": "decade",
+        "meaning": "A period of ten years.",
+        "examples": [
+          "The company has been in business for over a decade.",
+          "The last decade of the 20th century saw rapid technological change."
+        ]
+      },
+      {
+        "id": "g14w45",
+        "word": "decadence",
+        "meaning": "Moral or cultural decline as characterized by excessive indulgence in pleasure or luxury.",
+        "examples": [
+          "The novel captures the decadence of the roaring twenties.",
+          "The fall of the Roman Empire is often attributed to its moral decadence."
+        ]
+      },
+      {
+        "id": "g14w46",
+        "word": "decadent",
+        "meaning": "Characterized by or reflecting a state of moral or cultural decline.",
+        "examples": [
+          "The rich and decadent lifestyle of the aristocracy was criticized.",
+          "The chocolate cake was a decadent and delicious treat."
+        ]
+      },
+      {
+        "id": "g14w47",
+        "word": "decapitate",
+        "meaning": "To cut off the head of (a person or animal).",
+        "examples": [
+          "The king was decapitated during the revolution.",
+          "The guillotine was used to decapitate people."
+        ]
+  
+      },
+      {
+        "id": "g14w48",
+        "word": "decibel",
+        "meaning": "A unit used to measure the intensity of a sound.",
+        "examples": [
+          "A jet engine can produce sounds of over 140 decibels.",
+          "Prolonged exposure to sounds above 85 decibels can cause hearing damage."
+        ]
+      },
+      {
+        "id": "g14w49",
+        "word": "decimate",
+        "meaning": "To kill, destroy, or remove a large percentage or part of.",
+        "examples": [
+          "The disease decimated the population of the small village.",
+          "The company's profits were decimated by the recession."
+        ]
+      },
+      {
+        "id": "g14w50",
+        "word": "decimation",
+        "meaning": "The killing or destruction of a large proportion of a group or species.",
+        "examples": [
+          "The decimation of the buffalo herds had a devastating impact on Native American tribes.",
+          "The war resulted in the decimation of an entire generation of young men."
+        ]
+      },
+      {
+        "id": "g14w51",
+        "word": "decipher",
+        "meaning": "To convert (a text written in code, or a coded signal) into normal language.",
+        "examples": [
+          "The archaeologists struggled to decipher the ancient hieroglyphics.",
+          "I couldn't decipher his messy handwriting."
+        ]
+      },
+      {
+        "id": "g14w52",
+        "word": "declaim",
+        "meaning": "To utter or deliver words or a speech in a rhetorical or impassioned way, as if to an audience.",
+        "examples": [
+          "The politician would often declaim against the evils of corruption.",
+          "He stood on the soapbox and began to declaim his political views."
+        ]
+      },
+      {
+        "id": "g14w53",
+        "word": "declaimed",
+        "meaning": "Past tense of declaim; uttered or delivered words in a rhetorical or impassioned way.",
+        "examples": [
+          "The actor declaimed his lines with great passion.",
+          "She declaimed the poem from memory."
+        ]
+      },
+      {
+        "id": "g14w54",
+        "word": "declivity",
+        "meaning": "A downward slope.",
+        "examples": [
+          "The house was built on a steep declivity overlooking the valley.",
+          "He carefully navigated the slippery declivity."
+        ]
+      },
+      {
+        "id": "g14w55",
+        "word": "decorous",
+        "meaning": "In keeping with good taste and propriety; polite and restrained.",
+        "examples": [
+          "The guests behaved in a decorous manner at the formal dinner.",
+          "She gave a decorous curtsy to the queen."
+        ]
+  
+      },
+      {
+        "id": "g14w56",
+        "word": "decorum",
+        "meaning": "Behavior in keeping with good taste and propriety.",
+        "examples": [
+          "He behaved with the utmost decorum at the funeral.",
+          "She had a strong sense of decorum and was always polite."
+        ]
+      },
+      {
+        "id": "g14w57",
+        "word": "decree",
+        "meaning": "An official order issued by a legal authority.",
+        "examples": [
+          "The king issued a decree that all taxes must be paid.",
+          "The court issued a decree of divorce."
+        ]
+      },
+      {
+        "id": "g14w58",
+        "word": "decrepit",
+        "meaning": "(Of a person) elderly and infirm; worn out or ruined because of age or neglect.",
+        "examples": [
+          "The decrepit old man could barely walk.",
+          "The decrepit building was in danger of collapsing."
+        ]
+      },
+      {
+        "id": "g14w59",
+        "word": "decried",
+        "meaning": "Past tense of decry; publicly denounced.",
+        "examples": [
+          "The new policy was decried by activists as unfair.",
+          "He decried the lack of funding for education."
+        ]
+      },
+      {
+        "id": "g14w60",
+        "word": "decry",
+        "meaning": "To publicly denounce.",
+        "examples": [
+          "Many people decry the high cost of healthcare.",
+          "The opposition party was quick to decry the government's decision."
+        ]
+      }
+    ]
+  }

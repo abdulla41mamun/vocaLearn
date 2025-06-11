@@ -1,0 +1,546 @@
+{
+    "id": "group25",
+    "words": [
+      {
+        "id": "g25w1",
+        "word": "forage",
+        "meaning": "To search widely for food or provisions.",
+        "examples": [
+          "The squirrels foraged for nuts in the park.",
+          "The villagers had to forage for food after the storm destroyed their crops."
+        ]
+      },
+      {
+        "id": "g25w2",
+        "word": "forbear",
+        "meaning": "To politely or patiently restrain an impulse to do something; refrain.",
+        "examples": [
+          "I had to forbear from shouting at him.",
+          "Please forbear from talking during the performance."
+        ]
+      },
+      {
+        "id": "g25w3",
+        "word": "forbearance",
+        "meaning": "Patient self-control; restraint and tolerance.",
+        "examples": [
+          "She showed great forbearance in dealing with the difficult child.",
+          "He acted with forbearance, despite being provoked."
+        ]
+      },
+      {
+        "id": "g25w4",
+        "word": "ford",
+        "meaning": "A shallow place in a river or stream allowing one to walk or drive across.",
+        "examples": [
+          "They had to cross the river at a shallow ford.",
+          "The old bridge was washed away, so they had to use the ford."
+        ]
+      },
+      {
+        "id": "g25w5",
+        "word": "foreboding",
+        "meaning": "A feeling that something bad will happen; fearful apprehension.",
+        "examples": [
+          "She had a sense of foreboding that the trip would not go well.",
+          "The dark clouds were a foreboding sign of the coming storm."
+        ]
+      },
+      {
+        "id": "g25w6",
+        "word": "foreclosure",
+        "meaning": "The process of taking possession of a mortgaged property as a result of the mortgagor's failure to keep up mortgage payments.",
+        "examples": [
+          "The family lost their home to foreclosure.",
+          "The bank initiated foreclosure proceedings against the homeowner."
+        ]
+      },
+      {
+        "id": "g25w7",
+        "word": "foreground",
+        "meaning": "The part of a view that is nearest to the observer, especially in a picture or photograph.",
+        "examples": [
+          "The flowers in the foreground of the painting are beautifully detailed.",
+          "The issue of climate change has been brought to the foreground of public attention."
+        ]
+      },
+      {
+        "id": "g25w8",
+        "word": "foreseeable",
+        "meaning": "Able to be foreseen or predicted.",
+        "examples": [
+          "The company will continue to grow for the foreseeable future.",
+          "It is foreseeable that the new technology will have a major impact on our lives."
+        ]
+      },
+      {
+        "id": "g25w9",
+        "word": "foreshadow",
+        "meaning": "To be a warning or indication of (a future event).",
+        "examples": [
+          "The dark clouds foreshadowed the coming storm.",
+          "The author uses the opening scene to foreshadow the tragic ending."
+        ]
+      },
+      {
+        "id": "g25w10",
+        "word": "forestall",
+        "meaning": "To prevent or obstruct (an anticipated event or action) by taking action ahead of time.",
+        "examples": [
+          "He tried to forestall any objections by addressing them in his opening statement.",
+          "The government took measures to forestall an economic crisis."
+        ]
+      },
+      {
+        "id": "g25w11",
+        "word": "forfeit",
+        "meaning": "To lose or be deprived of (property or a right or privilege) as a penalty for wrongdoing.",
+        "examples": [
+          "If you cancel your ticket, you will forfeit your deposit.",
+          "The team had to forfeit the game because they did not have enough players."
+        ]
+       },
+      {
+        "id": "g25w12",
+        "word": "forge",
+        "meaning": "To make or shape (a metal object) by heating it in a fire or furnace and beating or hammering it.",
+        "examples": [
+          "The blacksmith forged a beautiful sword.",
+          "They forged a strong friendship that lasted a lifetime."
+        ]
+      },
+      {
+        "id": "g25w13",
+        "word": "forgery",
+        "meaning": "The action of forging or producing a copy of a document, signature, banknote, or work of art.",
+        "examples": [
+          "He was arrested for forgery.",
+          "The painting was a clever forgery that fooled even the experts."
+        ]
+      },
+      {
+        "id": "g25w14",
+        "word": "forlorn",
+        "meaning": "Pitifully sad and abandoned or lonely.",
+        "examples": [
+          "The forlorn puppy was left alone in the rain.",
+          "She had a forlorn expression on her face."
+        ]
+      },
+      {
+        "id": "g25w15",
+        "word": "formidable",
+        "meaning": "Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+        "examples": [
+          "The team faced a formidable opponent in the championship game.",
+          "She has a formidable reputation as a tough negotiator."
+        ]
+      },
+      {
+        "id": "g25w16",
+        "word": "forsake",
+        "meaning": "To abandon (someone or something).",
+        "examples": [
+          "He would never forsake his family.",
+          "She forsook her old habits and started a new life."
+        ]
+      },
+      {
+        "id": "g25w17",
+        "word": "forswear",
+        "meaning": "To agree to give up or do without (something).",
+        "examples": [
+          "He forswore his allegiance to the king.",
+          "She forswore her old life of luxury and became a nun."
+        ]
+      },
+      {
+        "id": "g25w18",
+        "word": "forte",
+        "meaning": "A thing at which someone excels.",
+        "examples": [
+          "Singing is her forte.",
+          "He is a great cook, but baking is not his forte."
+        ]
+      },
+      {
+        "id": "g25w19",
+        "word": "forthcoming",
+        "meaning": "About to happen or appear.",
+        "examples": [
+          "The forthcoming elections are expected to be close.",
+          "She was not very forthcoming with information."
+        ]
+      },
+      {
+        "id": "g25w20",
+        "word": "forthright",
+        "meaning": "(Of a person or their manner or speech) direct and outspoken; straightforward and honest.",
+        "examples": [
+          "She is a forthright person who is not afraid to speak her mind.",
+          "He gave a forthright answer to the difficult question."
+        ]
+      },
+      {
+        "id": "g25w21",
+        "word": "forthwith",
+        "meaning": "(Especially in official use) immediately; without delay.",
+        "examples": [
+          "The court ordered him to pay the fine forthwith.",
+          "You are to report to the principal's office forthwith."
+        ]
+      },
+      {
+        "id": "g25w22",
+        "word": "fortify",
+        "meaning": "To strengthen (a place) with defensive works so as to protect it against attack.",
+        "examples": [
+          "The city was fortified with high walls and a deep moat.",
+          "He fortified himself with a good breakfast before the long hike."
+        ]
+      },
+      {
+        "id": "g25w23",
+        "word": "fortitude",
+        "meaning": "Courage in pain or adversity.",
+        "examples": [
+          "She showed great fortitude in the face of her illness.",
+          "He endured the ordeal with great fortitude."
+        ]
+      },
+      {
+        "id": "g25w24",
+        "word": "fortuitous",
+        "meaning": "Happening by accident or chance rather than design.",
+        "examples": [
+          "It was a fortuitous meeting that led to a lifelong friendship.",
+          "The fortuitous discovery of the new drug saved many lives."
+        ]
+      },
+      {
+        "id": "g25w25",
+        "word": "forty winks",
+        "meaning": "A short sleep, especially during the day.",
+        "examples": [
+          "I'm just going to have forty winks before we go out.",
+          "He felt much better after a quick forty winks."
+        ]
+      },
+      {
+        "id": "g25w26",
+        "word": "foster",
+        "meaning": "To encourage or promote the development of (something, typically something regarded as good).",
+        "examples": [
+          "The teacher's goal is to foster a love of learning in her students.",
+          "The government is trying to foster economic growth."
+        ]
+      },
+      {
+        "id": "g25w27",
+        "word": "founder",
+        "meaning": "(Of a ship) to fill with water and sink.",
+        "examples": [
+          "The ship foundered in the storm.",
+          "The company foundered after a series of bad investments."
+        ]
+      },
+      {
+        "id": "g25w28",
+        "word": "fracas",
+        "meaning": "A noisy disturbance or quarrel.",
+        "examples": [
+          "The police were called to break up a fracas outside the bar.",
+          "A fracas erupted between the two teams."
+        ]
+      },
+      {
+        "id": "g25w29",
+        "word": "fractious",
+        "meaning": "(Typically of children) irritable and quarrelsome.",
+        "examples": [
+          "The fractious child was always getting into trouble.",
+          "The fractious group of politicians could not agree on anything."
+        ]
+      },
+      {
+        "id": "g25w30",
+        "word": "frail",
+        "meaning": "(Of a person) weak and delicate.",
+        "examples": [
+          "She was a frail old woman who needed help with her daily activities.",
+          "The frail bridge was not safe to cross."
+        ]
+  
+      },
+      {
+        "id": "g25w31",
+        "word": "frailty",
+        "meaning": "The condition of being weak and delicate.",
+        "examples": [
+          "Despite her frailty, she had a strong will to live.",
+          "The frailty of the old man was a cause for concern."
+        ]
+      },
+      {
+        "id": "g25w32",
+        "word": "fraternize",
+        "meaning": "To associate or form a friendship with someone, especially when one is not supposed to.",
+        "examples": [
+          "The soldiers were forbidden to fraternize with the local population.",
+          "He was accused of fraternizing with the enemy."
+        ]
+      },
+      {
+        "id": "g25w33",
+        "word": "fraud",
+        "meaning": "Wrongful or criminal deception intended to result in financial or personal gain.",
+        "examples": [
+          "He was arrested for credit card fraud.",
+          "The company was accused of committing a massive fraud."
+        ]
+      },
+      {
+        "id": "g25w34",
+        "word": "fraught",
+        "meaning": "(Of a situation or course of action) filled with or destined to result in (something undesirable).",
+        "examples": [
+          "The journey was fraught with danger.",
+          "The negotiations were fraught with tension."
+        ]
+      },
+      {
+        "id": "g25w35",
+        "word": "fray",
+        "meaning": "(Of a fabric, rope, or cord) to unravel or become worn at the edge, typically through constant rubbing.",
+        "examples": [
+          "The old rope began to fray.",
+          "Her nerves were frayed after the long and stressful day."
+        ]
+      },
+      {
+        "id": "g25w36",
+        "word": "frenetic",
+        "meaning": "Fast and energetic in a rather wild and uncontrolled way.",
+        "examples": [
+          "The city has a frenetic pace of life.",
+          "There was a frenetic burst of activity before the deadline."
+        ]
+      },
+      {
+        "id": "g25w37",
+        "word": "frenzy",
+        "meaning": "A state or period of uncontrolled excitement or wild behavior.",
+        "examples": [
+          "The crowd was in a frenzy of excitement.",
+          "The sharks were in a feeding frenzy."
+        ]
+      },
+      {
+        "id": "g25w38",
+        "word": "fresco",
+        "meaning": "A painting done rapidly in watercolor on wet plaster on a wall or ceiling, so that the colors penetrate the plaster and become fixed as it dries.",
+        "examples": [
+          "The church was decorated with beautiful frescoes.",
+          "Michelangelo's frescoes in the Sistine Chapel are world-famous."
+        ]
+      },
+      {
+        "id": "g25w39",
+        "word": "fret",
+        "meaning": "To be constantly or visibly worried or anxious.",
+        "examples": [
+          "Don't fret, everything will be alright.",
+          "She was fretting about her upcoming exam."
+        ]
+      },
+      {
+        "id": "g25w40",
+        "word": "fretful",
+        "meaning": "Feeling or expressing distress or irritation.",
+        "examples": [
+          "The baby was fretful and wouldn't sleep.",
+          "He had a fretful and anxious expression."
+        ]
+      },
+      {
+        "id": "g25w41",
+        "word": "frieze",
+        "meaning": "A broad horizontal band of sculpted or painted decoration, especially on a wall near the ceiling.",
+        "examples": [
+          "The temple was decorated with a beautiful marble frieze.",
+          "The frieze depicted scenes from Greek mythology."
+        ]
+      },
+      {
+        "id": "g25w42",
+        "word": "fringe",
+        "meaning": "The outer, marginal, or extreme part of an area, group, or sphere of activity.",
+        "examples": [
+          "He lived on the fringe of society.",
+          "The festival attracts people from the fringe of the music scene."
+        ]
+      },
+      {
+        "id": "g25w43",
+        "word": "frivolous",
+        "meaning": "Not having any serious purpose or value.",
+        "examples": [
+          "She spent her money on frivolous things.",
+          "The lawsuit was dismissed as being frivolous."
+        ]
+      },
+      {
+        "id": "g25w44",
+        "word": "from pillar to post",
+        "meaning": "From one place to another in a forced and hurried way.",
+        "examples": [
+          "He was driven from pillar to post, looking for a job.",
+          "The refugees were moved from pillar to post."
+        ]
+       },
+      {
+        "id": "g25w45",
+        "word": "froward",
+        "meaning": "(Of a person) difficult to deal with; contrary.",
+        "examples": [
+          "The froward child refused to obey his parents.",
+          "He had a froward and stubborn personality."
+        ]
+      },
+      {
+        "id": "g25w46",
+        "word": "frown",
+        "meaning": "To furrow one's brow in an expression of disapproval, displeasure, or concentration.",
+        "examples": [
+          "She frowned when she saw the mess.",
+          "He frowned in concentration as he tried to solve the puzzle."
+        ]
+      },
+      {
+        "id": "g25w47",
+        "word": "frugal",
+        "meaning": "Sparing or economical with regard to money or food.",
+        "examples": [
+          "She is a frugal person who saves her money carefully.",
+          "He lived a frugal and simple life."
+        ]
+      },
+      {
+        "id": "g25w48",
+        "word": "frugality",
+        "meaning": "The quality of being economical with money or food; thriftiness.",
+        "examples": [
+          "She was known for her frugality and simple lifestyle.",
+          "In times of hardship, frugality is a virtue."
+        ]
+      },
+      {
+        "id": "g25w49",
+        "word": "fruitful",
+        "meaning": "Producing good results; productive.",
+        "examples": [
+          "They had a fruitful discussion about the future of the company.",
+          "The research proved to be very fruitful."
+        ]
+      },
+      {
+        "id": "g25w50",
+        "word": "fruition",
+        "meaning": "The realization or fulfillment of a plan or project.",
+        "examples": [
+          "After years of hard work, his plans finally came to fruition.",
+          "The project reached fruition last year."
+        ]
+      },
+      {
+        "id": "g25w51",
+        "word": "fruitless",
+        "meaning": "Failing to achieve the desired results; unproductive or useless.",
+        "examples": [
+          "His efforts to find a job were fruitless.",
+          "The search for the missing plane proved to be fruitless."
+        ]
+      },
+      {
+        "id": "g25w52",
+        "word": "frustrate",
+        "meaning": "To prevent (a plan or attempted action) from progressing, succeeding, or being fulfilled.",
+        "examples": [
+          "The bad weather frustrated their plans for a picnic.",
+          "He was frustrated by his lack of progress."
+        ]
+       },
+      {
+        "id": "g25w53",
+        "word": "fudge",
+        "meaning": "To present or deal with (something) in a vague, noncommittal, or inadequate way, especially so as to conceal the truth or mislead.",
+        "examples": [
+          "He tried to fudge the numbers on his expense report.",
+          "The politician fudged the issue when asked about his controversial past."
+        ]
+      },
+      {
+        "id": "g25w54",
+        "word": "fulcrum",
+        "meaning": "The point on which a lever rests or is supported and on which it pivots.",
+        "examples": [
+          "The fulcrum is the pivot point of a seesaw.",
+          "He was the fulcrum of the team, and everything revolved around him."
+        ]
+      },
+      {
+        "id": "g25w55",
+        "word": "fulminate",
+        "meaning": "To express vehement protest.",
+        "examples": [
+          "He would often fulminate against the evils of modern society.",
+          "The politician fulminated against the new tax increase."
+        ]
+      },
+      {
+        "id": "g25w56",
+        "word": "fulsome",
+        "meaning": "Complimentary or flattering to an excessive degree.",
+        "examples": [
+          "She was embarrassed by his fulsome praise.",
+          "The book received fulsome reviews from the critics."
+        ]
+      },
+      {
+        "id": "g25w57",
+        "word": "funereal",
+        "meaning": "Having the mournful, somber character appropriate to a funeral.",
+        "examples": [
+          "The room had a funereal atmosphere.",
+          "He spoke in a funereal tone of voice."
+        ]
+      },
+      {
+        "id": "g25w58",
+        "word": "fungible",
+        "meaning": "(Of goods contracted for without an individual specimen being specified) able to replace or be replaced by another identical item; mutually interchangeable.",
+        "examples": [
+          "Money is fungible, so it doesn't matter which dollar bill you use.",
+          "Commodities like oil and wheat are fungible."
+        ]
+      },
+      {
+        "id": "g25w59",
+        "word": "furor",
+        "meaning": "An outbreak of public anger or excitement.",
+        "examples": [
+          "The new policy caused a furor among the students.",
+          "The book created a furor when it was first published."
+        ]
+      },
+      {
+        "id": "g25w60",
+        "word": "furtive",
+        "meaning": "Attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble; secretive.",
+        "examples": [
+          "He cast a furtive glance in her direction.",
+          "The spy made a furtive exchange of documents."
+        ]
+      }
+    ]
+  }

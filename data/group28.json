@@ -1,0 +1,545 @@
+{
+    "id": "group28",
+    "words": [
+      {
+        "id": "g28w1",
+        "word": "harrow",
+        "meaning": "To cause distress to.",
+        "examples": [
+          "The stories of the war survivors harrowed the listeners.",
+          "He was harrowed by the constant reminders of his failure."
+        ]
+      },
+      {
+        "id": "g28w2",
+        "word": "harrowing",
+        "meaning": "Acutely distressing.",
+        "examples": [
+          "She gave a harrowing account of her escape from the fire.",
+          "It was a harrowing experience to be lost in the mountains."
+        ]
+      },
+      {
+        "id": "g28w3",
+        "word": "haughty",
+        "meaning": "Arrogantly superior and disdainful.",
+        "examples": [
+          "Her haughty demeanor made it difficult for her to make friends.",
+          "He gave a haughty laugh and walked away."
+        ]
+      },
+      {
+        "id": "g28w4",
+        "word": "hauteur",
+        "meaning": "Haughtiness of manner; disdainful pride.",
+        "examples": [
+          "She surveyed the room with an air of utter hauteur.",
+          "His hauteur was off-putting to everyone he met."
+        ]
+      },
+      {
+        "id": "g28w5",
+        "word": "have the upper hand",
+        "meaning": "To have a position of advantage or control.",
+        "examples": [
+          "In the negotiations, the experienced lawyer quickly gained the upper hand.",
+          "With their superior numbers, the invading army had the upper hand."
+        ]
+      },
+      {
+        "id": "g28w6",
+        "word": "haven",
+        "meaning": "A place of safety or refuge.",
+        "examples": [
+          "The library was a quiet haven from the bustling city.",
+          "The small island served as a haven for seabirds."
+        ]
+      },
+      {
+        "id": "g28w7",
+        "word": "havoc",
+        "meaning": "Widespread destruction.",
+        "examples": [
+          "The hurricane wreaked havoc on the coastal town.",
+          "The sudden resignation of the CEO created havoc in the company."
+        ]
+      },
+      {
+        "id": "g28w8",
+        "word": "headlong",
+        "meaning": "In a rush; with reckless haste.",
+        "examples": [
+          "He plunged headlong into the new project without much planning.",
+          "The car skidded and made a headlong dash into the wall."
+        ]
+      },
+      {
+        "id": "g28w9",
+        "word": "headstrong",
+        "meaning": "Self-willed and obstinate.",
+        "examples": [
+          "The headstrong child refused to listen to her parents' advice.",
+          "His headstrong nature often got him into trouble."
+        ]
+      },
+      {
+        "id": "g28w10",
+        "word": "heady",
+        "meaning": "Having a strong or exhilarating effect.",
+        "examples": [
+          "The heady scent of the flowers filled the room.",
+          "The heady days of their early success were unforgettable."
+        ]
+      },
+      {
+        "id": "g28w11",
+        "word": "hearken",
+        "meaning": "To listen.",
+        "examples": [
+          "In ancient times, people would hearken to the words of the oracle.",
+          "Hearken, my friends, and I shall tell you a tale."
+        ]
+      },
+      {
+        "id": "g28w12",
+        "word": "hector",
+        "meaning": "To talk to (someone) in a bullying way.",
+        "examples": [
+          "The playground bully would hector the smaller children.",
+          "She grew tired of the way he would hector her about her choices."
+        ]
+      },
+      {
+        "id": "g28w13",
+        "word": "hectoring",
+        "meaning": "Talking to someone in a bullying way.",
+        "examples": [
+          "His hectoring tone made the employees feel intimidated.",
+          "The manager's hectoring approach led to low morale."
+        ]
+      },
+      {
+        "id": "g28w14",
+        "word": "hedge",
+        "meaning": "To limit or qualify (something) by conditions or exceptions.",
+        "examples": [
+          "She hedged her answer when asked about her future plans.",
+          "He hedged his bets by investing in several different stocks."
+        ]
+      },
+      {
+        "id": "g28w15",
+        "word": "hedonism",
+        "meaning": "The pursuit of pleasure; sensual self-indulgence.",
+        "examples": [
+          "His life was a testament to unchecked hedonism.",
+          "The novel explores the themes of morality and hedonism in modern society."
+        ]
+      },
+      {
+        "id": "g28w16",
+        "word": "hedonist",
+        "meaning": "A person who believes that the pursuit of pleasure is the most important thing in life; a pleasure-seeker.",
+        "examples": [
+          "He was a complete hedonist, living only for the next party.",
+          "She abandoned her ascetic lifestyle to become a hedonist."
+        ]
+      },
+      {
+        "id": "g28w17",
+        "word": "heed",
+        "meaning": "To pay attention to; take notice of.",
+        "examples": [
+          "She did not heed the warnings about the approaching storm.",
+          "You should heed the advice of your elders."
+        ]
+      },
+      {
+        "id": "g28w18",
+        "word": "hegemony",
+        "meaning": "Leadership or dominance, especially by one country or social group over others.",
+        "examples": [
+          "The company aimed to establish hegemony in the tech industry.",
+          "The nation's cultural hegemony was evident in its global influence."
+        ]
+      },
+      {
+        "id": "g28w19",
+        "word": "heinous",
+        "meaning": "(Of a person or wrongful act, especially a crime) utterly odious or wicked.",
+        "examples": [
+          "The murderer was convicted of a heinous crime.",
+          "They were shocked by the heinous cruelty of his actions."
+        ]
+      },
+      {
+        "id": "g28w20",
+        "word": "herald",
+        "meaning": "A person or thing viewed as a sign that something is about to happen.",
+        "examples": [
+          "The first blossoms are a herald of spring.",
+          "The protests were a herald of the coming revolution."
+        ]
+      },
+      {
+        "id": "g28w21",
+        "word": "herbaceous",
+        "meaning": "Relating to herbs; (of a plant) having leaves and stems that die down to soil level at the end of the growing season.",
+        "examples": [
+          "The garden was filled with a variety of herbaceous plants.",
+          "She specialized in growing herbaceous perennials."
+        ]
+      },
+      {
+        "id": "g28w22",
+        "word": "herbivorous",
+        "meaning": "(Of an animal) feeding on plants.",
+        "examples": [
+          "Dinosaurs like the Brachiosaurus were herbivorous.",
+          "The cow is an herbivorous animal."
+        ]
+      },
+      {
+        "id": "g28w23",
+        "word": "heresy",
+        "meaning": "Belief or opinion contrary to orthodox religious doctrine.",
+        "examples": [
+          "He was accused of heresy for questioning the church's teachings.",
+          "In those days, scientific theories that contradicted scripture were considered heresy."
+        ]
+      },
+      {
+        "id": "g28w24",
+        "word": "heretic",
+        "meaning": "A person believing in or practicing religious heresy.",
+        "examples": [
+          "Joan of Arc was condemned as a heretic.",
+          "The philosopher was branded a heretic for his unconventional ideas."
+        ]
+      },
+      {
+        "id": "g28w25",
+        "word": "heretical",
+        "meaning": "Holding an opinion at odds with what is generally accepted.",
+        "examples": [
+          "His heretical views were not welcome in the conservative community.",
+          "The book was banned for its heretical content."
+        ]
+      },
+      {
+        "id": "g28w26",
+        "word": "hermetic",
+        "meaning": "Complete and airtight; insulated or protected from outside influences.",
+        "examples": [
+          "The jar had a hermetic seal to keep the food fresh.",
+          "The reclusive artist lived a hermetic life, isolated from society."
+        ]
+      },
+      {
+        "id": "g28w27",
+        "word": "heterodox",
+        "meaning": "Not conforming with accepted or orthodox standards or beliefs.",
+        "examples": [
+          "His heterodox economic theories were initially dismissed by mainstream economists.",
+          "She was known for her heterodox approach to teaching."
+        ]
+      },
+      {
+        "id": "g28w28",
+        "word": "heterogeneous",
+        "meaning": "Diverse in character or content.",
+        "examples": [
+          "New York City has a very heterogeneous population.",
+          "The sample was heterogeneous, containing a mix of different minerals."
+        ]
+      },
+      {
+        "id": "g28w29",
+        "word": "hew",
+        "meaning": "To chop or cut (something, especially wood) with an ax or other tool; to conform or adhere to.",
+        "examples": [
+          "The lumberjack began to hew the great tree.",
+          "It is important to hew to the company's ethical guidelines."
+        ]
+      },
+      {
+        "id": "g28w30",
+        "word": "heyday",
+        "meaning": "The period of a person's or thing's greatest success, popularity, or vigor.",
+        "examples": [
+          "In its heyday, the theater was packed every night.",
+          "She was a famous actress in her heyday."
+        ]
+      },
+      {
+        "id": "g28w31",
+        "word": "hiatus",
+        "meaning": "A pause or gap in a sequence, series, or process.",
+        "examples": [
+          "The band is taking a hiatus after their world tour.",
+          "There was a brief hiatus in the conversation."
+        ]
+      },
+      {
+        "id": "g28w32",
+        "word": "hidebound",
+        "meaning": "Unwilling or unable to change because of tradition or convention.",
+        "examples": [
+          "The hidebound institution was resistant to any form of modernization.",
+          "His hidebound attitudes made him difficult to work with."
+        ]
+      },
+      {
+        "id": "g28w33",
+        "word": "hierarchical",
+        "meaning": "Arranged in order of rank.",
+        "examples": [
+          "The military is a strictly hierarchical organization.",
+          "The company had a traditional hierarchical structure."
+        ]
+      },
+      {
+        "id": "g28w34",
+        "word": "hierarchy",
+        "meaning": "A system in which members of an organization are ranked according to relative status or authority.",
+        "examples": [
+          "She was determined to climb the corporate hierarchy.",
+          "The church has a rigid hierarchy."
+        ]
+      },
+      {
+        "id": "g28w35",
+        "word": "hieroglyphics",
+        "meaning": "Enigmatic or incomprehensible symbols or writing.",
+        "examples": [
+          "The doctor's prescription looked like a set of hieroglyphics.",
+          "Ancient Egyptians used hieroglyphics for writing."
+        ]
+      },
+      {
+        "id": "g28w36",
+        "word": "hinder",
+        "meaning": "To create difficulties for (someone or something), resulting in delay or obstruction.",
+        "examples": [
+          "Heavy traffic will hinder our journey to the airport.",
+          "Lack of experience can hinder your career progression."
+        ]
+      },
+      {
+        "id": "g28w37",
+        "word": "hirsute",
+        "meaning": "Hairy.",
+        "examples": [
+          "The hirsute man had a long, flowing beard.",
+          "He was embarrassed by his hirsute chest."
+        ]
+      },
+      {
+        "id": "g28w38",
+        "word": "histrionic",
+        "meaning": "Overly theatrical or melodramatic in character or style.",
+        "examples": [
+          "She gave a histrionic performance, full of exaggerated gestures.",
+          "His histrionic outbursts were a plea for attention."
+        ]
+      },
+      {
+        "id": "g28w39",
+        "word": "histrionics",
+        "meaning": "Melodramatic behavior designed to attract attention.",
+        "examples": [
+          "I'm tired of his constant histrionics.",
+          "When she didn't get her way, she resorted to histrionics."
+        ]
+      },
+      {
+        "id": "g28w40",
+        "word": "hoard",
+        "meaning": "To accumulate (money or valued objects) and hide or store away.",
+        "examples": [
+          "The dragon would hoard gold and jewels in its cave.",
+          "During the crisis, people began to hoard essential supplies."
+        ]
+      },
+      {
+        "id": "g28w41",
+        "word": "hoary",
+        "meaning": "Grayish white; aged; overused and unoriginal.",
+        "examples": [
+          "The old man had a hoary beard.",
+          "He bored us with the same hoary old jokes."
+        ]
+      },
+      {
+        "id": "g28w42",
+        "word": "hoax",
+        "meaning": "A humorous or malicious deception.",
+        "examples": [
+          "The bomb threat turned out to be a hoax.",
+          "He was the victim of an elaborate hoax."
+        ]
+      },
+      {
+        "id": "g28w43",
+        "word": "hobble",
+        "meaning": "To walk in an awkward way, typically because of pain from an injury; to restrict the activity or development of.",
+        "examples": [
+          "He hobbled off the field with an ankle injury.",
+          "The new regulations will hobble the industry's growth."
+        ]
+      },
+      {
+        "id": "g28w44",
+        "word": "Hobson's choice",
+        "meaning": "A choice of taking what is available or nothing at all.",
+        "examples": [
+          "It's a Hobson's choice; we can either accept their low offer or get nothing.",
+          "For many voters, the election felt like a Hobson's choice."
+        ]
+      },
+      {
+        "id": "g28w45",
+        "word": "hodgepodge",
+        "meaning": "A confused mixture.",
+        "examples": [
+          "The museum was a hodgepodge of different artifacts from various eras.",
+          "Her essay was a hodgepodge of interesting but unrelated ideas."
+        ]
+      },
+      {
+        "id": "g28w46",
+        "word": "holistic",
+        "meaning": "Characterized by the belief that the parts of something are intimately interconnected and explicable only by reference to the whole.",
+        "examples": [
+          "Holistic medicine treats the whole person, not just the symptoms of a disease.",
+          "The company took a holistic approach to employee well-being."
+        ]
+      },
+      {
+        "id": "g28w47",
+        "word": "holster",
+        "meaning": "A holder for carrying a handgun.",
+        "examples": [
+          "The police officer wore a gun in a holster on his belt.",
+          "He drew his pistol from its holster."
+        ]
+      },
+      {
+        "id": "g28w48",
+        "word": "homage",
+        "meaning": "Special honor or respect shown publicly.",
+        "examples": [
+          "The film is an homage to the classic detective movies of the 1940s.",
+          "They paid homage to the fallen soldiers with a solemn ceremony."
+        ]
+      },
+      {
+        "id": "g28w49",
+        "word": "homeopathy",
+        "meaning": "A system of complementary medicine in which ailments are treated by minute doses of natural substances that in larger amounts would produce the symptoms of the ailment.",
+        "examples": [
+          "She decided to try homeopathy to treat her allergies.",
+          "There is ongoing debate about the effectiveness of homeopathy."
+        ]
+      },
+      {
+        "id": "g28w50",
+        "word": "homeostasis",
+        "meaning": "The tendency toward a relatively stable equilibrium between interdependent elements, especially as maintained by physiological processes.",
+        "examples": [
+          "The body's ability to maintain a stable internal temperature is an example of homeostasis.",
+          "Sweating and shivering are mechanisms that help maintain homeostasis."
+        ]
+      },
+      {
+        "id": "g28w51",
+        "word": "homespun",
+        "meaning": "Simple and unsophisticated.",
+        "examples": [
+          "He offered some homespun advice that was surprisingly wise.",
+          "The book was filled with homespun philosophy and charm."
+        ]
+      },
+      {
+        "id": "g28w52",
+        "word": "homiletics",
+        "meaning": "The art of preaching or writing sermons.",
+        "examples": [
+          "The seminary student was studying homiletics to improve his preaching.",
+          "The book on homiletics provided guidance on crafting effective sermons."
+        ]
+      },
+      {
+        "id": "g28w53",
+        "word": "homily",
+        "meaning": "A religious discourse that is intended primarily for spiritual edification; a tedious moralizing lecture.",
+        "examples": [
+          "The priest delivered a thoughtful homily on the importance of forgiveness.",
+          "I had to endure a long homily from my dad about being more responsible."
+        ]
+      },
+      {
+        "id": "g28w54",
+        "word": "homogeneous",
+        "meaning": "Of the same kind; alike.",
+        "examples": [
+          "The small town had a relatively homogeneous population.",
+          "The ingredients were mixed together to form a homogeneous solution."
+        ]
+      },
+      {
+        "id": "g28w55",
+        "word": "homogenous",
+        "meaning": "Of the same kind; alike.",
+        "examples": [
+          "The research team studied a homogenous group of patients.",
+          "They tried to create a culturally homogenous community."
+        ]
+      },
+      {
+        "id": "g28w56",
+        "word": "hoodwink",
+        "meaning": "To deceive or trick (someone).",
+        "examples": [
+          "He was hoodwinked into buying a fake watch.",
+          "The clever con artist managed to hoodwink several unsuspecting tourists."
+        ]
+      },
+      {
+        "id": "g28w57",
+        "word": "hook, line, and sinker",
+        "meaning": "Completely (used to emphasize that someone has been successfully deceived or persuaded).",
+        "examples": [
+          "He fell for her story, hook, line, and sinker.",
+          "She bought the whole sales pitch, hook, line, and sinker."
+        ]
+      },
+      {
+        "id": "g28w58",
+        "word": "hortatory",
+        "meaning": "Tending or aiming to exhort.",
+        "examples": [
+          "The coach delivered a hortatory speech to inspire the team before the game.",
+          "His speech was filled with hortatory phrases urging the public to take action."
+        ]
+      },
+      {
+        "id": "g28w59",
+        "word": "hostile",
+        "meaning": "Unfriendly; antagonistic.",
+        "examples": [
+          "The two leaders had a hostile relationship.",
+          "The crowd became hostile when the team started losing."
+        ]
+      },
+      {
+        "id": "g28w60",
+        "word": "hotly",
+        "meaning": "In a passionate, angry, or excited way.",
+        "examples": [
+          "The new proposal was hotly debated by the council members.",
+          "He hotly denied the accusations against him."
+        ]
+      }
+    ]
+  }

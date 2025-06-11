@@ -1,0 +1,547 @@
+{
+    "id": "group19",
+    "words": [
+      {
+        "id": "g19w1",
+        "word": "drought",
+        "meaning": "A prolonged period of abnormally low rainfall, leading to a shortage of water.",
+        "examples": [
+          "The long drought devastated the crops.",
+          "The region is suffering from a severe drought."
+        ]
+      },
+      {
+        "id": "g19w2",
+        "word": "drudgery",
+        "meaning": "Hard, menial, or dull work.",
+        "examples": [
+          "He hated the drudgery of his nine-to-five job.",
+          "The invention of the washing machine saved people from the drudgery of washing clothes by hand."
+        ]
+      },
+      {
+        "id": "g19w3",
+        "word": "dubious",
+        "meaning": "Hesitating or doubting; not to be relied upon; suspect.",
+        "examples": [
+          "I was dubious about his chances of success.",
+          "He made the dubious claim that he could predict the future."
+        ]
+      },
+      {
+        "id": "g19w4",
+        "word": "dudgeon",
+        "meaning": "A feeling of deep resentment or anger.",
+        "examples": [
+          "He stormed out of the room in a fit of dudgeon.",
+          "She was in high dudgeon after being insulted."
+        ]
+      },
+      {
+        "id": "g19w5",
+        "word": "dulcet",
+        "meaning": "(Especially of sound) sweet and soothing.",
+        "examples": [
+          "The dulcet tones of the cello filled the room.",
+          "She spoke in a dulcet voice that calmed the crying child."
+        ]
+      },
+      {
+        "id": "g19w6",
+        "word": "dupe",
+        "meaning": "To deceive; to trick.",
+        "examples": [
+          "The con artist managed to dupe the elderly couple out of their life savings.",
+          "He was duped into believing a false story."
+        ]
+      },
+      {
+        "id": "g19w7",
+        "word": "duplicitous",
+        "meaning": "Deceitful.",
+        "examples": [
+          "He was a duplicitous politician who made promises he never intended to keep.",
+          "Her duplicitous behavior eventually led to her downfall."
+        ]
+      },
+      {
+        "id": "g19w8",
+        "word": "duplicity",
+        "meaning": "Deceitfulness; double-dealing.",
+        "examples": [
+          "He was accused of duplicity and fraud.",
+          "Her duplicity was exposed when her lies were discovered."
+        ]
+      },
+      {
+        "id": "g19w9",
+        "word": "duress",
+        "meaning": "Threats, violence, constraints, or other action brought to bear on someone to do something against their will or better judgment.",
+        "examples": [
+          "He signed the confession under duress.",
+          "She claimed she had been acting under duress."
+        ]
+      },
+      {
+        "id": "g19w10",
+        "word": "dwarf",
+        "meaning": "To cause to seem small or insignificant in comparison.",
+        "examples": [
+          "The new skyscraper will dwarf all the other buildings in the city.",
+          "His achievements were dwarfed by those of his famous father."
+        ]
+      },
+      {
+        "id": "g19w11",
+        "word": "dwindle",
+        "meaning": "To diminish gradually in size, amount, or strength.",
+        "examples": [
+          "Their savings began to dwindle after he lost his job.",
+          "The audience dwindled as the boring lecture continued."
+        ]
+      },
+      {
+        "id": "g19w12",
+        "word": "dwindling",
+        "meaning": "Gradually diminishing in size, amount, or strength.",
+        "examples": [
+          "The dwindling resources became a major concern.",
+          "The team had a dwindling number of players due to injuries."
+        ]
+      },
+      {
+        "id": "g19w13",
+        "word": "dyed-in-the-wool",
+        "meaning": "Unchanging in a particular belief or opinion; inveterate.",
+        "examples": [
+          "He is a dyed-in-the-wool conservative who will never change his views.",
+          "She is a dyed-in-the-wool fan of the team, supporting them through good times and bad."
+        ]
+      },
+      {
+        "id": "g19w14",
+        "word": "dynamo",
+        "meaning": "A machine for converting mechanical energy into electrical energy; a generator. An extremely energetic person.",
+        "examples": [
+          "The old factory was powered by a massive dynamo.",
+          "The new CEO is a real dynamo, full of energy and new ideas."
+        ]
+      },
+      {
+        "id": "g19w15",
+        "word": "dyspeptic",
+        "meaning": "Of or having indigestion or consequent irritability or depression.",
+        "examples": [
+          "The dyspeptic old man was always complaining about his health.",
+          "He had a dyspeptic and gloomy outlook on life."
+        ]
+      },
+      {
+        "id": "g19w16",
+        "word": "e.g.",
+        "meaning": "For example (from the Latin 'exempli gratia').",
+        "examples": [
+          "You can buy many types of citrus fruit, e.g., oranges, lemons, and grapefruits.",
+          "Some birds, e.g., the penguin, cannot fly."
+        ]
+      },
+      {
+        "id": "g19w17",
+        "word": "earnest",
+        "meaning": "Resulting from or showing sincere and intense conviction.",
+        "examples": [
+          "He made an earnest plea for help.",
+          "She was an earnest and hardworking student."
+        ]
+      },
+      {
+        "id": "g19w18",
+        "word": "ebullience",
+        "meaning": "The quality of being cheerful and full of energy; exuberance.",
+        "examples": [
+          "The crowd's ebullience was contagious.",
+          "She was known for her youthful ebullience and optimism."
+        ]
+      },
+      {
+        "id": "g19w19",
+        "word": "ebullient",
+        "meaning": "Cheerful and full of energy.",
+        "examples": [
+          "She was in an ebullient mood after her team won the championship.",
+          "He was an ebullient and enthusiastic tour guide."
+        ]
+      },
+      {
+        "id": "g19w20",
+        "word": "eccentric",
+        "meaning": "(Of a person or their behavior) unconventional and slightly strange.",
+        "examples": [
+          "The eccentric old woman lived in a house full of cats.",
+          "He had an eccentric habit of wearing mismatched socks."
+        ]
+      },
+      {
+        "id": "g19w21",
+        "word": "echelon",
+        "meaning": "A level or rank in an organization, a profession, or society.",
+        "examples": [
+          "The decision was made at the highest echelon of the company.",
+          "She had reached the upper echelon of the legal profession."
+        ]
+  
+      },
+      {
+        "id": "g19w22",
+        "word": "eclectic",
+        "meaning": "Deriving ideas, style, or taste from a broad and diverse range of sources.",
+        "examples": [
+          "Her taste in music is eclectic, ranging from classical to hip-hop.",
+          "The restaurant has an eclectic menu with dishes from around the world."
+        ]
+      },
+      {
+        "id": "g19w23",
+        "word": "eclipse",
+        "meaning": "To obscure or block out (light); to deprive (someone or something) of significance, power, or prominence.",
+        "examples": [
+          "The moon will eclipse the sun during the solar eclipse.",
+          "Her brilliant performance eclipsed that of all the other actors."
+        ]
+      },
+      {
+        "id": "g19w24",
+        "word": "economical",
+        "meaning": "Giving good value or service in relation to the amount of money, time, or effort spent.",
+        "examples": [
+          "It is more economical to buy in bulk.",
+          "She is an economical shopper who always looks for bargains."
+        ]
+      },
+      {
+        "id": "g19w25",
+        "word": "economy",
+        "meaning": "The wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.",
+        "examples": [
+          "The country's economy is growing rapidly.",
+          "The global economy is facing a period of uncertainty."
+        ]
+      },
+      {
+        "id": "g19w26",
+        "word": "edifice",
+        "meaning": "A large, imposing building.",
+        "examples": [
+          "The city hall is a magnificent edifice.",
+          "The ancient cathedral is a towering edifice."
+        ]
+      },
+      {
+        "id": "g19w27",
+        "word": "edify",
+        "meaning": "To instruct or improve (someone) morally or intellectually.",
+        "examples": [
+          "The teacher's goal was to edify her students, not just to entertain them.",
+          "The book was both entertaining and edifying."
+        ]
+      },
+      {
+        "id": "g19w28",
+        "word": "edifying",
+        "meaning": "Providing moral or intellectual instruction.",
+        "examples": [
+          "It was an edifying documentary that taught me a lot.",
+          "She found the lecture to be an edifying experience."
+        ]
+      },
+      {
+        "id": "g19w29",
+        "word": "efface",
+        "meaning": "To erase (a mark) from a surface; to make oneself appear insignificant or inconspicuous.",
+        "examples": [
+          "Time had effaced the inscriptions on the gravestone.",
+          "She tried to efface herself in the crowd."
+        ]
+      },
+      {
+        "id": "g19w30",
+        "word": "effaced",
+        "meaning": "Past tense of efface; erased or made inconspicuous.",
+        "examples": [
+          "The memories of that day were slowly effaced by time.",
+          "He effaced himself from the family photos."
+        ]
+      },
+      {
+        "id": "g19w31",
+        "word": "effervescence",
+        "meaning": "Bubbles in a liquid; fizz. Vivacity and enthusiasm.",
+        "examples": [
+          "The effervescence of the champagne tickled his nose.",
+          "She had a natural effervescence that made her popular."
+        ]
+      },
+      {
+        "id": "g19w32",
+        "word": "effervescent",
+        "meaning": "(Of a liquid) giving off bubbles; fizzy. Vivacious and enthusiastic.",
+        "examples": [
+          "She has an effervescent personality.",
+          "The effervescent drink was refreshing on a hot day."
+        ]
+      },
+      {
+        "id": "g19w33",
+        "word": "effete",
+        "meaning": "(Of a person) affected, overrefined, and ineffectual; no longer capable of effective action.",
+        "examples": [
+          "The effete aristocracy was out of touch with the common people.",
+          "The ancient civilization had become effete and decadent."
+        ]
+      },
+      {
+        "id": "g19w34",
+        "word": "efficacious",
+        "meaning": "(Of something inanimate or abstract) successful in producing a desired or intended result; effective.",
+        "examples": [
+          "The new medicine proved to be highly efficacious in treating the disease.",
+          "The most efficacious way to solve the problem is to address the root cause."
+        ]
+      },
+      {
+        "id": "g19w35",
+        "word": "efficacy",
+        "meaning": "The ability to produce a desired or intended result.",
+        "examples": [
+          "The efficacy of the new drug has not yet been proven.",
+          "He doubted the efficacy of the government's new policy."
+        ]
+      },
+      {
+        "id": "g19w36",
+        "word": "effigy",
+        "meaning": "A sculpture or model of a person.",
+        "examples": [
+          "The protesters burned an effigy of the dictator.",
+          "The tomb was decorated with the effigy of a knight."
+        ]
+      },
+      {
+        "id": "g19w37",
+        "word": "efflorescence",
+        "meaning": "The state or a period of flowering; the highest point of development.",
+        "examples": [
+          "The Renaissance was a period of great artistic efflorescence.",
+          "The garden was a beautiful sight during its spring efflorescence."
+        ]
+      },
+      {
+        "id": "g19w38",
+        "word": "effluvia",
+        "meaning": "An unpleasant or harmful odor, secretion, or discharge.",
+        "examples": [
+          "The effluvia from the factory polluted the river.",
+          "The room was filled with the effluvia of stale smoke."
+        ]
+      },
+      {
+        "id": "g19w39",
+        "word": "effluvium",
+        "meaning": "Singular of effluvia; an unpleasant or harmful odor, secretion, or discharge.",
+        "examples": [
+          "An unpleasant effluvium was emanating from the swamp.",
+          "The chemical plant released a toxic effluvium into the air."
+        ]
+      },
+      {
+        "id": "g19w40",
+        "word": "effrontery",
+        "meaning": "Insolent or impertinent behavior.",
+        "examples": [
+          "He had the effrontery to ask for a raise after only being there for a week.",
+          "She was shocked by his effrontery."
+        ]
+      },
+      {
+        "id": "g19w41",
+        "word": "effusive",
+        "meaning": "Expressing feelings of gratitude, pleasure, or approval in an unrestrained or heartfelt manner.",
+        "examples": [
+          "She was effusive in her praise for the new restaurant.",
+          "He gave her an effusive welcome."
+        ]
+      },
+      {
+        "id": "g19w42",
+        "word": "egalitarian",
+        "meaning": "Believing in or based on the principle that all people are equal and deserve equal rights and opportunities.",
+        "examples": [
+          "The country is founded on egalitarian principles.",
+          "She is a strong advocate for an egalitarian society."
+        ]
+      },
+      {
+        "id": "g19w43",
+        "word": "egoism",
+        "meaning": "An ethical theory that treats self-interest as the foundation of morality.",
+        "examples": [
+          "His philosophy was based on a form of rational egoism.",
+          "The novel explores the conflict between egoism and altruism."
+        ]
+      },
+      {
+        "id": "g19w44",
+        "word": "egotist",
+        "meaning": "A person who is excessively conceited or absorbed in themselves; a self-seeker.",
+        "examples": [
+          "He is a complete egotist who only cares about himself.",
+          "The egotist couldn't stop talking about his own accomplishments."
+        ]
+      },
+      {
+        "id": "g19w45",
+        "word": "egotistical",
+        "meaning": "Excessively conceited or absorbed in oneself; self-centered.",
+        "examples": [
+          "His egotistical behavior alienated many of his friends.",
+          "She was tired of his egotistical and boastful stories."
+        ]
+      },
+      {
+        "id": "g19w46",
+        "word": "egregious",
+        "meaning": "Outstandingly bad; shocking.",
+        "examples": [
+          "It was an egregious error of judgment.",
+          "The company was found guilty of egregious violations of safety regulations."
+        ]
+      },
+      {
+        "id": "g19w47",
+        "word": "egress",
+        "meaning": "The action of going out of or leaving a place.",
+        "examples": [
+          "The emergency egress was blocked by a pile of boxes.",
+          "The contract specifies the terms of egress from the agreement."
+        ]
+      },
+      {
+        "id": "g19w48",
+        "word": "eke",
+        "meaning": "To manage to make a living or a supplement to one's income with difficulty.",
+        "examples": [
+          "He had to eke out a living on a small pension.",
+          "She eked out a meager existence by selling crafts."
+        ]
+      },
+      {
+        "id": "g19w49",
+        "word": "elaborate",
+        "meaning": "To develop or present (a theory, policy, or system) in detail.",
+        "examples": [
+          "Could you elaborate on your proposal?",
+          "He refused to elaborate on his reasons for resigning."
+        ]
+      },
+      {
+        "id": "g19w50",
+        "word": "elapse",
+        "meaning": "(Of time) to pass or go by.",
+        "examples": [
+          "Several months elapsed before he received a reply.",
+          "The deadline has already elapsed."
+        ]
+      },
+      {
+        "id": "g19w51",
+        "word": "elated",
+        "meaning": "Ecstatically happy.",
+        "examples": [
+          "She was elated to hear that she had won the award.",
+          "The team was elated by their victory."
+        ]
+      },
+      {
+        "id": "g19w52",
+        "word": "eldritch",
+        "meaning": "Weird and sinister or ghostly.",
+        "examples": [
+          "The old house had an eldritch atmosphere that sent shivers down my spine.",
+          "He heard an eldritch scream from the abandoned mansion."
+        ]
+      },
+      {
+        "id": "g19w53",
+        "word": "elegiac",
+        "meaning": "(Especially of a work of art) having a mournful quality.",
+        "examples": [
+          "The poem has an elegiac tone, lamenting the loss of a loved one.",
+          "The film's elegiac music perfectly captured the mood of the story."
+        ]
+      },
+      {
+        "id": "g19w54",
+        "word": "elegy",
+        "meaning": "A poem of serious reflection, typically a lament for the dead.",
+        "examples": [
+          "He wrote an elegy for his deceased friend.",
+          "The elegy was a moving tribute to the fallen soldiers."
+        ]
+      },
+      {
+        "id": "g19w55",
+        "word": "elementary",
+        "meaning": "Relating to the basic elements of a subject; straightforward and uncomplicated.",
+        "examples": [
+          "The solution to the problem was elementary.",
+          "He was teaching an elementary course in mathematics."
+        ]
+      },
+      {
+        "id": "g19w56",
+        "word": "elevate",
+        "meaning": "To raise or lift (something) up to a higher position.",
+        "examples": [
+          "The new bridge will elevate the road above the flood plain.",
+          "The promotion will elevate her to a position of greater responsibility."
+        ]
+  
+      },
+      {
+        "id": "g19w57",
+        "word": "elicit",
+        "meaning": "To evoke or draw out (a response, answer, or fact) from someone in reaction to one's own actions or questions.",
+        "examples": [
+          "The lawyer tried to elicit a confession from the witness.",
+          "Her comments were intended to elicit a response from the audience."
+        ]
+      },
+      {
+        "id": "g19w58",
+        "word": "elitist",
+        "meaning": "Relating to or supporting the view that a society or system should be led by an elite.",
+        "examples": [
+          "The country club was criticized for its elitist admission policies.",
+          "He had an elitist attitude and looked down on people who were not as wealthy as he was."
+        ]
+      },
+      {
+        "id": "g19w59",
+        "word": "elixir",
+        "meaning": "A magical or medicinal potion.",
+        "examples": [
+          "The alchemist claimed to have created an elixir of life.",
+          "For the weary traveler, the cool water was like an elixir."
+        ]
+      },
+      {
+        "id": "g19w60",
+        "word": "eloquence",
+        "meaning": "Fluent or persuasive speaking or writing.",
+        "examples": [
+          "The politician was known for his eloquence and charisma.",
+          "She spoke with great eloquence about the importance of education."
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,547 @@
+{
+    "id": "group43",
+    "words": [
+      {
+        "id": "g43w1",
+        "word": "pecuniary",
+        "meaning": "Relating to money.",
+        "examples": [
+          "He received pecuniary compensation for the damages.",
+          "The company faced serious pecuniary difficulties after the market crash."
+        ]
+      },
+      {
+        "id": "g43w2",
+        "word": "pedagogical",
+        "meaning": "Relating to teaching or education.",
+        "examples": [
+          "The new curriculum emphasizes pedagogical approaches that promote critical thinking.",
+          "She is renowned for her innovative pedagogical methods in early childhood education."
+        ]
+      },
+      {
+        "id": "g43w3",
+        "word": "pedagogue",
+        "meaning": "A teacher, especially a strict or dogmatic one.",
+        "examples": [
+          "The old pedagogue insisted on rote memorization for all his students.",
+          "He was more of a passionate advocate for learning than a mere pedagogue."
+        ]
+      },
+      {
+        "id": "g43w4",
+        "word": "pedagogy",
+        "meaning": "The method and practice of teaching.",
+        "examples": [
+          "Montessori pedagogy focuses on child-centered learning.",
+          "The university offers courses in various aspects of modern pedagogy."
+        ]
+      },
+      {
+        "id": "g43w5",
+        "word": "pedant",
+        "meaning": "A person excessively concerned with minor details and rules or with displaying academic learning.",
+        "examples": [
+          "He's a pedant who will correct your grammar even in casual conversation.",
+          "Only a true pedant would argue about the exact shade of blue in the painting."
+        ]
+      },
+      {
+        "id": "g43w6",
+        "word": "pedantic",
+        "meaning": "Overly concerned with minute details or displaying academic learning.",
+        "examples": [
+          "His speech was so pedantic that it bored the audience.",
+          "She has a pedantic insistence on using precise terminology."
+        ]
+      },
+      {
+        "id": "g43w7",
+        "word": "pedantry",
+        "meaning": "Excessive concern with minor details and rules; an ostentatious display of learning.",
+        "examples": [
+          "His academic writing was often criticized for its pedantry.",
+          "The committee meeting was bogged down by endless pedantry over minor points."
+        ]
+      },
+      {
+        "id": "g43w8",
+        "word": "peddle",
+        "meaning": "To travel around and sell goods.",
+        "examples": [
+          "He used to peddle his homemade crafts at local markets.",
+          "The street vendor peddled fresh flowers to passersby."
+        ]
+      },
+      {
+        "id": "g43w9",
+        "word": "pedestrian",
+        "meaning": "Lacking inspiration or excitement; dull.",
+        "examples": [
+          "His latest novel was criticized for its pedestrian plot.",
+          "The conference keynote speaker delivered a rather pedestrian address."
+        ]
+      },
+      {
+        "id": "g43w10",
+        "word": "peer",
+        "meaning": "To look with difficulty or concentration at someone or something.",
+        "examples": [
+          "She had to peer through the fog to see the road ahead.",
+          "He peered at the small print on the contract."
+        ]
+      },
+      {
+        "id": "g43w11",
+        "word": "peevish",
+        "meaning": "Easily irritated, especially by unimportant things.",
+        "examples": [
+          "The child became peevish when he didn't get his way.",
+          "Her peevish complaints ruined the otherwise pleasant evening."
+        ]
+      },
+      {
+        "id": "g43w12",
+        "word": "pejorative",
+        "meaning": "Expressing contempt or disapproval.",
+        "examples": [
+          "The term 'liberal' is often used in a pejorative sense by some politicians.",
+          "He resented the pejorative comments made about his artistic style."
+        ]
+      },
+      {
+        "id": "g43w13",
+        "word": "pellucid",
+        "meaning": "Transparently clear; easily understood.",
+        "examples": [
+          "The water in the spring was pellucid, revealing the smooth stones beneath.",
+          "His pellucid explanation made the complex theory accessible to everyone."
+        ]
+      },
+      {
+        "id": "g43w14",
+        "word": "penance",
+        "meaning": "Voluntary self-punishment inflicted as an outward expression of repentance for wrongdoing.",
+        "examples": [
+          "He performed daily penance to atone for his past sins.",
+          "As a penance for missing the deadline, she worked through the entire weekend."
+        ]
+      },
+      {
+        "id": "g43w15",
+        "word": "penchant",
+        "meaning": "A strong or habitual liking for something or tendency to do something.",
+        "examples": [
+          "She has a strong penchant for classical music.",
+          "His penchant for spicy food is well-known among his friends."
+        ]
+      },
+      {
+        "id": "g43w16",
+        "word": "pendulous",
+        "meaning": "Hanging down loosely.",
+        "examples": [
+          "The pendulous branches of the willow tree swayed in the breeze.",
+          "His pendulous jowls shook as he laughed heartily."
+        ]
+      },
+      {
+        "id": "g43w17",
+        "word": "penitent",
+        "meaning": "Feeling or showing sorrow and regret for having done wrong; repentant.",
+        "examples": [
+          "The penitent sinner confessed his transgressions.",
+          "She offered a penitent apology for her rude behavior."
+        ]
+      },
+      {
+        "id": "g43w18",
+        "word": "pensive",
+        "meaning": "Engaged in deep or serious thought.",
+        "examples": [
+          "He sat in silence, a pensive expression on his face.",
+          "The artist was in a pensive mood, contemplating his next masterpiece."
+        ]
+      },
+      {
+        "id": "g43w19",
+        "word": "penultimate",
+        "meaning": "Last but one in a series of things; second to last.",
+        "examples": [
+          "The penultimate chapter of the book was particularly suspenseful.",
+          "He scored in the penultimate minute of the game, securing the victory."
+        ]
+      },
+      {
+        "id": "g43w20",
+        "word": "penumbra",
+        "meaning": "The partially shaded outer region of a shadow cast by an opaque object.",
+        "examples": [
+          "During the eclipse, the moon passed through the Earth's penumbra.",
+          "The streetlights cast a soft penumbra over the garden at night."
+        ]
+      },
+      {
+        "id": "g43w21",
+        "word": "penurious",
+        "meaning": "Extremely poor; poverty-stricken.",
+        "examples": [
+          "The penurious family struggled to afford basic necessities.",
+          "Despite his penurious beginnings, he became a successful entrepreneur."
+        ]
+      },
+      {
+        "id": "g43w22",
+        "word": "penury",
+        "meaning": "The state of being very poor; extreme poverty.",
+        "examples": [
+          "Many people in developing countries live in abject penury.",
+          "He rose from penury to become a highly respected scholar."
+        ]
+      },
+      {
+        "id": "g43w23",
+        "word": "peons",
+        "meaning": "Laborers or workers, typically those with little power or status.",
+        "examples": [
+          "The feudal lord had many peons working on his estate.",
+          "The company treated its entry-level employees like mere peons."
+        ]
+      },
+      {
+        "id": "g43w24",
+        "word": "per se",
+        "meaning": "By or in itself; intrinsically.",
+        "examples": [
+          "The job isn't difficult per se, but it requires a lot of patience.",
+          "His argument wasn't illogical per se, but it lacked sufficient evidence."
+        ]
+      },
+      {
+        "id": "g43w25",
+        "word": "perceive",
+        "meaning": "To become aware or conscious of something; to interpret or look on someone or something in a particular way.",
+        "examples": [
+          "I perceived a subtle change in his demeanor.",
+          "How do you perceive the current political climate?"
+        ]
+      },
+      {
+        "id": "g43w26",
+        "word": "perch",
+        "meaning": "To sit, rest, or be positioned (especially on something high or narrow).",
+        "examples": [
+          "A bird perched on the highest branch of the tree.",
+          "She perched on the edge of the chair, ready to leave."
+        ]
+      },
+      {
+        "id": "g43w27",
+        "word": "percipient",
+        "meaning": "Having a good understanding of things; perceptive.",
+        "examples": [
+          "Her percipient observations helped us to solve the problem.",
+          "The detective's percipient analysis of the evidence led to the arrest."
+        ]
+      },
+      {
+        "id": "g43w28",
+        "word": "peremptory",
+        "meaning": "Insisting on immediate attention or obedience, especially in a brusquely imperious way.",
+        "examples": [
+          "He issued a peremptory order for everyone to leave the building.",
+          "Her peremptory tone left no room for argument."
+        ]
+      },
+      {
+        "id": "g43w29",
+        "word": "perennial",
+        "meaning": "Lasting or existing for a long or apparently infinite time; enduring or continually recurring.",
+        "examples": [
+          "The perennial appeal of classic literature never fades.",
+          "These perennial flowers bloom every spring."
+        ]
+      },
+      {
+        "id": "g43w30",
+        "word": "perfidious",
+        "meaning": "Deceitful and untrustworthy.",
+        "examples": [
+          "He was betrayed by his perfidious friend.",
+          "The perfidious acts of the spy led to the downfall of the operation."
+        ]
+      },
+      {
+        "id": "g43w31",
+        "word": "perfidy",
+        "meaning": "Deceitfulness; untrustworthiness.",
+        "examples": [
+          "His act of perfidy shocked everyone who knew him.",
+          "The king punished the knight for his act of perfidy against the crown."
+        ]
+      },
+      {
+        "id": "g43w32",
+        "word": "perfunctory",
+        "meaning": "Carried out with a minimum of effort or reflection.",
+        "examples": [
+          "He gave a perfunctory nod of acknowledgment.",
+          "Her perfunctory apology did little to soothe their anger."
+        ]
+      },
+      {
+        "id": "g43w33",
+        "word": "perigee",
+        "meaning": "The point in the orbit of the moon or a satellite at which it is nearest to the Earth.",
+        "examples": [
+          "The moon reaches its perigee once every month.",
+          "Scientists calculated the satellite's perigee with great precision."
+        ]
+      },
+      {
+        "id": "g43w34",
+        "word": "perilous",
+        "meaning": "Full of danger or risk.",
+        "examples": [
+          "The mountaineers embarked on a perilous ascent of the peak.",
+          "Navigating the uncharted waters proved to be a perilous journey."
+        ]
+      },
+      {
+        "id": "g43w35",
+        "word": "peripatetic",
+        "meaning": "Traveling from place to place, especially working or living in various places for relatively short periods.",
+        "examples": [
+          "His peripatetic career took him to many different countries.",
+          "The philosopher was known for his peripatetic lifestyle, teaching wherever he went."
+        ]
+      },
+      {
+        "id": "g43w36",
+        "word": "peripheral",
+        "meaning": "Relating to or situated on the edge or periphery of something.",
+        "examples": [
+          "The peripheral vision allows you to see things outside your direct line of sight.",
+          "He argued that the issue was merely peripheral to the main topic of discussion."
+        ]
+      },
+      {
+        "id": "g43w37",
+        "word": "perjury",
+        "meaning": "The offense of willfully telling an untruth in a court of law after taking an oath or affirmation.",
+        "examples": [
+          "He was charged with perjury after lying under oath.",
+          "The lawyer warned the witness about the serious consequences of perjury."
+        ]
+      },
+      {
+        "id": "g43w38",
+        "word": "permeable",
+        "meaning": "Allowing liquids or gases to pass through it.",
+        "examples": [
+          "The fabric of the tent was permeable, allowing water to seep in.",
+          "Some membranes are permeable to water but not to larger molecules."
+        ]
+      },
+      {
+        "id": "g43w39",
+        "word": "permeate",
+        "meaning": "To spread throughout (something); pervade.",
+        "examples": [
+          "The aroma of freshly baked bread permeated the entire house.",
+          "A sense of despair permeated the atmosphere after the defeat."
+        ]
+      },
+      {
+        "id": "g43w40",
+        "word": "permeated",
+        "meaning": "Spread throughout (something); pervaded.",
+        "examples": [
+          "The scent of pine needles permeated the air in the forest.",
+          "His optimism had permeated every aspect of the project."
+        ]
+      },
+      {
+        "id": "g43w41",
+        "word": "permutation",
+        "meaning": "A way, especially one of several possible variations, in which a set or number of things can be ordered or arranged.",
+        "examples": [
+          "There are countless permutations of genes that can result in unique individuals.",
+          "The puzzle involved finding all possible permutations of the letters."
+        ]
+      },
+      {
+        "id": "g43w42",
+        "word": "pernicious",
+        "meaning": "Having a harmful effect, especially in a gradual or subtle way.",
+        "examples": [
+          "The pernicious influence of social media can be damaging to mental health.",
+          "He exposed the pernicious effects of the propaganda."
+        ]
+      },
+      {
+        "id": "g43w43",
+        "word": "peroration",
+        "meaning": "The concluding part of a speech, typically intended to inspire enthusiasm in the audience.",
+        "examples": [
+          "His peroration was a powerful call to action.",
+          "The speaker's peroration brought the crowd to its feet."
+        ]
+      },
+      {
+        "id": "g43w44",
+        "word": "perpetrate",
+        "meaning": "To carry out or commit (a harmful, illegal, or immoral action).",
+        "examples": [
+          "The criminals perpetrated a series of violent robberies.",
+          "Who would perpetrate such a heinous crime?"
+        ]
+      },
+      {
+        "id": "g43w45",
+        "word": "perpetuate",
+        "meaning": "To make (something, typically an undesirable situation or an unfounded belief) continue indefinitely.",
+        "examples": [
+          "The government sought to perpetuate peace and stability.",
+          "Stereotypes often perpetuate harmful prejudices."
+        ]
+      },
+      {
+        "id": "g43w46",
+        "word": "perplex",
+        "meaning": "To make (someone) feel completely baffled.",
+        "examples": [
+          "The complex instructions perplexed the new employees.",
+          "His sudden change of mind completely perplexed her."
+        ]
+      },
+      {
+        "id": "g43w47",
+        "word": "perquisite",
+        "meaning": "A perk; a special right or privilege enjoyed as a result of one's position.",
+        "examples": [
+          "A company car was a perquisite of his new job.",
+          "Free meals were a common perquisite for employees at the restaurant."
+        ]
+      },
+      {
+        "id": "g43w48",
+        "word": "perquisites",
+        "meaning": "Special rights or privileges enjoyed as a result of one's position.",
+        "examples": [
+          "The executive enjoyed numerous perquisites, including a private jet.",
+          "The job offered excellent salary and a generous package of perquisites."
+        ]
+      },
+      {
+        "id": "g43w49",
+        "word": "perseverance",
+        "meaning": "Persistence in doing something despite difficulty or delay in achieving success.",
+        "examples": [
+          "Her perseverance eventually paid off, and she achieved her goals.",
+          "Success often requires unwavering perseverance through challenges."
+        ]
+      },
+      {
+        "id": "g43w50",
+        "word": "persevere",
+        "meaning": "To continue in a course of action despite difficulties or delay in achieving success.",
+        "examples": [
+          "Despite setbacks, he persevered with his research.",
+          "If you persevere, you will eventually reach your destination."
+        ]
+      },
+      {
+        "id": "g43w51",
+        "word": "personable",
+        "meaning": "Pleasant in appearance and manner; attractive.",
+        "examples": [
+          "She was a personable young woman who quickly made friends.",
+          "The candidate's personable demeanor impressed the voters."
+        ]
+      },
+      {
+        "id": "g43w52",
+        "word": "personified",
+        "meaning": "Represented or embodied by a figure or in human form.",
+        "examples": [
+          "Justice is often personified as a blindfolded woman with scales.",
+          "He was courage personified in the face of danger."
+        ]
+      },
+      {
+        "id": "g43w53",
+        "word": "perspicacious",
+        "meaning": "Having a ready insight into and understanding of things.",
+        "examples": [
+          "The perspicacious detective quickly saw through the deception.",
+          "Her perspicacious analysis of the market trends proved invaluable."
+        ]
+      },
+      {
+        "id": "g43w54",
+        "word": "perspicacity",
+        "meaning": "The quality of having a ready insight into things; shrewdness.",
+        "examples": [
+          "His perspicacity allowed him to anticipate future problems.",
+          "She demonstrated remarkable perspicacity in her business dealings."
+        ]
+      },
+      {
+        "id": "g43w55",
+        "word": "pertinacious",
+        "meaning": "Holding firmly to an opinion or a course of action.",
+        "examples": [
+          "He was pertinacious in his pursuit of justice.",
+          "Her pertinacious refusal to give up eventually led to success."
+        ]
+      },
+      {
+        "id": "g43w56",
+        "word": "pertinent",
+        "meaning": "Relevant or applicable to a particular matter; apposite.",
+        "examples": [
+          "Please stick to the pertinent details of the case.",
+          "Her comments were highly pertinent to the discussion."
+        ]
+      },
+      {
+        "id": "g43w57",
+        "word": "perturb",
+        "meaning": "To make (someone) anxious or unsettled.",
+        "examples": [
+          "The unexpected news did not perturb her in the slightest.",
+          "He was greatly perturbed by the sudden change in plans."
+        ]
+      },
+      {
+        "id": "g43w58",
+        "word": "peruse",
+        "meaning": "To read (something), typically in a thorough or careful way.",
+        "examples": [
+          "He spent hours perusing the ancient texts in the library.",
+          "Please peruse the document carefully before signing it."
+        ]
+      },
+      {
+        "id": "g43w59",
+        "word": "pervade",
+        "meaning": "To spread throughout and be perceived in every part of.",
+        "examples": [
+          "A sense of excitement pervaded the entire stadium.",
+          "The smell of blooming jasmine pervaded the garden."
+        ]
+      },
+      {
+        "id": "g43w60",
+        "word": "pervasive",
+        "meaning": "Spreading widely throughout an area or a group of people.",
+        "examples": [
+          "The pervasive influence of technology is evident in modern society.",
+          "A pervasive odor of smoke hung in the air after the fire."
+        ]
+      }
+    ]
+  }
+  
+  

@@ -1,0 +1,547 @@
+{
+    "id": "group52",
+    "words": [
+      {
+        "id": "g52w1",
+        "word": "sagacious",
+        "meaning": "Having or showing keen mental discernment and good judgment; wise or shrewd.",
+        "examples": [
+          "The sagacious investor made a fortune in the stock market.",
+          "She offered some sagacious advice on how to handle the situation."
+        ]
+      },
+      {
+        "id": "g52w2",
+        "word": "sage",
+        "meaning": "A profoundly wise person; a person famed for wisdom.",
+        "examples": [
+          "The old man was revered as a sage in his community.",
+          "He sought the counsel of a wise sage."
+        ]
+      },
+      {
+        "id": "g52w3",
+        "word": "salacious",
+        "meaning": "Having or conveying undue or indecent interest in sexual matters.",
+        "examples": [
+          "The tabloid was known for its salacious gossip.",
+          "He told a salacious story that made everyone uncomfortable."
+        ]
+      },
+      {
+        "id": "g52w4",
+        "word": "salient",
+        "meaning": "Most noticeable or important.",
+        "examples": [
+          "The salient point of his argument was that the plan was too expensive.",
+          "She highlighted the salient features of the new product."
+        ]
+      },
+      {
+        "id": "g52w5",
+        "word": "sally",
+        "meaning": "A sudden charge out of a besieged place against the enemy; a sortie.",
+        "examples": [
+          "The soldiers made a brave sally against the enemy's lines.",
+          "She made a witty sally that broke the tension in the room."
+        ]
+      },
+      {
+        "id": "g52w6",
+        "word": "salubrious",
+        "meaning": "Health-giving; healthy.",
+        "examples": [
+          "The salubrious mountain air was invigorating.",
+          "They moved to a more salubrious climate for their retirement."
+        ]
+      },
+      {
+        "id": "g52w7",
+        "word": "salutary",
+        "meaning": "(especially with reference to something unwelcome or unpleasant) producing good effects; beneficial.",
+        "examples": [
+          "The criticism had a salutary effect on his work.",
+          "It was a salutary lesson in the importance of honesty."
+        ]
+      },
+      {
+        "id": "g52w8",
+        "word": "salvage",
+        "meaning": "Rescue (a wrecked or disabled ship or its cargo) from loss at sea.",
+        "examples": [
+          "They managed to salvage some of their belongings from the fire.",
+          "The company is trying to salvage its reputation after the scandal."
+        ]
+      },
+      {
+        "id": "g52w9",
+        "word": "salvation",
+        "meaning": "Preservation or deliverance from harm, ruin, or loss.",
+        "examples": [
+          "The invention of the vaccine was the salvation of millions.",
+          "He found salvation in his faith."
+        ]
+      },
+      {
+        "id": "g52w10",
+        "word": "salve",
+        "meaning": "An ointment used to promote healing of the skin or as protection.",
+        "examples": [
+          "She applied a soothing salve to the burn.",
+          "His kind words were a salve to her wounded pride."
+        ]
+      },
+      {
+        "id": "g52w11",
+        "word": "sanatorium",
+        "meaning": "An establishment for the medical treatment of people who are convalescing or have a chronic illness.",
+        "examples": [
+          "He was sent to a sanatorium to recover from tuberculosis.",
+          "The old sanatorium has now been converted into a luxury hotel."
+        ]
+      },
+      {
+        "id": "g52w12",
+        "word": "sanctimonious",
+        "meaning": "Making a show of being morally superior to other people.",
+        "examples": [
+          "His sanctimonious speech about the importance of charity was hypocritical.",
+          "She had a sanctimonious attitude that annoyed everyone."
+        ]
+      },
+      {
+        "id": "g52w13",
+        "word": "sanctimony",
+        "meaning": "The action or practice of acting as if one is morally superior to other people.",
+        "examples": [
+          "His speech was full of sanctimony and self-righteousness.",
+          "I'm tired of her sanctimony and her constant lectures on how I should live my life."
+        ]
+      },
+      {
+        "id": "g52w14",
+        "word": "sanction",
+        "meaning": "A threatened penalty for disobeying a law or rule.",
+        "examples": [
+          "The United Nations imposed sanctions on the country for its human rights violations.",
+          "The company's actions were sanctioned by the board of directors."
+        ]
+      },
+      {
+        "id": "g52w15",
+        "word": "sanctuary",
+        "meaning": "A place of refuge or safety.",
+        "examples": [
+          "The church provided sanctuary for the refugees.",
+          "The wildlife sanctuary is home to many endangered species."
+        ]
+      },
+      {
+        "id": "g52w16",
+        "word": "sanguine",
+        "meaning": "Optimistic or positive, especially in an apparently bad or difficult situation.",
+        "examples": [
+          "He was sanguine about the company's future prospects.",
+          "She has a sanguine temperament and is always cheerful."
+        ]
+      },
+      {
+        "id": "g52w17",
+        "word": "sap",
+        "meaning": "Gradually weaken or destroy (a person's strength or power).",
+        "examples": [
+          "The long illness had sapped his strength.",
+          "The constant criticism sapped her confidence."
+        ]
+      },
+      {
+        "id": "g52w18",
+        "word": "sapient",
+        "meaning": "Wise, or attempting to appear wise.",
+        "examples": [
+          "The sapient old professor was a font of knowledge.",
+          "He delivered a sapient and insightful analysis of the situation."
+        ]
+      },
+      {
+        "id": "g52w19",
+        "word": "sardonic",
+        "meaning": "Grimly mocking or cynical.",
+        "examples": [
+          "He had a sardonic wit that could be both amusing and cruel.",
+          "She gave a sardonic smile when she heard the news."
+        ]
+      },
+      {
+        "id": "g52w20",
+        "word": "sartorial",
+        "meaning": "Relating to tailoring, clothes, or style of dress.",
+        "examples": [
+          "He was known for his sartorial elegance.",
+          "The magazine article was a guide to sartorial trends."
+        ]
+      },
+      {
+        "id": "g52w21",
+        "word": "sashayed",
+        "meaning": "Walked in an ostentatious yet casual manner, typically with exaggerated movements of the hips and shoulders.",
+        "examples": [
+          "The model sashayed down the runway in a stunning gown.",
+          "She sashayed into the room, turning heads as she went."
+        ]
+      },
+      {
+        "id": "g52w22",
+        "word": "sate",
+        "meaning": "Satisfy (a desire or an appetite) to the full.",
+        "examples": [
+          "A large meal will sate your hunger.",
+          "He sated his curiosity by reading every book on the subject."
+        ]
+      },
+      {
+        "id": "g52w23",
+        "word": "satiate",
+        "meaning": "Satisfy (a desire or an appetite) to the full.",
+        "examples": [
+          "The huge feast was enough to satiate even the hungriest of guests.",
+          "He satiated his thirst with a long drink of water."
+        ]
+      },
+      {
+        "id": "g52w24",
+        "word": "satiate or sate",
+        "meaning": "To satisfy a desire or appetite to the fullest extent.",
+        "examples": [
+          "The buffet was so extensive that it could satiate/sate any appetite.",
+          "He read voraciously to satiate/sate his thirst for knowledge."
+        ]
+      },
+      {
+        "id": "g52w25",
+        "word": "satiated",
+        "meaning": "Satisfied to the full; sated.",
+        "examples": [
+          "After the lavish meal, he felt completely satiated.",
+          "Her curiosity was finally satiated when she found the answer."
+        ]
+      },
+      {
+        "id": "g52w26",
+        "word": "satiety",
+        "meaning": "The feeling or state of being sated.",
+        "examples": [
+          "He ate until he reached a state of satiety.",
+          "The feeling of satiety after a good meal is one of life's simple pleasures."
+        ]
+      },
+      {
+        "id": "g52w27",
+        "word": "satire",
+        "meaning": "The use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices, particularly in the context of contemporary politics and other topical issues.",
+        "examples": [
+          "The book is a brilliant satire on modern society.",
+          "His comedy routine was full of sharp political satire."
+        ]
+      },
+      {
+        "id": "g52w28",
+        "word": "satirical",
+        "meaning": "Containing or using satire.",
+        "examples": [
+          "He wrote a satirical article about the latest political scandal.",
+          "The play was a satirical look at the world of reality television."
+        ]
+      },
+      {
+        "id": "g52w29",
+        "word": "saturate",
+        "meaning": "Cause (something) to become thoroughly soaked with liquid so that no more can be absorbed.",
+        "examples": [
+          "The heavy rain saturated the ground.",
+          "The market is saturated with similar products."
+        ]
+  
+      },
+      {
+        "id": "g52w30",
+        "word": "saturnine",
+        "meaning": "(of a person or their manner) slow and gloomy.",
+        "examples": [
+          "He had a saturnine disposition and rarely smiled.",
+          "The saturnine atmosphere of the old house was oppressive."
+        ]
+      },
+      {
+        "id": "g52w31",
+        "word": "satyr",
+        "meaning": "One of a class of lustful, drunken woodland gods. In Greek art they were represented as a man with a horse's ears and tail, but in Roman representations as a man with a goat's ears, tail, legs, and horns.",
+        "examples": [
+          "The statue depicted a satyr playing a flute.",
+          "He was a lecherous old satyr who was always making inappropriate comments."
+        ]
+      },
+      {
+        "id": "g52w32",
+        "word": "savant",
+        "meaning": "A learned person, especially a distinguished scientist.",
+        "examples": [
+          "He was a savant in the field of artificial intelligence.",
+          "The lecture was given by a renowned savant from Harvard University."
+        ]
+      },
+      {
+        "id": "g52w33",
+        "word": "save face",
+        "meaning": "To avoid humiliation.",
+        "examples": [
+          "He tried to save face by pretending he had meant to make a mistake.",
+          "The company offered a generous settlement to save face after the product recall."
+        ]
+      },
+      {
+        "id": "g52w34",
+        "word": "savor",
+        "meaning": "Taste (good food or drink) and enjoy it to the full.",
+        "examples": [
+          "She savored every moment of her vacation.",
+          "He savored the taste of the expensive wine."
+        ]
+      },
+      {
+        "id": "g52w35",
+        "word": "savvy",
+        "meaning": "Shrewdness and practical knowledge; the ability to make good judgments.",
+        "examples": [
+          "She has a lot of business savvy.",
+          "He is a savvy investor who knows how to make money."
+        ]
+      },
+      {
+        "id": "g52w36",
+        "word": "scant",
+        "meaning": "Barely sufficient or adequate.",
+        "examples": [
+          "The evidence against him was scant.",
+          "She paid scant attention to his advice."
+        ]
+      },
+      {
+        "id": "g52w37",
+        "word": "scanty",
+        "meaning": "Small or insufficient in quantity or amount.",
+        "examples": [
+          "The refugees had only scanty supplies of food and water.",
+          "The information she provided was scanty and not very helpful."
+        ]
+  
+      },
+      {
+        "id": "g52w38",
+        "word": "scapegoat",
+        "meaning": "A person who is blamed for the wrongdoings, mistakes, or faults of others, especially for reasons of expediency.",
+        "examples": [
+          "He was made a scapegoat for the company's failures.",
+          "She was tired of being the scapegoat for all her family's problems."
+        ]
+      },
+      {
+        "id": "g52w39",
+        "word": "scathing",
+        "meaning": "Witheringly scornful; severely critical.",
+        "examples": [
+          "She gave him a scathing look of contempt.",
+          "The book review was a scathing attack on the author's work."
+        ]
+      },
+      {
+        "id": "g52w40",
+        "word": "scattered",
+        "meaning": "Occurring or found at intervals or various locations rather than all together.",
+        "examples": [
+          "There were scattered showers throughout the day.",
+          "His clothes were scattered all over the floor."
+        ]
+      },
+      {
+        "id": "g52w41",
+        "word": "schadenfreude",
+        "meaning": "Pleasure derived by someone from another person's misfortune.",
+        "examples": [
+          "She couldn't help but feel a sense of schadenfreude when her rival lost the competition.",
+          "He took a malicious schadenfreude in his neighbor's bad luck."
+        ]
+      },
+      {
+        "id": "g52w42",
+        "word": "schematic",
+        "meaning": "(of a diagram or other representation) symbolic and simplified.",
+        "examples": [
+          "The engineer drew a schematic diagram of the new engine.",
+          "The book provides a schematic overview of the country's history."
+        ]
+      },
+      {
+        "id": "g52w43",
+        "word": "schism",
+        "meaning": "A split or division between strongly opposed sections or parties, caused by differences in opinion or belief.",
+        "examples": [
+          "The schism between the two factions of the party was irreparable.",
+          "The Great Schism of 1054 divided the Christian church into two."
+        ]
+      },
+      {
+        "id": "g52w44",
+        "word": "scintilla",
+        "meaning": "A tiny trace or spark of a specified quality or feeling.",
+        "examples": [
+          "There was not a scintilla of evidence to support his claim.",
+          "She felt a scintilla of hope that he might change his mind."
+        ]
+      },
+      {
+        "id": "g52w45",
+        "word": "scintillating",
+        "meaning": "Sparkling or shining brightly.",
+        "examples": [
+          "She was a scintillating conversationalist who could talk about any subject.",
+          "The diamond necklace was scintillating under the lights."
+        ]
+      },
+      {
+        "id": "g52w46",
+        "word": "scion",
+        "meaning": "A descendant of a notable family.",
+        "examples": [
+          "He was the scion of a wealthy banking family.",
+          "She was the scion of a long line of politicians."
+        ]
+      },
+      {
+        "id": "g52w47",
+        "word": "sclerotic",
+        "meaning": "Becoming rigid and unresponsive; losing the ability to adapt.",
+        "examples": [
+          "The company's sclerotic bureaucracy was hindering its progress.",
+          "He had a sclerotic and inflexible attitude."
+        ]
+      },
+      {
+        "id": "g52w48",
+        "word": "scoff",
+        "meaning": "Speak to someone or about something in a scornfully derisive or mocking way.",
+        "examples": [
+          "He scoffed at her suggestion, calling it ridiculous.",
+          "The critics scoffed at his latest film."
+        ]
+      },
+      {
+        "id": "g52w49",
+        "word": "scofflaw",
+        "meaning": "A person who flouts the law, especially one who fails to pay fines owed.",
+        "examples": [
+          "The city is cracking down on scofflaws who don't pay their parking tickets.",
+          "He was a known scofflaw who had a long history of breaking the law."
+        ]
+      },
+      {
+        "id": "g52w50",
+        "word": "scorn",
+        "meaning": "The feeling or belief that someone or something is worthless or despicable; contempt.",
+        "examples": [
+          "She looked at him with scorn and disgust.",
+          "He had nothing but scorn for people who were lazy."
+        ]
+      },
+      {
+        "id": "g52w51",
+        "word": "scotch",
+        "meaning": "Decisively put an end to.",
+        "examples": [
+          "The rumor was quickly scotched by the official statement.",
+          "He scotched her hopes of a reconciliation."
+        ]
+      },
+      {
+        "id": "g52w52",
+        "word": "screed",
+        "meaning": "A long speech or piece of writing, typically one regarded as tedious.",
+        "examples": [
+          "He sent me a long screed about the injustices of the world.",
+          "The politician's speech was a tedious screed of platitudes."
+        ]
+      },
+      {
+        "id": "g52w53",
+        "word": "scrupulous",
+        "meaning": "(of a person or process) diligent, thorough, and extremely attentive to details.",
+        "examples": [
+          "She was a scrupulous accountant who never made a mistake.",
+          "The research was conducted with scrupulous attention to detail."
+        ]
+      },
+      {
+        "id": "g52w54",
+        "word": "scrutinize",
+        "meaning": "Examine or inspect closely and thoroughly.",
+        "examples": [
+          "The lawyer scrutinized the contract for any loopholes.",
+          "She scrutinized his face, trying to read his expression."
+        ]
+      },
+      {
+        "id": "g52w55",
+        "word": "scuffle",
+        "meaning": "A short, confused fight or struggle at close quarters.",
+        "examples": [
+          "A scuffle broke out between two fans at the football game.",
+          "The police arrived to break up the scuffle."
+        ]
+      },
+      {
+        "id": "g52w56",
+        "word": "scurrilous",
+        "meaning": "Making or spreading scandalous claims about someone with the intention of damaging their reputation.",
+        "examples": [
+          "The newspaper published a scurrilous article about the politician.",
+          "He was the victim of a scurrilous rumor campaign."
+        ]
+      },
+      {
+        "id": "g52w57",
+        "word": "scurry",
+        "meaning": "(of a person or small animal) move hurriedly with short quick steps.",
+        "examples": [
+          "The mouse scurried across the floor.",
+          "The children scurried off to play."
+        ]
+      },
+      {
+        "id": "g52w58",
+        "word": "scurvy",
+        "meaning": "A disease caused by a deficiency of vitamin C, characterized by swollen bleeding gums and the opening of previously healed wounds, which particularly affected poorly nourished sailors until the end of the 18th century.",
+        "examples": [
+          "Sailors on long voyages used to suffer from scurvy.",
+          "He called him a scurvy knave."
+        ]
+      },
+      {
+        "id": "g52w59",
+        "word": "scuttle",
+        "meaning": "Run hurriedly or furtively with short quick steps.",
+        "examples": [
+          "The crab scuttled sideways across the sand.",
+          "The ship was scuttled to prevent it from falling into enemy hands."
+        ]
+      },
+      {
+        "id": "g52w60",
+        "word": "secrete",
+        "meaning": "(of a cell, gland, or organ) produce and discharge (a substance).",
+        "examples": [
+          "The pancreas secretes insulin.",
+          "He secreted the stolen money in a hidden compartment."
+        ]
+      }
+    ]
+  }

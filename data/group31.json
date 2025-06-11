@@ -1,0 +1,545 @@
+{
+    "id": "group31",
+    "words": [
+      {
+        "id": "g31w1",
+        "word": "incongruous",
+        "meaning": "Not in harmony or keeping with the surroundings or other aspects of something; out of place.",
+        "examples": [
+          "The modern glass skyscraper looked incongruous next to the historic stone church.",
+          "His cheerful smile was incongruous with the somber mood of the funeral."
+        ]
+      },
+      {
+        "id": "g31w2",
+        "word": "inconsequential",
+        "meaning": "Not important or significant.",
+        "examples": [
+          "The details he was arguing about were completely inconsequential to the main issue.",
+          "They spent the afternoon discussing inconsequential matters."
+        ]
+      },
+      {
+        "id": "g31w3",
+        "word": "inconstancy",
+        "meaning": "The quality of being changeable and unreliable; fickleness.",
+        "examples": [
+          "Her inconstancy in friendships meant she had few long-term companions.",
+          "The inconstancy of the weather made it difficult to plan the outdoor wedding."
+        ]
+      },
+      {
+        "id": "g31w4",
+        "word": "incontrovertible",
+        "meaning": "Not able to be denied or disputed.",
+        "examples": [
+          "The DNA evidence provided incontrovertible proof of his guilt.",
+          "It is an incontrovertible fact that the Earth is round."
+        ]
+      },
+      {
+        "id": "g31w5",
+        "word": "incorporate",
+        "meaning": "To take in or contain (something) as part of a whole; include.",
+        "examples": [
+          "We will incorporate your feedback into the final version of the report.",
+          "The new car design incorporates several advanced safety features."
+        ]
+      },
+      {
+        "id": "g31w6",
+        "word": "incorrigible",
+        "meaning": "(Of a person or their tendencies) not able to be corrected, improved, or reformed.",
+        "examples": [
+          "He was an incorrigible optimist, always seeing the bright side of things.",
+          "The student's incorrigible habit of talking in class led to his detention."
+        ]
+      },
+      {
+        "id": "g31w7",
+        "word": "incredulous",
+        "meaning": "(Of a person or their manner) unwilling or unable to believe something.",
+        "examples": [
+          "She gave him an incredulous stare when he claimed he'd seen a UFO.",
+          "He was incredulous at the news of his unexpected lottery win."
+        ]
+      },
+      {
+        "id": "g31w8",
+        "word": "incubation",
+        "meaning": "The process of keeping something at the right temperature and under the right conditions so it can develop.",
+        "examples": [
+          "The incubation period for this virus is approximately two weeks.",
+          "Successful incubation of the chicken eggs requires a constant temperature."
+        ]
+      },
+      {
+        "id": "g31w9",
+        "word": "inculcate",
+        "meaning": "To instill (an attitude, idea, or habit) by persistent instruction.",
+        "examples": [
+          "The coach tried to inculcate a sense of discipline and teamwork in his players.",
+          "It is the parents' job to inculcate values like honesty in their children."
+        ]
+      },
+      {
+        "id": "g31w10",
+        "word": "incumbent",
+        "meaning": "Necessary for (someone) as a duty or responsibility; currently holding office.",
+        "examples": [
+          "It is incumbent upon all citizens to vote in the election.",
+          "The incumbent mayor is running for a second term."
+        ]
+      },
+      {
+        "id": "g31w11",
+        "word": "incursion",
+        "meaning": "An invasion or attack, especially a sudden or brief one.",
+        "examples": [
+          "The army was prepared to repel any military incursion into their territory.",
+          "There was a sudden incursion of ants into our kitchen."
+        ]
+      },
+      {
+        "id": "g31w12",
+        "word": "indebted",
+        "meaning": "Owing gratitude for a service or favor.",
+        "examples": [
+          "I am deeply indebted to you for your kindness and support during a difficult time.",
+          "She felt forever indebted to the stranger who had saved her dog."
+        ]
+      },
+      {
+        "id": "g31w13",
+        "word": "indecorous",
+        "meaning": "Not in keeping with good taste and propriety; improper.",
+        "examples": [
+          "His indecorous jokes were inappropriate for the formal dinner party.",
+          "Shouting during the solemn ceremony was highly indecorous."
+        ]
+      },
+      {
+        "id": "g31w14",
+        "word": "indefatigable",
+        "meaning": "(Of a person or their efforts) persisting tirelessly.",
+        "examples": [
+          "She was an indefatigable fundraiser for the children's hospital.",
+          "His indefatigable spirit was an inspiration to the entire team."
+        ]
+      },
+      {
+        "id": "g31w15",
+        "word": "indelible",
+        "meaning": "Not able to be forgotten or removed.",
+        "examples": [
+          "The tragic events of that day left an indelible mark on his soul.",
+          "Her visit to the Grand Canyon was an indelible experience."
+        ]
+      },
+      {
+        "id": "g31w16",
+        "word": "indeterminate",
+        "meaning": "Not exactly known, established, or defined.",
+        "examples": [
+          "He was sentenced to an indeterminate period of three to five years in prison.",
+          "The artist's work is of an indeterminate style, blending several influences."
+        ]
+      },
+      {
+        "id": "g31w17",
+        "word": "Indian summer",
+        "meaning": "A period of unseasonably warm, dry weather that sometimes occurs in autumn.",
+        "examples": [
+          "We enjoyed a beautiful Indian summer in late October, with sunny days perfect for hiking.",
+          "The unexpected Indian summer gave the farmers more time to harvest their crops."
+        ]
+      },
+      {
+        "id": "g31w18",
+        "word": "indict",
+        "meaning": "To formally accuse of or charge with a serious crime.",
+        "examples": [
+          "The grand jury is expected to indict the former executive on charges of fraud.",
+          "He was indicted for his alleged involvement in the conspiracy."
+        ]
+      },
+      {
+        "id": "g31w19",
+        "word": "indictment",
+        "meaning": "A formal charge or accusation of a serious crime; a thing that serves to condemn.",
+        "examples": [
+          "The grand jury issued an indictment against the company for tax evasion.",
+          "The high unemployment rate is a sad indictment of the government's economic policies."
+        ]
+      },
+      {
+        "id": "g31w20",
+        "word": "indifference",
+        "meaning": "Lack of interest, concern, or sympathy.",
+        "examples": [
+          "His complete indifference to her suffering was what hurt the most.",
+          "She feigned indifference, but secretly she was anxious about the result."
+        ]
+      },
+      {
+        "id": "g31w21",
+        "word": "indifferent",
+        "meaning": "Having no particular interest or sympathy; unconcerned.",
+        "examples": [
+          "He was indifferent to politics and never voted.",
+          "Sadly, many people are indifferent to the plight of endangered species."
+        ]
+      },
+      {
+        "id": "g31w22",
+        "word": "indigence",
+        "meaning": "A state of extreme poverty; destitution.",
+        "examples": [
+          "The charity works to relieve indigence in developing countries.",
+          "Born into indigence, he worked hard to become a successful businessman."
+        ]
+      },
+      {
+        "id": "g31w23",
+        "word": "indigenous",
+        "meaning": "Originating or occurring naturally in a particular place; native.",
+        "examples": [
+          "The Maori are the indigenous people of New Zealand.",
+          "This type of cactus is indigenous to the desert regions of North America."
+        ]
+      },
+      {
+        "id": "g31w24",
+        "word": "indigent",
+        "meaning": "Poor; needy.",
+        "examples": [
+          "The local shelter provides food and housing for indigent individuals.",
+          "The legal aid society offers free services to indigent clients."
+        ]
+      },
+      {
+        "id": "g31w25",
+        "word": "indignant",
+        "meaning": "Feeling or showing anger or annoyance at what is perceived as unfair treatment.",
+        "examples": [
+          "She wrote an indignant letter to the editor about the misleading article.",
+          "He was indignant at being wrongly accused of theft."
+        ]
+      },
+      {
+        "id": "g31w26",
+        "word": "indignation",
+        "meaning": "Anger or annoyance provoked by what is perceived as unfair treatment.",
+        "examples": [
+          "The news of the corruption scandal was met with public indignation.",
+          "She was filled with indignation at the blatant injustice of the verdict."
+        ]
+      },
+      {
+        "id": "g31w27",
+        "word": "indiscriminate",
+        "meaning": "Done at random or without careful judgment.",
+        "examples": [
+          "The dictator's regime was known for its indiscriminate violence against its own people.",
+          "The indiscriminate use of antibiotics can lead to resistant bacteria."
+        ]
+      },
+      {
+        "id": "g31w28",
+        "word": "indispensable",
+        "meaning": "Absolutely necessary.",
+        "examples": [
+          "A reliable internet connection is indispensable for anyone working from home.",
+          "He made himself indispensable to the company with his unique skills."
+        ]
+      },
+      {
+        "id": "g31w29",
+        "word": "indoctrinate",
+        "meaning": "To teach (a person or group) to accept a set of beliefs uncritically.",
+        "examples": [
+          "The totalitarian regime tried to indoctrinate the youth with its state-sponsored propaganda.",
+          "Cults often indoctrinate their new members to ensure their complete loyalty."
+        ]
+      },
+      {
+        "id": "g31w30",
+        "word": "indolent",
+        "meaning": "Wanting to avoid activity or exertion; lazy.",
+        "examples": [
+          "He spent an indolent afternoon napping in the hammock.",
+          "Her indolent habits prevented her from achieving her goals."
+        ]
+      },
+      {
+        "id": "g31w31",
+        "word": "indomitable",
+        "meaning": "Impossible to subdue or defeat.",
+        "examples": [
+          "The small country had an indomitable spirit and refused to surrender.",
+          "She faced her illness with indomitable courage."
+        ]
+      },
+      {
+        "id": "g31w32",
+        "word": "induce",
+        "meaning": "To succeed in persuading or influencing (someone) to do something; to bring about.",
+        "examples": [
+          "No amount of money could induce him to compromise his principles.",
+          "The doctor decided to induce labor as the baby was overdue."
+        ]
+      },
+      {
+        "id": "g31w33",
+        "word": "indulge",
+        "meaning": "To allow oneself to enjoy the pleasure of something.",
+        "examples": [
+          "After a long week, she decided to indulge in a relaxing bubble bath.",
+          "It's okay to indulge your craving for chocolate every once in a while."
+        ]
+      },
+      {
+        "id": "g31w34",
+        "word": "industrious",
+        "meaning": "Diligent and hard-working.",
+        "examples": [
+          "The industrious student consistently earned top grades.",
+          "Bees are known for being industrious insects."
+        ]
+      },
+      {
+        "id": "g31w35",
+        "word": "inebriated",
+        "meaning": "Drunk; intoxicated.",
+        "examples": [
+          "He was arrested for driving while inebriated.",
+          "The party guests became loud and inebriated as the night progressed."
+        ]
+      },
+      {
+        "id": "g31w36",
+        "word": "ineffable",
+        "meaning": "Too great or extreme to be expressed or described in words.",
+        "examples": [
+          "The beauty of the northern lights was ineffable.",
+          "She felt a sense of ineffable joy at the birth of her first child."
+        ]
+      },
+      {
+        "id": "g31w37",
+        "word": "ineffectual",
+        "meaning": "Not producing any or the desired effect.",
+        "examples": [
+          "His attempts to repair the broken vase were ineffectual.",
+          "The prime minister was criticized for his ineffectual leadership during the crisis."
+        ]
+      },
+      {
+        "id": "g31w38",
+        "word": "ineluctable",
+        "meaning": "Unable to be resisted or avoided; inescapable.",
+        "examples": [
+          "He was facing the ineluctable consequences of his poor decisions.",
+          "The ineluctable passage of time waits for no one."
+        ]
+      },
+      {
+        "id": "g31w39",
+        "word": "inept",
+        "meaning": "Having or showing no skill; clumsy.",
+        "examples": [
+          "His inept handling of the customer's complaint only made the situation worse.",
+          "I am completely inept when it comes to assembling furniture."
+        ]
+      },
+      {
+        "id": "g31w40",
+        "word": "inequity",
+        "meaning": "Lack of fairness or justice.",
+        "examples": [
+          "The new law aims to address the systemic inequity in the healthcare system.",
+          "Protesters were marching against social and economic inequity."
+        ]
+      },
+      {
+        "id": "g31w41",
+        "word": "inerrancy",
+        "meaning": "The quality of being free from error.",
+        "examples": [
+          "Some people believe in the literal inerrancy of their holy scriptures.",
+          "The scientist questioned the supposed inerrancy of the previous study's conclusions."
+        ]
+      },
+      {
+        "id": "g31w42",
+        "word": "inert",
+        "meaning": "Lacking the ability or strength to move; lacking active chemical properties.",
+        "examples": [
+          "He lay there, an inert figure on the sofa, after the exhausting marathon.",
+          "Helium is an inert gas, which means it does not react with other elements."
+        ]
+      },
+      {
+        "id": "g31w43",
+        "word": "inestimable",
+        "meaning": "Too great to calculate.",
+        "examples": [
+          "The historical artifacts in the museum are of inestimable value.",
+          "Her contribution to the success of the project was inestimable."
+        ]
+      },
+      {
+        "id": "g31w44",
+        "word": "inevitable",
+        "meaning": "Certain to happen; unavoidable.",
+        "examples": [
+          "After the company's huge losses, job cuts were inevitable.",
+          "Change is an inevitable part of life."
+        ]
+      },
+      {
+        "id": "g31w45",
+        "word": "inexorable",
+        "meaning": "Impossible to stop or prevent.",
+        "examples": [
+          "The inexorable advance of the glacier reshaped the landscape.",
+          "He pleaded with his father, but the decision was inexorable."
+        ]
+      },
+      {
+        "id": "g31w46",
+        "word": "inextricable",
+        "meaning": "Impossible to disentangle or separate.",
+        "examples": [
+          "The country's economic problems are inextricable from its political instability.",
+          "He found himself caught in an inextricable web of lies."
+        ]
+      },
+      {
+        "id": "g31w47",
+        "word": "infallible",
+        "meaning": "Incapable of making mistakes or being wrong.",
+        "examples": [
+          "No human is infallible; everyone makes mistakes.",
+          "He had an infallible memory for names and faces."
+        ]
+      },
+      {
+        "id": "g31w48",
+        "word": "infamous",
+        "meaning": "Well known for some bad quality or deed.",
+        "examples": [
+          "The dictator was infamous for his cruelty.",
+          "The town is infamous for its high crime rate."
+        ]
+      },
+      {
+        "id": "g31w49",
+        "word": "infer",
+        "meaning": "To deduce or conclude (information) from evidence and reasoning rather than from explicit statements.",
+        "examples": [
+          "From her tone of voice, I could infer that she was not happy with the news.",
+          "Scientists can infer the composition of a star by analyzing its light."
+        ]
+      },
+      {
+        "id": "g31w50",
+        "word": "infiltrate",
+        "meaning": "To enter or gain access to (an organization, place, etc.) surreptitiously and gradually, especially in order to acquire secret information.",
+        "examples": [
+          "The spy was trained to infiltrate the enemy's command center.",
+          "The reporter managed to infiltrate the secret meeting."
+        ]
+      },
+      {
+        "id": "g31w51",
+        "word": "infinitesimal",
+        "meaning": "Extremely small.",
+        "examples": [
+          "The chance of winning the grand prize was infinitesimal.",
+          "An atom is an infinitesimal particle of matter."
+        ]
+      },
+      {
+        "id": "g31w52",
+        "word": "inflammable",
+        "meaning": "Easily set on fire.",
+        "examples": [
+          "Gasoline is a highly inflammable liquid and must be handled with care.",
+          "Warning signs indicated that the warehouse contained inflammable materials."
+        ]
+      },
+      {
+        "id": "g31w53",
+        "word": "inflicted",
+        "meaning": "Caused (something unpleasant or painful) to be suffered by someone or something.",
+        "examples": [
+          "The hurricane inflicted widespread damage on the coastal communities.",
+          "The wounds inflicted during the battle were severe."
+        ]
+      },
+      {
+        "id": "g31w54",
+        "word": "influx",
+        "meaning": "An arrival or entry of large numbers of people or things.",
+        "examples": [
+          "The small town experienced a sudden influx of tourists during the festival.",
+          "There has been a huge influx of foreign investment into the country's tech sector."
+        ]
+      },
+      {
+        "id": "g31w55",
+        "word": "inform",
+        "meaning": "To give (someone) facts or information; to give an essential or formative principle or quality to.",
+        "examples": [
+          "Please inform your manager of any changes to your schedule.",
+          "His deep-seated values inform every decision he makes."
+        ]
+      },
+      {
+        "id": "g31w56",
+        "word": "infraction",
+        "meaning": "A violation or infringement of a law, agreement, or set of rules.",
+        "examples": [
+          "He received a ticket for a minor traffic infraction.",
+          "Any infraction of the school's code of conduct will result in disciplinary action."
+        ]
+      },
+      {
+        "id": "g31w57",
+        "word": "infuse",
+        "meaning": "To fill or pervade; to soak in liquid to extract the flavor or healing properties.",
+        "examples": [
+          "The coach's passionate speech infused the team with confidence.",
+          "To make the herbal tea, infuse the dried leaves in hot water for five minutes."
+        ]
+      },
+      {
+        "id": "g31w58",
+        "word": "ingenious",
+        "meaning": "(Of a person) clever, original, and inventive.",
+        "examples": [
+          "She came up with an ingenious solution to the complicated problem.",
+          "He built an ingenious device out of spare parts."
+        ]
+      },
+      {
+        "id": "g31w59",
+        "word": "ingenue",
+        "meaning": "An innocent or unsophisticated young woman, especially in a play or film.",
+        "examples": [
+          "The actress was often typecast as the sweet, wide-eyed ingenue.",
+          "Her first major role was that of a naive ingenue from the countryside who moves to the big city."
+        ]
+      },
+      {
+        "id": "g31w60",
+        "word": "ingenuity",
+        "meaning": "The quality of being clever, original, and inventive.",
+        "examples": [
+          "It took a great deal of ingenuity to solve the complex puzzle.",
+          "The engineer was praised for her ingenuity in designing the fuel-efficient engine."
+        ]
+      }
+    ]
+  }

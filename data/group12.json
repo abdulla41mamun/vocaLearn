@@ -1,0 +1,547 @@
+{
+    "id": "group12",
+    "words": [
+      {
+        "id": "g12w1",
+        "word": "conferred",
+        "meaning": "Past tense of confer; granted or bestowed (a title, degree, benefit, or right).",
+        "examples": [
+          "The university conferred an honorary doctorate upon the distinguished author.",
+          "After the meeting, they conferred among themselves to reach a decision."
+        ]
+      },
+      {
+        "id": "g12w2",
+        "word": "confidant(e)",
+        "meaning": "A person with whom one shares a secret or private matter, trusting them not to repeat it to others.",
+        "examples": [
+          "She was my closest confidante, and I told her everything.",
+          "A true confidant is hard to find."
+        ]
+      },
+      {
+        "id": "g12w3",
+        "word": "confidential",
+        "meaning": "Intended to be kept secret.",
+        "examples": [
+          "The document contained confidential information about the company's plans.",
+          "He spoke in a confidential tone, sharing a private secret."
+        ]
+      },
+      {
+        "id": "g12w4",
+        "word": "confine",
+        "meaning": "To keep or restrict someone or something within certain limits of space, scope, or time.",
+        "examples": [
+          "Please confine your remarks to the topic at hand.",
+          "The prisoners were confined to their cells for 23 hours a day."
+        ]
+      },
+      {
+        "id": "g12w5",
+        "word": "confiscate",
+        "meaning": "To take or seize (someone's property) with authority.",
+        "examples": [
+          "The teacher will confiscate any phones used during the exam.",
+          "Customs officials confiscated the illegal goods."
+        ]
+      },
+      {
+        "id": "g12w6",
+        "word": "conflagration",
+        "meaning": "An extensive fire which destroys a great deal of land or property.",
+        "examples": [
+          "The conflagration raged for days, destroying an entire forest.",
+          "A small spark can lead to a massive conflagration."
+        ]
+      },
+      {
+        "id": "g12w7",
+        "word": "conflate",
+        "meaning": "To combine (two or more texts, ideas, etc.) into one.",
+        "examples": [
+          "It is a mistake to conflate the two different issues.",
+          "The report conflates correlation with causation, leading to a flawed conclusion."
+        ]
+      },
+      {
+        "id": "g12w8",
+        "word": "confound",
+        "meaning": "To cause surprise or confusion in (someone), especially by acting against their expectations.",
+        "examples": [
+          "The magician's tricks continued to confound the audience.",
+          "The unexpected test results will confound the scientists."
+        ]
+      },
+      {
+        "id": "g12w9",
+        "word": "confront",
+        "meaning": "To meet (someone) face to face with hostile or argumentative intent.",
+        "examples": [
+          "She decided to confront her coworker about the stolen ideas.",
+          "It is time to confront the difficult problems we face as a society."
+        ]
+      },
+      {
+        "id": "g12w10",
+        "word": "confrontation",
+        "meaning": "A hostile or argumentative meeting or situation between opposing parties.",
+        "examples": [
+          "He would rather avoid a direct confrontation with his boss.",
+          "The protest led to a violent confrontation with the police."
+        ]
+      },
+      {
+        "id": "g12w11",
+        "word": "congenial",
+        "meaning": "(Of a person) pleasant because of a personality, qualities, or interests that are similar to one's own.",
+        "examples": [
+          "We spent a relaxing afternoon with congenial friends.",
+          "The town is a congenial place to raise a family."
+        ]
+      },
+      {
+        "id": "g12w12",
+        "word": "conglomerate",
+        "meaning": "A large corporation formed by the merging of separate and diverse firms.",
+        "examples": [
+          "The media conglomerate owns newspapers, television stations, and movie studios.",
+          "It's a massive conglomerate with interests in oil, retail, and telecommunications."
+        ]
+      },
+      {
+        "id": "g12w13",
+        "word": "congruent",
+        "meaning": "In agreement or harmony; identical in form.",
+        "examples": [
+          "His actions were not congruent with his words.",
+          "In geometry, congruent triangles have the same size and shape."
+        ]
+      },
+      {
+        "id": "g12w14",
+        "word": "conifer",
+        "meaning": "A tree that bears cones and needle-like or scale-like leaves, typically evergreen.",
+        "examples": [
+          "Pine and fir trees are types of conifer.",
+          "The forest was dense with tall conifers."
+        ]
+      },
+      {
+        "id": "g12w15",
+        "word": "conjectural",
+        "meaning": "Based on or involving conjecture; speculative.",
+        "examples": [
+          "The biography is highly conjectural, as few facts are known about the subject's early life.",
+          "Any conclusions drawn from the incomplete data would be purely conjectural."
+        ]
+      },
+      {
+        "id": "g12w16",
+        "word": "conjecture",
+        "meaning": "An opinion or conclusion formed on the basis of incomplete information.",
+        "examples": [
+          "The cause of the crash is pure conjecture at this point.",
+          "He conjectured that the company would soon go bankrupt."
+        ]
+      },
+      {
+        "id": "g12w17",
+        "word": "conjugal",
+        "meaning": "Relating to marriage or the relationship of a married couple.",
+        "examples": [
+          "The couple celebrated 50 years of conjugal bliss.",
+          "The prisoner was denied conjugal visits."
+        ]
+      },
+      {
+        "id": "g12w18",
+        "word": "conjure",
+        "meaning": "To make (something) appear unexpectedly or seemingly from nowhere as if by magic.",
+        "examples": [
+          "The chef could conjure up a delicious meal from just a few ingredients.",
+          "The name of the old town conjured up images of cobbled streets and ancient castles."
+        ]
+      },
+      {
+        "id": "g12w19",
+        "word": "conniving",
+        "meaning": "Given to or involved in conspiring to do something immoral, illegal, or harmful.",
+        "examples": [
+          "He was a conniving politician who would do anything to gain power.",
+          "The conniving salesman tricked the elderly couple into buying a worthless product."
+        ]
+      },
+      {
+        "id": "g12w20",
+        "word": "connoisseur",
+        "meaning": "An expert judge in matters of taste.",
+        "examples": [
+          "He was a connoisseur of fine wines.",
+          "She is a connoisseur of modern art."
+        ]
+      },
+      {
+        "id": "g12w21",
+        "word": "connote",
+        "meaning": "(Of a word) to imply or suggest (an idea or feeling) in addition to the literal or primary meaning.",
+        "examples": [
+          "For many people, the word 'home' connotes feelings of warmth and security.",
+          "The term 'politician' can connote a sense of distrust."
+        ]
+      },
+      {
+        "id": "g12w22",
+        "word": "connubial",
+        "meaning": "Relating to marriage or the relationship of a married couple; conjugal.",
+        "examples": [
+          "They enjoyed many years of connubial happiness.",
+          "The photograph captured a moment of connubial affection."
+        ]
+      },
+      {
+        "id": "g12w23",
+        "word": "conscientious",
+        "meaning": "Wishing to do one's work or duty well and thoroughly.",
+        "examples": [
+          "She is a conscientious student who always completes her assignments on time.",
+          "He was conscientious about following the doctor's orders."
+        ]
+      },
+      {
+        "id": "g12w24",
+        "word": "conscript",
+        "meaning": "To enlist (someone) compulsorily, typically into the armed services.",
+        "examples": [
+          "He was conscripted into the army during the war.",
+          "The government had to conscript men to fight in the long conflict."
+        ]
+      },
+      {
+        "id": "g12w25",
+        "word": "consecrate",
+        "meaning": "To make or declare (something, typically a church) sacred; dedicate formally to a religious or divine purpose.",
+        "examples": [
+          "The new cathedral was consecrated by the archbishop.",
+          "She decided to consecrate her life to helping the poor."
+        ]
+      },
+      {
+        "id": "g12w26",
+        "word": "consensus",
+        "meaning": "A general agreement.",
+        "examples": [
+          "The committee was unable to reach a consensus on the issue.",
+          "There is a growing consensus that the climate is changing."
+        ]
+      },
+      {
+        "id": "g12w27",
+        "word": "consequential",
+        "meaning": "Following as a result or effect; important or significant.",
+        "examples": [
+          "The consequential damages from the flood were enormous.",
+          "It was a consequential decision that would affect the entire company."
+        ]
+      },
+      {
+        "id": "g12w28",
+        "word": "consign",
+        "meaning": "To deliver (something) to a person's custody, typically in order for it to be sold.",
+        "examples": [
+          "She consigned her old furniture to a local auction house.",
+          "The artist consigned his paintings to the gallery."
+        ]
+      },
+      {
+        "id": "g12w29",
+        "word": "console",
+        "meaning": "To comfort (someone) at a time of grief or disappointment.",
+        "examples": [
+          "I tried to console her after her pet died.",
+          "He was consoled by the support of his friends and family."
+        ]
+      },
+      {
+        "id": "g12w30",
+        "word": "consolidate",
+        "meaning": "To combine (a number of things) into a single more effective or coherent whole.",
+        "examples": [
+          "The company plans to consolidate its operations into one central office.",
+          "She consolidated her loans to get a lower interest rate."
+        ]
+      },
+      {
+        "id": "g12w31",
+        "word": "consonant",
+        "meaning": "In agreement or harmony with.",
+        "examples": [
+          "His actions were consonant with his beliefs.",
+          "The punishment was consonant with the severity of the crime."
+        ]
+      },
+      {
+        "id": "g12w32",
+        "word": "conspicuous",
+        "meaning": "Standing out so as to be clearly visible; attracting notice or attention.",
+        "examples": [
+          "He was conspicuous by his absence.",
+          "She wore a conspicuous bright red coat."
+        ]
+      },
+      {
+        "id": "g12w33",
+        "word": "conspire",
+        "meaning": "To make secret plans jointly to commit an unlawful or harmful act.",
+        "examples": [
+          "The group conspired to overthrow the government.",
+          "They were accused of conspiring to commit fraud."
+        ]
+      },
+      {
+        "id": "g12w34",
+        "word": "consternation",
+        "meaning": "A feeling of anxiety or dismay, typically at something unexpected.",
+        "examples": [
+          "To her consternation, her wallet was missing.",
+          "The announcement was met with consternation by the employees."
+        ]
+      },
+      {
+        "id": "g12w35",
+        "word": "constituent",
+        "meaning": "A component part of something; a voter in a particular area.",
+        "examples": [
+          "Water is a major constituent of the human body.",
+          "The politician met with his constituents to discuss their concerns."
+        ]
+      },
+      {
+        "id": "g12w36",
+        "word": "constraint",
+        "meaning": "A limitation or restriction.",
+        "examples": [
+          "We had to work within the constraints of a tight budget.",
+          "Time constraints made it impossible to finish the project."
+        ]
+      },
+      {
+        "id": "g12w37",
+        "word": "constrict",
+        "meaning": "To make narrower, especially by encircling pressure.",
+        "examples": [
+          "The tight collar began to constrict his breathing.",
+          "Fear constricted her throat, making it hard to speak."
+        ]
+      },
+      {
+        "id": "g12w38",
+        "word": "construe",
+        "meaning": "To interpret (a word or action) in a particular way.",
+        "examples": [
+          "His silence was construed as agreement.",
+          "Her comments were wrongly construed as a criticism."
+        ]
+      },
+      {
+        "id": "g12w39",
+        "word": "consummate",
+        "meaning": "Showing a high degree of skill and flair; complete or perfect.",
+        "examples": [
+          "She was a consummate professional in every aspect of her work.",
+          "He played the role with consummate skill."
+        ]
+  
+      },
+      {
+        "id": "g12w40",
+        "word": "consumption",
+        "meaning": "The action of using up a resource.",
+        "examples": [
+          "The country needs to reduce its consumption of fossil fuels.",
+          "The consumption of sugary drinks has been linked to obesity."
+        ]
+      },
+      {
+        "id": "g12w41",
+        "word": "contempt",
+        "meaning": "The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.",
+        "examples": [
+          "He showed his contempt for the rules by breaking them.",
+          "She looked at him with utter contempt."
+        ]
+      },
+      {
+        "id": "g12w42",
+        "word": "contemptuous",
+        "meaning": "Showing contempt; scornful.",
+        "examples": [
+          "He gave a contemptuous laugh at my suggestion.",
+          "She was contemptuous of people who were not as intelligent as she was."
+        ]
+      },
+      {
+        "id": "g12w43",
+        "word": "contend",
+        "meaning": "To struggle to surmount (a difficulty or danger); to assert something as a position in an argument.",
+        "examples": [
+          "The team had to contend with several injuries.",
+          "He contends that the new law will do more harm than good."
+        ]
+      },
+      {
+        "id": "g12w44",
+        "word": "contention",
+        "meaning": "Heated disagreement; an assertion, especially one maintained in argument.",
+        "examples": [
+          "The point has been a source of contention for years.",
+          "It is my contention that the defendant is innocent."
+        ]
+      },
+      {
+        "id": "g12w45",
+        "word": "contentious",
+        "meaning": "Causing or likely to cause an argument; controversial.",
+        "examples": [
+          "Abortion is a highly contentious issue.",
+          "He is a contentious person who loves to argue."
+        ]
+      },
+      {
+        "id": "g12w46",
+        "word": "contextualize",
+        "meaning": "To place or study in context.",
+        "examples": [
+          "It is important to contextualize the historical event to understand its significance.",
+          "The introduction helps to contextualize the main arguments of the book."
+        ]
+      },
+      {
+        "id": "g12w47",
+        "word": "contiguous",
+        "meaning": "Sharing a common border; touching.",
+        "examples": [
+          "The 48 contiguous states of the USA.",
+          "Their properties are contiguous, separated only by a small stream."
+        ]
+      },
+      {
+        "id": "g12w48",
+        "word": "continence",
+        "meaning": "The ability to control movements of the bowels and bladder; self-restraint.",
+        "examples": [
+          "The patient was suffering from a loss of continence.",
+          "He admired her for her continence in the face of temptation."
+        ]
+      },
+      {
+        "id": "g12w49",
+        "word": "contingent",
+        "meaning": "Subject to chance; dependent on.",
+        "examples": [
+          "Our plans are contingent on the weather.",
+          "The success of the project is contingent upon securing adequate funding."
+        ]
+      },
+      {
+        "id": "g12w50",
+        "word": "contort",
+        "meaning": "To twist or bend out of its normal shape.",
+        "examples": [
+          "His face contorted in agony.",
+          "The gymnast could contort her body into amazing positions."
+        ]
+  
+      },
+      {
+        "id": "g12w51",
+        "word": "contraries",
+        "meaning": "The opposite; a proposition so related to another that they cannot both be true.",
+        "examples": [
+          "Love and hate are contraries.",
+          "The candidate's statements were full of contraries and inconsistencies."
+        ]
+      },
+      {
+        "id": "g12w52",
+        "word": "contravene",
+        "meaning": "To violate or go against (a law, treaty, or code of conduct).",
+        "examples": [
+          "The company's actions contravened international law.",
+          "To contravene the school rules would result in suspension."
+        ]
+      },
+      {
+        "id": "g12w53",
+        "word": "contretemps",
+        "meaning": "A minor dispute or disagreement; an unexpected and unfortunate occurrence.",
+        "examples": [
+          "We had a little contretemps over the bill, but it was soon resolved.",
+          "A slight contretemps delayed the start of the meeting."
+        ]
+      },
+      {
+        "id": "g12w54",
+        "word": "contrite",
+        "meaning": "Feeling or expressing remorse or penitence; affected by guilt.",
+        "examples": [
+          "He was contrite after his angry outburst and apologized.",
+          "She wrote a contrite letter of apology."
+        ]
+      },
+      {
+        "id": "g12w55",
+        "word": "contrition",
+        "meaning": "The state of feeling remorseful and penitent.",
+        "examples": [
+          "He showed no contrition for his crimes.",
+          "Filled with contrition, he promised never to do it again."
+        ]
+      },
+      {
+        "id": "g12w56",
+        "word": "contrive",
+        "meaning": "To create or bring about (an object or a situation) by deliberate use of skill and artifice.",
+        "examples": [
+          "He contrived a plan to escape from prison.",
+          "She contrived a clever way to solve the problem."
+        ]
+      },
+      {
+        "id": "g12w57",
+        "word": "controversial",
+        "meaning": "Giving rise or likely to give rise to public disagreement.",
+        "examples": [
+          "The new law is highly controversial.",
+          "He is a controversial figure in politics."
+        ]
+      },
+      {
+        "id": "g12w58",
+        "word": "contumacious",
+        "meaning": "(Especially of a defendant's behavior) stubbornly or willfully disobedient to authority.",
+        "examples": [
+          "The judge warned the contumacious witness to answer the questions.",
+          "His contumacious refusal to cooperate landed him in jail."
+        ]
+      },
+      {
+        "id": "g12w59",
+        "word": "conundrum",
+        "meaning": "A confusing and difficult problem or question.",
+        "examples": [
+          "The politician was faced with the conundrum of how to reduce taxes without cutting services.",
+          "The source of the mysterious noise remains a conundrum."
+        ]
+      },
+      {
+        "id": "g12w60",
+        "word": "convalescent",
+        "meaning": "(Of a person) recovering from an illness or medical treatment.",
+        "examples": [
+          "He is in a convalescent home, recovering from his surgery.",
+          "The convalescent patient needed plenty of rest and good nutrition."
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,545 @@
+{
+    "id": "group41",
+    "words": [
+      {
+        "id": "g41w1",
+        "word": "onomatopoeia",
+        "meaning": "The formation of a word from a sound associated with what is named.",
+        "examples": [
+          "The children giggled at the onomatopoeia in the comic book, with its 'bam' and 'pow'.",
+          "Words like 'buzz' and 'murmur' are examples of onomatopoeia."
+        ]
+      },
+      {
+        "id": "g41w2",
+        "word": "onslaught",
+        "meaning": "A fierce or destructive attack.",
+        "examples": [
+          "The small village was unprepared for the relentless onslaught of the invading army.",
+          "She faced a constant onslaught of questions from the media."
+        ]
+      },
+      {
+        "id": "g41w3",
+        "word": "onus",
+        "meaning": "The responsibility or duty to do something.",
+        "examples": [
+          "The onus is on the prosecution to prove his guilt.",
+          "She carried the onus of supporting her entire family."
+        ]
+      },
+      {
+        "id": "g41w4",
+        "word": "opalescent",
+        "meaning": "Exhibiting a milky iridescence like that of an opal.",
+        "examples": [
+          "The morning sky had an opalescent sheen.",
+          "She wore a stunning necklace with an opalescent pendant."
+        ]
+      },
+      {
+        "id": "g41w5",
+        "word": "opaque",
+        "meaning": "Not able to be seen through; not transparent.",
+        "examples": [
+          "The opaque windows prevented anyone from looking inside.",
+          "His legal jargon was dense and opaque to the average person."
+        ]
+      },
+      {
+        "id": "g41w6",
+        "word": "opiate",
+        "meaning": "A drug containing opium or its derivatives, used in medicine for inducing sleep and relieving pain.",
+        "examples": [
+          "The doctor prescribed a mild opiate to manage the patient's post-surgery pain.",
+          "For some, television is an opiate that dulls the senses to reality."
+        ]
+      },
+      {
+        "id": "g41w7",
+        "word": "opine",
+        "meaning": "To state one's opinion.",
+        "examples": [
+          "The critic was quick to opine about the film's many flaws.",
+          "He would often opine on political matters, whether anyone asked him to or not."
+        ]
+      },
+      {
+        "id": "g41w8",
+        "word": "opportune",
+        "meaning": "Well-chosen or particularly favorable or appropriate.",
+        "examples": [
+          "He waited for the opportune moment to ask for a raise.",
+          "The arrival of the package was opportune, just as she was running out of supplies."
+        ]
+      },
+      {
+        "id": "g41w9",
+        "word": "opportunism",
+        "meaning": "The taking of opportunities as and when they arise, regardless of planning or principle.",
+        "examples": [
+          "His political career was marked by shameless opportunism.",
+          "She was accused of opportunism when she switched her support to the winning team."
+        ]
+      },
+      {
+        "id": "g41w10",
+        "word": "opportunist",
+        "meaning": "A person who exploits circumstances to gain immediate advantage rather than being guided by principles.",
+        "examples": [
+          "The opportunist changed his political allegiance to gain favor with the new government.",
+          "He was a ruthless opportunist who would do anything to get ahead."
+        ]
+      },
+      {
+        "id": "g41w11",
+        "word": "opprobrious",
+        "meaning": "Expressing scorn or criticism.",
+        "examples": [
+          "The politician was subjected to opprobrious attacks from his opponents.",
+          "He shouted opprobrious insults at the referee."
+        ]
+      },
+      {
+        "id": "g41w12",
+        "word": "opprobrium",
+        "meaning": "Harsh criticism or censure.",
+        "examples": [
+          "The celebrity faced public opprobrium after the scandal was revealed.",
+          "His decision was met with widespread opprobrium."
+        ]
+      },
+      {
+        "id": "g41w13",
+        "word": "optician",
+        "meaning": "A person qualified to make and supply eyeglasses and contact lenses for correction of vision.",
+        "examples": [
+          "The optician helped me choose a new pair of frames.",
+          "I need to see an optician to get my prescription filled."
+        ]
+      },
+      {
+        "id": "g41w14",
+        "word": "optimal",
+        "meaning": "Best or most favorable.",
+        "examples": [
+          "The engineers worked to find the optimal design for the new bridge.",
+          "For optimal results, you should follow the instructions carefully."
+        ]
+      },
+      {
+        "id": "g41w15",
+        "word": "optimal or optimum",
+        "meaning": "Both words mean the best or most favorable point, degree, amount, etc.",
+        "examples": [
+          "We are searching for the optimal/optimum solution to this problem.",
+          "The plant grows best under optimal/optimum conditions."
+        ]
+      },
+      {
+        "id": "g41w16",
+        "word": "optimum",
+        "meaning": "Most conducive to a favorable outcome; best.",
+        "examples": [
+          "The team is working at its optimum level.",
+          "The chef aims for the optimum blend of spices in his dishes."
+        ]
+      },
+      {
+        "id": "g41w17",
+        "word": "optometrist",
+        "meaning": "A person who practices optometry, examining the eyes for visual defects and prescribing corrective lenses.",
+        "examples": [
+          "My optometrist told me I needed a stronger prescription for my glasses.",
+          "It's important to have regular check-ups with an optometrist."
+        ]
+      },
+      {
+        "id": "g41w18",
+        "word": "opulence",
+        "meaning": "Great wealth or luxuriousness.",
+        "examples": [
+          "The opulence of the palace was breathtaking.",
+          "They lived a life of unimaginable opulence."
+        ]
+      },
+      {
+        "id": "g41w19",
+        "word": "opulent",
+        "meaning": "Ostentatiously rich and luxurious or lavish.",
+        "examples": [
+          "He hosted an opulent party at his mansion.",
+          "The hotel was known for its opulent decor."
+        ]
+      },
+      {
+        "id": "g41w20",
+        "word": "opus",
+        "meaning": "A separate composition or set of compositions by a particular composer, usually ordered by date of publication.",
+        "examples": [
+          "The composer's final opus was a masterpiece.",
+          "Beethoven's Opus 27 is one of his most famous works."
+        ]
+      },
+      {
+        "id": "g41w21",
+        "word": "oration",
+        "meaning": "A formal speech, especially one given on a ceremonial occasion.",
+        "examples": [
+          "He delivered a powerful oration at the graduation ceremony.",
+          "The funeral oration moved everyone to tears."
+        ]
+      },
+      {
+        "id": "g41w22",
+        "word": "oratorio",
+        "meaning": "A large-scale musical work for orchestra and voices, typically a narrative on a religious theme, performed without the use of costumes, scenery, or action.",
+        "examples": [
+          "Handel's 'Messiah' is a famous oratorio.",
+          "The choir will perform an oratorio this Christmas."
+        ]
+      },
+      {
+        "id": "g41w23",
+        "word": "ordinance",
+        "meaning": "An authoritative order; a decree.",
+        "examples": [
+          "The city council passed an ordinance banning smoking in public parks.",
+          "A new ordinance was enacted to regulate traffic."
+        ]
+      },
+      {
+        "id": "g41w24",
+        "word": "orientation",
+        "meaning": "The action of orienting someone or something relative to the points of a compass or other specified positions.",
+        "examples": [
+          "The new employees attended an orientation session.",
+          "Her political orientation shifted over time."
+        ]
+      },
+      {
+        "id": "g41w25",
+        "word": "orifice",
+        "meaning": "An opening, as of a pipe or tube, or one in the body, such as a nostril or the mouth.",
+        "examples": [
+          "The surgeon carefully cleaned the orifice of the wound.",
+          "A small orifice allowed the gas to escape."
+        ]
+      },
+      {
+        "id": "g41w26",
+        "word": "originate",
+        "meaning": "Have a specified beginning.",
+        "examples": [
+          "The tradition of decorating Christmas trees is thought to have originated in Germany.",
+          "The rumor originated from an anonymous source."
+        ]
+      },
+      {
+        "id": "g41w27",
+        "word": "ornate",
+        "meaning": "Made in an intricate shape or decorated with complex patterns.",
+        "examples": [
+          "The ornate architecture of the cathedral was stunning.",
+          "She wore an ornate necklace with her evening gown."
+        ]
+      },
+      {
+        "id": "g41w28",
+        "word": "ornery",
+        "meaning": "Bad-tempered and combative.",
+        "examples": [
+          "The ornery old man yelled at the children to get off his lawn.",
+          "He was in an ornery mood all day."
+        ]
+      },
+      {
+        "id": "g41w29",
+        "word": "ornithologist",
+        "meaning": "An expert in ornithology, the branch of zoology that deals with birds.",
+        "examples": [
+          "The ornithologist spent years studying the migratory patterns of birds.",
+          "She is a renowned ornithologist and has published several books on the subject."
+        ]
+      },
+      {
+        "id": "g41w30",
+        "word": "ornithology",
+        "meaning": "The scientific study of birds.",
+        "examples": [
+          "He developed an interest in ornithology at a young age.",
+          "Ornithology is a fascinating field of study."
+        ]
+      },
+      {
+        "id": "g41w31",
+        "word": "orthodox",
+        "meaning": "Conforming to what is generally or traditionally accepted as right or true; established and approved.",
+        "examples": [
+          "He held orthodox views on religion.",
+          "The doctor recommended an orthodox treatment for the illness."
+        ]
+      },
+      {
+        "id": "g41w32",
+        "word": "orthography",
+        "meaning": "The conventional spelling system of a language.",
+        "examples": [
+          "English orthography can be very confusing for learners.",
+          "The book discusses the history of English orthography."
+        ]
+      },
+      {
+        "id": "g41w33",
+        "word": "oscillate",
+        "meaning": "Move or swing back and forth at a regular speed.",
+        "examples": [
+          "The fan began to oscillate, cooling the entire room.",
+          "His mood would oscillate between excitement and despair."
+        ]
+      },
+      {
+        "id": "g41w34",
+        "word": "oscillation",
+        "meaning": "Movement back and forth at a regular speed.",
+        "examples": [
+          "The oscillation of the pendulum was mesmerizing to watch.",
+          "There was a noticeable oscillation in the stock market."
+        ]
+      },
+      {
+        "id": "g41w35",
+        "word": "ossified",
+        "meaning": "Having turned into bone or bony tissue; having become rigid or fixed in attitude or position.",
+        "examples": [
+          "His political opinions had become ossified over the years.",
+          "The organization's rules were too ossified to allow for any innovation."
+        ]
+      },
+      {
+        "id": "g41w36",
+        "word": "ossify",
+        "meaning": "Turn into bone or bony tissue; cease developing and become rigid.",
+        "examples": [
+          "The cartilage will eventually ossify and become bone.",
+          "Their attitudes had started to ossify, and they were resistant to change."
+        ]
+      },
+      {
+        "id": "g41w37",
+        "word": "ostensible",
+        "meaning": "Stated or appearing to be true, but not necessarily so.",
+        "examples": [
+          "The ostensible reason for his visit was to see his aunt, but his real purpose was to borrow money.",
+          "His ostensible calm hid a great deal of anxiety."
+        ]
+      },
+      {
+        "id": "g41w38",
+        "word": "ostensible or ostensive",
+        "meaning": "Both words mean stated or appearing to be true, but not necessarily so.",
+        "examples": [
+          "The ostensible/ostensive purpose of the meeting was to discuss the budget.",
+          "She made an ostensible/ostensive show of support for her rival."
+        ]
+      },
+      {
+        "id": "g41w39",
+        "word": "ostentatious",
+        "meaning": "Characterized by vulgar or pretentious display; designed to impress or attract notice.",
+        "examples": [
+          "He made an ostentatious display of his wealth.",
+          "She wore an ostentatious diamond necklace to the party."
+        ]
+      },
+      {
+        "id": "g41w40",
+        "word": "ostracism",
+        "meaning": "Exclusion from a society or group.",
+        "examples": [
+          "He faced social ostracism after his controversial remarks.",
+          "The fear of ostracism can be a powerful motivator."
+        ]
+      },
+      {
+        "id": "g41w41",
+        "word": "ostracize",
+        "meaning": "Exclude (someone) from a society or group.",
+        "examples": [
+          "The other children would ostracize him because of his strange habits.",
+          "She was ostracized by her community for her unconventional beliefs."
+        ]
+      },
+      {
+        "id": "g41w42",
+        "word": "ostracized",
+        "meaning": "Excluded from a society or group.",
+        "examples": [
+          "The ostracized student ate lunch alone every day.",
+          "He felt completely ostracized by his former friends."
+        ]
+      },
+      {
+        "id": "g41w43",
+        "word": "otiose",
+        "meaning": "Serving no practical purpose or result.",
+        "examples": [
+          "His otiose remarks added nothing to the conversation.",
+          "The committee's recommendations were deemed otiose and were ignored."
+        ]
+      },
+      {
+        "id": "g41w44",
+        "word": "oust",
+        "meaning": "Drive out or expel (someone) from a position or place.",
+        "examples": [
+          "The rebels attempted to oust the dictator from power.",
+          "He was ousted from his position as CEO after the scandal."
+        ]
+      },
+      {
+        "id": "g41w45",
+        "word": "out of one's depth",
+        "meaning": "In a situation that is too difficult to handle.",
+        "examples": [
+          "I felt completely out of my depth in the advanced physics class.",
+          "He was clearly out of his depth in the negotiations."
+        ]
+      },
+      {
+        "id": "g41w46",
+        "word": "out of the frying pan into the fire",
+        "meaning": "From a bad situation to a worse one.",
+        "examples": [
+          "When I tried to fix the leak myself, I went from out of the frying pan into the fire; the whole pipe burst.",
+          "He quit his stressful job only to find himself in a much more demanding one, a classic case of out of the frying pan into the fire."
+        ]
+      },
+      {
+        "id": "g41w47",
+        "word": "out on a limb",
+        "meaning": "In a risky or uncertain position.",
+        "examples": [
+          "I'm going out on a limb and predicting that our team will win the championship.",
+          "He went out on a limb to defend his friend's controversial actions."
+        ]
+      },
+      {
+        "id": "g41w48",
+        "word": "outgrowth",
+        "meaning": "A result or consequence of something.",
+        "examples": [
+          "The new policy is an outgrowth of the recent public protests.",
+          "His artistic style is an outgrowth of his early training."
+        ]
+      },
+      {
+        "id": "g41w49",
+        "word": "outlandish",
+        "meaning": "Looking or sounding bizarre or unfamiliar.",
+        "examples": [
+          "She wore an outlandish outfit to the party.",
+          "His outlandish stories were hard to believe."
+        ]
+      },
+      {
+        "id": "g41w50",
+        "word": "outmoded",
+        "meaning": "Old-fashioned.",
+        "examples": [
+          "The company's outmoded technology was holding it back.",
+          "His outmoded ideas were not popular with the younger generation."
+        ]
+      },
+      {
+        "id": "g41w51",
+        "word": "outset",
+        "meaning": "The start or beginning of something.",
+        "examples": [
+          "From the outset, it was clear that the project would be a success.",
+          "We need to establish clear goals at the outset."
+        ]
+      },
+      {
+        "id": "g41w52",
+        "word": "outstrip",
+        "meaning": "Move faster than and overtake (someone else).",
+        "examples": [
+          "The company's sales have outstripped all expectations.",
+          "He worked hard to outstrip his rivals."
+        ]
+      },
+      {
+        "id": "g41w53",
+        "word": "overhaul",
+        "meaning": "Take apart (a piece of machinery or equipment) in order to examine it and repair it if necessary.",
+        "examples": [
+          "The mechanic had to overhaul the car's engine.",
+          "The government plans to overhaul the healthcare system."
+        ]
+      },
+      {
+        "id": "g41w54",
+        "word": "overshadow",
+        "meaning": "Tower above and cast a shadow over.",
+        "examples": [
+          "His recent success was overshadowed by the scandal.",
+          "The tall buildings overshadow the small park."
+        ]
+      },
+      {
+        "id": "g41w55",
+        "word": "overt",
+        "meaning": "Done or shown openly; plainly or readily apparent, not secret or hidden.",
+        "examples": [
+          "He showed overt hostility towards his opponent.",
+          "There was no overt discrimination, but she still felt unwelcome."
+        ]
+      },
+      {
+        "id": "g41w56",
+        "word": "overture",
+        "meaning": "An introduction to something more substantial.",
+        "examples": [
+          "The opera began with a beautiful overture.",
+          "He made a peaceful overture to his rival."
+        ]
+      },
+      {
+        "id": "g41w57",
+        "word": "overweening",
+        "meaning": "Showing excessive confidence or pride.",
+        "examples": [
+          "His overweening ambition led to his downfall.",
+          "She had an overweening sense of her own importance."
+        ]
+      },
+      {
+        "id": "g41w58",
+        "word": "overwrought",
+        "meaning": "In a state of nervous excitement or anxiety.",
+        "examples": [
+          "She was overwrought with grief after her husband's death.",
+          "The overwrought prose of the novel was difficult to read."
+        ]
+      },
+      {
+        "id": "g41w59",
+        "word": "pacific",
+        "meaning": "Peaceful in character or intent.",
+        "examples": [
+          "He had a pacific temperament and avoided conflict.",
+          "The two nations signed a pacific agreement."
+        ]
+      },
+      {
+        "id": "g41w60",
+        "word": "pacify",
+        "meaning": "Quell the anger, agitation, or excitement of.",
+        "examples": [
+          "The mother tried to pacify her crying child with a toy.",
+          "The government attempted to pacify the protesters with promises of reform."
+        ]
+      }
+    ]
+  }

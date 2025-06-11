@@ -1,0 +1,545 @@
+{
+    "id": "group10",
+    "words": [
+      {
+        "id": "g10w1",
+        "word": "checkered",
+        "meaning": "Marked by numerous and varied successes and failures or problems; having a pattern of alternating squares of different colors.",
+        "examples": [
+          "He has had a checkered career with many ups and downs.",
+          "The red and white checkered tablecloth was perfect for the picnic."
+        ]
+      },
+      {
+        "id": "g10w2",
+        "word": "cherish",
+        "meaning": "To protect and care for (someone or something) lovingly; to hold (something) dear.",
+        "examples": [
+          "I will always cherish the memories of our time together.",
+          "She cherishes her grandmother's antique jewelry."
+        ]
+      },
+      {
+        "id": "g10w3",
+        "word": "chicanery",
+        "meaning": "The use of trickery to achieve a political, financial, or legal purpose.",
+        "examples": [
+          "The investigation revealed a web of political chicanery and corruption.",
+          "He wasn't above using chicanery to win the case."
+        ]
+      },
+      {
+        "id": "g10w4",
+        "word": "chide",
+        "meaning": "To scold or rebuke.",
+        "examples": [
+          "She chided him for his bad manners.",
+          "The principal chided the students for being late."
+        ]
+      },
+      {
+        "id": "g10w5",
+        "word": "chimera",
+        "meaning": "A thing that is hoped or wished for but in fact is illusory or impossible to achieve.",
+        "examples": [
+          "His dream of a world without conflict was just a chimera.",
+          "The idea of a perpetual motion machine is a scientific chimera."
+        ]
+      },
+      {
+        "id": "g10w6",
+        "word": "chimerical",
+        "meaning": "Produced by a wildly fanciful imagination; fantastic or unreal.",
+        "examples": [
+          "She had a chimerical plan to build a castle in the clouds.",
+          "His fears were chimerical, based on imagination rather than reality."
+        ]
+      },
+      {
+        "id": "g10w7",
+        "word": "chip off the old block",
+        "meaning": "A person who is similar in character or behavior to one of their parents.",
+        "examples": [
+          "Like his father, he's a talented musician—a real chip off the old block.",
+          "She's a great negotiator, just like her mother. A chip off the old block."
+        ]
+      },
+      {
+        "id": "g10w8",
+        "word": "chivalrous",
+        "meaning": "(Of a man or his behavior) courteous and gallant, especially toward women.",
+        "examples": [
+          "It was very chivalrous of you to carry my bags.",
+          "He was a chivalrous knight who always defended the weak."
+        ]
+      },
+      {
+        "id": "g10w9",
+        "word": "chivalry",
+        "meaning": "The combination of qualities expected of an ideal knight, namely courage, honor, courtesy, justice, and a readiness to help the weak.",
+        "examples": [
+          "He still believes in the old-fashioned ideals of chivalry.",
+          "The knight was known for his bravery and chivalry."
+        ]
+      },
+      {
+        "id": "g10w10",
+        "word": "choleric",
+        "meaning": "Bad-tempered or irritable.",
+        "examples": [
+          "The choleric old man was always shouting at his neighbors.",
+          "He had a choleric disposition and was easily angered."
+        ]
+      },
+      {
+        "id": "g10w11",
+        "word": "chortle",
+        "meaning": "To laugh in a breathy, gleeful way; chuckle.",
+        "examples": [
+          "He let out a chortle of delight at the good news.",
+          "She chortled as she read the funny comic strip."
+        ]
+      },
+      {
+        "id": "g10w12",
+        "word": "chronological",
+        "meaning": "(Of a record of events) starting with the earliest and following the order in which they occurred.",
+        "examples": [
+          "Please arrange the files in chronological order.",
+          "The book provides a chronological account of the war."
+        ]
+      },
+      {
+        "id": "g10w13",
+        "word": "churlish",
+        "meaning": "Rude in a mean-spirited and surly way.",
+        "examples": [
+          "It would be churlish to refuse her generous offer.",
+          "He was a churlish and ungrateful guest."
+        ]
+      },
+      {
+        "id": "g10w14",
+        "word": "cinematic",
+        "meaning": "Relating to motion pictures; having qualities characteristic of movies.",
+        "examples": [
+          "The movie was praised for its stunning cinematic visuals.",
+          "The director has a very cinematic style of storytelling."
+        ]
+      },
+      {
+        "id": "g10w15",
+        "word": "circuitous",
+        "meaning": "(Of a route or journey) longer than the most direct way.",
+        "examples": [
+          "We took a circuitous route to avoid the traffic.",
+          "His explanation was circuitous and difficult to follow."
+        ]
+      },
+      {
+        "id": "g10w16",
+        "word": "circumlocution",
+        "meaning": "The use of many words where fewer would do, especially in a deliberate attempt to be vague or evasive.",
+        "examples": [
+          "The politician's speech was full of circumlocution and empty promises.",
+          "He used circumlocution to avoid answering the direct question."
+        ]
+      },
+      {
+        "id": "g10w17",
+        "word": "circumscribe",
+        "meaning": "To restrict (something) within limits.",
+        "examples": [
+          "The king's power was circumscribed by the new constitution.",
+          "Her activities were circumscribed by her strict upbringing."
+        ]
+      },
+      {
+        "id": "g10w18",
+        "word": "circumscribed",
+        "meaning": "Restricted within limits.",
+        "examples": [
+          "He lived a very circumscribed life, rarely leaving his small village.",
+          "The powers of the committee were clearly circumscribed."
+        ]
+      },
+      {
+        "id": "g10w19",
+        "word": "circumspect",
+        "meaning": "Wary and unwilling to take risks.",
+        "examples": [
+          "In this uncertain political climate, it is wise to be circumspect.",
+          "The diplomat was circumspect in his statements to the press."
+        ]
+      },
+      {
+        "id": "g10w20",
+        "word": "circumvent",
+        "meaning": "To find a way around (an obstacle); to overcome (a problem or difficulty), typically in a clever and surreptitious way.",
+        "examples": [
+          "They circumvented the rules by using a legal loophole.",
+          "The hacker was able to circumvent the security system."
+        ]
+      },
+      {
+        "id": "g10w21",
+        "word": "circumvents",
+        "meaning": "Third-person singular present tense of circumvent; finds a way around an obstacle.",
+        "examples": [
+          "She always circumvents her parents' strict rules.",
+          "The new software circumvents the need for manual data entry."
+        ]
+      },
+      {
+        "id": "g10w22",
+        "word": "claim",
+        "meaning": "To state or assert that something is the case, typically without providing evidence or proof.",
+        "examples": [
+          "He claimed that he had seen a UFO.",
+          "The company claims its product is the best on the market."
+        ]
+      },
+      {
+        "id": "g10w23",
+        "word": "clairvoyant",
+        "meaning": "A person who claims to have a supernatural ability to perceive events in the future or beyond normal sensory contact.",
+        "examples": [
+          "She went to a clairvoyant to find out what her future held.",
+          "The police consulted a clairvoyant in a desperate attempt to find the missing child."
+        ]
+      },
+      {
+        "id": "g10w24",
+        "word": "clamber",
+        "meaning": "To climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet.",
+        "examples": [
+          "The children clambered up the steep bank.",
+          "He clambered into the back of the truck."
+        ]
+      },
+      {
+        "id": "g10w25",
+        "word": "clamor",
+        "meaning": "A loud and confused noise, especially that of people shouting vehemently.",
+        "examples": [
+          "The clamor of the crowd was deafening.",
+          "There was a public clamor for his resignation."
+        ]
+      },
+      {
+        "id": "g10w26",
+        "word": "clamorous",
+        "meaning": "Making a loud and confused noise.",
+        "examples": [
+          "The clamorous protests could be heard from blocks away.",
+          "The marketplace was a clamorous and chaotic scene."
+        ]
+      },
+      {
+        "id": "g10w27",
+        "word": "clandestine",
+        "meaning": "Kept secret or done secretively, especially because illicit.",
+        "examples": [
+          "They held a clandestine meeting in the dead of night.",
+          "He was involved in a clandestine affair with his colleague."
+        ]
+      },
+      {
+        "id": "g10w28",
+        "word": "cleave",
+        "meaning": "To split or sever (something), especially along a natural line or grain; to stick fast to (something).",
+        "examples": [
+          "The butcher used a sharp knife to cleave the meat from the bone.",
+          "She continued to cleave to the traditions of her ancestors."
+        ]
+      },
+      {
+        "id": "g10w29",
+        "word": "clemency",
+        "meaning": "Mercy; lenience.",
+        "examples": [
+          "The prisoner pleaded for clemency from the judge.",
+          "The governor granted clemency to the condemned man."
+        ]
+      },
+      {
+        "id": "g10w30",
+        "word": "cliche",
+        "meaning": "A phrase or opinion that is overused and betrays a lack of original thought.",
+        "examples": [
+          "His speech was full of tired cliches like 'think outside the box'.",
+          "The movie's plot was a cliche we've all seen a hundred times."
+        ]
+      },
+      {
+        "id": "g10w31",
+        "word": "climatic",
+        "meaning": "Relating to climate.",
+        "examples": [
+          "The study analyzed long-term climatic trends.",
+          "Climatic conditions in the region are harsh."
+        ]
+      },
+      {
+        "id": "g10w32",
+        "word": "climax",
+        "meaning": "The most intense, exciting, or important point of something; a culmination or apex.",
+        "examples": [
+          "The movie reached its climax with a thrilling car chase.",
+          "The election campaign is building to a climax."
+        ]
+      },
+      {
+        "id": "g10w33",
+        "word": "clinch",
+        "meaning": "To confirm or settle (a contract or bargain) conclusively.",
+        "examples": [
+          "The team clinched the championship with a last-minute goal.",
+          "After weeks of negotiation, they finally clinched the deal."
+        ]
+      },
+      {
+        "id": "g10w34",
+        "word": "clique",
+        "meaning": "A small group of people, with shared interests or other features in common, who spend time together and do not readily allow others to join them.",
+        "examples": [
+          "The popular girls in high school had their own exclusive clique.",
+          "He was not accepted into the clique of established artists."
+        ]
+      },
+      {
+        "id": "g10w35",
+        "word": "cloak",
+        "meaning": "To hide, cover, or disguise (something).",
+        "examples": [
+          "He cloaked his true intentions behind a smile.",
+          "The company tried to cloak its financial problems in a veil of secrecy."
+        ]
+      },
+      {
+        "id": "g10w36",
+        "word": "cloister",
+        "meaning": "To seclude or shut up in or as if in a convent or monastery.",
+        "examples": [
+          "The nuns were cloistered away from the outside world.",
+          "He cloistered himself in his study to write his novel."
+        ]
+      },
+      {
+        "id": "g10w37",
+        "word": "clot",
+        "meaning": "To form a thickened mass of coagulated liquid, especially blood.",
+        "examples": [
+          "The medicine helps to prevent blood from clotting.",
+          "A blood clot in the brain can cause a stroke."
+        ]
+      },
+      {
+        "id": "g10w38",
+        "word": "cloying",
+        "meaning": "Disgusting or sickeningly sweet.",
+        "examples": [
+          "The dessert was so cloying I couldn't finish it.",
+          "Her cloying sentimentality was unbearable."
+        ]
+      },
+      {
+        "id": "g10w39",
+        "word": "clumsy",
+        "meaning": "Awkward in movement or in handling things.",
+        "examples": [
+          "He was a clumsy child who was always dropping things.",
+          "The clumsy waiter spilled soup all over me."
+        ]
+      },
+      {
+        "id": "g10w40",
+        "word": "coagulant",
+        "meaning": "A substance that causes a liquid, especially blood, to coagulate.",
+        "examples": [
+          "Rennet is a coagulant used in cheese making.",
+          "The doctor administered a coagulant to stop the bleeding."
+        ]
+      },
+      {
+        "id": "g10w41",
+        "word": "coagulate",
+        "meaning": "(Of a fluid, especially blood) to change to a solid or semi-solid state.",
+        "examples": [
+          "His blood began to coagulate after the wound was cleaned.",
+          "The egg whites will coagulate when you heat them."
+        ]
+      },
+      {
+        "id": "g10w42",
+        "word": "coalesce",
+        "meaning": "To come together to form one mass or whole.",
+        "examples": [
+          "The small streams coalesce to form a mighty river.",
+          "The different groups coalesced into a single political party."
+        ]
+      },
+      {
+        "id": "g10w43",
+        "word": "cocksure",
+        "meaning": "Presumptuously or arrogantly confident.",
+        "examples": [
+          "He was cocksure that he would win the race, but he came in last.",
+          "Her cocksure attitude annoyed her colleagues."
+        ]
+      },
+      {
+        "id": "g10w44",
+        "word": "coda",
+        "meaning": "A concluding event, remark, or section.",
+        "examples": [
+          "The concert ended with a brilliant coda.",
+          "In a surprising coda to his career, he became a successful painter."
+        ]
+      },
+      {
+        "id": "g10w45",
+        "word": "coddle",
+        "meaning": "To treat in an indulgent or overprotective way.",
+        "examples": [
+          "She coddled her youngest child, never letting him do anything for himself.",
+          "The coach refuses to coddle his players."
+        ]
+      },
+      {
+        "id": "g10w46",
+        "word": "codify",
+        "meaning": "To arrange (laws or rules) into a systematic code.",
+        "examples": [
+          "The government is working to codify the new regulations.",
+          "The ancient laws were codified into a single legal text."
+        ]
+      },
+      {
+        "id": "g10w47",
+        "word": "coerce",
+        "meaning": "To persuade (an unwilling person) to do something by using force or threats.",
+        "examples": [
+          "He was coerced into signing the confession.",
+          "The rebels coerced the villagers into supporting them."
+        ]
+      },
+      {
+        "id": "g10w48",
+        "word": "coerced",
+        "meaning": "Past tense of coerce; persuaded by force or threats.",
+        "examples": [
+          "The witness claimed he had been coerced into giving false testimony.",
+          "She felt coerced by her boss to work overtime without pay."
+        ]
+      },
+      {
+        "id": "g10w49",
+        "word": "coercion",
+        "meaning": "The practice of persuading someone to do something by using force or threats.",
+        "examples": [
+          "The confession was obtained through coercion.",
+          "He claimed he signed the contract under coercion."
+        ]
+      },
+      {
+        "id": "g10w50",
+        "word": "coercive",
+        "meaning": "Relating to or using force or threats.",
+        "examples": [
+          "The government was accused of using coercive tactics to silence dissent.",
+          "Coercive measures were taken to enforce the new law."
+        ]
+      },
+      {
+        "id": "g10w51",
+        "word": "coeval",
+        "meaning": "Having the same age or date of origin; contemporary.",
+        "examples": [
+          "The two ancient civilizations were coeval.",
+          "The poet was coeval with Shakespeare."
+        ]
+      },
+      {
+        "id": "g10w52",
+        "word": "coffer",
+        "meaning": "The funds or financial reserves of a group or institution.",
+        "examples": [
+          "The war had drained the nation's coffers.",
+          "The charity's coffers were empty after the fundraising scandal."
+        ]
+      },
+      {
+        "id": "g10w53",
+        "word": "cogent",
+        "meaning": "(Of an argument or case) clear, logical, and convincing.",
+        "examples": [
+          "She presented a cogent argument for why the project should be approved.",
+          "The lawyer's cogent reasoning persuaded the jury."
+        ]
+      },
+      {
+        "id": "g10w54",
+        "word": "cogitate",
+        "meaning": "To think deeply about something; meditate or reflect.",
+        "examples": [
+          "He sat by the fire, cogitating on the meaning of life.",
+          "She needed time to cogitate before making a decision."
+        ]
+      },
+      {
+        "id": "g10w55",
+        "word": "cognizance",
+        "meaning": "Knowledge, awareness, or notice.",
+        "examples": [
+          "The court must take cognizance of the new evidence.",
+          "He had no cognizance of the danger he was in."
+        ]
+      },
+      {
+        "id": "g10w56",
+        "word": "cognizant",
+        "meaning": "Having knowledge or being aware of.",
+        "examples": [
+          "He was cognizant of the risks involved in the venture.",
+          "She was fully cognizant of her rights."
+        ]
+      },
+      {
+        "id": "g1GW57",
+        "word": "coherence",
+        "meaning": "The quality of being logical and consistent.",
+        "examples": [
+          "The essay lacked coherence and was difficult to follow.",
+          "There needs to be greater coherence between the different government departments."
+        ]
+      },
+      {
+        "id": "g10w58",
+        "word": "coherent",
+        "meaning": "(Of an argument, theory, or policy) logical and consistent.",
+        "examples": [
+          "He proposed a coherent plan to reduce the national debt.",
+          "After the accident, he was not very coherent."
+        ]
+      },
+      {
+        "id": "g10w59",
+        "word": "cohesive",
+        "meaning": "Characterized by or causing cohesion; sticking together.",
+        "examples": [
+          "They are a cohesive team that works well together.",
+          "A strong leader can create a cohesive and motivated group."
+        ]
+      },
+      {
+        "id": "g10w60",
+        "word": "cohort",
+        "meaning": "A group of people banded together or treated as a group.",
+        "examples": [
+          "The study followed a cohort of students for ten years.",
+          "He and his cohorts were known for causing trouble."
+        ]
+      }
+    ]
+  }

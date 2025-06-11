@@ -1,0 +1,536 @@
+{
+    "id": "group37",
+    "words": [
+      {
+        "id": "g37w1",
+        "word": "meager",
+        "meaning": "Lacking in quantity or quality.",
+        "examples": [
+          "They survived on a meager diet of rice and beans.",
+          "The small village had only meager resources to combat the drought."
+        ]
+      },
+      {
+        "id": "g37w2",
+        "word": "meander",
+        "meaning": "To follow a winding course; to wander at random.",
+        "examples": [
+          "The river meanders gracefully through the valley.",
+          "We spent the afternoon meandering through the quaint, narrow streets of the old town."
+        ]
+      },
+      {
+        "id": "g37w3",
+        "word": "meddle",
+        "meaning": "To interfere in or busy oneself unduly with something that is not one's concern.",
+        "examples": [
+          "I wish my neighbor would stop meddling in my personal affairs.",
+          "He warned his brother not to meddle in his business."
+        ]
+      },
+      {
+        "id": "g37w4",
+        "word": "mediate",
+        "meaning": "To intervene in a dispute in order to bring about an agreement or reconciliation.",
+        "examples": [
+          "A neutral third party was brought in to mediate the conflict between the two nations.",
+          "She often had to mediate arguments between her two children."
+        ]
+      },
+      {
+        "id": "g37w5",
+        "word": "mediocre",
+        "meaning": "Of only moderate quality; not very good.",
+        "examples": [
+          "The restaurant's food was mediocre and overpriced.",
+          "He was a mediocre student who never really applied himself."
+        ]
+      },
+      {
+        "id": "g37w6",
+        "word": "megalomania",
+        "meaning": "An obsession with the exercise of power; a delusion about one's own power or importance.",
+        "examples": [
+          "The dictator's megalomania was evident in the giant statues he built of himself.",
+          "His belief that he alone could solve the world's problems was a clear sign of megalomania."
+        ]
+      },
+      {
+        "id": "g37w7",
+        "word": "melancholy",
+        "meaning": "A feeling of pensive sadness, typically with no obvious cause.",
+        "examples": [
+          "The gray, rainy weather filled him with a sense of melancholy.",
+          "The old song had a sweet, melancholy tune."
+        ]
+      },
+      {
+        "id": "g37w8",
+        "word": "melange",
+        "meaning": "A mixture or medley of different things.",
+        "examples": [
+          "The city's culture is a vibrant melange of Eastern and Western influences.",
+          "The dessert was a delightful melange of fruit, cream, and chocolate."
+        ]
+      },
+      {
+        "id": "g37w9",
+        "word": "meld",
+        "meaning": "To blend or combine to form a single entity.",
+        "examples": [
+          "The two companies decided to meld into one large corporation.",
+          "Her music manages to meld traditional folk with modern electronica."
+        ]
+      },
+      {
+        "id": "g37w10",
+        "word": "melee",
+        "meaning": "A confused fight, skirmish, or scuffle involving a number of people.",
+        "examples": [
+          "Several people were injured in the melee that erupted outside the stadium.",
+          "The police struggled to control the melee."
+        ]
+      },
+      {
+        "id": "g37w11",
+        "word": "mellifluous",
+        "meaning": "(Of a voice or words) sweet or musical; pleasant to hear.",
+        "examples": [
+          "The narrator's mellifluous voice made the audiobook a pleasure to listen to.",
+          "She spoke in mellifluous tones that could calm any situation."
+        ]
+      },
+      {
+        "id": "g37w12",
+        "word": "melodramatic",
+        "meaning": "Exaggerated, sensationalized, or overemotional in style or content.",
+        "examples": [
+          "She has a tendency to be melodramatic, turning every small problem into a major crisis.",
+          "His melodramatic speech was met with eye-rolls from the audience."
+        ]
+      },
+      {
+        "id": "g37w13",
+        "word": "membrane",
+        "meaning": "A thin, pliable sheet or layer of tissue that covers or lines a part of an organism.",
+        "examples": [
+          "The cell membrane protects the cell from its surroundings.",
+          "A waterproof jacket works by having a breathable membrane that keeps water out."
+        ]
+      },
+      {
+        "id": "g37w14",
+        "word": "menagerie",
+        "meaning": "A collection of wild animals kept in captivity for exhibition.",
+        "examples": [
+          "The eccentric duke kept a private menagerie on his estate.",
+          "The story is about a family that opens a small menagerie to the public."
+        ]
+      },
+      {
+        "id": "g37w15",
+        "word": "mend",
+        "meaning": "To repair something that is broken or damaged.",
+        "examples": [
+          "He tried to mend the broken chair leg with some glue.",
+          "It took a long time to mend their friendship after the argument."
+        ]
+      },
+      {
+        "id": "g37w16",
+        "word": "mendacious",
+        "meaning": "Not telling the truth; lying.",
+        "examples": [
+          "The mendacious politician was finally exposed by the press.",
+          "She was tired of his mendacious excuses for his behavior."
+        ]
+      },
+      {
+        "id": "g37w17",
+        "word": "mendacity",
+        "meaning": "Untruthfulness; the tendency to lie.",
+        "examples": [
+          "The public was outraged by the sheer mendacity of the official's statement.",
+          "He was a skilled con artist known for his charm and mendacity."
+        ]
+      },
+      {
+        "id": "g37w18",
+        "word": "mendicant",
+        "meaning": "A beggar; someone who lives by begging.",
+        "examples": [
+          "In some religious orders, friars take a vow of poverty and live as mendicants.",
+          "The streets of the old city were crowded with mendicants asking for alms."
+        ]
+      },
+      {
+        "id": "g37w19",
+        "word": "menial",
+        "meaning": "(Of work) not requiring much skill and lacking prestige.",
+        "examples": [
+          "He felt his talents were wasted on the menial tasks he was assigned.",
+          "In the past, domestic service was considered menial labor."
+        ]
+      },
+      {
+        "id": "g37w20",
+        "word": "mentor",
+        "meaning": "An experienced and trusted adviser.",
+        "examples": [
+          "A good mentor can be invaluable to a young professional's career.",
+          "She credits her success to the guidance of her mentor."
+        ]
+      },
+      {
+        "id": "g37w21",
+        "word": "mercenary",
+        "meaning": "A person primarily concerned with making money at the expense of ethics; a professional soldier hired to serve in a foreign army.",
+        "examples": [
+          "His motives were purely mercenary; he only cared about the payment.",
+          "The warlord hired a band of foreign mercenaries to fight for him."
+        ]
+      },
+      {
+        "id": "g37w22",
+        "word": "mercurial",
+        "meaning": "Subject to sudden or unpredictable changes of mood or mind.",
+        "examples": [
+          "Her mercurial temperament made her difficult to be around.",
+          "The mercurial actor was known for his brilliant but inconsistent performances."
+        ]
+      },
+      {
+        "id": "g37w23",
+        "word": "meretricious",
+        "meaning": "Apparently attractive but having in reality no value or integrity.",
+        "examples": [
+          "The jewelry was meretricious, made of cheap plastic and fake gems.",
+          "His argument was full of meretricious rhetoric that lacked any real substance."
+        ]
+      },
+      {
+        "id": "g37w24",
+        "word": "meritocracy",
+        "meaning": "A system in which advancement is based on individual ability or achievement.",
+        "examples": [
+          "The company claims to be a meritocracy, where the most talented employees get promoted.",
+          "In a true meritocracy, your background doesn't matter as much as your skills."
+        ]
+      },
+      {
+        "id": "g37w25",
+        "word": "meritorious",
+        "meaning": "Deserving reward or praise.",
+        "examples": [
+          "The soldier received a medal for his meritorious service.",
+          "The student's project was deemed meritorious by the judges."
+        ]
+      },
+      {
+        "id": "g37w26",
+        "word": "mesmerize",
+        "meaning": "To hold the attention of (someone) to the exclusion of all else; to transfix.",
+        "examples": [
+          "The magician's skillful tricks mesmerized the entire audience.",
+          "He was mesmerized by the beauty of the landscape."
+        ]
+      },
+      {
+        "id": "g37w27",
+        "word": "metamorphose",
+        "meaning": "To change or cause to change completely in form or nature.",
+        "examples": [
+          "The caterpillar will eventually metamorphose into a butterfly.",
+          "The quiet student metamorphosed into a confident public speaker."
+        ]
+      },
+      {
+        "id": "g37w28",
+        "word": "metamorphosis",
+        "meaning": "A change of the form or nature of a thing or person into a completely different one.",
+        "examples": [
+          "The book describes the protagonist's metamorphosis from a shy girl into a powerful leader.",
+          "The metamorphosis of a tadpole into a frog is a remarkable biological process."
+        ]
+      },
+      {
+        "id": "g37w29",
+        "word": "metaphorical",
+        "meaning": "Figurative; characteristic of or relating to metaphor.",
+        "examples": [
+          "When he said he had a 'broken heart,' he was speaking in a metaphorical sense.",
+          "The poem is rich with metaphorical language."
+        ]
+      },
+      {
+        "id": "g37w30",
+        "word": "metaphysical",
+        "meaning": "Relating to the branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, and cause.",
+        "examples": [
+          "The novel delves into metaphysical questions about the nature of reality.",
+          "John Donne is known as one of the great metaphysical poets."
+        ]
+      },
+      {
+        "id": "g37w31",
+        "word": "metaphysics",
+        "meaning": "The branch of philosophy that deals with the fundamental nature of reality and being.",
+        "examples": [
+          "He was a student of metaphysics, interested in questions of existence and consciousness.",
+          "Metaphysics explores concepts that are beyond the physical world."
+        ]
+      },
+      {
+        "id": "g37w32",
+        "word": "meteoric",
+        "meaning": "Characterized by a sudden and dramatic rise to fame or success.",
+        "examples": [
+          "The young actress had a meteoric rise to stardom.",
+          "The company's meteoric growth surprised everyone in the industry."
+        ]
+      },
+      {
+        "id": "g37w33",
+        "word": "meticulous",
+        "meaning": "Showing great attention to detail; very careful and precise.",
+        "examples": [
+          "He was a meticulous planner, leaving nothing to chance.",
+          "The artist's work was known for its meticulous detail."
+        ]
+      },
+      {
+        "id": "g37w34",
+        "word": "mettle",
+        "meaning": "A person's ability to cope well with difficulties; spirit and resilience.",
+        "examples": [
+          "The grueling training was a true test of the young soldier's mettle.",
+          "She showed her mettle by finishing the marathon despite an injury."
+        ]
+      },
+      {
+        "id": "g37w35",
+        "word": "miasma",
+        "meaning": "A highly unpleasant or unhealthy smell or vapor; an oppressive or unpleasant atmosphere.",
+        "examples": [
+          "A miasma of pollution hung over the industrial city.",
+          "He wanted to escape the miasma of corruption that pervaded the government."
+        ]
+      },
+      {
+        "id": "g37w36",
+        "word": "microcosm",
+        "meaning": "A miniature representation of the qualities and characteristics of a larger system or world.",
+        "examples": [
+          "The high school is a microcosm of the society outside its walls.",
+          "The diverse city was a microcosm of the entire country."
+        ]
+      },
+      {
+        "id": "g37w37",
+        "word": "mien",
+        "meaning": "A person's look or manner, especially one of a particular kind indicating their character or mood.",
+        "examples": [
+          "He had a gentle and reassuring mien.",
+          "Her cheerful mien made everyone feel at ease."
+        ]
+      },
+      {
+        "id": "g37w38",
+        "word": "milieu",
+        "meaning": "A person's social environment.",
+        "examples": [
+          "She grew up in a cultured milieu of artists and musicians.",
+          "He felt uncomfortable in the formal milieu of the embassy dinner."
+        ]
+      },
+      {
+        "id": "g37w39",
+        "word": "militate",
+        "meaning": "(Of a fact or circumstance) be a powerful or conclusive factor in preventing something.",
+        "examples": [
+          "His criminal record will militate against his chances of getting the job.",
+          "The lack of funding militated against the success of the project."
+        ]
+      },
+      {
+        "id": "g37w40",
+        "word": "milk",
+        "meaning": "To exploit or get as much money or advantage from someone or something as possible, often unfairly.",
+        "examples": [
+          "The company was accused of trying to milk its customers with hidden fees.",
+          "He milked the story of his minor injury for all the sympathy he could get."
+        ]
+      },
+      {
+        "id": "g37w41",
+        "word": "milquetoast",
+        "meaning": "A person who is timid, meek, or submissive.",
+        "examples": [
+          "The boss was looking for a strong leader, not a milquetoast who couldn't make decisions.",
+          "He was tired of being a milquetoast and decided to stand up for himself."
+        ]
+      },
+      {
+        "id": "g37w42",
+        "word": "mimetic",
+        "meaning": "Relating to, constituting, or habitually practicing imitation.",
+        "examples": [
+          "Parrots have impressive mimetic abilities.",
+          "Plato was critical of art for being merely mimetic of reality."
+        ]
+      },
+      {
+        "id": "g37w43",
+        "word": "mimic",
+        "meaning": "To imitate someone or their actions or words, especially for entertainment or ridicule.",
+        "examples": [
+          "The comedian was famous for his ability to mimic politicians.",
+          "Some insects mimic the appearance of leaves to avoid predators."
+        ]
+      },
+      {
+        "id": "g37w44",
+        "word": "mince",
+        "meaning": "To not speak plainly or directly, especially for the sake of politeness or to avoid causing offense.",
+        "examples": [
+          "The critic did not mince his words, calling the play a complete disaster.",
+          "Please don't mince your words; tell me exactly what you think."
+        ]
+      },
+      {
+        "id": "g37w45",
+        "word": "minion",
+        "meaning": "A follower or underling of a powerful person, especially a servile or unimportant one.",
+        "examples": [
+          "The evil sorcerer sent his minions to capture the princess.",
+          "The powerful CEO was always surrounded by a group of fawning minions."
+        ]
+      },
+      {
+        "id": "g37w46",
+        "word": "minuscule",
+        "meaning": "Extremely small; tiny.",
+        "examples": [
+          "The engraving was so minuscule it could only be read with a magnifying glass.",
+          "The risk of a serious side effect is minuscule."
+        ]
+      },
+      {
+        "id": "g37w47",
+        "word": "minute",
+        "meaning": "Extremely small (pronounced my-NOOT).",
+        "examples": [
+          "The scientist examined the minute organisms under the microscope.",
+          "She noticed a minute crack in the teacup."
+        ]
+      },
+      {
+        "id": "g37w48",
+        "word": "minutia",
+        "meaning": "A small, precise, or trivial detail of something. (Often used in the plural form 'minutiae').",
+        "examples": [
+          "He was a micromanager who obsessed over every minutia of the project.",
+          "Let's focus on the big picture and not get bogged down in the minutiae."
+        ]
+      },
+      {
+        "id": "g37w49",
+        "word": "mired",
+        "meaning": "Stuck in a difficult or unpleasant situation from which it is hard to escape.",
+        "examples": [
+          "The peace talks are mired in disagreement.",
+          "He found himself mired in debt after losing his job."
+        ]
+      },
+      {
+        "id": "g37w50",
+        "word": "mirth",
+        "meaning": "Amusement, especially as expressed in laughter.",
+        "examples": [
+          "The comedian's jokes filled the room with mirth.",
+          "Her eyes twinkled with mirth as she told the story."
+        ]
+      },
+      {
+        "id": "g37w51",
+        "word": "misanthrope",
+        "meaning": "A person who dislikes humankind and avoids human society.",
+        "examples": [
+          "The main character in the novel is a bitter old misanthrope.",
+          "He became a misanthrope after years of betrayal and disappointment."
+        ]
+      },
+      {
+        "id": "g37w52",
+        "word": "misanthrope or misanthropist",
+        "meaning": "A person who dislikes or distrusts humankind.",
+        "examples": [
+          "Only a true misanthrope would refuse to attend the community festival.",
+          "The cynical philosopher was often labeled a misanthropist."
+        ]
+      },
+      {
+        "id": "g37w53",
+        "word": "misanthropic",
+        "meaning": "Characterized by a dislike or distrust of humankind.",
+        "examples": [
+          "He had a misanthropic view of the world, believing everyone was selfish.",
+          "The author's later works became increasingly dark and misanthropic."
+        ]
+      },
+      {
+        "id": "g37w54",
+        "word": "misappropriate",
+        "meaning": "To dishonestly or unfairly take something (especially money) belonging to others for one's own use.",
+        "examples": [
+          "The accountant was fired for misappropriating company funds.",
+          "He was convicted of having misappropriated money from the charity."
+        ]
+      },
+      {
+        "id": "g37w55",
+        "word": "miscellany",
+        "meaning": "A group or collection of different items; a mixture.",
+        "examples": [
+          "The book is a charming miscellany of poems, short stories, and essays.",
+          "Her desk was covered with a miscellany of papers, pens, and books."
+        ]
+      },
+      {
+        "id": "g37w56",
+        "word": "misconstrue",
+        "meaning": "To interpret someone's words or actions wrongly.",
+        "examples": [
+          "I'm afraid you may have misconstrued my intentions.",
+          "His silence was misconstrued as a sign of guilt."
+        ]
+      },
+      {
+        "id": "g37w57",
+        "word": "miscreant",
+        "meaning": "A person who has done some wrongdoing or behaved badly.",
+        "examples": [
+          "The police are searching for the miscreants who vandalized the park.",
+          "In the old story, the hero captures the miscreant and brings him to justice."
+        ]
+      },
+      {
+        "id": "g37w58",
+        "word": "miser",
+        "meaning": "A person who hoards wealth and spends as little money as possible.",
+        "examples": [
+          "Despite his fortune, the old man was a miser who lived in poverty.",
+          "Ebenezer Scrooge is a famous fictional miser."
+        ]
+      },
+      {
+        "id": "g37w59",
+        "word": "miserly",
+        "meaning": "Of or characteristic of a miser; relating to or characteristic of a miser; pitiably small or inadequate.",
+        "examples": [
+          "He left a miserly tip for the hardworking waiter.",
+          "The company was criticized for its miserly wages."
+        ]
+      }
+    ]
+  }

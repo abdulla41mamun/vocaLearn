@@ -1,0 +1,545 @@
+{
+    "id": "group42",
+    "words": [
+      {
+        "id": "g42w1",
+        "word": "paean",
+        "meaning": "A song of praise or triumph.",
+        "examples": [
+          "The book is a paean to the beauty of the natural world.",
+          "The poet wrote a paean to his beloved city."
+        ]
+      },
+      {
+        "id": "g42w2",
+        "word": "painstaking",
+        "meaning": "Done with or employing great care and thoroughness.",
+        "examples": [
+          "The artist's painstaking attention to detail was evident in every brushstroke.",
+          "She gave a painstaking account of the events leading up to the accident."
+        ]
+      },
+      {
+        "id": "g42w3",
+        "word": "palatable",
+        "meaning": "Pleasant to taste; acceptable or satisfactory.",
+        "examples": [
+          "The chef managed to make the unusual ingredients into a palatable dish.",
+          "The compromise was not ideal, but it was palatable to both sides."
+        ]
+      },
+      {
+        "id": "g42w4",
+        "word": "palatial",
+        "meaning": "Resembling a palace in being spacious and splendid.",
+        "examples": [
+          "They lived in a palatial mansion with a swimming pool and tennis courts.",
+          "The hotel lobby was palatial, with marble floors and crystal chandeliers."
+        ]
+      },
+      {
+        "id": "g42w5",
+        "word": "palaver",
+        "meaning": "Prolonged and idle discussion.",
+        "examples": [
+          "I haven't got time for all this palaver; let's get straight to the point.",
+          "The endless palaver in the meeting achieved nothing."
+        ]
+      },
+      {
+        "id": "g42w6",
+        "word": "palimpsest",
+        "meaning": "A manuscript or piece of writing material on which the original writing has been effaced to make room for later writing but of which traces remain.",
+        "examples": [
+          "The ancient manuscript was a palimpsest, revealing layers of forgotten history.",
+          "The city's architecture is a palimpsest of different historical periods."
+        ]
+      },
+      {
+        "id": "g42w7",
+        "word": "pall",
+        "meaning": "A dark cloud or covering of smoke, dust, or similar matter; a cloth spread over a coffin, hearse, or tomb.",
+        "examples": [
+          "A pall of smoke hung over the city after the fire.",
+          "A pall of sadness descended upon the mourners at the funeral."
+        ]
+      },
+      {
+        "id": "g42w8",
+        "word": "palliate",
+        "meaning": "Make (a disease or its symptoms) less severe or unpleasant without removing the cause.",
+        "examples": [
+          "The medication was intended to palliate her pain, not to cure her illness.",
+          "He tried to palliate his friend's grief with comforting words."
+        ]
+      },
+      {
+        "id": "g42w9",
+        "word": "pallid",
+        "meaning": "Pale, typically because of poor health.",
+        "examples": [
+          "Her face was pallid and drawn after her long illness.",
+          "The pallid light of the moon cast eerie shadows on the ground."
+        ]
+      },
+      {
+        "id": "g42w10",
+        "word": "palpable",
+        "meaning": "Able to be touched or felt.",
+        "examples": [
+          "The tension in the room was palpable as they awaited the verdict.",
+          "There was a palpable sense of relief when the storm finally passed."
+        ]
+      },
+      {
+        "id": "g42w11",
+        "word": "paltry",
+        "meaning": "(of an amount) small or meager.",
+        "examples": [
+          "She received a paltry sum of money for her hard work.",
+          "His paltry excuse for being late was not believed by anyone."
+        ]
+      },
+      {
+        "id": "g42w12",
+        "word": "pan",
+        "meaning": "To criticize (someone or something) severely.",
+        "examples": [
+          "The critics were quick to pan the new movie.",
+          "His latest novel was panned by all the major newspapers."
+        ]
+      },
+      {
+        "id": "g42w13",
+        "word": "panacea",
+        "meaning": "A solution or remedy for all difficulties or diseases.",
+        "examples": [
+          "There is no panacea for all the world's problems.",
+          "He believes that education is the panacea for all social evils."
+        ]
+      },
+      {
+        "id": "g42w14",
+        "word": "panache",
+        "meaning": "Flamboyant confidence of style or manner.",
+        "examples": [
+          "He played the role with great panache and charm.",
+          "She has a panache that makes her stand out from the crowd."
+        ]
+      },
+      {
+        "id": "g42w15",
+        "word": "pandemic",
+        "meaning": "(of a disease) prevalent over a whole country or the world.",
+        "examples": [
+          "The COVID-19 pandemic had a devastating impact on the global economy.",
+          "Scientists are working to prevent the next pandemic."
+        ]
+      },
+      {
+        "id": "g42w16",
+        "word": "pandemonium",
+        "meaning": "Wild and noisy disorder or confusion; uproar.",
+        "examples": [
+          "Pandemonium broke out when the rock star appeared on stage.",
+          "There was pandemonium in the streets after the team won the championship."
+        ]
+      },
+      {
+        "id": "g42w17",
+        "word": "pander",
+        "meaning": "Gratify or indulge (an immoral or distasteful desire, need, or habit or a person with such a desire, etc.).",
+        "examples": [
+          "The politician was accused of pandering to the voters' prejudices.",
+          "The media should not pander to the public's thirst for sensationalism."
+        ]
+      },
+      {
+        "id": "g42w18",
+        "word": "panegyric",
+        "meaning": "A public speech or published text in praise of someone or something.",
+        "examples": [
+          "He delivered a panegyric on the life and work of the late president.",
+          "The book is a panegyric to the joys of country living."
+        ]
+      },
+      {
+        "id": "g42w19",
+        "word": "pangs",
+        "meaning": "A sudden sharp pain or painful emotion.",
+        "examples": [
+          "She felt pangs of guilt for having lied to her friend.",
+          "He experienced pangs of hunger after not eating all day."
+        ]
+      },
+      {
+        "id": "g42w20",
+        "word": "panned",
+        "meaning": "Criticized severely.",
+        "examples": [
+          "The new play was panned by the critics.",
+          "His performance in the movie was universally panned."
+        ]
+      },
+      {
+        "id": "g42w21",
+        "word": "panoply",
+        "meaning": "A complete or impressive collection of things.",
+        "examples": [
+          "The museum displayed a panoply of ancient artifacts.",
+          "The wedding was a panoply of colors and traditions."
+        ]
+      },
+      {
+        "id": "g42w22",
+        "word": "parable",
+        "meaning": "A simple story used to illustrate a moral or spiritual lesson.",
+        "examples": [
+          "The story of the good Samaritan is a well-known parable.",
+          "He used a parable to explain the importance of forgiveness."
+        ]
+      },
+      {
+        "id": "g42w23",
+        "word": "paradigm",
+        "meaning": "A typical example or pattern of something; a model.",
+        "examples": [
+          "The discovery of DNA was a paradigm shift in the field of biology.",
+          "The company's success became a paradigm for others to follow."
+        ]
+      },
+      {
+        "id": "g42w24",
+        "word": "paradigmatic",
+        "meaning": "Of the nature of a paradigm or model.",
+        "examples": [
+          "The professor presented a paradigmatic case study to the class.",
+          "His career is a paradigmatic example of success through hard work."
+        ]
+      },
+      {
+        "id": "g42w25",
+        "word": "paradox",
+        "meaning": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+        "examples": [
+          "It's a paradox that in a country with so much food, there are still people who go hungry.",
+          "The paradox of 'the more you learn, the less you know' is a profound one."
+        ]
+      },
+      {
+        "id": "g42w26",
+        "word": "paradoxical",
+        "meaning": "Seemingly absurd or self-contradictory.",
+        "examples": [
+          "It is paradoxical that the quieter you are, the more you are heard.",
+          "He had a paradoxical nature, being both shy and outgoing."
+        ]
+      },
+      {
+        "id": "g42w27",
+        "word": "paragon",
+        "meaning": "A person or thing regarded as a perfect example of a particular quality.",
+        "examples": [
+          "She was a paragon of virtue and an inspiration to everyone.",
+          "The hotel is a paragon of luxury and comfort."
+        ]
+      },
+      {
+        "id": "g42w28",
+        "word": "paramount",
+        "meaning": "More important than anything else; supreme.",
+        "examples": [
+          "The safety of our passengers is of paramount importance.",
+          "It is paramount that we find a solution to this problem as soon as possible."
+        ]
+      },
+      {
+        "id": "g42w29",
+        "word": "parasite",
+        "meaning": "An organism that lives in or on an organism of another species (its host) and benefits by deriving nutrients at the other's expense.",
+        "examples": [
+          "The tapeworm is a parasite that lives in the intestines of humans and other animals.",
+          "He considered his lazy brother-in-law to be a parasite on the family."
+        ]
+      },
+      {
+        "id": "g42w30",
+        "word": "pare",
+        "meaning": "Trim (something) by cutting away its outer edges.",
+        "examples": [
+          "She pared the apple before eating it.",
+          "The company had to pare down its expenses to avoid bankruptcy."
+        ]
+      },
+      {
+        "id": "g42w31",
+        "word": "parenthetical",
+        "meaning": "Relating to or inserted as a parenthesis.",
+        "examples": [
+          "His parenthetical remarks, though interesting, distracted from the main point of his speech.",
+          "The author used a parenthetical comment to provide additional information."
+        ]
+      },
+      {
+        "id": "g42w32",
+        "word": "pariah",
+        "meaning": "An outcast.",
+        "examples": [
+          "After the scandal, he was treated as a pariah by his former colleagues.",
+          "She felt like a pariah in her new school."
+        ]
+      },
+      {
+        "id": "g42w33",
+        "word": "parley",
+        "meaning": "A conference between opposing sides in a dispute, especially a discussion of terms for an armistice.",
+        "examples": [
+          "The two generals met for a parley to discuss a possible ceasefire.",
+          "After a brief parley, they agreed to a temporary truce."
+        ]
+      },
+      {
+        "id": "g42w34",
+        "word": "parochial",
+        "meaning": "Having a limited or narrow outlook or scope.",
+        "examples": [
+          "His parochial views prevented him from understanding other cultures.",
+          "The small town had a very parochial atmosphere."
+        ]
+      },
+      {
+        "id": "g42w35",
+        "word": "parody",
+        "meaning": "An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.",
+        "examples": [
+          "The comedian performed a hilarious parody of the president's speech.",
+          "The movie is a parody of the classic horror film genre."
+        ]
+      },
+      {
+        "id": "g42w36",
+        "word": "paroxysm",
+        "meaning": "A sudden attack or violent expression of a particular emotion or activity.",
+        "examples": [
+          "He went into a paroxysm of rage when he heard the news.",
+          "She was seized by a paroxysm of coughing."
+        ]
+      },
+      {
+        "id": "g42w37",
+        "word": "parquetry",
+        "meaning": "Inlaid work of blocks of various woods in a geometric pattern, used for flooring.",
+        "examples": [
+          "The ballroom had a beautiful parquetry floor.",
+          "The skilled craftsman specialized in creating intricate parquetry designs."
+        ]
+      },
+      {
+        "id": "g42w38",
+        "word": "parry",
+        "meaning": "Ward off (a weapon or attack) with a countermove.",
+        "examples": [
+          "The fencer skillfully parried his opponent's thrust.",
+          "She parried the reporter's intrusive questions with a witty remark."
+        ]
+      },
+      {
+        "id": "g42w39",
+        "word": "parsimonious",
+        "meaning": "Unwilling to spend money or use resources; stingy or frugal.",
+        "examples": [
+          "The parsimonious old man refused to turn on the heating, even in winter.",
+          "She was so parsimonious that she would reuse teabags."
+        ]
+      },
+      {
+        "id": "g42w40",
+        "word": "partial",
+        "meaning": "Existing only in part; incomplete.",
+        "examples": [
+          "He only has a partial understanding of the subject.",
+          "The road was closed due to a partial collapse of the bridge."
+        ]
+      },
+      {
+        "id": "g42w41",
+        "word": "partiality",
+        "meaning": "Unfair bias in favor of one thing or person compared with another; favoritism.",
+        "examples": [
+          "The judge was accused of partiality towards the defendant.",
+          "She showed a partiality for sweet desserts."
+        ]
+      },
+      {
+        "id": "g42w42",
+        "word": "partisan",
+        "meaning": "A strong supporter of a party, cause, or person.",
+        "examples": [
+          "The partisan crowd cheered loudly for their team.",
+          "The newspaper's coverage of the election was highly partisan."
+        ]
+      },
+      {
+        "id": "g42w43",
+        "word": "parvenu",
+        "meaning": "A person of obscure origin who has gained wealth, influence, or celebrity.",
+        "examples": [
+          "He was a parvenu who had made his fortune in the tech industry.",
+          "The old aristocracy looked down on the parvenus who had recently joined their ranks."
+        ]
+      },
+      {
+        "id": "g42w44",
+        "word": "pass the buck",
+        "meaning": "Shift the responsibility for something to someone else.",
+        "examples": [
+          "Don't try to pass the buck; it's your responsibility to solve this problem.",
+          "The manager was accused of passing the buck and blaming his subordinates for his own mistakes."
+        ]
+      },
+      {
+        "id": "g42w45",
+        "word": "passe",
+        "meaning": "No longer fashionable; out of date.",
+        "examples": [
+          "His style of dress was considered passe by the younger generation.",
+          "That type of music is so passe now."
+        ]
+      },
+      {
+        "id": "g42w46",
+        "word": "pastiche",
+        "meaning": "An artistic work in a style that imitates that of another work, artist, or period.",
+        "examples": [
+          "The film is a pastiche of old-fashioned detective movies.",
+          "Her novel is a clever pastiche of 19th-century romance."
+        ]
+      },
+      {
+        "id": "g42w47",
+        "word": "pastoral",
+        "meaning": "(especially of land or a farm) used for or related to the keeping or grazing of sheep or cattle.",
+        "examples": [
+          "The pastoral landscape was dotted with grazing sheep.",
+          "He longed for a simple, pastoral life in the countryside."
+        ]
+      },
+      {
+        "id": "g42w48",
+        "word": "patent",
+        "meaning": "Easily recognizable; obvious.",
+        "examples": [
+          "The patent absurdity of his excuse was clear to everyone.",
+          "She told a patent lie, and everyone knew it."
+        ]
+      },
+      {
+        "id": "g42w49",
+        "word": "pathetic",
+        "meaning": "Arousing pity, especially through vulnerability or sadness.",
+        "examples": [
+          "The lost puppy looked so pathetic and helpless.",
+          "He made a pathetic attempt to apologize, but no one was convinced."
+        ]
+      },
+      {
+        "id": "g42w50",
+        "word": "pathogenic",
+        "meaning": "(of a bacterium, virus, or other microorganism) causing disease.",
+        "examples": [
+          "The scientist was studying a pathogenic strain of bacteria.",
+          "Pathogenic microorganisms can be a serious threat to public health."
+        ]
+      },
+      {
+        "id": "g42w51",
+        "word": "pathological",
+        "meaning": "Involving, caused by, or of the nature of a physical or mental disease.",
+        "examples": [
+          "He was a pathological liar who could not be trusted.",
+          "Her pathological fear of spiders made it difficult for her to go outside."
+        ]
+      },
+      {
+        "id": "g42w52",
+        "word": "pathology",
+        "meaning": "The science of the causes and effects of diseases, especially the branch of medicine that deals with the laboratory examination of samples of body tissue for diagnostic or forensic purposes.",
+        "examples": [
+          "The pathology report confirmed the diagnosis of cancer.",
+          "He specialized in forensic pathology and worked with the police on criminal investigations."
+        ]
+      },
+      {
+        "id": "g42w53",
+        "word": "pathos",
+        "meaning": "A quality that evokes pity or sadness.",
+        "examples": [
+          "The play was full of pathos, and many in the audience were moved to tears.",
+          "There was a great deal of pathos in her story of loss and survival."
+        ]
+      },
+      {
+        "id": "g42w54",
+        "word": "patois",
+        "meaning": "The dialect of the common people of a region, differing in various respects from the standard language of the rest of the country.",
+        "examples": [
+          "The locals spoke a patois that was difficult for outsiders to understand.",
+          "The author used a Jamaican patois to give his characters an authentic voice."
+        ]
+      },
+      {
+        "id": "g42w55",
+        "word": "patriarch",
+        "meaning": "The male head of a family or tribe.",
+        "examples": [
+          "The family patriarch was a respected elder in the community.",
+          "As the patriarch of the clan, his word was law."
+        ]
+      },
+      {
+        "id": "g42w56",
+        "word": "patronize",
+        "meaning": "Treat with an apparent kindness that betrays a feeling of superiority.",
+        "examples": [
+          "Don't patronize me; I'm not a child.",
+          "She hated the way he would patronize her in front of their friends."
+        ]
+      },
+      {
+        "id": "g42w57",
+        "word": "patronizing",
+        "meaning": "Treating with an apparent kindness that betrays a feeling of superiority.",
+        "examples": [
+          "His patronizing tone made her feel small and insignificant.",
+          "She was tired of his patronizing attitude and condescending remarks."
+        ]
+      },
+      {
+        "id": "g42w58",
+        "word": "paucity",
+        "meaning": "The presence of something only in small or insufficient quantities or amounts; scarcity.",
+        "examples": [
+          "There was a paucity of evidence to support his claim.",
+          "The paucity of clean water in the village was a major health concern."
+        ]
+      },
+      {
+        "id": "g42w59",
+        "word": "pebble",
+        "meaning": "A small stone made smooth and round by the action of water or sand.",
+        "examples": [
+          "The children were collecting pebbles on the beach.",
+          "He skipped a pebble across the surface of the lake."
+        ]
+      },
+      {
+        "id": "g42w60",
+        "word": "peculiar",
+        "meaning": "Strange or odd; unusual.",
+        "examples": [
+          "The food had a peculiar taste that I couldn't quite identify.",
+          "He had a peculiar habit of talking to himself."
+        ]
+      }
+    ]
+  }

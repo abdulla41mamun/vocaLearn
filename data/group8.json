@@ -1,0 +1,548 @@
+{
+    "id": "group8",
+    "words": [
+        {
+            "id": "g8w1",
+            "word": "brevity",
+            "meaning": "Concise and exact use of words in writing or speech.",
+            "examples": [
+                "The report is a masterpiece of brevity.",
+                "For the sake of brevity, I will skip the details."
+            ]
+        },
+        {
+            "id": "g8w2",
+            "word": "bridle",
+            "meaning": "To show one's resentment or anger, especially by throwing up one's head and drawing in one's chin.",
+            "examples": [
+                "She bridled at the suggestion that she was too old for the job.",
+                "He bridled at the criticism, his face darkening with anger."
+            ]
+        },
+        {
+            "id": "g8w3",
+            "word": "brigand",
+            "meaning": "A member of a gang that ambushes and robs people in forests and mountains.",
+            "examples": [
+                "The stagecoach was attacked by a notorious brigand.",
+                "In ancient times, travel was dangerous due to brigands."
+            ]
+        },
+        {
+            "id": "g8w4",
+            "word": "bring home the bacon",
+            "meaning": "To earn a living, especially for one's family; to achieve success.",
+            "examples": [
+                "She works two jobs to bring home the bacon.",
+                "The team is counting on their star player to bring home the bacon in the final game."
+            ]
+        },
+        {
+            "id": "g8w5",
+            "word": "brisk",
+            "meaning": "Active, fast, and energetic.",
+            "examples": [
+                "They went for a brisk walk in the park.",
+                "Business was brisk at the new store."
+            ]
+        },
+        {
+            "id": "g8w6",
+            "word": "bristle",
+            "meaning": "To react angrily or defensively, typically by showing irritation.",
+            "examples": [
+                "He bristled at the accusation.",
+                "She bristled with indignation at his rude comment."
+            ]
+        },
+        {
+            "id": "g8w7",
+            "word": "brittle",
+            "meaning": "Hard but liable to break or shatter easily.",
+            "examples": [
+                "The old bones were brittle and fragile.",
+                "Her voice was brittle with unshed tears."
+            ]
+        },
+        {
+            "id": "g8w8",
+            "word": "broach",
+            "meaning": "To raise (a sensitive or difficult subject) for discussion.",
+            "examples": [
+                "He decided to broach the topic of his salary with his boss.",
+                "She was afraid to broach the subject of her failing grades."
+            ]
+        },
+        {
+            "id": "g8w9",
+            "word": "broadside",
+            "meaning": "A strong verbal or written attack.",
+            "examples": [
+                "The newspaper published a broadside against the new policy.",
+                "He launched a broadside against his political opponents."
+            ]
+        },
+        {
+            "id": "g8w10",
+            "word": "bromide",
+            "meaning": "A trite and unoriginal idea or remark, typically intended to soothe or placate.",
+            "examples": [
+                "His speech was full of bromides and clichés.",
+                "She offered a few bromides about the importance of hard work."
+            ]
+        },
+        {
+            "id": "g8w11",
+            "word": "brood",
+            "meaning": "To think deeply about something that makes one unhappy.",
+            "examples": [
+                "He was brooding over his failure.",
+                "There's no point in brooding about what you can't change."
+            ]
+        },
+        {
+            "id": "g8w12",
+            "word": "brook",
+            "meaning": "To tolerate or allow (something, typically dissent or opposition).",
+            "examples": [
+                "The teacher would brook no talking in her classroom.",
+                "He would brook no interference with his plans."
+            ]
+        },
+        {
+            "id": "g8w13",
+            "word": "browbeat",
+            "meaning": "To intimidate (someone), typically into doing something, with stern or abusive words.",
+            "examples": [
+                "The lawyer tried to browbeat the witness into changing her testimony.",
+                "He was browbeaten into signing the confession."
+            ]
+        },
+        {
+            "id": "g8w14",
+            "word": "brusque",
+            "meaning": "Abrupt or offhand in speech or manner.",
+            "examples": [
+                "She had a brusque and impatient manner.",
+                "He gave a brusque reply to her question."
+            ]
+        },
+        {
+            "id": "g8w15",
+            "word": "brusquely",
+            "meaning": "In an abrupt or offhand way.",
+            "examples": [
+                "He brusquely dismissed her suggestion.",
+                "She answered him brusquely and turned away."
+            ]
+        },
+        {
+            "id": "g8w16",
+            "word": "buck",
+            "meaning": "To oppose or resist (something that seems oppressive or inevitable).",
+            "examples": [
+                "The company decided to buck the trend and lower its prices.",
+                "He was known for bucking the system."
+            ]
+        },
+        {
+            "id": "g8w17",
+            "word": "bucolic",
+            "meaning": "Relating to the pleasant aspects of the countryside and country life.",
+            "examples": [
+                "The painting depicted a bucolic scene of shepherds and their flocks.",
+                "They moved to a small town to enjoy a more bucolic lifestyle."
+            ]
+        },
+        {
+            "id": "g8w18",
+            "word": "buff",
+            "meaning": "A person who is enthusiastically interested in and knowledgeable about a particular subject.",
+            "examples": [
+                "He's a history buff.",
+                "She's a real movie buff."
+            ]
+        },
+        {
+            "id": "g8w19",
+            "word": "buff (n)",
+            "meaning": "A yellowish-beige color.",
+            "examples": [
+                "The walls were painted a pale buff.",
+                "He wore a buff-colored jacket."
+            ]
+        },
+        {
+            "id": "g8w20",
+            "word": "buffer",
+            "meaning": "A person or thing that prevents incompatible or antagonistic people or things from coming into contact with or harming each other.",
+            "examples": [
+                "The park acts as a buffer between the two neighborhoods.",
+                "He served as a buffer between the two feuding brothers."
+            ]
+        },
+        {
+            "id": "g8w21",
+            "word": "bugbear",
+            "meaning": "A cause of obsessive fear, irritation, or loathing.",
+            "examples": [
+                "Bureaucracy is the bugbear of all small businesses.",
+                "Grammar was his biggest bugbear at school."
+            ]
+        },
+        {
+            "id": "g8w22",
+            "word": "bulwark",
+            "meaning": "A defensive wall; a person, institution, or principle that acts as a defense.",
+            "examples": [
+                "The constitution is a bulwark of our democracy.",
+                "The ancient city was protected by a massive bulwark."
+            ]
+        },
+        {
+            "id": "g8w23",
+            "word": "bumbling",
+            "meaning": "Acting in a confused or ineffectual way; incompetent.",
+            "examples": [
+                "The bumbling detective somehow managed to solve the case.",
+                "He is a bumbling and ineffective leader."
+            ]
+        },
+        {
+            "id": "g8w24",
+            "word": "bumptious",
+            "meaning": "Self-assertive or proud to an irritating degree.",
+            "examples": [
+                "The bumptious official was disliked by everyone.",
+                "He had a bumptious and arrogant attitude."
+            ]
+        },
+        {
+            "id": "g8w25",
+            "word": "bungle",
+            "meaning": "To carry out (a task) clumsily or incompetently.",
+            "examples": [
+                "He bungled the job and had to do it all over again.",
+                "The police bungled the investigation."
+            ]
+        },
+        {
+            "id": "g8w26",
+            "word": "buoyant",
+            "meaning": "Cheerful and optimistic.",
+            "examples": [
+                "She was in a buoyant mood after her success.",
+                "The team was buoyant after their victory."
+            ]
+        },
+        {
+            "id": "g8w27",
+            "word": "burdensome",
+            "meaning": "Difficult to carry out or fulfill; taxing.",
+            "examples": [
+                "The new regulations are burdensome for small businesses.",
+                "Caring for an elderly parent can be burdensome."
+            ]
+
+        },
+        {
+            "id": "g8w28",
+            "word": "bureaucracy",
+            "meaning": "A system of government in which most of the important decisions are taken by state officials rather than by elected representatives.",
+            "examples": [
+                "He got lost in the labyrinth of government bureaucracy.",
+                "The company's bureaucracy is slowing down decision-making."
+            ]
+        },
+        {
+            "id": "g8w29",
+            "word": "burgeon",
+            "meaning": "To begin to grow or increase rapidly; flourish.",
+            "examples": [
+                "The town has burgeoned into a thriving city.",
+                "The new industry is beginning to burgeon."
+            ]
+        },
+        {
+            "id": "g8w30",
+            "word": "burgeoned",
+            "meaning": "Past tense of burgeon; began to grow or increase rapidly.",
+            "examples": [
+                "The company has burgeoned from a small startup into a global giant.",
+                "Her confidence burgeoned as she gained more experience."
+            ]
+        },
+        {
+            "id": "g8w31",
+            "word": "burgeoning",
+            "meaning": "Beginning to grow or increase rapidly; flourishing.",
+            "examples": [
+                "The burgeoning population is putting a strain on resources.",
+                "The burgeoning tech industry is creating new jobs."
+            ]
+        },
+        {
+            "id": "g8w32",
+            "word": "burlesque",
+            "meaning": "A variety show, typically including striptease.",
+            "examples": [
+                "The burlesque show was a popular form of entertainment in the 19th century.",
+                "The play was a burlesque of a famous tragedy."
+            ]
+        },
+        {
+            "id": "g8w33",
+            "word": "burn the midnight oil",
+            "meaning": "To work late into the night.",
+            "examples": [
+                "She had to burn the midnight oil to finish her report on time.",
+                "The students were burning the midnight oil before their final exams."
+            ]
+
+        },
+        {
+            "id": "g8w34",
+            "word": "burnish",
+            "meaning": "To polish (something, especially metal) by rubbing.",
+            "examples": [
+                "He burnished the silverware until it shone.",
+                "She worked hard to burnish her reputation."
+            ]
+        },
+        {
+            "id": "g8w35",
+            "word": "bury the hatchet",
+            "meaning": "To end a quarrel or conflict and become friendly.",
+            "examples": [
+                "The two old rivals finally decided to bury the hatchet.",
+                "It's time to bury the hatchet and move on."
+            ]
+        },
+        {
+            "id": "g8w36",
+            "word": "buttress",
+            "meaning": "To provide (a building or structure) with projecting supports built against its walls.",
+            "examples": [
+                "The old wall was buttressed by several stone supports.",
+                "He buttressed his argument with facts and figures."
+            ]
+        },
+        {
+            "id": "g8w37",
+            "word": "by hook or by crook",
+            "meaning": "By any means necessary, fair or unfair.",
+            "examples": [
+                "He was determined to win the election, by hook or by crook.",
+                "She vowed to get the job by hook or by crook."
+            ]
+        },
+        {
+            "id": "g8w38",
+            "word": "bygone",
+            "meaning": "Belonging to an earlier time.",
+            "examples": [
+                "The museum is filled with relics of a bygone era.",
+                "Bygone customs and traditions are fascinating to study."
+            ]
+        },
+        {
+            "id": "g8w39",
+            "word": "byzantine",
+            "meaning": "(of a system or situation) excessively complicated, and typically involving a great deal of administrative detail.",
+            "examples": [
+                "The company's byzantine bureaucracy is a nightmare to navigate.",
+                "The byzantine rules of the organization were impossible to understand."
+            ]
+        },
+        {
+            "id": "g8w40",
+            "word": "cabal",
+            "meaning": "A secret political clique or faction.",
+            "examples": [
+                "A cabal of army officers was plotting a coup.",
+                "The company was taken over by a cabal of ruthless investors."
+            ]
+        },
+        {
+            "id": "g8w41",
+            "word": "cache",
+            "meaning": "A collection of items of the same type stored in a hidden or inaccessible place.",
+            "examples": [
+                "The squirrels had a cache of nuts hidden in the tree.",
+                "Police discovered a cache of weapons."
+            ]
+        },
+        {
+            "id": "g8w42",
+            "word": "cacophonous",
+            "meaning": "Involving or producing a harsh, discordant mixture of sounds.",
+            "examples": [
+                "The cacophonous noise of the city traffic was deafening.",
+                "The orchestra produced a cacophonous sound during their first rehearsal."
+            ]
+        },
+        {
+            "id": "g8w43",
+            "word": "cacophony",
+            "meaning": "A harsh, discordant mixture of sounds.",
+            "examples": [
+                "The cacophony of the city streets was overwhelming.",
+                "The orchestra produced a cacophony of sound."
+            ]
+        },
+        {
+            "id": "g8w44",
+            "word": "cadaverous",
+            "meaning": "Very pale, thin, or bony, like a corpse.",
+            "examples": [
+                "The long illness left him looking cadaverous.",
+                "He had a cadaverous and gaunt appearance."
+            ]
+        },
+        {
+            "id": "g8w45",
+            "word": "cadge",
+            "meaning": "To ask for or obtain (something to which one is not strictly entitled).",
+            "examples": [
+                "He was always trying to cadge a free meal.",
+                "She cadged a cigarette from a stranger."
+            ]
+        },
+        {
+            "id": "g8w46",
+            "word": "cajole",
+            "meaning": "To persuade someone to do something by sustained coaxing or flattery.",
+            "examples": [
+                "He cajoled her into going on a date with him.",
+                "She was cajoled into signing the contract."
+            ]
+        },
+        {
+            "id": "g8w47",
+            "word": "calamitous",
+            "meaning": "Involving calamity; catastrophic or disastrous.",
+            "examples": [
+                "The calamitous earthquake left thousands homeless.",
+                "The calamitous decision led to the company's downfall."
+            ]
+        },
+        {
+            "id": "g8w48",
+            "word": "calisthenics",
+            "meaning": "Gymnastic exercises to achieve bodily fitness and grace of movement.",
+            "examples": [
+                "He starts his day with a routine of calisthenics.",
+                "Calisthenics can improve strength and flexibility."
+            ]
+        },
+        {
+            "id": "g8w49",
+            "word": "callous",
+            "meaning": "Showing or having an insensitive and cruel disregard for others.",
+            "examples": [
+                "He is a callous and heartless person.",
+                "The callous remark hurt her feelings."
+            ]
+
+        },
+        {
+            "id": "g8w50",
+            "word": "callow",
+            "meaning": "(of a young person) inexperienced and immature.",
+            "examples": [
+                "He was a callow youth of sixteen.",
+                "The callow intern made a lot of mistakes."
+            ]
+        },
+        {
+            "id": "g8w51",
+            "word": "calumny",
+            "meaning": "The making of false and defamatory statements in order to damage someone's reputation; slander.",
+            "examples": [
+                "He was the victim of a vicious calumny.",
+                "The politician's career was ruined by calumny."
+            ]
+        },
+        {
+            "id": "g8w52",
+            "word": "camaraderie",
+            "meaning": "Mutual trust and friendship among people who spend a lot of time together.",
+            "examples": [
+                "There is a great sense of camaraderie among the soldiers.",
+                "The team has a strong camaraderie."
+            ]
+        },
+        {
+            "id": "g8w53",
+            "word": "canard",
+            "meaning": "An unfounded rumor or story.",
+            "examples": [
+                "The story about the politician's affair was a canard.",
+                "The newspaper printed a canard without checking the facts."
+            ]
+        },
+        {
+            "id": "g8w54",
+            "word": "candid",
+            "meaning": "Truthful and straightforward; frank.",
+            "examples": [
+                "She gave me a candid answer to my question.",
+                "He is very candid about his past mistakes."
+            ]
+        },
+        {
+            "id": "g8w55",
+            "word": "candidness",
+            "meaning": "The quality of being open and honest; frankness.",
+            "examples": [
+                "I appreciate your candidness.",
+                "The candidness of her confession was surprising."
+            ]
+        },
+        {
+            "id": "g8w56",
+            "word": "candor",
+            "meaning": "The quality of being open and honest in expression; frankness.",
+            "examples": [
+                "She spoke with candor about her personal struggles.",
+                "I admire his candor and honesty."
+            ]
+        },
+        {
+            "id": "g8w57",
+            "word": "canny",
+            "meaning": "Having or showing shrewdness and good judgment, especially in money or business matters.",
+            "examples": [
+                "He is a canny businessman who always makes a profit.",
+                "She is a canny investor."
+            ]
+        },
+        {
+            "id": "g8w58",
+            "word": "canon",
+            "meaning": "A general law, rule, principle, or criterion by which something is judged.",
+            "examples": [
+                "The canon of Western literature includes works by Shakespeare and Homer.",
+                "The movie violates the canon of the original book series."
+            ]
+        },
+        {
+            "id": "g8w59",
+            "word": "canonical",
+            "meaning": "(of a collection of texts) accepted as being authentic.",
+            "examples": [
+                "The canonical gospels of the New Testament.",
+                "The new movie is not considered canonical by fans of the original series."
+            ]
+        },
+        {
+            "id": "g8w60",
+            "word": "canonize",
+            "meaning": "To (in the Roman Catholic Church) officially declare (a dead person) to be a saint.",
+            "examples": [
+                "Mother Teresa was canonized by the Catholic Church.",
+                "The author's works have been canonized by literary critics."
+            ]
+        }
+    ]
+}
